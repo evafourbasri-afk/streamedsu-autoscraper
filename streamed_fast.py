@@ -5,107 +5,189 @@ import logging
 from datetime import datetime
 from playwright.async_api import async_playwright
 
-# =====================================================
+# ============================================================
 # LOGGING
-# =====================================================
+# ============================================================
 logging.basicConfig(
-    filename="scrape_fast.log",
     level=logging.INFO,
     format="%(asctime)s | %(levelname)8s | %(message)s",
-    datefmt="%Y-%m-%d %H:%M:%S",
+    datefmt="%H:%M:%S",
 )
+log = logging.getLogger("FAST")
 
-console = logging.StreamHandler()
-console.setLevel(logging.INFO)
-console.setFormatter(logging.Formatter("%(asctime)s | %(levelname)8s | %(message)s", "%H:%M:%S"))
-logging.getLogger("").addHandler(console)
-log = logging.getLogger("fast_scraper")
-
-
-# =====================================================
-# CONSTANTS
-# =====================================================
-CUSTOM_HEADERS = {
+HEADERS = {
     "Origin": "https://embedsports.top",
     "Referer": "https://embedsports.top/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    )
 }
 
-# Only scrape these categories
-ALLOWED_CATEGORIES = ["football", "basketball"]
+ALLOWED = ["football", "basketball"]
 
-# Default fallback logos
-FALLBACK_LOGOS = {
-    "football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true",
-    "basketball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true",
-    "other": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/default.png?raw=true",
-}
-
-TV_IDS = {
-    "football": "Soccer.Dummy.us",
-    "basketball": "Basketball.Dummy.us",
-    "other": "Sports.Dummy.us",
-}
-
-
-# =====================================================
-# UTIL
-# =====================================================
-def strip_non_ascii(text: str) -> str:
-    return re.sub(r"[^\x00-\x7F]+", "", text or "")
-
-
-# =====================================================
+# ============================================================
 # FETCH MATCHES
-# =====================================================
-def get_all_matches():
+# ============================================================
+def get_matches():
     url = "https://streami.su/api/matches/live"
     log.info(f"Fetching {url}")
-
     try:
-        r = requests.get(url, timeout=10)
-        r.raise_for_status()
-        matches = r.json()
-        log.info(f"LIVE MATCHES: {len(matches)} total")
-
-        # filter categories
-        filtered = [
-            m for m in matches
-            if (m.get("category") or "").lower().strip() in ALLOWED_CATEGORIES
-        ]
-
-        log.info(f"FAST FILTER → {len(filtered)} matches (football+basketball only)")
-        return filtered
-
+        res = requests.get(url, timeout=10)
+        res.raise_for_status()
+        data = res.json()
+        log.info(f"LIVE MATCHES: {len(data)} total")
+        return data
     except Exception as e:
-        log.error(f"Failed to fetch: {e}")
+        log.error(f"Failed loading live matches: {e}")
         return []
 
 
-# =====================================================
-# FETCH EMBED LIST
-# =====================================================
-def get_embed_list(stream_source):
-    try:
-        src = stream_source.get("source")
-        sid = stream_source.get("id")
-        url = f"https://streami.su/api/stream/{src}/{sid}"
-
-        r = requests.get(url, timeout=5)
-        r.raise_for_status()
-        j = r.json()
-
-        return [x.get("embedUrl") for x in j if x.get("embedUrl")]
-    except:
-        return []
-
-
-# =====================================================
-# M3U8 EXTRACTOR
-# =====================================================
+# ============================================================
+# AGGRESSIVE M3U8 EXTRACTOR (from streamed.py)
+# ============================================================
 async def extract_m3u8(page, embed_url):
     found = None
+
+    async def on_request(req):
+        nonlocal found
+        if ".m3u8" in req.url and not found:
+            if "prd.jwpltx.com" in req.url:
+                return
+            found = req.url
+            log.info(f"⚡ Stream Found: {found}")
+
+    page.on("request", on_request)
+
+    try:
+        await page.goto(embed_url, wait_until="domcontentloaded", timeout=8000)
+        await asyncio.sleep(1)
+
+        # Aggressive clicker
+        selectors = [
+            "div.jw-icon-display",
+            "button",
+            ".vjs-big-play-button",
+            "[role='button']",
+            "canvas"
+        ]
+
+        for sel in selectors:
+            try:
+                el = await page.query_selector(sel)
+                if el:
+                    await el.click()
+                    await asyncio.sleep(0.5)
+            except:
+                pass
+
+        # Try random clicks for ads
+        try:
+            await page.mouse.click(200, 200)
+            await asyncio.sleep(0.8)
+            await page.mouse.click(300, 250)
+            await asyncio.sleep(0.8)
+        except:
+            pass
+
+        # Wait max 8 seconds for stream detection
+        for _ in range(16):
+            if found:
+                break
+            await asyncio.sleep(0.5)
+
+        # Regex fallback
+        if not found:
+            html = await page.content()
+            m = re.findall(r'https?://[^"\']+\.m3u8[^"\']*', html)
+            if m:
+                found = m[0]
+                log.info(f"🕵️ Regex fallback → {found}")
+
+    except Exception as e:
+        log.warning(f"extract_m3u8 error: {e}")
+
+    return found
+
+
+# ============================================================
+# PROCESS MATCH
+# ============================================================
+async def process_match(i, match, ctx, total):
+    cat = (match.get("category") or "").lower()
+    title = re.sub(r"[^\x00-\x7F]+", "", match.get("title", "Unknown"))
+
+    log.info(f"[{i}/{total}] {title}")
+
+    embed_urls = []
+    for src in match.get("sources", []):
+        try:
+            res = requests.get(
+                f"https://streami.su/api/stream/{src['source']}/{src['id']}",
+                timeout=6
+            )
+            res.raise_for_status()
+            data = res.json()
+            embed_urls.extend([x.get("embedUrl") for x in data if x.get("embedUrl")])
+        except:
+            pass
+
+    if not embed_urls:
+        return None, None, None
+
+    page = await ctx.new_page()
+
+    for emb in embed_urls:
+        log.info(f" → Testing: {emb}")
+        m3u8 = await extract_m3u8(page, emb)
+        if m3u8:
+            await page.close()
+            return m3u8, title, cat
+
+    await page.close()
+    return None, None, None
+
+
+# ============================================================
+# MAIN
+# ============================================================
+async def main():
+    matches = get_matches()
+    filtered = [m for m in matches if (m.get("category") or "").lower() in ALLOWED]
+
+    log.info(f"FAST FILTER → {len(filtered)} matches (football+basketball only)")
+
+    playlist = ["#EXTM3U"]
+
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        ctx = await browser.new_context(extra_http_headers=HEADERS)
+
+        for i, m in enumerate(filtered, 1):
+            m3u8, title, cat = await process_match(i, m, ctx, len(filtered))
+
+            if not m3u8:
+                continue
+
+            playlist.append(
+                f'#EXTINF:-1 group-title="FAST-{cat.title()}",{title}'
+            )
+            playlist.append(m3u8)
+
+        await browser.close()
+
+    log.info("FAST MODE DONE")
+    return "\n".join(playlist)
+
+
+if __name__ == "__main__":
+    start = datetime.now()
+    text = asyncio.run(main())
+
+    with open("StreamedSU_FAST.m3u8", "w", encoding="utf-8") as f:
+        f.write(text)
+
+    log.info("Saved → StreamedSU_FAST.m3u8")    found = None
 
     try:
 
