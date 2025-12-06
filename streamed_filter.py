@@ -5,9 +5,7 @@ import logging
 from datetime import datetime
 from playwright.async_api import async_playwright
 
-# ==========================
-# LOGGING
-# ==========================
+# ================= LOGGING =================
 logging.basicConfig(
     filename="scrape_filter.log",
     level=logging.INFO,
@@ -20,87 +18,72 @@ console.setFormatter(logging.Formatter("%(asctime)s | %(levelname)-8s | %(messag
 logging.getLogger("").addHandler(console)
 log = logging.getLogger("filter")
 
-# ==========================
-# CONSTANTS
-# ==========================
+# ================= CONSTANTS =================
 CUSTOM_HEADERS = {
     "Origin": "https://embedsports.top",
     "Referer": "https://embedsports.top/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    "User-Agent": "Mozilla/5.0"
 }
 
-ALLOWED_CATEGORIES = ["football", "basketball"]
+ALLOWED = ["football", "basketball"]
 
-FALLBACK_LOGOS = {
-    "football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true",
-    "basketball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true",
-    "other": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/DrewLiveSports.png?raw=true",
-}
-
-TV_IDS = {
-    "football": "Soccer.Dummy.us",
-    "basketball": "Basketball.Dummy.us",
-    "other": "Sports.Dummy.us",
-}
-
-total_matches = total_embeds = total_streams = total_failures = 0
+total_matches = 0
+total_embeds = 0
+total_streams = 0
+total_failures = 0
 
 
-# ==========================
-# HELPERS
-# ==========================
+# ================= HELPERS =================
 def strip_non_ascii(text):
     return re.sub(r"[^\x00-\x7F]+", "", text or "")
 
 
-def get_all_matches():
+def get_matches():
     try:
-        res = requests.get("https://streami.su/api/matches/live", timeout=10)
+        res = requests.get("https://streami.su/api/matches/live", timeout=15)
         res.raise_for_status()
         data = res.json()
-        log.info(f"Fetched {len(data)} live matches.")
-
-        # FILTER CATEGORY HERE
         filtered = []
+
         for m in data:
             cat = (m.get("category") or "").lower()
-            if any(key in cat for key in ALLOWED_CATEGORIES):
+            if any(x in cat for x in ALLOWED):
                 filtered.append(m)
 
-        log.info(f"Filtered: {len(filtered)} (football + basketball).")
+        log.info(f"Total filtered matches: {len(filtered)}")
         return filtered
 
     except Exception as e:
-        log.error(f"Failed fetching live matches: {e}")
+        log.error(f"Error fetching matches: {e}")
         return []
 
 
-def get_embed_urls(src):
+def get_embed_list(src):
     try:
-        api = f"https://streami.su/api/stream/{src.get('source')}/{src.get('id')}"
-        res = requests.get(api, timeout=6)
-        if res.status_code != 200:
-            return []
-        return [x.get("embedUrl") for x in res.json() if x.get("embedUrl")]
+        api = f"https://streami.su/api/stream/{src['source']}/{src['id']}"
+        r = requests.get(api, timeout=10)
+        r.raise_for_status()
+        return [x.get("embedUrl") for x in r.json() if x.get("embedUrl")]
     except:
         return []
 
 
+# ============ PLAYWRIGHT CORE ===============
 async def extract_m3u8(page, embed_url):
     found = None
 
     try:
         async def on_request(req):
             nonlocal found
-            if ".m3u8" in req.url:
-                if "prd.jwpltx.com" not in req.url:
-                    found = req.url
+            if ".m3u8" in req.url and "jwpltx" not in req.url:
+                found = req.url
+                log.info(f"FOUND M3U8: {found}")
 
         page.on("request", on_request)
 
-        await page.goto(embed_url, timeout=7000, wait_until="domcontentloaded")
+        await page.goto(embed_url, wait_until="domcontentloaded", timeout=8000)
 
-        # Click to bypass ads
+        # Try clicking to start player
         try:
             await page.mouse.click(200, 200)
         except:
@@ -111,41 +94,34 @@ async def extract_m3u8(page, embed_url):
         if found:
             return found
 
-        # fallback: search HTML
+        # fallback scan HTML
         html = await page.content()
-        matches = re.findall(r'https?://[^\s"<]+\.m3u8[^\s"<]*', html)
-        if matches:
-            return matches[0]
+        m = re.findall(r'https?://[^\s"<]+\.m3u8[^\s"<]*', html)
+        if m:
+            return m[0]
 
         return None
 
     except Exception as e:
-        log.warning(f"extract failed: {e}")
+        log.warning(f"extract error: {e}")
         return None
 
 
-def pick_logo(cat):
-    cat = cat.lower()
-    if "football" in cat:
-        return FALLBACK_LOGOS["football"]
-    elif "basketball" in cat:
-        return FALLBACK_LOGOS["basketball"]
-    return FALLBACK_LOGOS["other"]
-
-
-# ==========================
-# MAIN PROCESS MATCH
-# ==========================
+# ============ PROCESS MATCH =============
 async def process_match(i, match, total, ctx):
     title = strip_non_ascii(match.get("title"))
-    category = (match.get("category") or "").lower()
+    cat = match.get("category", "").lower()
 
-    log.info(f"[{i}/{total}] {title} ({category})")
+    log.info(f"[{i}/{total}] {title} ({cat})")
 
     page = await ctx.new_page()
 
     for src in match.get("sources", []):
-        embeds = get_embed_urls(src)
+        embeds = get_embed_list(src)
+        if not embeds:
+            continue
+
+        log.info(f"Embed count: {len(embeds)}")
 
         for embed in embeds:
             m3u8 = await extract_m3u8(page, embed)
@@ -157,18 +133,16 @@ async def process_match(i, match, total, ctx):
     return match, None
 
 
-# ==========================
-# GENERATE PLAYLIST
-# ==========================
+# ============ GENERATE PLAYLIST ============
 async def generate_playlist():
-    matches = get_all_matches()
+    matches = get_matches()
     if not matches:
         return "#EXTM3U\n"
 
-    output = ["#EXTM3U"]
+    out = ["#EXTM3U"]
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=True, channel="chrome-beta")
         ctx = await browser.new_context(extra_http_headers=CUSTOM_HEADERS)
 
         for i, m in enumerate(matches, start=1):
@@ -176,28 +150,24 @@ async def generate_playlist():
             if not url:
                 continue
 
-            cat = (match.get("category") or "").lower()
             title = strip_non_ascii(match.get("title"))
-            logo = pick_logo(cat)
-            tvg = TV_IDS.get(cat, TV_IDS["other"])
+            cat = match.get("category", "").title()
 
-            output.append(f'#EXTINF:-1 tvg-id="{tvg}" tvg-logo="{logo}" group-title="{cat.title()}",{title}')
-            output.append(url)
+            out.append(f'#EXTINF:-1 group-title="{cat}",{title}')
+            out.append(url)
 
         await browser.close()
 
-    return "\n".join(output)
+    return "\n".join(out)
 
 
-# ==========================
-# ENTRY POINT
-# ==========================
+# ============ MAIN ============
 if __name__ == "__main__":
-    log.info("Starting filtered scraper (football + basketball)...")
+    log.info("Starting FULL Filtered Scraper...")
 
     playlist = asyncio.run(generate_playlist())
 
     with open("StreamedSU_FILTERED.m3u8", "w", encoding="utf-8") as f:
         f.write(playlist)
 
-    log.info("DONE.")
+    log.info("DONE → StreamedSU_FILTERED.m3u8 created.")
