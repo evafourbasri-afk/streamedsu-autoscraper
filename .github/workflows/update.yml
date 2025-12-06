@@ -1,4 +1,4 @@
-name: Update PPv M3U
+name: Update Playlist M3U
 
 on:
   schedule:
@@ -17,6 +17,10 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: "3.x"
+
+    - name: Install dependencies
+      run: |
+        pip install requests
 
     - name: Run generator
       run: python stream.py
