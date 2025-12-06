@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ABC" tvg-logo="https://api.ppv.to/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg",17:00 - 06/12/2025 | BYU Cougars vs. Texas Tech Red Raiders
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9559-9559
-
 #EXTINF:-1 group-title="ABC" tvg-logo="https://api.ppv.to/assets/thumb/c25b4d7302c5c1c448a26dc0a4a8f2cf-thumbnail.jpg",21:00 - 06/12/2025 | Georgia Bulldogs vs. Alabama Crimson Tide
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/1722-1722
@@ -120,10 +116,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-32
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cricket/2025/en-au/2nd-test
 
-#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/3c71d4bcc20a3443d471d2cbe82ec70c-thumbnail.jpg",18:00 - 06/12/2025 | Toulouse FC vs. Strasbourg
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue-1/2025-12-06/tou-sbg
-
 #EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/b229b3daa6c761b9d285a80987ac8a24-thumbnail.jpg",19:30 - 06/12/2025 | Inter Miami vs. Vancouver Whitecaps
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=mls/2025-12-06
@@ -223,14 +215,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=epl/20
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/b42268396da7f5d1a63ebe28b41385ee-thumbnail.jpg",20:00 - 08/12/2025 | CA Osasuna vs. Levante UD
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-08/osa-lev
-
-#EXTINF:-1 group-title="MSG" tvg-logo="https://api.ppv.to/assets/thumb/7f0c1a7776692bbd4c5e945789b34892-thumbnail.jpg",17:30 - 06/12/2025 | Colorado Avalanche vs. New York Rangers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-06/col-nyr
-
-#EXTINF:-1 group-title="MSG" tvg-logo="https://api.ppv.to/assets/thumb/c382980db064f24f98aadf3dd404c9f5-thumbnail.jpg",17:30 - 06/12/2025 | Colorado Avalanche vs. New York Rangers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/9739/9739-nyr
 
 #EXTINF:-1 group-title="Scripps Sports" tvg-logo="https://api.ppv.to/assets/thumb/ffe2b26662f5211b2baacf6c952c2d30-thumbnail.jpg",20:30 - 06/12/2025 | Columbus Blue Jackets vs. Florida Panthers
 #EXTVLCOPT:http-referrer=https://ppv.to/
