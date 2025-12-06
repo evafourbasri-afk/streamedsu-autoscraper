@@ -5,43 +5,40 @@ import logging
 from datetime import datetime
 from playwright.async_api import async_playwright
 
-# ============================================================
-# LOGGING SETUP
-# ============================================================
 logging.basicConfig(
     filename="scrape_filtered.log",
     level=logging.INFO,
     format="%(asctime)s | %(levelname)-8s | %(message)s",
-    datefmt="%H:%M:%S"
+    datefmt="%Y-%m-%d %H:%M:%S",
 )
 console = logging.StreamHandler()
 console.setLevel(logging.INFO)
 console.setFormatter(logging.Formatter("%(asctime)s | %(levelname)-8s | %(message)s", "%H:%M:%S"))
 logging.getLogger("").addHandler(console)
-log = logging.getLogger("filtered")
+log = logging.getLogger("scraper")
 
-# ============================================================
-# SETTINGS
-# ============================================================
 CUSTOM_HEADERS = {
     "Origin": "https://embedsports.top",
     "Referer": "https://embedsports.top/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
 }
 
-ALLOWED_CATEGORIES = {"football", "basketball"}
-
-FALLBACK = {
+FALLBACK_LOGOS = {
     "football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true",
     "basketball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true",
-    "other": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/DrewLiveSports.png?raw=true"
+    "american football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true",
+    "other": "http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png"
 }
 
 TV_IDS = {
     "football": "Soccer.Dummy.us",
     "basketball": "Basketball.Dummy.us",
-    "other": "Sports.Dummy.us"
+    "american football": "Football.Dummy.us",
+    "other": "Sports.Dummy.us",
 }
+
+# ⚠️ CATEGORY YANG DIIZINKAN (HANYA INI!)
+ALLOWED = {"football", "basketball"}
 
 total_matches = 0
 total_embeds = 0
@@ -49,63 +46,178 @@ total_streams = 0
 total_failures = 0
 
 
-# ============================================================
-# HELPERS
-# ============================================================
-def strip_ascii(text):
-    return re.sub(r"[^\x00-\x7F]+", "", text or "")
+def strip_non_ascii(text: str) -> str:
+    if not text:
+        return ""
+    return re.sub(r"[^\x00-\x7F]+", "", text)
 
 
-def fetch_matches():
+def get_all_matches():
     try:
         res = requests.get("https://streami.su/api/matches/live", timeout=10)
         res.raise_for_status()
         data = res.json()
-        log.info(f"Total LIVE: {len(data)}")
-
-        filtered = [m for m in data if (m.get("category") or "").lower() in ALLOWED_CATEGORIES]
-        log.info(f"Filtered: {len(filtered)} (football + basketball)")
-        return filtered
     except Exception as e:
-        log.error(f"Failed to fetch matches: {e}")
+        log.error(f"❌ Failed to fetch matches: {e}")
         return []
 
+    filtered = []
 
-def get_embed_urls(src):
+    for m in data:
+        cat = (m.get("category") or "").lower().strip().replace("-", " ")
+        if cat in ALLOWED:
+            filtered.append(m)
+
+    log.info(f"🎯 Total filtered matches: {len(filtered)}")
+    return filtered
+
+
+def get_embed_urls_from_api(source):
     try:
-        s, sid = src.get("source"), src.get("id")
-        if not s or not sid:
+        s_name, s_id = source.get("source"), source.get("id")
+        if not s_name or not s_id:
             return []
-        res = requests.get(f"https://streami.su/api/stream/{s}/{sid}", timeout=6)
+        res = requests.get(f"https://streami.su/api/stream/{s_name}/{s_id}", timeout=6)
         res.raise_for_status()
-        return [x.get("embedUrl") for x in res.json() if x.get("embedUrl")]
-    except:
+        data = res.json()
+        return [d.get("embedUrl") for d in data if d.get("embedUrl")]
+    except Exception:
         return []
 
 
 async def extract_m3u8(page, embed_url):
     global total_failures
     found = None
-
-    async def on_request(req):
-        nonlocal found
-        if ".m3u8" in req.url and "prd.jwpltx.com" not in req.url:
-            found = req.url
-
     try:
-        page.on("request", on_request)
-        await page.goto(embed_url, wait_until="domcontentloaded", timeout=6000)
+        async def on_request(request):
+            nonlocal found
+            if ".m3u8" in request.url and not found:
+                if "prd.jwpltx.com" in request.url:
+                    return
+                found = request.url
+                log.info(f"  ⚡ Found Stream: {found}")
 
+        page.on("request", on_request)
+
+        await page.goto(embed_url, wait_until="domcontentloaded", timeout=5000)
+
+        selectors = [
+            "div.jw-icon-display", ".jw-icon-playback", ".vjs-big-play-button",
+            ".plyr__control", "div[class*='play']", "button", "canvas"
+        ]
+        for sel in selectors:
+            try:
+                el = await page.query_selector(sel)
+                if el:
+                    await el.click(timeout=300)
+                    break
+            except:
+                continue
+
+        await asyncio.sleep(1)
+
+        return found
+
+    except Exception as e:
+        total_failures += 1
+        log.warning(f"⚠️ Failed extracting stream: {e}")
+        return None
+
+
+def validate_logo(url, category):
+    cat = category.lower().strip()
+    fallback = FALLBACK_LOGOS.get(cat, FALLBACK_LOGOS["other"])
+    if url:
         try:
-            await page.mouse.click(200, 200)
+            res = requests.head(url, timeout=2)
+            if res.status_code in (200, 302):
+                return url
         except:
             pass
+    return fallback
 
-        for _ in range(12):
-            if found:
-                break
-            await asyncio.sleep(0.3)
 
+def build_logo_url(match):
+    cat = (match.get("category") or "other").strip().lower()
+    teams = match.get("teams") or {}
+    for side in ["away", "home"]:
+        badge = teams.get(side, {}).get("badge")
+        if badge:
+            url = f"https://streami.su/api/images/badge/{badge}.webp"
+            return validate_logo(url, cat), cat
+    if match.get("poster"):
+        url = f"https://streami.su/api/images/proxy/{match['poster']}.webp"
+        return validate_logo(url, cat), cat
+
+    return validate_logo(None, cat), cat
+
+
+async def process_match(index, match, total, ctx):
+    global total_embeds, total_streams
+
+    title = strip_non_ascii(match.get("title", "Unknown Match"))
+    log.info(f"\n🎯 [{index}/{total}] {title}")
+
+    sources = match.get("sources", [])
+    page = await ctx.new_page()
+
+    for s in sources:
+        embed_urls = get_embed_urls_from_api(s)
+        total_embeds += len(embed_urls)
+
+        for embed in embed_urls:
+            m3u8 = await extract_m3u8(page, embed)
+            if m3u8:
+                total_streams += 1
+                await page.close()
+                return match, m3u8
+
+    await page.close()
+    return match, None
+
+
+async def generate_playlist():
+    matches = get_all_matches()
+    total = len(matches)
+
+    if total == 0:
+        return "#EXTM3U\n"
+
+    content = ["#EXTM3U"]
+
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True, channel="chrome-beta")
+        ctx = await browser.new_context(extra_http_headers=CUSTOM_HEADERS)
+
+        sem = asyncio.Semaphore(2)
+
+        async def worker(i, m):
+            async with sem:
+                return await process_match(i, m, total, ctx)
+
+        for i, m in enumerate(matches, 1):
+            match, url = await worker(i, m)
+            if not url:
+                continue
+
+            logo, cat = build_logo_url(match)
+            tv_id = TV_IDS.get(cat, TV_IDS["other"])
+            title = strip_non_ascii(match.get("title", "Untitled"))
+
+            content.append(
+                f'#EXTINF:-1 tvg-id="{tv_id}" tvg-logo="{logo}" group-title="StreamedSU - {cat.title()}",{title}'
+            )
+            content.append(url)
+
+        await browser.close()
+
+    return "\n".join(content)
+
+
+if __name__ == "__main__":
+    playlist = asyncio.run(generate_playlist())
+    with open("StreamedSU_FILTERED.m3u8", "w", encoding="utf-8") as f:
+        f.write(playlist)
         if not found:
             html = await page.content()
             m = re.findall(r'https?://[^\s"\'<>]+\.m3u8[^"\'<>]*', html)
