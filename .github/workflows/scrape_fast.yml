@@ -16,14 +16,12 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install deps + Chromium + Chrome Beta
+      - name: Install dependencies & Playwright Chromium
         run: |
           python -m pip install --upgrade pip
           pip install playwright requests
           python -m playwright install chromium
           python -m playwright install-deps
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-beta
 
       - name: Run FAST Scraper
         run: python streamed_fast.py
