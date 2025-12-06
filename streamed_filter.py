@@ -5,6 +5,9 @@ import logging
 from datetime import datetime
 from playwright.async_api import async_playwright
 
+# ============================================================
+# LOGGING
+# ============================================================
 logging.basicConfig(
     filename="scrape.log",
     level=logging.INFO,
@@ -17,34 +20,45 @@ console.setFormatter(logging.Formatter("%(asctime)s | %(levelname)-8s | %(messag
 logging.getLogger("").addHandler(console)
 log = logging.getLogger("scraper")
 
+# ============================================================
+# CONSTANTS
+# ============================================================
 CUSTOM_HEADERS = {
     "Origin": "https://embedsports.top",
     "Referer": "https://embedsports.top/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 }
 
-# 🎯 CATEGORY FILTER
-ALLOWED_CATEGORIES = ["football", "basketball"]
+# REAL FOOTBALL + BASKETBALL categories used by Streami.su API
+ALLOWED_CATEGORIES = [
+    # FOOTBALL
+    "soccer", "premier league", "laliga", "bundesliga", "serie a",
+    "ligue 1", "ucl", "europa league", "international", "efl",
+    "mls", "eredivisie", "copa america",
+
+    # BASKETBALL
+    "nba", "ncaa", "basketball", "euroleague", "wnba", "nbl"
+]
 
 FALLBACK_LOGOS = {
-    "american football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true",
-    "football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true",
-    "fight": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true",
-    "basketball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true",
-    "motor sports": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true",
-    "darts": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true",
-    "tennis": "http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png",
-    "rugby": "http://drewlive24.duckdns.org:9000/Logos/Rugby.png",
-    "cricket": "http://drewlive24.duckdns.org:9000/Logos/Cricket.png",
-    "golf": "http://drewlive24.duckdns.org:9000/Logos/Golf.png",
-    "other": "http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png"
+    "football": "https://github.com/BuddyChewChew/My-Streams/raw/main/Logos/sports/football.png",
+    "nba": "https://github.com/BuddyChewChew/My-Streams/raw/main/Logos/sports/nba.png",
+    "ncaa": "https://github.com/BuddyChewChew/My-Streams/raw/main/Logos/sports/nba.png",
+    "soccer": "https://github.com/BuddyChewChew/My-Streams/raw/main/Logos/sports/football.png",
+    "basketball": "https://github.com/BuddyChewChew/My-Streams/raw/main/Logos/sports/nba.png",
+    "other": "https://github.com/BuddyChewChew/My-Streams/raw/main/Logos/sports/DrewLiveSports.png",
 }
 
 TV_IDS = {
-    "football": "Soccer.Dummy.us",
+    "soccer": "Soccer.Dummy.id",
+    "premier league": "Premier.Dummy.id",
+    "laliga": "LaLiga.Dummy.id",
+    "bundesliga": "Bundesliga.Dummy.id",
+    "serie a": "SerieA.Dummy.id",
+    "nba": "NBA.Dummy.us",
+    "ncaa": "NCAA.Dummy.us",
     "basketball": "Basketball.Dummy.us",
-    "american football": "Football.Dummy.us",
-    "other": "Sports.Dummy.us"
+    "euroleague": "Euroleague.Dummy.us",
 }
 
 total_matches = 0
@@ -52,60 +66,135 @@ total_embeds = 0
 total_streams = 0
 total_failures = 0
 
+# ============================================================
+# UTIL
+# ============================================================
+def strip(text):
+    return re.sub(r"[^\x00-\x7F]+", "", text or "")
 
-def strip_non_ascii(text: str) -> str:
-    if not text:
-        return ""
-    return re.sub(r"[^\x00-\x7F]+", "", text)
-
-
-def get_all_matches():
-    """Fetch & filter only football + basketball"""
-    endpoints = ["live"]
-    filtered = []
-
-    for ep in endpoints:
-        try:
-            log.info(f"📡 Fetching {ep} matches...")
-            res = requests.get(f"https://streami.su/api/matches/{ep}", timeout=10)
-            res.raise_for_status()
-            data = res.json()
-
-            # 🎯 FILTER HERE
-            only_allowed = [
-                m for m in data
-                if m.get("category", "").lower() in ALLOWED_CATEGORIES
-            ]
-
-            log.info(f"🎯 Filtered ({ep}): {len(only_allowed)} matches")
-
-            filtered.extend(only_allowed)
-
-        except Exception as e:
-            log.warning(f"⚠️ Failed fetching {ep}: {e}")
-
-    log.info(f"🎯 Total filtered matches: {len(filtered)}")
-    return filtered
-
-
-def get_embed_urls_from_api(source):
+def get_matches():
+    log.info("📡 Fetching live matches...")
     try:
-        s_name, s_id = source.get("source"), source.get("id")
-        if not s_name or not s_id:
-            return []
-        res = requests.get(f"https://streami.su/api/stream/{s_name}/{s_id}", timeout=6)
+        res = requests.get("https://streami.su/api/matches/live", timeout=10)
         res.raise_for_status()
-        data = res.json()
-        return [d.get("embedUrl") for d in data if d.get("embedUrl")]
-    except Exception:
+        all_data = res.json()
+    except:
+        log.error("❌ Cannot fetch API")
         return []
 
+    filtered = []
+    for m in all_data:
+        cat = (m.get("category") or "").lower().strip()
+        if cat in ALLOWED_CATEGORIES:
+            filtered.append(m)
 
-async def extract_m3u8(page, embed_url):
+    log.info(f"🎯 Filter matched events: {len(filtered)}")
+    return filtered
+
+def get_embed_list(src):
+    try:
+        name, sid = src.get("source"), src.get("id")
+        url = f"https://streami.su/api/stream/{name}/{sid}"
+        r = requests.get(url, timeout=6)
+        r.raise_for_status()
+        data = r.json()
+        return [d.get("embedUrl") for d in data if d.get("embedUrl")]
+    except:
+        return []
+
+async def get_m3u8(page, embed):
     global total_failures
     found = None
     try:
-        async def on_request(request):
+        async def on_req(req):
+            nonlocal found
+            if ".m3u8" in req.url and "jwpltx" not in req.url:
+                found = req.url
+
+        page.on("request", on_req)
+        await page.goto(embed, wait_until="domcontentloaded", timeout=7000)
+
+        await page.mouse.click(200, 200)
+        await asyncio.sleep(1)
+
+        return found
+    except:
+        total_failures += 1
+        return None
+
+def pick_logo(match):
+    cat = (match.get("category") or "").lower()
+    return FALLBACK_LOGOS.get(cat, FALLBACK_LOGOS["other"])
+
+# ============================================================
+# PROCESS MATCH
+# ============================================================
+async def process_match(i, match, total, ctx):
+    global total_embeds, total_streams
+    title = strip(match.get("title"))
+    log.info(f"\n⚽ [{i}/{total}] {title}")
+
+    page = await ctx.new_page()
+
+    for src in match.get("sources", []):
+        embeds = get_embed_list(src)
+        total_embeds += len(embeds)
+
+        for emb in embeds:
+            log.info(f"  → Testing {emb}")
+            m3u8 = await get_m3u8(page, emb)
+            if m3u8:
+                total_streams += 1
+                await page.close()
+                return match, m3u8
+
+    await page.close()
+    return match, None
+
+# ============================================================
+# PLAYLIST BUILDER
+# ============================================================
+async def build_playlist():
+    matches = get_matches()
+    if not matches:
+        return "#EXTM3U\n"
+
+    out = ["#EXTM3U"]
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        ctx = await browser.new_context(extra_http_headers=CUSTOM_HEADERS)
+
+        for i, m in enumerate(matches, 1):
+            match, url = await process_match(i, m, len(matches), ctx)
+            if not url:
+                continue
+
+            title = strip(match.get("title"))
+            cat = (match.get("category") or "other").lower().strip()
+
+            logo = pick_logo(match)
+            tv_id = TV_IDS.get(cat, "Sports.Dummy.id")
+
+            out.append(f'#EXTINF:-1 tvg-id="{tv_id}" tvg-logo="{logo}" group-title="{cat.title()}",{title}')
+            out.append(url)
+
+        await browser.close()
+
+    return "\n".join(out)
+
+# ============================================================
+# MAIN
+# ============================================================
+if __name__ == "__main__":
+    start = datetime.now()
+    log.info("🚀 Starting StreamedSU FILTERED scraper...")
+
+    playlist = asyncio.run(build_playlist())
+
+    with open("StreamedSU_FILTERED.m3u8", "w") as f:
+        f.write(playlist)
+
+    log.info("✅ DONE")        async def on_request(request):
             nonlocal found
             if ".m3u8" in request.url and not found:
                 if "prd.jwpltx.com" in request.url:
