@@ -1,30 +1,32 @@
-name: PPVHosting
+name: PPVHostingv2
 
 on:
   schedule:
-    # Run every hour on the hour
+    # Run every 3 hours
     - cron: "0 */3 * * *"
   workflow_dispatch:
-    # Allow manual trigger
 
 jobs:
   fetch-streams:
     runs-on: ubuntu-latest
 
     steps:
-    # ------------------------------
-    # Checkout Source Code
-    # ------------------------------
+
+    # -----------------------------------
+    # Checkout repo
+    # -----------------------------------
     - name: Checkout code
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0   # <<< Penting agar pull-rebase tidak error
 
-    # ------------------------------
-    # Python Setup
-    # ------------------------------
+    # -----------------------------------
+    # Python setup
+    # -----------------------------------
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10'
+        python-version: "3.10"
 
     - name: Install dependencies
       run: |
@@ -33,30 +35,37 @@ jobs:
         playwright install firefox
         playwright install-deps
 
-    # ------------------------------
-    # Run PPV script (ppvgit.py)
-    # ------------------------------
+    # -----------------------------------
+    # RUN SCRIPT
+    # -----------------------------------
     - name: Run PPV script
       run: python ppvgit.py
 
-    # ------------------------------
-    # Commit Changes to GitHub Repo
-    # ------------------------------
-    - name: Commit changes
+    # -----------------------------------
+    # COMMIT ke GITHUB ROOT REPO
+    # -----------------------------------
+    - name: Commit playlist to GitHub
       if: success()
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+
         git add ppvgit.m3u
-        git diff --quiet && git diff --staged --quiet || \
-          (git commit -m "Update PPV playlist [skip ci]" && git push) || \
-          echo "No changes to commit"
+
+        # Hanya commit jika ada perubahan
+        git diff --quiet && git diff --staged --quiet || (
+          git commit -m "Update PPV playlist [skip ci]"
+        )
+
+        # Sinkronisasi dengan remote untuk mencegah push error
+        git pull --rebase --autostash || true
+        git push || true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    # ------------------------------
-    # Upload to Your Hosting (via PHP endpoint)
-    # ------------------------------
+    # -----------------------------------
+    # UPLOAD ke HOSTING CPANEL
+    # -----------------------------------
     - name: Upload playlist to hosting
       run: |
-        curl -X POST -F "data=@ppvgit.m3u" https://ogietv.com/m3u/upload.php
+        curl -X POST --data-binary "@ppvgit.m3u" https://ogietv.com/m3u/upload.php
