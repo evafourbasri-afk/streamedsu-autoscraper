@@ -1,33 +1,31 @@
-name: FAST StreamedSU Scraper
+name: StreamedSU Fast
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/20 * * * *"   # update tiap 20 menit
 
 jobs:
-  scrape_fast:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Install Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.12"
 
-      - name: Install dependencies & Playwright Chromium
-        run: |
-          python -m pip install --upgrade pip
-          pip install playwright requests
-          python -m playwright install chromium
-          python -m playwright install-deps
+      - name: Install deps
+        run: pip install requests
 
-      - name: Run FAST Scraper
+      - name: Run generator
         run: python streamed_fast.py
 
-      - name: Upload FAST Playlist
+      - name: Upload M3U
         uses: actions/upload-artifact@v4
         with:
-          name: StreamedSU_FAST
-          path: StreamedSU_FAST.m3u8
+          name: StreamedSU
+          path: StreamedSU.m3u8
