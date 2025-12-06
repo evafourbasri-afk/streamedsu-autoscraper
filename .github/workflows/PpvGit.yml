@@ -36,7 +36,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add ppvgit.m3u ppvgit.xml
+        git add ppvgit.m3u
         git diff --quiet && git diff --staged --quiet || \
           (git commit -m "Update PPV playlist and EPG [skip ci]" && \
            git push) || echo "No changes to commit"
