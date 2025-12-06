@@ -25,7 +25,7 @@ jobs:
           python -m playwright install chromium
 
       - name: 🎯 Run filtered scraper
-        run: python streamedsu_filtered.py
+        run: python streamed_filter.py
 
       - name: 💾 Commit playlist
         run: |
