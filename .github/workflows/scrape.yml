@@ -1,36 +1,32 @@
 name: StreamedSU Auto Scraper
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"   # update tiap 10 menit
-  workflow_dispatch:        # tombol RUN MANUAL
+  workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
 
-      - name: Install dependencies
-        run: |
-          pip install playwright requests aiohttp
-          playwright install chromium
+    - name: Install dependencies
+      run: |
+        pip install requests playwright
+        playwright install chromium
 
-      - name: Run scraper
-        run: |
-          python streamed.py
+    - name: Run scraper
+      run: |
+        python streamed.py
 
-      - name: Commit updated playlist
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add StreamedSU.m3u8
-          git commit -m "Auto-update playlist" || echo "No changes"
-          git push
+    - name: Upload playlist artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: StreamedSU_playlist
+        path: StreamedSU.m3u8
