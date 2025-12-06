@@ -1,0 +1,11 @@
+#EXTM3U url-tvg="PPVLand.xml"
+#EXTINF:-1 tvg-id="ppv-14599" tvg-name="Georgia Bulldogs vs. Alabama Crimson Tide" tvg-logo="https://api.ppv.to/assets/thumb/c25b4d7302c5c1c448a26dc0a4a8f2cf-thumbnail.jpg" group-title="🏈 NCAA College Football",Georgia Bulldogs vs. Alabama Crimson Tide
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/ABC/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14435" tvg-name="PSG vs. Rennes" tvg-logo="https://api.ppv.to/assets/thumb/57910f21e35c5297c74118d13f835c74-thumbnail.jpg" group-title="🇫🇷 Ligue 1",PSG vs. Rennes
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/ligue1_psg/index.m3u8
