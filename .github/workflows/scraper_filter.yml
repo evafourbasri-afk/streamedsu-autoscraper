@@ -1,42 +1,44 @@
-name: ▶️ Update StreamedSU Filtered Playlist
+name: ▶️ Update Filtered StreamedSU (Football + Basketball)
 
 on:
   workflow_dispatch:
-
-permissions:
-  contents: write
+  schedule:
+    - cron: "*/30 * * * *"
 
 jobs:
-  scrape_filtered:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: 🐍 Setup Python 3.11
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         run: |
-          pip install playwright requests
+          pip install --upgrade pip
+          pip install requests playwright
           python -m playwright install chromium
+          python -m playwright install-deps
 
-      - name: 🎯 Run filtered scraper
+      - name: Run filtered scraper
         run: python streamed_filter.py
 
-      - name: 💾 Commit playlist
+      - name: Commit playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add StreamedSU_FILTERED.m3u8
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes"
             exit 0
           fi
 
-          git commit -m "Updated Filtered Playlist"
+          git commit -m "Updated StreamedSU_FILTERED.m3u8"
           git push
