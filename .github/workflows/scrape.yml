@@ -9,7 +9,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Setup Python
       uses: actions/setup-python@v4
@@ -18,7 +18,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests playwright
+        pip install playwright requests
         playwright install chromium
 
     - name: Run scraper
@@ -26,7 +26,7 @@ jobs:
         python streamed.py
 
     - name: Upload playlist artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
-        name: StreamedSU_playlist
+        name: StreamedSU
         path: StreamedSU.m3u8
