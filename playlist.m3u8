@@ -60,22 +60,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-08/phi-lac
 
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://api.ppv.to/assets/thumb/2bf63d5a991975c4d4e309f55ca2832d-thumbnail.jpg",00:30 - 07/12/2025 | Golden State Warriors vs. Cleveland Cavaliers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-06/gs-cle
-
-#EXTINF:-1 group-title="FanDuel SN DET" tvg-logo="https://api.ppv.to/assets/thumb/32a4168781e62b9f3d90caa8c7bc4529-thumbnail.jpg",00:30 - 07/12/2025 | Milwaukee Bucks vs. Detroit Pistons
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-06/mil-det
-
-#EXTINF:-1 group-title="NBC Sports CA" tvg-logo="https://api.ppv.to/assets/thumb/ecaf6133a2eb6989fd5aa0eccfe197de-thumbnail.jpg",01:00 - 07/12/2025 | Sacramento Kings vs. Miami Heat
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-06/sac-mia
-
-#EXTINF:-1 group-title="FanDuel SN North" tvg-logo="https://api.ppv.to/assets/thumb/770c02b494d06a9a6f758e7f7a72e0fb-thumbnail.jpg",01:00 - 07/12/2025 | LA Clippers vs. Minnesota Timberwolves
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-06/lac-min
-
 #EXTINF:-1 group-title="KFAA-TV" tvg-logo="https://api.ppv.to/assets/thumb/0ca5c91ff23622b4cbd319a9636bf75e-thumbnail.jpg",01:30 - 07/12/2025 | Houston Rockets vs. Dallas Mavericks
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-06/hou-dal
@@ -219,14 +203,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/24
 #EXTINF:-1 group-title="Formula 1" tvg-logo="https://api.ppv.to/assets/thumb/d890eca4149c3753348ba502a664b75c-thumbnail.jpg",13:00 - 07/12/2025 | Abu Dhabi Grand Prix - Race
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=f1/2025/united-arab-emirates/race
-
-#EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/2369968d390318a05a27b2a50f14adb6-thumbnail.jpg",00:00 - 07/12/2025 | WWE: NXT Deadline
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wwe-nxt-deadline-2025
-
-#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",01:00 - 07/12/2025 | AEW: Saturday Night Collision
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=aew/collision/25-12-06
 
 #EXTINF:-1 group-title="South Park/PPV" tvg-logo="https://api.ppv.to/assets/thumb/c7caf570cf3494e7f9ad1ae3f3122242-thumbnail.jpg",06:00 - 25/08/2025 | Master stream test
 #EXTVLCOPT:http-referrer=https://ppv.to/
