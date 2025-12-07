@@ -24,7 +24,7 @@ def print_banner():
 
 # --- CONFIG ---
 API_URL = "https://api.ppv.to/api/streams"
-PLAYLIST_FILE = "ppvgit.m3u"
+PLAYLIST_FILE = "ppvreal.m3u"
 
 STREAM_HEADERS = [
     '#EXTVLCOPT:http-referrer=https://ppv.to/',
