@@ -60,10 +60,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-08/phi-lac
 
-#EXTINF:-1 group-title="MNMT" tvg-logo="https://api.ppv.to/assets/thumb/005d2ebbbccf7578958e32370a5508bb-thumbnail.jpg",00:00 - 07/12/2025 | Atlanta Hawks vs. Washington Wizards
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-06/atl-wsh
-
 #EXTINF:-1 group-title="NBA TV" tvg-logo="https://api.ppv.to/assets/thumb/2bf63d5a991975c4d4e309f55ca2832d-thumbnail.jpg",00:30 - 07/12/2025 | Golden State Warriors vs. Cleveland Cavaliers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-06/gs-cle
@@ -83,10 +79,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTINF:-1 group-title="KFAA-TV" tvg-logo="https://api.ppv.to/assets/thumb/0ca5c91ff23622b4cbd319a9636bf75e-thumbnail.jpg",01:30 - 07/12/2025 | Houston Rockets vs. Dallas Mavericks
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-06/hou-dal
-
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://api.ppv.to/assets/thumb/eec214b8ea4c56c5ca2f6ec182a0def1-thumbnail.jpg",18:00 - 06/12/2025 | Shabaz Masoud vs. Peter McGrail
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=shabaz-masoud-vs.-peter-mcgrail
 
 #EXTINF:-1 group-title="Prime" tvg-logo="https://api.ppv.to/assets/thumb/7423d101216a621b8ee36cf2df19a0f5-thumbnail.jpg",22:30 - 06/12/2025 | Isaac Cruz vs. Lamont Roach
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -191,54 +183,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=epl/20
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/b42268396da7f5d1a63ebe28b41385ee-thumbnail.jpg",20:00 - 08/12/2025 | CA Osasuna vs. Levante UD
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-08/osa-lev
-
-#EXTINF:-1 group-title="NESN" tvg-logo="https://api.ppv.to/assets/thumb/b57694446c77c7c373842d7226e79b7b-thumbnail.jpg",00:00 - 07/12/2025 | New Jersey Devils vs. Boston Bruins
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-06/nj-bos
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/1dc9334a18aa0a6464f3fac007aaa36b-thumbnail.jpg",00:00 - 07/12/2025 | Montreal Canadiens vs. Toronto Maple Leafs
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-06/mtl-tor
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/1889173a9c19e518725a2444384f2908-thumbnail.jpg",00:00 - 07/12/2025 | St. Louis Blues vs. Ottawa Senators
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-06/stl-ott
-
-#EXTINF:-1 group-title="The Spot - MTN" tvg-logo="https://api.ppv.to/assets/thumb/2243208da3b834da65b1d3f97fed63b5-thumbnail.jpg",00:00 - 07/12/2025 | New York Islanders vs. Tampa Bay Lightning
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-06/nyi-tb
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/aae4d7ee3ee329195c2f32e52bf022e2-thumbnail.jpg",00:00 - 07/12/2025 | Nashville Predators vs. Carolina Hurricanes
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-06/nsh-car
-
-#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/2a69def79c68f73d3e9a7ab99f410795-thumbnail.jpg",00:00 - 07/12/2025 | Utah Mammoth vs. Calgary Flames
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-06/uta-cgy
-
-#EXTINF:-1 group-title="NESN" tvg-logo="https://api.ppv.to/assets/thumb/50d03042c6a96e7a81dbf2e0335321c9-thumbnail.jpg",00:00 - 07/12/2025 | New Jersey Devils vs. Boston Bruins
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2915/2915-bos
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/570c9f259a9592e0a0e1f7acb735711d-thumbnail.jpg",00:00 - 07/12/2025 | Montreal Canadiens vs. Toronto Maple Leafs
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/9417/9417-tor
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/b61edf7ef95c7d6f73afa0cef58d56b1-thumbnail.jpg",00:00 - 07/12/2025 | St. Louis Blues vs. Ottawa Senators
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2786/2786-ott
-
-#EXTINF:-1 group-title="The Spot - MTN" tvg-logo="https://api.ppv.to/assets/thumb/2a303c6eb2e1ade9170b2f222f6e5eba-thumbnail.jpg",00:00 - 07/12/2025 | New York Islanders vs. Tampa Bay Lightning
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/4350/4350-tb
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/6f881eb39589149e3b718cfef3a43cfd-thumbnail.jpg",00:00 - 07/12/2025 | Nashville Predators vs. Carolina Hurricanes
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/6815/6815-car
-
-#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/87c1e14b0c842be0d075270b76747aef-thumbnail.jpg",00:00 - 07/12/2025 | Utah Mammoth vs. Calgary Flames
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/6064/6064-cgy
 
 #EXTINF:-1 group-title="KCAL" tvg-logo="https://api.ppv.to/assets/thumb/5ae455391c63065001e82615992fb227-thumbnail.jpg",02:00 - 07/12/2025 | Chicago Blackhawks vs. Los Angeles Kings
 #EXTVLCOPT:http-referrer=https://ppv.to/
