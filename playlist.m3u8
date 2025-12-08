@@ -4,18 +4,6 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl-redzone-wk14
 
-#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/0700ef0cc6893c253bf963421302d63a-thumbnail.jpg",21:05 - 07/12/2025 | Denver Broncos vs. Las Vegas Raiders
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-07/den-lv
-
-#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/2371d6ab0c51c5c06abdfcfda90f6054-thumbnail.jpg",21:25 - 07/12/2025 | Chicago Bears vs. Green Bay Packers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-07/chi-gb
-
-#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/598bd26bc10485fc4ad17c201fe623e4-thumbnail.jpg",21:25 - 07/12/2025 | Los Angeles Rams vs. Arizona Cardinals
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-07/lar-ari
-
 #EXTINF:-1 group-title="NBC/Peacock" tvg-logo="https://api.ppv.to/assets/thumb/06fc73eff1b5808e650d244ba7d1ebff-thumbnail.jpg",01:20 - 08/12/2025 | Houston Texans vs. Kansas City Chiefs
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-07/hou-kc
