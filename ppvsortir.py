@@ -1,4 +1,5 @@
 # ppvsortir_wib.py
+# VERSION: WIB + SORTING + FOOTBALL SUBCATEGORY + NO RESTREAM
 import asyncio
 from playwright.async_api import async_playwright
 import aiohttp
@@ -6,22 +7,8 @@ from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 import time
 
-class Col:
-    CYAN = "\033[96m"
-    GREEN = "\033[92m"
-    YELLOW = "\033[93m"
-    RED = "\033[91m"
-    RESET = "\033[0m"
-    BOLD = "\033[1m"
-    DIM = "\033[2m"
-
-def print_banner():
-    print(f"\n{Col.CYAN}{'='*60}{Col.RESET}")
-    print(f"ðŸš€  {Col.BOLD}PPV SORTIR LIVE INTERCEPTOR (WIB VERSION){Col.RESET}")
-    print(f"{Col.CYAN}{'='*60}{Col.RESET}\n")
-
 API_URL = "https://api.ppv.to/api/streams"
-PLAYLIST_FILE = "ppvsortir.m3u"
+PLAYLIST_FILE = "ppvgit.m3u"
 
 STREAM_HEADERS = [
     '#EXTVLCOPT:http-referrer=https://ppv.to/',
@@ -57,55 +44,145 @@ GROUP_RENAME_MAP = {
 }
 
 FOOTBALL_MAP = {
-    "EPL": ["premier", "epl", "england", "fa cup"],
+    "EPL": ["premier", "epl", "england"],
     "Serie A": ["serie a", "italy"],
     "Bundesliga": ["bundesliga", "germany"],
     "LaLiga": ["laliga", "la liga", "spain"],
-    "Ligue 1": ["ligue 1", "france"],
+    "Ligue 1": ["ligue 1"],
     "UCL": ["champions league", "ucl"],
     "UEL": ["europa league", "uel"],
     "MLS": ["mls"],
     "Libertadores": ["libertadores"]
 }
 
-def detect_football_league(name: str):
+def detect_football(name):
     n = name.lower()
     for league, keys in FOOTBALL_MAP.items():
         if any(k in n for k in keys):
             return f"Football - {league}"
     return "Football - Other"
 
-# WIB Time Function
-def get_display_time(timestamp):
-    if not timestamp or timestamp <= 0:
+def get_time_wib(ts):
+    if not ts or ts <= 0:
         return ""
-    try:
-        dt = datetime.fromtimestamp(timestamp, tz=timezone.utc).astimezone(ZoneInfo("Asia/Jakarta"))
-        return dt.strftime("%d %b %Y %H:%M WIB")
-    except:
-        return ""
+    dt = datetime.fromtimestamp(ts, tz=timezone.utc).astimezone(ZoneInfo("Asia/Jakarta"))
+    return dt.strftime("%d %b %Y %H:%M WIB")
 
-async def safe_grab(page, iframe_url, timeout=8):
+async def safe_grab(page, url):
     try:
-        return await asyncio.wait_for(grab_m3u8_from_iframe(page, iframe_url), timeout=timeout)
-    except asyncio.TimeoutError:
+        return await asyncio.wait_for(grab(page, url), timeout=8)
+    except:
         return set()
 
-async def grab_m3u8_from_iframe(page, iframe_url):
-    first_url = None
-    await page.route("**/*", lambda route: route.abort() if route.request.resource_type in ["image","stylesheet","font","media"] else route.continue_())
-    def handle_response(res):
-        nonlocal first_url
-        if ".m3u8" in res.url and not first_url:
-            first_url = res.url
-    page.on("response", handle_response)
+async def grab(page, url):
+    first = None
+    await page.route("**/*", lambda r: r.abort() if r.request.resource_type in ["image","font","stylesheet","media"] else r.continue_())
+
+    def on_res(res):
+        nonlocal first
+        if ".m3u8" in res.url and not first:
+            first = res.url
+
+    page.on("response", on_res)
+
     try:
-        await page.goto(iframe_url, timeout=6000, wait_until="domcontentloaded")
+        await page.goto(url, timeout=6000)
     except:
         pass
-    for _ in range(120):
-        if first_url:
+
+    for _ in range(150):
+        if first:
             break
+        await asyncio.sleep(0.05)
+
+    return {first} if first else set()
+
+async def get_streams():
+    try:
+        async with aiohttp.ClientSession() as s:
+            r = await s.get(API_URL, timeout=20)
+            return (await r.json()).get("streams", [])
+    except:
+        return []
+
+async def main():
+    data = await get_streams()
+    if not data:
+        print("NO STREAM DATA")
+        return
+
+    now = int(time.time())
+    flat = []
+
+    for cat in data:
+        cname = cat.get("category","").strip()
+        if cname.lower() == "24/7 streams":
+            continue
+
+        for s in cat.get("streams", []):
+            iframe = s.get("iframe")
+            if not iframe:
+                continue
+
+            starts = s.get("starts_at", 0)
+            is_live = starts <= now and starts > 0
+
+            final_cat = cname
+            if cname.lower() == "football":
+                final_cat = detect_football(s.get("name",""))
+
+            categories = [final_cat]
+            if is_live:
+                categories.append("Live Now")
+
+            flat.append({
+                "id": s["id"],
+                "name": s["name"],
+                "iframe": iframe,
+                "poster": s.get("poster") or BACKUP_LOGOS.get(final_cat.split(" - ")[0], ""),
+                "time": get_time_wib(starts),
+                "categories": categories
+            })
+
+    flat.sort(key=lambda x: x["name"].lower())
+    results = []
+
+    async with async_playwright() as p:
+        browser = await p.firefox.launch(headless=True)
+        for s in flat:
+            page = await browser.new_page()
+            urls = await safe_grab(page, s["iframe"])
+            await page.close()
+
+            if urls:
+                s["url"] = next(iter(urls))   # ← NON RESTREAM VERSION
+                results.append(s)
+
+        await browser.close()
+
+    with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n")
+
+        for item in results:
+            for cat in item["categories"]:
+                group = GROUP_RENAME_MAP.get(cat, cat)
+                title = item["name"]
+
+                if item["time"]:
+                    title += f" - {item['time']}"
+
+                f.write(f'#EXTINF:-1 tvg-id="ppv-{item["id"]}" tvg-logo="{item["poster"]}" group-title="{group}",{title}\n')
+
+                for h in STREAM_HEADERS:
+                    f.write(h + "\n")
+
+                f.write(item["url"] + "\n")
+
+    print("DONE WRITING M3U")
+
+
+if __name__ == "__main__":
+    asyncio.run(main())            break
         await asyncio.sleep(0.05)
     return {first_url} if first_url else set()
 
