@@ -1,0 +1,77 @@
+name: UPDATE FILM INDO
+
+on:
+  workflow_dispatch:          # tetap bisa manual trigger juga
+
+permissions:
+  contents: write
+
+jobs:
+  fetch_m3u8:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo publik
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Clone repo privat config
+        run: |
+          git clone --depth=1 https://x-access-token:${{ secrets.TOKEN_PRIVATE }}@github.com/${{ secrets.REPO_PRIVATE }} configrepo
+          cp configrepo/steramest2data_file.txt $HOME/steramest2data_file.txt
+
+      - name: Install Google Chrome Stable
+        run: |
+          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt-get install -y ./google-chrome-stable_current_amd64.deb
+
+      - name: Install Python dependencies
+        run: |
+          pip install requests
+
+      - name: Install system deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xvfb
+
+      - name: Install Playwright
+        run: |
+          pip install playwright
+          pip install requests bs4 playwright
+          python -m playwright install-deps
+          python -m playwright install chromium
+
+      - name: Start virtual display
+        run: |
+          export DISPLAY=:99
+          Xvfb :99 -ac -screen 0 1280x720x16 &
+          sleep 2
+
+      - name: Run Playwright script
+        run: python ngemov.py
+
+      - name: 📤 Push output ke repo privat
+        if: env.SKIP_PUSH != 'true'
+        shell: bash
+        run: |
+          cd $HOME
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git clone --depth=1 https://x-access-token:${{ secrets.TOKEN_PRIVATE }}@github.com/${{ secrets.REPO_PRIVATE }} repo-output
+          cp $GITHUB_WORKSPACE/ngefilm.m3u repo-output/
+
+          cd repo-output
+          git add ngefilm.m3u
+
+          if git diff --cached --quiet; then
+            echo "✅ Tidak ada perubahan"
+          else
+            git commit -m "auto: update ngefilm.m3u"
+            git push
