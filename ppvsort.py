@@ -1,64 +1,69 @@
 import aiohttp
 import asyncio
-from datetime import datetime
-from zoneinfo import ZoneInfo
-import re
+from datetime import datetime, timezone, timedelta
 
-PPV_API = "https://api.ppv.to/api/events/live"
+PPV_API = "https://api.ppv.to/api/events"
+OUTPUT = "ppvsort.m3u"
 
-# =============================
-# 🔥 Mapping berdasarkan prefix URL
-# =============================
-PREFIX_MAP = {
-    "epl_": "Football - EPL",
-    "seriea_": "Football - Serie A",
-    "bundesliga_": "Football - Bundesliga",
-    "ligue1_": "Football - Ligue 1",
-    "laliga_": "Football - LaLiga",
-    "ucl_": "Football - UCL",
-    "uel_": "Football - UEL",
-    "uecl_": "Football - UECL",
-
-    # PPVLand Sports
-    "nfl": "PPVLand - NFL",
-    "nba": "PPVLand - Basketball",
-    "nhl": "PPVLand - Ice Hockey",
-    "ufc": "PPVLand - Combat Sports",
-    "wrestling": "PPVLand - Wrestling",
-}
-
-
-# =============================
-# 🔥 Deteksi kategori berdasarkan URL M3U8
-# =============================
-def detect_category(stream_url: str) -> str:
+# ============================
+# WIB TIME FORMATTER
+# ============================
+def to_wib(ts):
     try:
-        slug = stream_url.split("poocloud.in/")[1].split("/")[0]
+        ts = int(ts)
+        dt = datetime.fromtimestamp(ts, tz=timezone.utc) + timedelta(hours=7)
+        return dt.strftime("%d %b %Y %H:%M WIB")
     except:
-        return "Football - Other"
+        return ""
 
-    for prefix, cat in PREFIX_MAP.items():
-        if slug.startswith(prefix):
-            return cat
+# ============================
+# KLASIFIKASI LIGA
+# ============================
+def detect_category(title):
+    T = title.lower()
+
+    if any(x in T for x in ["premier", "epl", "arsenal", "chelsea", "liverpool", "man "]):
+        return "Football - EPL"
+    if any(x in T for x in ["bundesliga", "bayern", "dortmund"]):
+        return "Football - Bundesliga"
+    if any(x in T for x in ["serie a", "juventus", "inter", "milan"]):
+        return "Football - Serie A"
+    if any(x in T for x in ["laliga", "la liga", "real madrid", "barcelona"]):
+        return "Football - LaLiga"
+    if any(x in T for x in T for x in ["ligue 1", "psg", "marseille", "lille"]):
+        return "Football - Ligue 1"
+
+    if "ucl" in T or "champions" in T:
+        return "Football - UCL"
+    if "uel" in T or "europa league" in T:
+        return "Football - UEL"
+    if "conference" in T or "uecl" in T:
+        return "Football - UECL"
 
     return "Football - Other"
 
-
-# =============================
-# 🔥 Convert UTC → WIB
-# =============================
-def to_wib(utc_str):
+# ============================
+# DETECT LIVE NOW
+# ============================
+def is_live(start_ts, end_ts):
+    now = datetime.now(timezone.utc).timestamp()
     try:
-        dt = datetime.fromisoformat(utc_str.replace("Z", "+00:00"))
-        wib = dt.astimezone(ZoneInfo("Asia/Jakarta"))
-        return wib.strftime("%d %b %Y %H:%M WIB")
+        if not start_ts:
+            return False
+        start_ts = int(start_ts)
+
+        # Jika tidak ada endTime → anggap LIVE selama 4 jam
+        if not end_ts:
+            return start_ts <= now <= start_ts + 4*3600
+
+        end_ts = int(end_ts)
+        return start_ts <= now <= end_ts
     except:
-        return "Unknown Time"
+        return False
 
-
-# =============================
-# 🔥 MAIN SCRAPER
-# =============================
+# ============================
+# FETCH API
+# ============================
 async def fetch_ppv():
     async with aiohttp.ClientSession() as session:
         async with session.get(PPV_API) as r:
@@ -66,38 +71,55 @@ async def fetch_ppv():
                 return None
             return await r.json()
 
-
-async def generate_m3u():
+# ============================
+# M3U GENERATOR
+# ============================
+async def generate():
     data = await fetch_ppv()
     if not data:
         print("API ERROR")
         return
 
     events = data.get("data", [])
-    events_sorted = sorted(events, key=lambda x: x.get("startTime", ""))
+    events_sorted = sorted(events, key=lambda x: x.get("startTime", 0))
 
-    with open("ppvsort.m3u", "w", encoding="utf-8") as f:
+    with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
-        for item in events_sorted:
-            title = item.get("title", "Untitled Event")
-            poster = item.get("poster", "")
-            event_id = item.get("id", "")
-            start_time = to_wib(item.get("startTime", ""))
+        for e in events_sorted:
 
-            # STREAM URL
-            stream = item.get("streams", [{}])[0].get("url", "")
+            title = e.get("title", "Unknown Event")
+            poster = e.get("poster", "")
+            event_id = e.get("id", "")
+            start = e.get("startTime", 0)
+            end = e.get("endTime", 0)
+            start_wib = to_wib(start)
+            iframe = e.get("iframe", "")
 
-            # KATEGORI 🔥 sudah akurat
-            group = detect_category(stream)
+            if not iframe:
+                continue
 
-            # Tulis playlist
-            f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="{group}",{title} - {start_time}\n')
+            # kategori utama
+            cat = detect_category(title)
+
+            # ======================
+            # 1️⃣ TULIS ENTRY KATEGORI ASLI
+            # ======================
+            f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="{cat}",{title} - {start_wib}\n')
             f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
-            f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)\n")
-            f.write(f"{stream}\n")
+            f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
+            f.write(f"{iframe}\n")
 
-    print("DONE → ppvsort.m3u updated.")
+            # ======================
+            # 2️⃣ TULIS ENTRY LIVE NOW (DUPLIKAT)
+            # ======================
+            if is_live(start, end):
+                f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="LIVE NOW",{title} - LIVE NOW\n')
+                f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
+                f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
+                f.write(f"{iframe}\n")
+
+    print("DONE → ppvsort.m3u created.")
 
 
-asyncio.run(generate_m3u())
+asyncio.run(generate())
