@@ -176,8 +176,8 @@ async def main():
             for cat in item["categories"]:
                 group = GROUP_RENAME_MAP.get(cat, cat)
                 title = item["name"]
-                if item["time"]:
-                    title += f" - {item["time"]}"
+if item["time"]:
+    title += f" - {item['time']}"
                 f.write(f'#EXTINF:-1 tvg-id="ppv-{item["id"]}" tvg-logo="{item["poster"]}" group-title="{group}",{title}\n')
                 for h in STREAM_HEADERS:
                     f.write(h + "\n")
