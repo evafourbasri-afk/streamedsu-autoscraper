@@ -2,7 +2,7 @@ import aiohttp
 import asyncio
 from datetime import datetime, timezone, timedelta
 
-PPV_API = "https://api.ppv.to/api/events"
+API_URL = "https://api.ppv.to/api/streams"
 OUTPUT = "ppvsort.m3u"
 
 # ============================
@@ -17,30 +17,41 @@ def to_wib(ts):
         return ""
 
 # ============================
-# KLASIFIKASI LIGA
+# KLASIFIKASI KATEGORI
 # ============================
 def detect_category(title):
-    T = title.lower()
+    t = title.lower()
 
-    if any(x in T for x in ["premier", "epl", "arsenal", "chelsea", "liverpool", "man "]):
+    if "epl" in t or "premier" in t:
         return "Football - EPL"
-    if any(x in T for x in ["bundesliga", "bayern", "dortmund"]):
+    if "bundes" in t:
         return "Football - Bundesliga"
-    if any(x in T for x in ["serie a", "juventus", "inter", "milan"]):
+    if "serie a" in t or "juventus" in t or "inter" in t:
         return "Football - Serie A"
-    if any(x in T for x in ["laliga", "la liga", "real madrid", "barcelona"]):
+    if "laliga" in t or "barcelona" in t or "real madrid" in t:
         return "Football - LaLiga"
-    if any(x in T for x in T for x in ["ligue 1", "psg", "marseille", "lille"]):
+    if "ligue" in t or "psg" in t:
         return "Football - Ligue 1"
 
-    if "ucl" in T or "champions" in T:
+    if "ucl" in t or "champions" in t:
         return "Football - UCL"
-    if "uel" in T or "europa league" in T:
+    if "uel" in t:
         return "Football - UEL"
-    if "conference" in T or "uecl" in T:
+    if "uecl" in t or "conference" in t:
         return "Football - UECL"
 
-    return "Football - Other"
+    if "nfl" in t:
+        return "PPVLand - NFL"
+    if "hockey" in t:
+        return "PPVLand - Ice Hockey"
+    if "wrestling" in t or "wwe" in t or "aew" in t:
+        return "PPVLand - Wrestling"
+    if "ufc" in t or "fight" in t:
+        return "PPVLand - Combat Sports"
+    if "nba" in t or "basket" in t:
+        return "PPVLand - Basketball"
+
+    return "PPVLand - Other"
 
 # ============================
 # DETECT LIVE NOW
@@ -48,78 +59,72 @@ def detect_category(title):
 def is_live(start_ts, end_ts):
     now = datetime.now(timezone.utc).timestamp()
     try:
-        if not start_ts:
-            return False
-        start_ts = int(start_ts)
+        start_ts = int(start_ts or 0)
+        end_ts = int(end_ts) if end_ts else start_ts + 3 * 3600  # fallback 3 jam
 
-        # Jika tidak ada endTime → anggap LIVE selama 4 jam
-        if not end_ts:
-            return start_ts <= now <= start_ts + 4*3600
-
-        end_ts = int(end_ts)
         return start_ts <= now <= end_ts
     except:
         return False
 
 # ============================
-# FETCH API
+# FETCH STREAM API
 # ============================
-async def fetch_ppv():
-    async with aiohttp.ClientSession() as session:
-        async with session.get(PPV_API) as r:
+async def fetch_streams():
+    async with aiohttp.ClientSession() as s:
+        async with s.get(API_URL) as r:
             if r.status != 200:
+                print("API ERROR:", r.status)
                 return None
             return await r.json()
 
 # ============================
-# M3U GENERATOR
+# GENERATE M3U
 # ============================
-async def generate():
-    data = await fetch_ppv()
-    if not data:
-        print("API ERROR")
+async def generate_m3u():
+    json_data = await fetch_streams()
+    if not json_data:
+        print("Gagal mengambil data dari API.")
         return
 
-    events = data.get("data", [])
-    events_sorted = sorted(events, key=lambda x: x.get("startTime", 0))
+    streams = json_data.get("data", [])
+    if not streams:
+        print("API kosong!")
+        return
 
     with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
-        for e in events_sorted:
+        for item in streams:
+            title = item.get("title", "Untitled")
+            poster = item.get("poster", "")
+            event_id = item.get("id", "")
+            s_time = item.get("startTime")
+            e_time = item.get("endTime")
 
-            title = e.get("title", "Unknown Event")
-            poster = e.get("poster", "")
-            event_id = e.get("id", "")
-            start = e.get("startTime", 0)
-            end = e.get("endTime", 0)
-            start_wib = to_wib(start)
-            iframe = e.get("iframe", "")
+            start_wib = to_wib(s_time)
 
-            if not iframe:
+            # Ambil URL HLS dari API STREAM
+            stream = item.get("stream", {}).get("url", "")
+
+            if not stream:
                 continue
 
-            # kategori utama
-            cat = detect_category(title)
+            category = detect_category(title)
 
-            # ======================
-            # 1️⃣ TULIS ENTRY KATEGORI ASLI
-            # ======================
-            f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="{cat}",{title} - {start_wib}\n')
+            # ➜ Tulis entry utama
+            f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="{category}",{title} - {start_wib}\n')
             f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
             f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
-            f.write(f"{iframe}\n")
+            f.write(stream + "\n")
 
-            # ======================
-            # 2️⃣ TULIS ENTRY LIVE NOW (DUPLIKAT)
-            # ======================
-            if is_live(start, end):
-                f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="LIVE NOW",{title} - LIVE NOW\n')
+            # ➜ Tulis entry LIVE NOW
+            if is_live(s_time, e_time):
+                f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="LIVE NOW",{title} - ⛔ LIVE NOW\n')
                 f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
                 f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
-                f.write(f"{iframe}\n")
+                f.write(stream + "\n")
 
-    print("DONE → ppvsort.m3u created.")
+    print("DONE → ppvsort.m3u berhasil dibuat.")
 
 
-asyncio.run(generate())
+asyncio.run(generate_m3u())
