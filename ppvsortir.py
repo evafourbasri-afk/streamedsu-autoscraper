@@ -182,7 +182,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    asyncio.run(main())            break
+    asyncio.run(main())
         await asyncio.sleep(0.05)
     return {first_url} if first_url else set()
 
