@@ -76,7 +76,7 @@ async def generate_m3u():
     events = data.get("data", [])
     events_sorted = sorted(events, key=lambda x: x.get("startTime", ""))
 
-    with open("ppvgit.m3u", "w", encoding="utf-8") as f:
+    with open("ppvsort.m3u", "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
         for item in events_sorted:
