@@ -4,14 +4,6 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-08/phi-lac
 
-#EXTINF:-1 group-title="FanDuel SN IN" tvg-logo="https://api.ppv.to/assets/thumb/e1c70959d92ec320c91b3e600d669633-thumbnail.jpg",00:00 - 09/12/2025 | Sacramento Kings vs. Indiana Pacers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-08/sac-ind
-
-#EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/8a39a0a06f30a7e22cd0b5bec912a856-thumbnail.jpg",00:30 - 09/12/2025 | Phoenix Suns vs. Minnesota Timberwolves
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-08/phx-min
-
 #EXTINF:-1 group-title="FanDuel SN SW" tvg-logo="https://api.ppv.to/assets/thumb/257243ae514b4d875083e20c45b1512d-thumbnail.jpg",01:00 - 09/12/2025 | San Antonio Spurs vs. New Orleans Pelicans
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-08/sa-no
@@ -391,10 +383,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=serie-
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/26de76502695f04ee7970475329dfd5d-thumbnail.jpg",20:00 - 15/12/2025 | Manchester United vs. Bournemouth
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=epl/2025-12-15/mun-bou
-
-#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/06370353b23d4132068c5f7c7504a3c3-thumbnail.jpg",00:30 - 09/12/2025 | Tampa Bay Lightning vs. Toronto Maple Leafs
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-08/tb-tor
 
 #EXTINF:-1 group-title="Utah 16" tvg-logo="https://api.ppv.to/assets/thumb/c2ee241fde184e5569ea8ef9db3fed24-thumbnail.jpg",02:00 - 09/12/2025 | Los Angeles Kings vs. Utah Mammoth
 #EXTVLCOPT:http-referrer=https://ppv.to/
