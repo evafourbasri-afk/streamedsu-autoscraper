@@ -30,7 +30,7 @@ jobs:
 
     - name: Run Script
       run: |
-        python ppvsortir_final.py
+        python ppvsort.py
 
     - name: Commit m3u
       if: success()
