@@ -1,5 +1,5 @@
-# PPVSort FastMode — No Live Now, No Retry, Ultra Fast
-# Estimasi runtime: 5–8 menit
+# PPVSort FastMode+ (Stable m3u8)
+# Cepat, stabil, tanpa LIVE NOW, hasil m3u8/mpd terjamin
 
 import asyncio
 from playwright.async_api import async_playwright
@@ -35,12 +35,14 @@ GROUP_RENAME_MAP = {
     "Cricket": "PPV - Cricket"
 }
 
+
 def detect_football(name):
     name = name.lower()
     for league, keys in FOOTBALL_MAP.items():
         if any(k in name for k in keys):
             return f"Football - {league}"
     return "Football - Other"
+
 
 def get_time_wib(ts):
     if not ts or ts <= 0:
@@ -49,18 +51,26 @@ def get_time_wib(ts):
     dt_wib = dt.astimezone(ZoneInfo("Asia/Jakarta"))
     return dt_wib.strftime("%d %b %Y %H:%M WIB")
 
+
 async def fetch_streams():
     try:
         async with aiohttp.ClientSession() as s:
             r = await s.get(API_URL, timeout=15)
-            j = await r.json()
-            return j.get("streams", [])
+            return (await r.json()).get("streams", [])
     except:
         return []
 
-async def grab_fast(page, iframe):
+
+async def grab_m3u8(page, iframe):
     found = None
 
+    # Header agar player cepat load
+    await page.set_extra_http_headers({
+        "Referer": "https://ppv.to/",
+        "User-Agent": "Mozilla/5.0"
+    })
+
+    # Blokir yang tidak perlu (hemat waktu)
     await page.route(
         "**/*",
         lambda r: r.abort()
@@ -76,17 +86,18 @@ async def grab_fast(page, iframe):
     page.on("response", on_res)
 
     try:
-        await page.goto(iframe, timeout=5000)
+        await page.goto(iframe, timeout=8000)  # lebih tinggi agar m3u8 muncul
     except:
         pass
 
-    # FAST MODE: maksimal 3 detik saja
-    for _ in range(60):
+    # FASTMODE+: tunggu maksimal ±8 detik (160 * 0.05)
+    for _ in range(160):
         if found:
             return found
         await asyncio.sleep(0.05)
 
-    return None  # tidak retry
+    return None  # tidak retry, tetap cepat
+
 
 async def main():
     streams = await fetch_streams()
@@ -120,6 +131,7 @@ async def main():
                 "category": final_cat
             })
 
+    # sort by name
     flat.sort(key=lambda x: x["name"].lower())
 
     results = []
@@ -130,25 +142,34 @@ async def main():
         for item in flat:
             page = await browser.new_page()
 
-            url = await grab_fast(page, item["iframe"])
+            url = await grab_m3u8(page, item["iframe"])
 
             await page.close()
 
-            item["url"] = url if url else item["iframe"]
+            # Jika gagal → BUANG (tidak pakai iframe)
+            if not url:
+                continue
+
+            item["url"] = url
             results.append(item)
 
         await browser.close()
 
+    # Write output
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
+
         for item in results:
             group = GROUP_RENAME_MAP.get(item["category"], item["category"])
+
             title = item["name"]
             if item["time"]:
                 title += f" - {item['time']}"
 
             f.write(
-                f'#EXTINF:-1 tvg-id="{item["id"]}" tvg-logo="{item["poster"]}" group-title="{group}",{title}\n'
+                f'#EXTINF:-1 tvg-id="{item["id"]}" '
+                f'tvg-logo="{item["poster"]}" '
+                f'group-title="{group}",{title}\n'
             )
 
             for h in STREAM_HEADERS:
@@ -156,7 +177,8 @@ async def main():
 
             f.write(item["url"] + "\n")
 
-    print("FASTMODE DONE →", PLAYLIST_FILE)
+    print("FASTMODE+ DONE →", PLAYLIST_FILE)
+
 
 if __name__ == "__main__":
     asyncio.run(main())
