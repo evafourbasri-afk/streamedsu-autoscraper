@@ -11,7 +11,7 @@ from urllib.error import URLError, HTTPError
 BASE = "https://pixelsport.tv"
 API_EVENTS = f"{BASE}/backend/liveTV/events"
 API_SLIDERS = f"{BASE}/backend/slider/getSliders"
-OUTPUT_FILE = "Pixelsports.m3u8"
+OUTPUT_FILE = "NewPixel.m3u8"
 
 # M3U eksternal untuk sumber logo
 LOGO_SOURCE_M3U = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/refs/heads/main/ppvsortir.m3u"
