@@ -7,9 +7,9 @@ import io
 import os
 from datetime import datetime, timedelta, timezone
 
-# ==============================================
+# ======================================================
 # CONFIG
-# ==============================================
+# ======================================================
 
 BASE = "https://pixelsport.tv"
 API_EVENTS = f"{BASE}/backend/liveTV/events"
@@ -28,20 +28,36 @@ VLC_ICY = "1"
 DEFAULT_LOGO = "https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png"
 
 
-# ==============================================
-# CATEGORY MAPPING (PIXELSPORT OFFICIAL)
-# ==============================================
+# ======================================================
+# CATEGORY MAPPING (OFFICIAL PIXELSPORT)
+# ======================================================
+# PixelSport Categories:
+# Baseball → MLB
+# Basketball → NBA
+# American Football → NFL
+# Ice Hockey → NHL
 
 LEAGUE_MAP = {
-    "nba": "NBA",
-    "nfl": "NFL",
     "mlb": "MLB",
+    "baseball": "MLB",
+
+    "nba": "NBA",
+    "basket": "NBA",
+    "basketball": "NBA",
+
+    "nfl": "NFL",
+    "football": "NFL",
+    "american football": "NFL",
+
     "nhl": "NHL",
+    "hockey": "NHL",
+    "ice hockey": "NHL",
 }
 
-# ==============================================
+
+# ======================================================
 # PNG LOGOS FOR LEAGUES (COMPATIBLE WITH PILLOW)
-# ==============================================
+# ======================================================
 LEAGUE_LOGOS = {
     "NBA": "https://i.imgur.com/3R8H0kT.png",
     "NFL": "https://i.imgur.com/AxHwU1l.png",
@@ -50,11 +66,10 @@ LEAGUE_LOGOS = {
 }
 
 
-# ==============================================
+# ======================================================
 # WIB TIME CONVERTER
-# ==============================================
+# ======================================================
 def to_wib(timestamp_ms):
-    """Convert timestamp (ms) from API → WIB time."""
     try:
         ts = int(timestamp_ms) / 1000
         dt_utc = datetime.utcfromtimestamp(ts).replace(tzinfo=timezone.utc)
@@ -64,17 +79,17 @@ def to_wib(timestamp_ms):
         return ""
 
 
-# ==============================================
-# GET LEAGUE GROUP
-# ==============================================
+# ======================================================
+# CATEGORY → LEAGUE GROUP
+# ======================================================
 def get_league_group(raw_name):
     if not raw_name:
         return "PixelSport - Other"
 
     name = raw_name.lower()
-    for key, cat in LEAGUE_MAP.items():
+    for key, league in LEAGUE_MAP.items():
         if key in name:
-            return f"PixelSport - {cat}"
+            return f"PixelSport - {league}"
 
     return "PixelSport - Other"
 
@@ -86,9 +101,9 @@ def get_league_logo(group_title):
     return None
 
 
-# ==============================================
-# GRADIENT COLORS PER LEAGUE
-# ==============================================
+# ======================================================
+# GRADIENT COLORS BY LEAGUE
+# ======================================================
 def get_gradient_colors(group_title):
     gt = group_title.lower()
 
@@ -104,9 +119,9 @@ def get_gradient_colors(group_title):
     return (30, 30, 30), (80, 80, 80)
 
 
-# ==============================================
+# ======================================================
 # FETCH JSON
-# ==============================================
+# ======================================================
 def fetch_json(url):
     headers = {
         "User-Agent": VLC_USER_AGENT,
@@ -116,30 +131,25 @@ def fetch_json(url):
         "Icy-MetaData": VLC_ICY
     }
     req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req, timeout=10) as resp:
+    with urllib.request.urlopen(req, timeout=15) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
 
-# ==============================================
-# GENERATE THUMBNAIL (FINAL WIB VERSION)
-# ==============================================
+# ======================================================
+# THUMBNAIL GENERATOR (FINAL FIX)
+# ======================================================
 def generate_match_logo(home_url, away_url, group_title, output_path):
     try:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-        r1 = requests.get(home_url, timeout=10)
-        r2 = requests.get(away_url, timeout=10)
-
-        img1 = Image.open(io.BytesIO(r1.content)).convert("RGBA")
-        img2 = Image.open(io.BytesIO(r2.content)).convert("RGBA")
+        img1 = Image.open(io.BytesIO(requests.get(home_url, timeout=10).content)).convert("RGBA")
+        img2 = Image.open(io.BytesIO(requests.get(away_url, timeout=10).content)).convert("RGBA")
 
         league_logo_url = get_league_logo(group_title)
         league_logo = None
-
         if league_logo_url:
             try:
-                rl = requests.get(league_logo_url, timeout=10)
-                league_logo = Image.open(io.BytesIO(rl.content)).convert("RGBA")
+                league_logo = Image.open(io.BytesIO(requests.get(league_logo_url, timeout=10).content)).convert("RGBA")
             except:
                 league_logo = None
 
@@ -156,72 +166,79 @@ def generate_match_logo(home_url, away_url, group_title, output_path):
             b = int(col1[2] + (col2[2] - col1[2]) * ratio)
             draw.line([(x, 0), (x, height)], fill=(r, g, b))
 
-        max_h = 360
-
         def scale(img):
-            w, h = img.size
-            ratio = max_h / h
-            return img.resize((int(w * ratio), max_h), Image.LANCZOS)
+            ratio = 360 / img.size[1]
+            return img.resize((int(img.size[0] * ratio), 360), Image.LANCZOS)
 
         img1 = scale(img1)
         img2 = scale(img2)
 
-        spacing = 120
-        total_w = img1.width + img2.width + spacing
+        total_w = img1.width + img2.width + 120
         start_x = (width - total_w) // 2
-        y = (height - max_h) // 2
+        y = (height - 360) // 2
 
         bg.paste(img1, (start_x, y), img1)
-        bg.paste(img2, (start_x + img1.width + spacing, y), img2)
+        bg.paste(img2, (start_x + img1.width + 120, y), img2)
 
         if league_logo:
             league_logo = league_logo.resize((200, 200), Image.LANCZOS)
-            lx = (width - league_logo.width) // 2
-            ly = (height - league_logo.height) // 2
-            bg.paste(league_logo, (lx, ly), league_logo)
+            cx = (width - league_logo.width) // 2
+            cy = (height - league_logo.height) // 2
+            bg.paste(league_logo, (cx, cy), league_logo)
 
         bg.save(output_path, "PNG")
         return True
 
     except Exception as e:
-        print("Error generating thumbnail:", e)
+        print("Thumbnail error:", e)
         return False
 
 
-# ==============================================
-# BUILD M3U
-# ==============================================
+# ======================================================
+# PARSE LINKS
+# ======================================================
 def collect_links(obj):
     links = []
     for i in range(1, 4):
-        u = obj.get(f"server{i}URL")
-        if u and u.lower() != "null":
-            links.append(u)
+        url = obj.get(f"server{i}URL")
+        if url and url.lower() != "null":
+            links.append(url)
     return links
 
 
+# ======================================================
+# BUILD M3U (WIB VERSION)
+# ======================================================
 def build_m3u(events, sliders):
     out = ["#EXTM3U"]
 
     for ev in events:
+
+        # TITLE + WIB TIME
         raw_title = ev.get("match_name", "Unknown Event").strip()
-        timestamp = ev.get("date") or ev.get("time") or 0
+
+        timestamp = (
+            ev.get("date")
+            or ev.get("time")
+            or ev.get("startTimestamp")
+            or ev.get("start_time")
+            or ev.get("startDate")
+            or 0
+        )
         wib_time = to_wib(timestamp)
 
         title = f"{raw_title} - {wib_time}"
 
+        # LOGO HOME AWAY
         home = ev.get("competitors1_logo") or DEFAULT_LOGO
         away = ev.get("competitors2_logo") or DEFAULT_LOGO
 
+        # LEAGUE GROUP
         raw_cat = ev.get("channel", {}).get("TVCategory", {}).get("name", "")
         group = get_league_group(raw_cat)
 
-        safe = (
-            raw_title.replace(" ", "_")
-            .replace("/", "_")
-            .replace(":", "_")
-            .replace("|", "_")
-        )
+        # THUMB PATH
+        safe = raw_title.replace(" ", "_").replace("/", "_").replace(":", "_")
         thumb_rel = f"{THUMB_DIR}/{safe}.png"
 
         if generate_match_logo(home, away, group, thumb_rel):
@@ -230,32 +247,18 @@ def build_m3u(events, sliders):
             tvg_logo = home
 
         links = collect_links(ev.get("channel", {}))
-        if links:
-            for link in links:
-                out.append(f'#EXTINF:-1 tvg-logo="{tvg_logo}" group-title="{group}",{title}')
-                out.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
-                out.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
-                out.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
-                out.append(link)
-
-    # Sliders
-    for ch in sliders:
-        title = ch.get("title", "Live Channel")
-        live = ch.get("liveTV", {})
-        links = collect_links(live)
         for link in links:
-            out.append(f'#EXTINF:-1 tvg-logo="{DEFAULT_LOGO}" group-title="PixelSport - Live",{title}')
+            out.append(f'#EXTINF:-1 tvg-logo="{tvg_logo}" group-title="{group}",{title}')
             out.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
             out.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
-            out.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
             out.append(link)
 
     return "\n".join(out)
 
 
-# ==============================================
-# MAIN
-# ==============================================
+# ======================================================
+# MAIN EXECUTION
+# ======================================================
 def main():
     try:
         os.makedirs(THUMB_DIR, exist_ok=True)
@@ -271,12 +274,12 @@ def main():
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(m3u)
 
-        print("[✓] Playlist Saved:", OUTPUT_FILE)
-        print(f"[✓] Total Events: {len(events)}")
-        print(f"[✓] Total Sliders: {len(sliders)}")
+        print("[✓] Saved:", OUTPUT_FILE)
+        print("[✓] Events:", len(events))
+        print("[✓] Sliders:", len(sliders))
 
     except Exception as e:
-        print("[X] ERROR:", e)
+        print("[ERROR]", e)
 
 
 if __name__ == "__main__":
