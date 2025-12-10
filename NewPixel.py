@@ -26,6 +26,7 @@ VLC_ICY = "1"
 
 DEFAULT_LOGO = "https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png"
 
+
 # ==============================================
 # LEAGUE MAPPING
 # ==============================================
@@ -53,34 +54,38 @@ LEAGUE_MAP = {
     "laliga": "LaLiga",
     "bundes": "Bundesliga",
     "serie a": "Serie A",
+    "italy": "Serie A",
     "ligue": "Ligue 1",
+    "france": "Ligue 1",
     "mls": "MLS",
+    "america": "MLS",
     "soccer": "Soccer",
     "futbol": "Soccer"
 }
 
+
 # ==============================================
-# LEAGUE LOGO (TENGAH)
+# PNG LOGO LIGA (FULL COMPATIBLE)
 # ==============================================
 
 LEAGUE_LOGOS = {
-    "NBA": "https://upload.wikimedia.org/wikipedia/en/0/03/NBA_logo.svg",
-    "NFL": "https://upload.wikimedia.org/wikipedia/en/a/a0/National_Football_League_logo.svg",
-    "MLB": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Major_League_Baseball_logo.svg/320px-Major_League_Baseball_logo.svg.png",
-    "NHL": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
-    "EPL": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg",
-    "Serie A": "https://upload.wikimedia.org/wikipedia/en/e/e1/Serie_A_logo_%282019%29.svg",
-    "Bundesliga": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg",
-    "LaLiga": "https://upload.wikimedia.org/wikipedia/en/6/6e/LaLiga_logo_2023.svg",
-    "Ligue 1": "https://upload.wikimedia.org/wikipedia/en/c/cf/Ligue1_logo.svg",
-    "MLS": "https://upload.wikimedia.org/wikipedia/commons/5/5e/MLS_crest_logo_RGB.svg",
-    "UFC": "https://upload.wikimedia.org/wikipedia/commons/0/0d/UFC_Logo.svg",
-    "Boxing": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Boxing_gloves_icon.svg/240px-Boxing_gloves_icon.svg.png",
+    "NBA": "https://i.imgur.com/3R8H0kT.png",
+    "NFL": "https://i.imgur.com/AxHwU1l.png",
+    "MLB": "https://i.imgur.com/H3cG9eA.png",
+    "NHL": "https://i.imgur.com/q4LX0SK.png",
+    "EPL": "https://i.imgur.com/zM9iqmZ.png",
+    "Serie A": "https://i.imgur.com/8eZg5s8.png",
+    "Bundesliga": "https://i.imgur.com/EuhCXQg.png",
+    "LaLiga": "https://i.imgur.com/jURKCIp.png",
+    "Ligue 1": "https://i.imgur.com/V4DvVU2.png",
+    "MLS": "https://i.imgur.com/cNn9TuR.png",
+    "UFC": "https://i.imgur.com/MxFhgy5.png",
+    "Boxing": "https://i.imgur.com/BtEU3AC.png"
 }
 
 
 # ==============================================
-# FUNCTIONS
+# LEAGUE HELPER
 # ==============================================
 
 def get_league_group(raw_name):
@@ -143,7 +148,7 @@ def fetch_json(url):
 
 
 # ==============================================
-# GENERATE THUMBNAIL
+# GENERATE THUMBNAIL (FINAL)
 # ==============================================
 
 def generate_match_logo(home_url, away_url, group_title, output_path):
@@ -181,13 +186,13 @@ def generate_match_logo(home_url, away_url, group_title, output_path):
 
         max_h = 360
 
-        def resize_logo(img):
+        def scale(img):
             w, h = img.size
             ratio = max_h / h
             return img.resize((int(w * ratio), max_h), Image.LANCZOS)
 
-        img1 = resize_logo(img1)
-        img2 = resize_logo(img2)
+        img1 = scale(img1)
+        img2 = scale(img2)
 
         spacing = 120
         total_w = img1.width + img2.width + spacing
@@ -207,7 +212,7 @@ def generate_match_logo(home_url, away_url, group_title, output_path):
         return True
 
     except Exception as e:
-        print("Error merging images:", e)
+        print("Error generating thumbnail:", e)
         return False
 
 
@@ -258,7 +263,7 @@ def build_m3u(events, sliders):
                 out.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
                 out.append(link)
 
-    # Live slider (tanpa thumbnail khusus)
+    # Live slider
     for ch in sliders:
         title = ch.get("title", "Live Channel")
         live = ch.get("liveTV", {})
@@ -274,7 +279,7 @@ def build_m3u(events, sliders):
 
 
 # ==============================================
-# MAIN EXECUTION
+# MAIN
 # ==============================================
 
 def main():
