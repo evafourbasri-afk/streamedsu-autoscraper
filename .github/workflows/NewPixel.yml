@@ -2,63 +2,42 @@ name: NewPixel
 
 on:
   schedule:
-    - cron: '0 * * * *' 
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "*/5 * * * *"   # setiap 5 menit (ubah jika mau)
+  workflow_dispatch:        # tombol manual run
 
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0  # wajib agar commit tidak error
 
-      - name: 🐍 Set up Python 3.11
-        uses: actions/setup-python@v5
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install requests
 
-      - name: 🎯 Run PixelSports scraper
-        run: python NewPixel.py
-
-      - name: 💾 Commit & Push if Playlist Changed
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run PixelSports scraper
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          python NewPixel.py
 
-          # --- MATCHES YOUR SCRIPT OUTPUT ---
-          git add Pixelsports.m3u8
+      - name: Commit & Push Playlist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Tambahkan semua file, termasuk file baru
+          git add -A
 
-          if git diff --cached --quiet; then
-            echo "✅ No changes detected — skipping commit."
-            exit 0
-          fi
+          # Force commit jika ada perubahan, kalau tidak ada, lanjutkan
+          git commit -m "Update NewPixel.m3u8" || echo "No changes to commit"
 
-          git commit -m "🎄 Updated PixelSports ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-
-          # Random delay to reduce push collisions
-          sleep $((RANDOM % 10 + 5))
-
-          if ! git push origin main; then
-            echo "⚠️ Push failed, attempting safe rebase..."
-            git pull origin main --rebase || {
-              echo "❌ Rebase failed. Stopping to avoid corruption."
-              exit 1
-            }
-            git push origin main || {
-              echo "❌ Push failed again after rebase."
-              exit 1
-            }
-          fi
+          # Push ke repository
+          git push
