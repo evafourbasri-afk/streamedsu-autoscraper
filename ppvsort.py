@@ -1,5 +1,5 @@
-# ppvsortir_final.py
-# FINAL VERSION — Chromium + WIB + Football Mapping + Live Now + Retry + No Firefox
+# PPVSort FastMode — No Live Now, No Retry, Ultra Fast
+# Estimasi runtime: 5–8 menit
 
 import asyncio
 from playwright.async_api import async_playwright
@@ -32,8 +32,7 @@ GROUP_RENAME_MAP = {
     "American Football": "PPV - NFL",
     "Combat Sports": "PPV - Combat Sports",
     "Ice Hockey": "PPV - Ice Hockey",
-    "Cricket": "PPV - Cricket",
-    "Live Now": "PPV - Live Now"
+    "Cricket": "PPV - Cricket"
 }
 
 def detect_football(name):
@@ -43,57 +42,58 @@ def detect_football(name):
             return f"Football - {league}"
     return "Football - Other"
 
-def get_time_wib(starts_at):
-    if not starts_at or starts_at <= 0:
+def get_time_wib(ts):
+    if not ts or ts <= 0:
         return ""
-    dt = datetime.fromtimestamp(starts_at, tz=timezone.utc)
+    dt = datetime.fromtimestamp(ts, timezone.utc)
     dt_wib = dt.astimezone(ZoneInfo("Asia/Jakarta"))
     return dt_wib.strftime("%d %b %Y %H:%M WIB")
 
 async def fetch_streams():
     try:
-        async with aiohttp.ClientSession() as session:
-            r = await session.get(API_URL, timeout=20)
-            return (await r.json()).get("streams", [])
+        async with aiohttp.ClientSession() as s:
+            r = await s.get(API_URL, timeout=15)
+            j = await r.json()
+            return j.get("streams", [])
     except:
         return []
 
-async def grab_url(page, iframe):
+async def grab_fast(page, iframe):
     found = None
 
     await page.route(
         "**/*",
         lambda r: r.abort()
-        if r.request.resource_type in ["image", "font", "stylesheet"]
+        if r.request.resource_type in ["image", "font", "stylesheet", "media"]
         else r.continue_()
     )
 
-    def on_response(res):
+    def on_res(res):
         nonlocal found
         if (".m3u8" in res.url or ".mpd" in res.url) and not found:
             found = res.url
 
-    page.on("response", on_response)
+    page.on("response", on_res)
 
     try:
-        await page.goto(iframe, timeout=20000)
+        await page.goto(iframe, timeout=5000)
     except:
         pass
 
-    for _ in range(250):
+    # FAST MODE: maksimal 3 detik saja
+    for _ in range(60):
         if found:
             return found
         await asyncio.sleep(0.05)
 
-    return None
+    return None  # tidak retry
 
 async def main():
     streams = await fetch_streams()
     if not streams:
-        print("NO STREAMS FOUND")
+        print("NO STREAMS AVAILABLE")
         return
 
-    now = int(time.time())
     flat = []
 
     for category in streams:
@@ -107,24 +107,17 @@ async def main():
             if not iframe:
                 continue
 
-            starts = s.get("starts_at", 0)
-            is_live = starts <= now and starts > 0
-
             final_cat = cname
             if cname.lower() == "football":
                 final_cat = detect_football(s.get("name", ""))
-
-            cats = [final_cat]
-            if is_live:
-                cats.append("Live Now")
 
             flat.append({
                 "id": s["id"],
                 "name": s["name"],
                 "iframe": iframe,
                 "poster": s.get("poster") or "",
-                "time": get_time_wib(starts),
-                "categories": cats
+                "time": get_time_wib(s.get("starts_at", 0)),
+                "category": final_cat
             })
 
     flat.sort(key=lambda x: x["name"].lower())
@@ -137,11 +130,7 @@ async def main():
         for item in flat:
             page = await browser.new_page()
 
-            url = None
-            for _ in range(3):
-                url = await grab_url(page, item["iframe"])
-                if url:
-                    break
+            url = await grab_fast(page, item["iframe"])
 
             await page.close()
 
@@ -153,24 +142,21 @@ async def main():
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for item in results:
-            for cat in item["categories"]:
-                group = GROUP_RENAME_MAP.get(cat, cat)
+            group = GROUP_RENAME_MAP.get(item["category"], item["category"])
+            title = item["name"]
+            if item["time"]:
+                title += f" - {item['time']}"
 
-                title = item["name"]
-                if item["time"]:
-                    title += f" - {item['time']}"
+            f.write(
+                f'#EXTINF:-1 tvg-id="{item["id"]}" tvg-logo="{item["poster"]}" group-title="{group}",{title}\n'
+            )
 
-                f.write(
-                    f'#EXTINF:-1 tvg-id="{item["id"]}" tvg-logo="{item["poster"]}" group-title="{group}",{title}\n'
-                )
+            for h in STREAM_HEADERS:
+                f.write(h + "\n")
 
-                for h in STREAM_HEADERS:
-                    f.write(h + "\n")
+            f.write(item["url"] + "\n")
 
-                f.write(item["url"] + "\n")
-
-    print("DONE — FIXED M3U:", PLAYLIST_FILE)
-
+    print("FASTMODE DONE →", PLAYLIST_FILE)
 
 if __name__ == "__main__":
     asyncio.run(main())
