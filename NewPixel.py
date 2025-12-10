@@ -6,9 +6,9 @@ from PIL import Image, ImageDraw
 import io
 import os
 
-# ==========================================
+# ==============================================
 # CONFIG
-# ==========================================
+# ==============================================
 
 BASE = "https://pixelsport.tv"
 API_EVENTS = f"{BASE}/backend/liveTV/events"
@@ -16,7 +16,6 @@ API_SLIDERS = f"{BASE}/backend/slider/getSliders"
 
 OUTPUT_FILE = "NewPixel.m3u8"
 
-# base URL untuk akses PNG di repo GitHub kamu
 RAW_BASE = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/refs/heads/main"
 
 THUMB_DIR = "thumbnails"
@@ -26,6 +25,10 @@ VLC_REFERER = f"{BASE}/"
 VLC_ICY = "1"
 
 DEFAULT_LOGO = "https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png"
+
+# ==============================================
+# LEAGUE MAPPING
+# ==============================================
 
 LEAGUE_MAP = {
     "nba": "NBA",
@@ -48,23 +51,37 @@ LEAGUE_MAP = {
     "premier": "EPL",
     "england": "EPL",
     "laliga": "LaLiga",
-    "spain": "LaLiga",
     "bundes": "Bundesliga",
-    "german": "Bundesliga",
     "serie a": "Serie A",
-    "italy": "Serie A",
     "ligue": "Ligue 1",
-    "france": "Ligue 1",
     "mls": "MLS",
-    "america": "MLS",
     "soccer": "Soccer",
     "futbol": "Soccer"
 }
 
+# ==============================================
+# LEAGUE LOGO (TENGAH)
+# ==============================================
 
-# ==========================================
-# LEAGUE GROUP & GRADIENT COLORS
-# ==========================================
+LEAGUE_LOGOS = {
+    "NBA": "https://upload.wikimedia.org/wikipedia/en/0/03/NBA_logo.svg",
+    "NFL": "https://upload.wikimedia.org/wikipedia/en/a/a0/National_Football_League_logo.svg",
+    "MLB": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Major_League_Baseball_logo.svg/320px-Major_League_Baseball_logo.svg.png",
+    "NHL": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",
+    "EPL": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg",
+    "Serie A": "https://upload.wikimedia.org/wikipedia/en/e/e1/Serie_A_logo_%282019%29.svg",
+    "Bundesliga": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg",
+    "LaLiga": "https://upload.wikimedia.org/wikipedia/en/6/6e/LaLiga_logo_2023.svg",
+    "Ligue 1": "https://upload.wikimedia.org/wikipedia/en/c/cf/Ligue1_logo.svg",
+    "MLS": "https://upload.wikimedia.org/wikipedia/commons/5/5e/MLS_crest_logo_RGB.svg",
+    "UFC": "https://upload.wikimedia.org/wikipedia/commons/0/0d/UFC_Logo.svg",
+    "Boxing": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Boxing_gloves_icon.svg/240px-Boxing_gloves_icon.svg.png",
+}
+
+
+# ==============================================
+# FUNCTIONS
+# ==============================================
 
 def get_league_group(raw_name):
     if not raw_name:
@@ -76,34 +93,41 @@ def get_league_group(raw_name):
     return "PixelSport - Other"
 
 
+def get_league_logo(group_title):
+    for key, url in LEAGUE_LOGOS.items():
+        if key.lower() in group_title.lower():
+            return url
+    return None
+
+
 def get_gradient_colors(group_title):
     gt = group_title.lower()
-    # warna bisa kamu atur sendiri
+
     if "epl" in gt:
-        return (200, 20, 0), (255, 180, 0)       # merah → oranye
+        return (200, 20, 0), (255, 160, 0)
     if "serie a" in gt:
-        return (5, 40, 120), (0, 120, 255)       # biru tua → biru muda
+        return (10, 40, 160), (0, 120, 255)
     if "bundes" in gt:
-        return (150, 0, 0), (60, 0, 0)           # merah tua → marun
+        return (150, 0, 0), (60, 0, 0)
     if "laliga" in gt:
-        return (80, 0, 120), (220, 40, 60)       # ungu → merah
+        return (80, 0, 120), (200, 40, 60)
     if "nba" in gt:
-        return (20, 20, 80), (0, 100, 220)       # biru gelap → biru
+        return (20, 20, 80), (0, 100, 220)
     if "nfl" in gt:
-        return (10, 40, 80), (120, 0, 0)         # biru → merah
+        return (10, 40, 80), (120, 0, 0)
     if "mlb" in gt:
-        return (10, 10, 50), (150, 0, 0)
+        return (0, 40, 120), (140, 0, 0)
     if "nhl" in gt:
-        return (20, 20, 20), (120, 120, 120)
+        return (30, 30, 30), (90, 90, 90)
     if "ufc" in gt or "boxing" in gt:
-        return (120, 0, 0), (10, 10, 10)
-    # default
-    return (20, 20, 20), (60, 60, 60)
+        return (120, 0, 0), (20, 20, 20)
+
+    return (30, 30, 30), (80, 80, 80)
 
 
-# ==========================================
+# ==============================================
 # FETCH JSON
-# ==========================================
+# ==============================================
 
 def fetch_json(url):
     headers = {
@@ -118,9 +142,9 @@ def fetch_json(url):
         return json.loads(resp.read().decode("utf-8"))
 
 
-# ==========================================
-# IMAGE: MERGE HOME & AWAY + GRADIENT
-# ==========================================
+# ==============================================
+# GENERATE THUMBNAIL
+# ==============================================
 
 def generate_match_logo(home_url, away_url, group_title, output_path):
     try:
@@ -132,133 +156,126 @@ def generate_match_logo(home_url, away_url, group_title, output_path):
         img1 = Image.open(io.BytesIO(r1.content)).convert("RGBA")
         img2 = Image.open(io.BytesIO(r2.content)).convert("RGBA")
 
+        league_logo_url = get_league_logo(group_title)
+        league_logo = None
+
+        if league_logo_url:
+            try:
+                rl = requests.get(league_logo_url, timeout=10)
+                league_logo = Image.open(io.BytesIO(rl.content)).convert("RGBA")
+            except:
+                league_logo = None
+
         width, height = 1280, 720
-        bg = Image.new("RGB", (width, height), (0, 0, 0))
+        bg = Image.new("RGB", (width, height))
         draw = ImageDraw.Draw(bg)
 
-        start_color, end_color = get_gradient_colors(group_title)
+        col1, col2 = get_gradient_colors(group_title)
 
-        # horizontal gradient
         for x in range(width):
             ratio = x / width
-            r = int(start_color[0] + (end_color[0] - start_color[0]) * ratio)
-            g = int(start_color[1] + (end_color[1] - start_color[1]) * ratio)
-            b = int(start_color[2] + (end_color[2] - start_color[2]) * ratio)
+            r = int(col1[0] + (col2[0] - col1[0]) * ratio)
+            g = int(col1[1] + (col2[1] - col1[1]) * ratio)
+            b = int(col1[2] + (col2[2] - col1[2]) * ratio)
             draw.line([(x, 0), (x, height)], fill=(r, g, b))
 
-        # resize logo
-        max_logo_h = 360
-        def resize_keep_ratio(img):
+        max_h = 360
+
+        def resize_logo(img):
             w, h = img.size
-            ratio = max_logo_h / float(h)
-            return img.resize((int(w * ratio), max_logo_h), Image.LANCZOS)
+            ratio = max_h / h
+            return img.resize((int(w * ratio), max_h), Image.LANCZOS)
 
-        img1 = resize_keep_ratio(img1)
-        img2 = resize_keep_ratio(img2)
+        img1 = resize_logo(img1)
+        img2 = resize_logo(img2)
 
-        # posisi kiri & kanan
-        gap = 80
-        total_w = img1.width + img2.width + gap
+        spacing = 120
+        total_w = img1.width + img2.width + spacing
         start_x = (width - total_w) // 2
-        y = (height - max_logo_h) // 2
+        y = (height - max_h) // 2
 
         bg.paste(img1, (start_x, y), img1)
-        bg.paste(img2, (start_x + img1.width + gap, y), img2)
+        bg.paste(img2, (start_x + img1.width + spacing, y), img2)
+
+        if league_logo:
+            league_logo = league_logo.resize((200, 200), Image.LANCZOS)
+            lx = (width - league_logo.width) // 2
+            ly = (height - league_logo.height) // 2
+            bg.paste(league_logo, (lx, ly), league_logo)
 
         bg.save(output_path, "PNG")
         return True
+
     except Exception as e:
-        print("Error generating match logo:", e)
+        print("Error merging images:", e)
         return False
 
 
-# ==========================================
-# UTIL
-# ==========================================
+# ==============================================
+# BUILD M3U
+# ==============================================
 
 def collect_links(obj):
     links = []
     for i in range(1, 4):
-        url = obj.get(f"server{i}URL")
-        if url and url.lower() != "null":
-            links.append(url)
+        u = obj.get(f"server{i}URL")
+        if u and u.lower() != "null":
+            links.append(u)
     return links
 
 
-# ==========================================
-# BUILD M3U
-# ==========================================
-
 def build_m3u(events, sliders):
-    lines = ["#EXTM3U"]
+    out = ["#EXTM3U"]
 
-    # EVENTS
     for ev in events:
         title = ev.get("match_name", "Unknown Event").strip()
 
-        # logo home & away langsung dari JSON
-        home_logo = ev.get("competitors1_logo") or DEFAULT_LOGO
-        away_logo = ev.get("competitors2_logo") or DEFAULT_LOGO
+        home = ev.get("competitors1_logo") or DEFAULT_LOGO
+        away = ev.get("competitors2_logo") or DEFAULT_LOGO
 
         raw_cat = ev.get("channel", {}).get("TVCategory", {}).get("name", "")
-        group_title = get_league_group(raw_cat)
+        group = get_league_group(raw_cat)
 
-        # generate file name aman
-        safe_name = (
+        safe = (
             title.replace(" ", "_")
             .replace("/", "_")
             .replace(":", "_")
             .replace("|", "_")
         )
-        thumb_rel = f"{THUMB_DIR}/{safe_name}.png"
-        thumb_path = os.path.join(thumb_rel)
+        thumb_rel = f"{THUMB_DIR}/{safe}.png"
 
-        # buat gambar gabungan
-        if home_logo and away_logo:
-            ok = generate_match_logo(home_logo, away_logo, group_title, thumb_path)
-            if ok:
-                tvg_logo = f"{RAW_BASE}/{thumb_rel}"
-            else:
-                tvg_logo = home_logo
+        if generate_match_logo(home, away, group, thumb_rel):
+            tvg_logo = f"{RAW_BASE}/{thumb_rel}"
         else:
-            tvg_logo = home_logo or away_logo or DEFAULT_LOGO
+            tvg_logo = home
 
         links = collect_links(ev.get("channel", {}))
-        if not links:
-            continue
+        if links:
+            for link in links:
+                out.append(f'#EXTINF:-1 tvg-logo="{tvg_logo}" group-title="{group}",{title}')
+                out.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
+                out.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
+                out.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
+                out.append(link)
 
-        for link in links:
-            lines.append(
-                f'#EXTINF:-1 tvg-logo="{tvg_logo}" group-title="{group_title}",{title}'
-            )
-            lines.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
-            lines.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
-            lines.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
-            lines.append(link)
-
-    # SLIDERS (tetap pakai logo default)
+    # Live slider (tanpa thumbnail khusus)
     for ch in sliders:
         title = ch.get("title", "Live Channel")
         live = ch.get("liveTV", {})
         links = collect_links(live)
-        if not links:
-            continue
-
         for link in links:
-            lines.append(
-                f'#EXTINF:-1 tvg-logo="{DEFAULT_LOGO}" group-title="PixelSport - Live",{title}'
-            )
-            lines.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
-            lines.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
-            lines.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
-            lines.append(link)
+            out.append(f'#EXTINF:-1 tvg-logo="{DEFAULT_LOGO}" group-title="PixelSport - Live",{title}')
+            out.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
+            out.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
+            out.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
+            out.append(link)
 
-    return "\n".join(lines)
+    return "\n".join(out)
 
 
-# ==========================================
-# MAIN
-# ==========================================
+# ==============================================
+# MAIN EXECUTION
+# ==============================================
 
 def main():
     try:
@@ -270,13 +287,14 @@ def main():
         print("[*] Fetching sliders...")
         sliders = fetch_json(API_SLIDERS).get("data", [])
 
-        playlist = build_m3u(events, sliders)
+        m3u = build_m3u(events, sliders)
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            f.write(playlist)
+            f.write(m3u)
 
-        print(f"[✓] Saved as {OUTPUT_FILE}")
-        print(f"[✓] Events: {len(events)}, Sliders: {len(sliders)}")
+        print("[✓] Playlist Saved:", OUTPUT_FILE)
+        print(f"[✓] Total Events: {len(events)}")
+        print(f"[✓] Total Sliders: {len(sliders)}")
 
     except Exception as e:
         print("[X] ERROR:", e)
