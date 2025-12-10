@@ -1,169 +1,191 @@
-import aiohttp
+# ppvsortir_final.py
+# FINAL VERSION — Based on original working engine (Playwright)
+# Added: WIB time, Football mapping, remove 24/7, LIVE NOW duplication
+
 import asyncio
-from datetime import datetime, timezone, timedelta
+from playwright.async_api import async_playwright
+import aiohttp
+from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
+import time
 
 API_URL = "https://api.ppv.to/api/streams"
-OUTPUT = "ppvsort.m3u"
+PLAYLIST_FILE = "ppvsortir.m3u"
 
-# 🔥 Proxy baru
-PROXY_BASE = "https://ogie.biz.id/m3u/proxy.php?u="
+STREAM_HEADERS = [
+    '#EXTVLCOPT:http-referrer=https://ppv.to/',
+    '#EXTVLCOPT:http-user-agent=Mozilla/5.0'
+]
 
+BACKUP_LOGOS = {
+    "Wrestling": "http://drewlive2423.duckdns.org:9000/Logos/Wrestling.png",
+    "Football": "http://drewlive2423.duckdns.org:9000/Logos/Football.png",
+    "Basketball": "http://drewlive2423.duckdns.org:9000/Logos/Basketball.png",
+    "Baseball": "http://drewlive2423.duckdns.org:9000/Logos/Baseball.png",
+    "American Football": "http://drewlive2423.duckdns.org:9000/Logos/NFL3.png",
+    "Combat Sports": "http://drewlive2423.duckdns.org:9000/Logos/CombatSports2.png",
+    "Darts": "http://drewlive2423.duckdns.org:9000/Logos/Darts.png",
+    "Motorsports": "http://drewlive2423.duckdns.org:9000/Logos/Motorsports2.png",
+    "Ice Hockey": "http://drewlive2423.duckdns.org:9000/Logos/Hockey.png",
+    "Cricket": "http://drewlive2423.duckdns.org:9000/Logos/Cricket.png",
+    "Live Now": "http://drewlive2423.duckdns.org:9000/Logos/DrewLiveSports.png",
+}
 
-# ============================
-# WIB FORMAT
-# ============================
-def to_wib(ts):
-    try:
-        dt = datetime.fromtimestamp(int(ts), tz=timezone.utc) + timedelta(hours=7)
-        return dt.strftime("%d %b %Y %H:%M WIB")
-    except:
+GROUP_RENAME_MAP = {
+    "Wrestling": "PPVLand - Wrestling",
+    "Football": "PPVLand - Football",
+    "Basketball": "PPVLand - Basketball",
+    "Baseball": "PPVLand - Baseball",
+    "American Football": "PPVLand - NFL",
+    "Combat Sports": "PPVLand - Combat Sports",
+    "Darts": "PPVLand - Darts",
+    "Motorsports": "PPVLand - Motorsports",
+    "Ice Hockey": "PPVLand - Ice Hockey",
+    "Cricket": "PPVLand - Cricket",
+    "Live Now": "PPVLand - Live Now"
+}
+
+# Football detail classifier
+FOOTBALL_MAP = {
+    "EPL": ["epl", "premier", "england"],
+    "Serie A": ["serie a", "italy"],
+    "Bundesliga": ["bundesliga", "germany"],
+    "LaLiga": ["laliga", "la liga", "spain"],
+    "Ligue 1": ["ligue 1", "france"]
+}
+
+def detect_football(name):
+    name = name.lower()
+    for league, keys in FOOTBALL_MAP.items():
+        if any(k in name for k in keys):
+            return f"Football - {league}"
+    return "Football - Other"
+
+def get_time_wib(starts_at):
+    if not starts_at or starts_at <= 0:
         return ""
+    dt = datetime.fromtimestamp(starts_at, tz=timezone.utc)
+    dt_wib = dt.astimezone(ZoneInfo("Asia/Jakarta"))
+    return dt_wib.strftime("%d %b %Y %H:%M WIB")
 
+async def grab_m3u8(page, iframe):
+    first = None
 
-# ============================
-# CATEGORY DETECTOR
-# ============================
-def detect_category(title, raw_cat):
-    t = title.lower()
-    rc = raw_cat.lower()
+    await page.route(
+        "**/*",
+        lambda r: r.abort()
+        if r.request.resource_type in ["image", "stylesheet", "font", "media"]
+        else r.continue_()
+    )
 
-    # FOOTBALL
-    if "ucl" in t or "champions" in t:
-        return "Football - UCL"
-    if "uel" in t or "europa" in t:
-        return "Football - UEL"
-    if "uecl" in t or "conference" in t:
-        return "Football - UECL"
-    if any(x in t for x in ["premier league", "epl", "man ", "arsenal", "chelsea", "liverpool"]):
-        return "Football - EPL"
-    if "bundes" in t or "bayern" in t or "dortmund" in t:
-        return "Football - Bundesliga"
-    if "serie a" in t or "juventus" in t or "milan" in t:
-        return "Football - Serie A"
-    if "ligue" in t or "psg" in t:
-        return "Football - Ligue 1"
-    if "laliga" in t or "la liga" in t:
-        return "Football - LaLiga"
+    def on_response(res):
+        nonlocal first
+        if ".m3u8" in res.url and not first:
+            first = res.url
 
-    # OTHER SPORTS
-    if "nba" in rc or "basket" in rc:
-        return "Basketball"
-    if "nhl" in rc or "hockey" in rc:
-        return "Hockey"
-    if "nfl" in rc or "american" in rc:
-        return "American Football"
+    page.on("response", on_response)
 
-    if "ufc" in t or "fight" in t or "mma" in t:
-        return "Combat Sports"
-
-    if "wwe" in t or "aew" in t or "tna" in t:
-        return "Wrestling"
-
-    return "Other"
-
-
-# ============================
-# LIVE CHECKER
-# ============================
-def is_live(start_ts, end_ts):
-    now = int(datetime.now(timezone.utc).timestamp())
     try:
-        start_ts = int(start_ts)
-        if not end_ts:
-            end_ts = start_ts + 3 * 3600
-        else:
-            end_ts = int(end_ts)
-        return start_ts <= now <= end_ts
+        await page.goto(iframe, timeout=10000)
     except:
-        return False
+        pass
 
+    for _ in range(150):
+        if first:
+            break
+        await asyncio.sleep(0.05)
 
-# ============================
-# FETCH API
-# ============================
+    return first
+
 async def fetch_streams():
-    async with aiohttp.ClientSession() as s:
-        async with s.get(API_URL) as r:
-            if r.status != 200:
-                print("API Error:", r.status)
-                return None
-            return await r.json()
+    try:
+        async with aiohttp.ClientSession() as session:
+            r = await session.get(API_URL, timeout=20)
+            j = await r.json()
+            return j.get("streams", [])
+    except:
+        return []
 
-
-# ============================
-# GENERATE M3U
-# ============================
-async def generate():
-    data = await fetch_streams()
-    if not data:
-        print("API EMPTY")
+async def main():
+    streams = await fetch_streams()
+    if not streams:
+        print("NO STREAMS FOUND")
         return
 
-    categories = data.get("streams", [])
-    final_list = []
+    now = int(time.time())
+    flat = []
 
-    # FLATTEN LIST
-    for cat in categories:
-        raw_cat = cat.get("category", "")
+    for category in streams:
+        cname = category.get("category", "").strip()
 
-        for s in cat.get("streams", []):
-            title = s.get("name", "")
-            iframe = s.get("iframe", "")
-            poster = s.get("poster", "")
-            start = s.get("starts_at", 0)
-            end = s.get("ends_at", 0)
+        # Remove 24/7
+        if cname.lower() == "24/7 streams":
+            continue
 
-            # SKIP 24/7 CHANNELS
-            if "24/7" in title or "24x7" in title:
+        for s in category.get("streams", []):
+            iframe = s.get("iframe")
+            if not iframe:
                 continue
 
-            final_list.append({
-                "title": title,
+            starts = s.get("starts_at", 0)
+            is_live = starts <= now and starts > 0
+
+            final_cat = cname
+            if cname.lower() == "football":
+                final_cat = detect_football(s.get("name", ""))
+
+            categories = [final_cat]
+            if is_live:
+                categories.append("Live Now")  # duplicate category A
+
+            flat.append({
+                "id": s["id"],
+                "name": s["name"],
                 "iframe": iframe,
-                "poster": poster,
-                "start": start,
-                "end": end,
-                "raw_category": raw_cat,
+                "poster": s.get("poster") or BACKUP_LOGOS.get(final_cat.split(" - ")[0], ""),
+                "time": get_time_wib(starts),
+                "categories": categories
             })
 
-    # SORT BY TIME
-    final_list.sort(key=lambda x: x["start"] or 0)
+    # Sort by name
+    flat.sort(key=lambda x: x["name"].lower())
 
-    # WRITE M3U
-    with open(OUTPUT, "w", encoding="utf-8") as f:
+    results = []
+
+    async with async_playwright() as p:
+        browser = await p.firefox.launch(headless=True)
+
+        for item in flat:
+            page = await browser.new_page()
+            url = await grab_m3u8(page, item["iframe"])
+            await page.close()
+
+            if url:
+                item["url"] = url
+                results.append(item)
+
+        await browser.close()
+
+    # Write playlist
+    with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
-        for item in final_list:
-            title = item["title"]
-            iframe = item["iframe"]
-            poster = item["poster"]
-            start = item["start"]
-            end = item["end"]
-            wib = to_wib(start)
+        for item in results:
+            for cat in item["categories"]:
+                group = GROUP_RENAME_MAP.get(cat, cat)
+                title = item["name"]
+                if item["time"]:
+                    title += f" - {item['time']}"
 
-            category = detect_category(title, item["raw_category"])
-
-            # Convert to your proxy
-            proxied = PROXY_BASE + iframe
-
-            # MAIN ENTRY
-            f.write(
-                f'#EXTINF:-1 tvg-logo="{poster}" group-title="{category}",{title} - {wib}\n'
-            )
-            f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
-            f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
-            f.write(proxied + "\n")
-
-            # LIVE NOW ENTRY
-            if is_live(start, end):
                 f.write(
-                    f'#EXTINF:-1 tvg-logo="{poster}" group-title="LIVE NOW",{title} 🔴 LIVE NOW\n'
+                    f'#EXTINF:-1 tvg-id="ppv-{item["id"]}" tvg-logo="{item["poster"]}" group-title="{group}",{title}\n'
                 )
-                f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
-                f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
-                f.write(proxied + "\n")
+                for h in STREAM_HEADERS:
+                    f.write(h + "\n")
+                f.write(item["url"] + "\n")
 
-    print("DONE → ppvsort.m3u CREATED")
+    print("DONE — M3U GENERATED:", PLAYLIST_FILE)
 
 
-asyncio.run(generate())
+if __name__ == "__main__":
+    asyncio.run(main())
