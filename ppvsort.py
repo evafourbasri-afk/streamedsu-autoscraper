@@ -6,9 +6,9 @@ API_URL = "https://api.ppv.to/api/streams"
 OUTPUT = "ppvsort.m3u"
 
 
-# ====================
+# ============================
 # WIB FORMAT
-# ====================
+# ============================
 def to_wib(ts):
     try:
         dt = datetime.fromtimestamp(int(ts), tz=timezone.utc) + timedelta(hours=7)
@@ -17,9 +17,9 @@ def to_wib(ts):
         return ""
 
 
-# ====================
+# ============================
 # CATEGORY DETECTOR
-# ====================
+# ============================
 def detect_category(title):
     t = title.lower()
 
@@ -44,9 +44,9 @@ def detect_category(title):
     return "Other"
 
 
-# ====================
-# LIVE DETECTOR
-# ====================
+# ============================
+# LIVE CHECKER
+# ============================
 def is_live(start_ts, end_ts):
     now = int(datetime.now(timezone.utc).timestamp())
     try:
@@ -57,9 +57,9 @@ def is_live(start_ts, end_ts):
         return False
 
 
-# ====================
+# ============================
 # FETCH API
-# ====================
+# ============================
 async def fetch_streams():
     async with aiohttp.ClientSession() as s:
         async with s.get(API_URL) as r:
@@ -68,9 +68,9 @@ async def fetch_streams():
             return await r.json()
 
 
-# ====================
-# GENERATE M3U
-# ====================
+# ============================
+# M3U GENERATOR
+# ============================
 async def generate():
     data = await fetch_streams()
     if not data:
@@ -80,7 +80,7 @@ async def generate():
     categories = data.get("streams", [])
     final_list = []
 
-    # 🔥 FLATTEN ALL STREAMS
+    # Flatten streams
     for cat in categories:
         group = cat.get("category", "Unknown")
         for s in cat.get("streams", []):
@@ -93,10 +93,8 @@ async def generate():
                 "category": group
             })
 
-    # SORT BY TIME
     final_list.sort(key=lambda x: x["start"] or 0)
 
-    # WRITE M3U
     with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
@@ -112,19 +110,15 @@ async def generate():
             if not iframe:
                 continue
 
-            # NORMAL ENTRY
-            f.write(
-                f'#EXTINF:-1 tvg-logo="{poster}" group-title="{cat}",{title} - {wib}\n'
-            )
+            # Original category
+            f.write(f'#EXTINF:-1 tvg-logo="{poster}" group-title="{cat}",{title} - {wib}\n')
             f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
             f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
             f.write(iframe + "\n")
 
-            # LIVE NOW ENTRY
+            # LIVE NOW duplicate
             if is_live(start, end):
-                f.write(
-                    f'#EXTINF:-1 tvg-logo="{poster}" group-title="LIVE NOW",{title} - LIVE NOW\n'
-                )
+                f.write(f'#EXTINF:-1 tvg-logo="{poster}" group-title="LIVE NOW",{title} - LIVE NOW\n')
                 f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
                 f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
                 f.write(iframe + "\n")
@@ -133,27 +127,3 @@ async def generate():
 
 
 asyncio.run(generate())
-            category = detect_category(title)
-
-            # Entry utama
-            f.write(
-                f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="{category}",'
-                f'{title} - {start_wib}\n'
-            )
-            f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
-            f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
-            f.write(stream + "\n")
-
-            # LIVE NOW versi duplikat
-            if is_live(start, end):
-                f.write(
-                    f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" '
-                    f'group-title="LIVE NOW",{title} - LIVE NOW\n'
-                )
-                f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
-                f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
-                f.write(stream + "\n")
-
-    print("DONE → ppvsort.m3u created.")
-
-asyncio.run(generate_m3u())
