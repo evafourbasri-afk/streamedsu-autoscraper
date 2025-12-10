@@ -1,19 +1,17 @@
 import json
 import urllib.request
 import requests
-from fuzzywuzzy import fuzz
 from urllib.error import URLError, HTTPError
-
-# ==============================================
-#  CONFIG
-# ==============================================
 
 BASE = "https://pixelsport.tv"
 API_EVENTS = f"{BASE}/backend/liveTV/events"
 API_SLIDERS = f"{BASE}/backend/slider/getSliders"
+
+# ===============================
+#   OUTPUT M3U NAME CHANGED HERE
+# ===============================
 OUTPUT_FILE = "NewPixel.m3u8"
 
-# M3U eksternal untuk sumber logo
 LOGO_SOURCE_M3U = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/refs/heads/main/ppvsortir.m3u"
 
 VLC_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -23,9 +21,6 @@ VLC_ICY = "1"
 DEFAULT_LOGO = "https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png"
 
 
-# ==============================================
-#  FETCH JSON WITH HEADERS
-# ==============================================
 def fetch_json(url):
     headers = {
         "User-Agent": VLC_USER_AGENT,
@@ -39,75 +34,59 @@ def fetch_json(url):
         return json.loads(resp.read().decode("utf-8"))
 
 
-# ==============================================
-#  PARSE LOGO FROM M3U EXTERNAL SOURCE
-# ==============================================
 def load_logo_dict_from_m3u(m3u_url):
     try:
-        print("[*] Downloading reference M3U for logo mapping...")
+        print("[*] Loading logo source M3U...")
         r = requests.get(m3u_url, timeout=10)
         lines = r.text.splitlines()
     except Exception as e:
-        print("[X] Failed loading logo M3U:", e)
+        print("[X] Logo M3U load failed:", e)
         return {}
 
     logo_map = {}
 
     for line in lines:
-        if line.startswith("#EXTINF"):
-            # Extract name after comma
+        if not line.startswith("#EXTINF"):
+            continue
+
+        try:
+            name = line.split(",")[-1].strip()
+            key = name.upper().replace(" ", "").replace(".", "")
+        except:
+            continue
+
+        if 'tvg-logo="' in line:
             try:
-                name = line.split(",")[-1].strip()
-                key = name.upper().replace(" ", "").replace(".", "")
+                logo = line.split('tvg-logo="')[1].split('"')[0]
+                if logo:
+                    logo_map[key] = logo
             except:
-                continue
+                pass
 
-            # Extract tvg-logo
-            if 'tvg-logo="' in line:
-                try:
-                    logo = line.split('tvg-logo="')[1].split('"')[0]
-                    if logo:
-                        logo_map[key] = logo
-                except:
-                    pass
-
-    print(f"[+] Loaded {len(logo_map)} logos from external M3U")
+    print(f"[+] {len(logo_map)} logos loaded from external M3U.")
     return logo_map
 
 
-# ==============================================
-#  GET BEST LOGO FOR CLUB/EVENT
-# ==============================================
 def get_best_logo(team_name, logo_map):
     if not team_name:
         return None
 
     name_key = team_name.upper().replace(" ", "").replace(".", "")
-
-    # 1️⃣ Fast match — 4 huruf pertama
     key4 = name_key[:4]
+
     if key4 in logo_map:
         return logo_map[key4]
 
-    # 2️⃣ Exact match
     if name_key in logo_map:
         return logo_map[name_key]
 
-    # 3️⃣ Fuzzy match fallback
-    best = None
-    best_score = 0
     for k, url in logo_map.items():
-        score = fuzz.partial_ratio(name_key, k)
-        if score >= 80 and score > best_score:
-            best = url
-            best_score = score
+        if key4 in k or k in name_key:
+            return url
 
-    return best
+    return None
 
 
-# ==============================================
-#  COLLECT STREAM LINKS
-# ==============================================
 def collect_links(obj):
     links = []
     for i in range(1, 4):
@@ -118,27 +97,18 @@ def collect_links(obj):
     return links
 
 
-# ==============================================
-#  BUILD M3U OUTPUT
-# ==============================================
 def build_m3u(events, sliders, logo_map):
     lines = ["#EXTM3U"]
 
-    # =========================
-    #   EVENT LIST
-    # =========================
     for ev in events:
         title = ev.get("match_name", "Unknown Event").strip()
 
-        # ambil nama klub jika ada
-        team1 = ev.get("competitors1_name") or ev.get("team1") or title
-        team2 = ev.get("competitors2_name") or ev.get("team2") or None
+        team1 = ev.get("competitors1_name") or title
+        team2 = ev.get("competitors2_name")
 
-        # coba ambil logo dari M3U eksternal
         logo1 = get_best_logo(team1, logo_map)
-        logo2 = get_best_logo(team2, logo_map) if team2 else None
+        logo2 = get_best_logo(team2, logo_map)
 
-        # fallback jika tidak ada di M3U
         logo = logo1 or logo2 or ev.get("competitors1_logo", DEFAULT_LOGO)
 
         links = collect_links(ev.get("channel", {}))
@@ -146,17 +116,12 @@ def build_m3u(events, sliders, logo_map):
             continue
 
         for link in links:
-            lines.append(
-                f'#EXTINF:-1 tvg-logo="{logo}" group-title="Pixelsports",{title}'
-            )
+            lines.append(f'#EXTINF:-1 tvg-logo="{logo}" group-title="Pixelsports",{title}')
             lines.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
             lines.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
             lines.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
             lines.append(link)
 
-    # =========================
-    #   LIVE SLIDERS
-    # =========================
     for ch in sliders:
         title = ch.get("title", "Live Channel")
         live = ch.get("liveTV", {})
@@ -165,9 +130,7 @@ def build_m3u(events, sliders, logo_map):
             continue
 
         for link in links:
-            lines.append(
-                f'#EXTINF:-1 tvg-logo="{DEFAULT_LOGO}" group-title="Pixelsports - Live",{title}'
-            )
+            lines.append(f'#EXTINF:-1 tvg-logo="{DEFAULT_LOGO}" group-title="Pixelsports - Live",{title}')
             lines.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
             lines.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
             lines.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
@@ -176,28 +139,22 @@ def build_m3u(events, sliders, logo_map):
     return "\n".join(lines)
 
 
-# ==============================================
-#  MAIN
-# ==============================================
 def main():
     try:
-        # load logo database
         logo_map = load_logo_dict_from_m3u(LOGO_SOURCE_M3U)
 
         print("[*] Fetching PixelSport events...")
-        events_data = fetch_json(API_EVENTS)
-        events = events_data.get("events", [])
+        events = fetch_json(API_EVENTS).get("events", [])
 
-        print("[*] Fetching PixelSport sliders...")
-        sliders_data = fetch_json(API_SLIDERS)
-        sliders = sliders_data.get("data", [])
+        print("[*] Fetching sliders...")
+        sliders = fetch_json(API_SLIDERS).get("data", [])
 
         playlist = build_m3u(events, sliders, logo_map)
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(playlist)
 
-        print(f"[✓] Saved: {OUTPUT_FILE}")
+        print(f"[✓] Saved as {OUTPUT_FILE}")
         print(f"[✓] Events: {len(events)}, Sliders: {len(sliders)}")
 
     except Exception as e:
