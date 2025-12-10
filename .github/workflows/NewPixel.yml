@@ -3,7 +3,7 @@ name: NewPixel
 on:
   schedule:
     # setiap 2 jam sekali
-    - cron: "0 */2 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 jobs:
