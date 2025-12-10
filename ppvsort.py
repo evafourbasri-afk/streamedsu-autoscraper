@@ -1,5 +1,5 @@
 # ppvsortir_final.py
-# FIXED VERSION — Chromium + Retry + Guaranteed Output
+# FINAL VERSION — Chromium + WIB + Football Mapping + Live Now + Retry + No Firefox
 
 import asyncio
 from playwright.async_api import async_playwright
@@ -36,15 +36,6 @@ GROUP_RENAME_MAP = {
     "Live Now": "PPV - Live Now"
 }
 
-async def fetch_streams():
-    try:
-        async with aiohttp.ClientSession() as session:
-            r = await session.get(API_URL, timeout=20)
-            j = await r.json()
-            return j.get("streams", [])
-    except:
-        return []
-
 def detect_football(name):
     name = name.lower()
     for league, keys in FOOTBALL_MAP.items():
@@ -58,6 +49,14 @@ def get_time_wib(starts_at):
     dt = datetime.fromtimestamp(starts_at, tz=timezone.utc)
     dt_wib = dt.astimezone(ZoneInfo("Asia/Jakarta"))
     return dt_wib.strftime("%d %b %Y %H:%M WIB")
+
+async def fetch_streams():
+    try:
+        async with aiohttp.ClientSession() as session:
+            r = await session.get(API_URL, timeout=20)
+            return (await r.json()).get("streams", [])
+    except:
+        return []
 
 async def grab_url(page, iframe):
     found = None
@@ -81,7 +80,7 @@ async def grab_url(page, iframe):
     except:
         pass
 
-    for _ in range(200):
+    for _ in range(250):
         if found:
             return found
         await asyncio.sleep(0.05)
@@ -98,7 +97,7 @@ async def main():
     flat = []
 
     for category in streams:
-        cname = category.get("category", "")
+        cname = category.get("category", "").strip()
 
         if cname.lower() == "24/7 streams":
             continue
@@ -128,7 +127,7 @@ async def main():
                 "categories": cats
             })
 
-    flat.sort(key=lambda x: x["name"])
+    flat.sort(key=lambda x: x["name"].lower())
 
     results = []
 
@@ -146,7 +145,6 @@ async def main():
 
             await page.close()
 
-            # Fallback jika gagal → tetap pakai iframe supaya tidak kosong
             item["url"] = url if url else item["iframe"]
             results.append(item)
 
@@ -157,98 +155,21 @@ async def main():
         for item in results:
             for cat in item["categories"]:
                 group = GROUP_RENAME_MAP.get(cat, cat)
-                title = item["name"]
-                if item["time"]:
-                    title += f" - {item['time']}"
 
-                f.write(f'#EXTINF:-1 tvg-id="{item["id"]}" tvg-logo="{item["poster"]}" group-title="{group}",{title}\n')
-                for h in STREAM_HEADERS:
-                    f.write(h + "\n")
-                f.write(item["url"] + "\n")
-
-    print("DONE — FIXED M3U:", PLAYLIST_FILE)
-
-if __name__ == "__main__":
-    asyncio.run(main())
-async def main():
-    streams = await fetch_streams()
-    if not streams:
-        print("NO STREAMS FOUND")
-        return
-
-    now = int(time.time())
-    flat = []
-
-    for category in streams:
-        cname = category.get("category", "").strip()
-
-        # Remove 24/7
-        if cname.lower() == "24/7 streams":
-            continue
-
-        for s in category.get("streams", []):
-            iframe = s.get("iframe")
-            if not iframe:
-                continue
-
-            starts = s.get("starts_at", 0)
-            is_live = starts <= now and starts > 0
-
-            final_cat = cname
-            if cname.lower() == "football":
-                final_cat = detect_football(s.get("name", ""))
-
-            categories = [final_cat]
-            if is_live:
-                categories.append("Live Now")  # duplicate category A
-
-            flat.append({
-                "id": s["id"],
-                "name": s["name"],
-                "iframe": iframe,
-                "poster": s.get("poster") or BACKUP_LOGOS.get(final_cat.split(" - ")[0], ""),
-                "time": get_time_wib(starts),
-                "categories": categories
-            })
-
-    # Sort by name
-    flat.sort(key=lambda x: x["name"].lower())
-
-    results = []
-
-    async with async_playwright() as p:
-        browser = await p.firefox.launch(headless=True)
-
-        for item in flat:
-            page = await browser.new_page()
-            url = await grab_m3u8(page, item["iframe"])
-            await page.close()
-
-            if url:
-                item["url"] = url
-                results.append(item)
-
-        await browser.close()
-
-    # Write playlist
-    with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-
-        for item in results:
-            for cat in item["categories"]:
-                group = GROUP_RENAME_MAP.get(cat, cat)
                 title = item["name"]
                 if item["time"]:
                     title += f" - {item['time']}"
 
                 f.write(
-                    f'#EXTINF:-1 tvg-id="ppv-{item["id"]}" tvg-logo="{item["poster"]}" group-title="{group}",{title}\n'
+                    f'#EXTINF:-1 tvg-id="{item["id"]}" tvg-logo="{item["poster"]}" group-title="{group}",{title}\n'
                 )
+
                 for h in STREAM_HEADERS:
                     f.write(h + "\n")
+
                 f.write(item["url"] + "\n")
 
-    print("DONE — M3U GENERATED:", PLAYLIST_FILE)
+    print("DONE — FIXED M3U:", PLAYLIST_FILE)
 
 
 if __name__ == "__main__":
