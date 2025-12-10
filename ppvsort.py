@@ -5,107 +5,134 @@ from datetime import datetime, timezone, timedelta
 API_URL = "https://api.ppv.to/api/streams"
 OUTPUT = "ppvsort.m3u"
 
-# ============================
-# WIB TIME FORMATTER
-# ============================
+
+# ====================
+# WIB FORMAT
+# ====================
 def to_wib(ts):
     try:
-        ts = int(ts)
-        dt = datetime.fromtimestamp(ts, tz=timezone.utc) + timedelta(hours=7)
+        dt = datetime.fromtimestamp(int(ts), tz=timezone.utc) + timedelta(hours=7)
         return dt.strftime("%d %b %Y %H:%M WIB")
     except:
-        return "Unknown Time"
+        return ""
 
-# ============================
-# KLASIFIKASI KATEGORI
-# ============================
+
+# ====================
+# CATEGORY DETECTOR
+# ====================
 def detect_category(title):
     t = title.lower()
 
-    if "epl" in t or "premier" in t:
+    if "premier" in t or "epl" in t:
         return "Football - EPL"
     if "bundes" in t:
         return "Football - Bundesliga"
-    if "serie a" in t or "juventus" in t or "inter" in t:
+    if "serie" in t:
         return "Football - Serie A"
-    if "laliga" in t or "la liga" in t or "barcelona" in t or "real madrid" in t:
+    if "liga" in t or "laliga" in t:
         return "Football - LaLiga"
-    if "ligue" in t or "psg" in t:
+    if "ligue" in t:
         return "Football - Ligue 1"
-
     if "ucl" in t or "champions" in t:
         return "Football - UCL"
-    if "uel" in t:
-        return "Football - UEL"
-    if "uecl" in t or "conference" in t:
-        return "Football - UECL"
 
     if "ufc" in t or "fight" in t:
         return "Combat Sports"
     if "wwe" in t or "wrestling" in t:
         return "Wrestling"
-    if "nba" in t or "basket" in t:
-        return "Basketball"
-    if "nhl" in t or "hockey" in t:
-        return "Ice Hockey"
-    if "nfl" in t:
-        return "NFL"
 
-    return "Other Sports"
+    return "Other"
 
-# ============================
-# DETECT LIVE NOW
-# ============================
+
+# ====================
+# LIVE DETECTOR
+# ====================
 def is_live(start_ts, end_ts):
-    now = datetime.now(timezone.utc).timestamp()
-
+    now = int(datetime.now(timezone.utc).timestamp())
     try:
-        start_ts = int(start_ts or 0)
+        start_ts = int(start_ts)
         end_ts = int(end_ts) if end_ts else start_ts + 3 * 3600
         return start_ts <= now <= end_ts
     except:
         return False
 
-# ============================
-# FETCH STREAMS API
-# ============================
+
+# ====================
+# FETCH API
+# ====================
 async def fetch_streams():
     async with aiohttp.ClientSession() as s:
         async with s.get(API_URL) as r:
             if r.status != 200:
-                print("API Error:", r.status)
                 return None
             return await r.json()
 
-# ============================
-# BUILD M3U
-# ============================
-async def generate_m3u():
+
+# ====================
+# GENERATE M3U
+# ====================
+async def generate():
     data = await fetch_streams()
     if not data:
-        print("Fetch API gagal.")
+        print("API error")
         return
 
-    streams = data.get("data", [])
+    categories = data.get("streams", [])
+    final_list = []
 
+    # 🔥 FLATTEN ALL STREAMS
+    for cat in categories:
+        group = cat.get("category", "Unknown")
+        for s in cat.get("streams", []):
+            final_list.append({
+                "title": s.get("name"),
+                "iframe": s.get("iframe"),
+                "poster": s.get("poster"),
+                "start": s.get("starts_at"),
+                "end": s.get("ends_at"),
+                "category": group
+            })
+
+    # SORT BY TIME
+    final_list.sort(key=lambda x: x["start"] or 0)
+
+    # WRITE M3U
     with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
-        for item in streams:
+        for item in final_list:
+            title = item["title"]
+            iframe = item["iframe"]
+            poster = item["poster"]
+            start = item["start"]
+            end = item["end"]
+            wib = to_wib(start)
+            cat = detect_category(title)
 
-            title = item.get("title", "Unknown Event")
-            poster = item.get("poster", "")
-            event_id = item.get("id", "")
-            start = item.get("startTime")
-            end = item.get("endTime")
-            start_wib = to_wib(start)
-
-            stream_data = item.get("stream", {})
-            stream = stream_data.get("url", "")
-
-            if not stream:
+            if not iframe:
                 continue
 
+            # NORMAL ENTRY
+            f.write(
+                f'#EXTINF:-1 tvg-logo="{poster}" group-title="{cat}",{title} - {wib}\n'
+            )
+            f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
+            f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
+            f.write(iframe + "\n")
+
+            # LIVE NOW ENTRY
+            if is_live(start, end):
+                f.write(
+                    f'#EXTINF:-1 tvg-logo="{poster}" group-title="LIVE NOW",{title} - LIVE NOW\n'
+                )
+                f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
+                f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
+                f.write(iframe + "\n")
+
+    print("DONE → ppvsort.m3u created!")
+
+
+asyncio.run(generate())
             category = detect_category(title)
 
             # Entry utama
