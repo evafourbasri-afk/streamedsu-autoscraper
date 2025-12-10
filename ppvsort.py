@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo
 import time
 
 API_URL = "https://api.ppv.to/api/streams"
-PLAYLIST_FILE = "ppvsortir.m3u"
+PLAYLIST_FILE = "ppvsort.m3u"
 
 STREAM_HEADERS = [
     '#EXTVLCOPT:http-referrer=https://ppv.to/',
