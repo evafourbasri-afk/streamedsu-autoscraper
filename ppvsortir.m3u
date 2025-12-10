@@ -15,10 +15,6 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ligue1_aux/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14852" tvg-logo="https://api.ppv.to/assets/thumb/bbbdd3b5d37e2ed4d439ef2e4ffe75f4-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Anaheim Ducks vs. Pittsburgh Penguins - 10 Dec 2025 07:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pittsburghpenguins/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14831" tvg-logo="https://api.ppv.to/assets/thumb/bc843c4c599d9f93d0ded1beb6b81b07-thumbnail.jpg" group-title="Football - Other",Angers SCO vs. FC Nantes - 13 Dec 2025 02:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -35,10 +31,6 @@ https://gg.poocloud.in/epl_ars/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seriea_ata/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14771" tvg-logo="https://api.ppv.to/assets/thumb/aa60577a2c92ed024c37fa298b08756a-thumbnail.jpg" group-title="Football - Other",Atalanta vs. Chelsea - 10 Dec 2025 03:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ucl_ata/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14783" tvg-logo="https://api.ppv.to/assets/thumb/7edf4bd63ad7b0253833b39df3319af2-thumbnail.jpg" group-title="Football - Other",Athletic Club vs. Paris - 11 Dec 2025 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -55,18 +47,10 @@ https://gg.poocloud.in/ucl_bvb/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cincinnatibengals/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14770" tvg-logo="https://api.ppv.to/assets/thumb/b8d937360033c2d7315396066122f97c-thumbnail.jpg" group-title="Football - Other",Barcelona vs. Frankfurt - 10 Dec 2025 03:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ucl_bar/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14797" tvg-logo="https://api.ppv.to/assets/thumb/f4091680f3f6746cd19ea21b2bca87e4-thumbnail.jpg" group-title="Football - Other",Basel vs. Aston Villa - 12 Dec 2025 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_bsl/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14768" tvg-logo="https://api.ppv.to/assets/thumb/5ecdaabd8f240cbaff18cc4c25152ca9-thumbnail.jpg" group-title="Football - Other",Bayern München vs. Sporting CP - 10 Dec 2025 00:45 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ucl_bay/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14765" tvg-logo="https://api.ppv.to/assets/thumb/d06d2cb98fb36a6dad2f9274cc0958ba-thumbnail.jpg" group-title="Football - Other",Bayern vs. Mainz - 14 Dec 2025 23:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -80,6 +64,10 @@ https://gg.poocloud.in/ucl_ben/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seriea_bol/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14856" tvg-logo="https://api.ppv.to/assets/thumb/cae91275aacc1a2f768b4fb3db9d384c-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Boston Bruins vs. St. Louis Blues - 10 Dec 2025 08:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/stlouisblues/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14856" tvg-logo="https://api.ppv.to/assets/thumb/cae91275aacc1a2f768b4fb3db9d384c-thumbnail.jpg" group-title="PPVLand - Live Now",Boston Bruins vs. St. Louis Blues - 10 Dec 2025 08:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/stlouisblues/index.m3u8
@@ -143,11 +131,19 @@ https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/carolinahurricanes/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14855" tvg-logo="https://api.ppv.to/assets/thumb/b204406ecbda6e8916e9ebbc597b36d6-thumbnail.jpg" group-title="PPVLand - Live Now",Columbus Blue Jackets vs. Carolina Hurricanes - 10 Dec 2025 07:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/carolinahurricanes/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14752" tvg-logo="https://api.ppv.to/assets/thumb/c357a97d1f9a3b5811da38bc1daf0640-thumbnail.jpg" group-title="Football - Other",Crystal Palace vs. Manchester City - 14 Dec 2025 21:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/epl_cry/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14860" tvg-logo="https://api.ppv.to/assets/thumb/ec8538a36e1288dd23e4b3586bdc1ea8-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Dallas Stars vs. Winnipeg Jets - 10 Dec 2025 08:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/winnipegjets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14860" tvg-logo="https://api.ppv.to/assets/thumb/ec8538a36e1288dd23e4b3586bdc1ea8-thumbnail.jpg" group-title="PPVLand - Live Now",Dallas Stars vs. Winnipeg Jets - 10 Dec 2025 08:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/winnipegjets/index.m3u8
@@ -223,10 +219,6 @@ https://gg.poocloud.in/uecl_h%C3%83%C2%A4c/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seattleseahawks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14769" tvg-logo="https://api.ppv.to/assets/thumb/aa67664ed88e6eacc2cfd74c22e74005-thumbnail.jpg" group-title="Football - Other",Inter vs. Liverpool - 10 Dec 2025 03:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ucl_int/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14804" tvg-logo="https://api.ppv.to/assets/thumb/106cba7c5ff076ea39b3dbdf372f1b31-thumbnail.jpg" group-title="Football - Other",Jagiellonia vs. Rayo Vallecano - 12 Dec 2025 00:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -235,10 +227,6 @@ https://gg.poocloud.in/uecl_jag/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ucl_juv/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14767" tvg-logo="https://api.ppv.to/assets/thumb/17201132dc25834d60e71099ee796945-thumbnail.jpg" group-title="Football - Other",Kairat Almaty vs. Olympiacos - 09 Dec 2025 22:30 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ucl_kai/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14816" tvg-logo="https://api.ppv.to/assets/thumb/099bbf1860702d9bc2d4fda159b62732-thumbnail.jpg" group-title="Football - Other",KuPS Kuopio vs. Lausanne-Sport - 12 Dec 2025 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -295,6 +283,10 @@ https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/orlandomagic/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14842" tvg-logo="https://api.ppv.to/assets/thumb/bb9b86f3eb0384ce89eb8293a227abe8-thumbnail.jpg" group-title="PPVLand - Live Now",Miami Heat vs. Orlando Magic - 10 Dec 2025 06:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/orlandomagic/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14788" tvg-logo="https://api.ppv.to/assets/thumb/60664f86cc21f8d220949d0ad62c4a3d-thumbnail.jpg" group-title="Football - Other",Midtjylland vs. Genk - 12 Dec 2025 00:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -307,11 +299,11 @@ https://gg.poocloud.in/seriea_mil/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/dallascowboys/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14774" tvg-logo="https://api.ppv.to/assets/thumb/ed784950035d34c65a44bc4764a8c609-thumbnail.jpg" group-title="Football - Other",Monaco vs. Galatasaray - 10 Dec 2025 03:00 WIB
+#EXTINF:-1 tvg-id="ppv-14846" tvg-logo="https://api.ppv.to/assets/thumb/31c6c8f98895218b182f5e2977301133-thumbnail.jpg" group-title="PPVLand - Ice Hockey",New Jersey Devils vs. Ottawa Senators - 10 Dec 2025 07:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ucl_mon/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14846" tvg-logo="https://api.ppv.to/assets/thumb/31c6c8f98895218b182f5e2977301133-thumbnail.jpg" group-title="PPVLand - Ice Hockey",New Jersey Devils vs. Ottawa Senators - 10 Dec 2025 07:00 WIB
+https://gg.poocloud.in/ottawasenators/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14846" tvg-logo="https://api.ppv.to/assets/thumb/31c6c8f98895218b182f5e2977301133-thumbnail.jpg" group-title="PPVLand - Live Now",New Jersey Devils vs. Ottawa Senators - 10 Dec 2025 07:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ottawasenators/index.m3u8
@@ -359,10 +351,6 @@ https://gg.poocloud.in/seriea_par/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_por/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14773" tvg-logo="https://api.ppv.to/assets/thumb/a96957929995ff16a420822d58d133b3-thumbnail.jpg" group-title="Football - Other",PSV vs. Atleti - 10 Dec 2025 03:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ucl_psv/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14777" tvg-logo="https://api.ppv.to/assets/thumb/9d57c4edeadda4e353bafb0eaa558dd4-thumbnail.jpg" group-title="Football - Other",Qarabağ vs. Ajax - 11 Dec 2025 00:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -396,6 +384,10 @@ https://gg.poocloud.in/seriea_rom/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uecl_sam/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14850" tvg-logo="https://api.ppv.to/assets/thumb/ce916705c1b4508d78f11c68f057d8ec-thumbnail.jpg" group-title="PPVLand - Ice Hockey",San Jose Sharks vs. Philadelphia Flyers - 10 Dec 2025 07:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/philadelphiaflyers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14850" tvg-logo="https://api.ppv.to/assets/thumb/ce916705c1b4508d78f11c68f057d8ec-thumbnail.jpg" group-title="PPVLand - Live Now",San Jose Sharks vs. Philadelphia Flyers - 10 Dec 2025 07:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/philadelphiaflyers/index.m3u8
@@ -435,6 +427,10 @@ https://gg.poocloud.in/epl_sun/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/montrealcanadiens/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14843" tvg-logo="https://api.ppv.to/assets/thumb/44abd5b84583e37e0de9e437ee6617d2-thumbnail.jpg" group-title="PPVLand - Live Now",Tampa Bay Lightning vs. Montreal Canadiens - 10 Dec 2025 07:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/montrealcanadiens/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14866" tvg-logo="https://api.ppv.to/assets/thumb/953150737af19a8b41930f7e948b2f0c-thumbnail.jpg" group-title="PPVLand - NFL",Tennessee Titans vs. San Francisco 49ers - 15 Dec 2025 04:25 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -447,10 +443,6 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seriea_tor/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14772" tvg-logo="https://api.ppv.to/assets/thumb/65feb28413c633fbb4f052a11b66d106-thumbnail.jpg" group-title="Football - Other",Tottenham vs. Slavia Praha - 10 Dec 2025 03:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ucl_tot/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14810" tvg-logo="https://api.ppv.to/assets/thumb/b8e22cf6b6bcca42a32f00a7e47e6ea9-thumbnail.jpg" group-title="Football - Other",U. Craiova vs. Sparta Praha - 12 Dec 2025 00:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -471,15 +463,15 @@ https://gg.poocloud.in/ufc/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bundesliga_fcu/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14775" tvg-logo="https://api.ppv.to/assets/thumb/ce4666f276efd973acdf2b2586e750e5-thumbnail.jpg" group-title="Football - Other",Union SG vs. Marseille - 10 Dec 2025 03:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ucl_usg/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14793" tvg-logo="https://api.ppv.to/assets/thumb/8571f94c7df776ac47effe9713451b3d-thumbnail.jpg" group-title="Football - Other",Utrecht vs. Nott'm Forest - 12 Dec 2025 00:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_utr/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14848" tvg-logo="https://api.ppv.to/assets/thumb/9660faf10cbea9aaf128f6174b00b213-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Vegas Golden Knights vs. New York Islanders - 10 Dec 2025 07:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/newyorkislanders/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14848" tvg-logo="https://api.ppv.to/assets/thumb/9660faf10cbea9aaf128f6174b00b213-thumbnail.jpg" group-title="PPVLand - Live Now",Vegas Golden Knights vs. New York Islanders - 10 Dec 2025 07:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/newyorkislanders/index.m3u8
@@ -500,6 +492,10 @@ https://gg.poocloud.in/epl_whu/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14743" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="PPVLand - Wrestling",WWE: NXT - 10 Dec 2025 08:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14743" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="PPVLand - Live Now",WWE: NXT - 10 Dec 2025 08:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
