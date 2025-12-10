@@ -48,7 +48,7 @@ def detect_category(title):
         return "Basketball"
     if "nhl" in t or "hockey" in t:
         return "Ice Hockey"
-    if "nfl" in t or "american football" in t:
+    if "nfl" in t:
         return "NFL"
 
     return "Other Sports"
@@ -61,14 +61,13 @@ def is_live(start_ts, end_ts):
 
     try:
         start_ts = int(start_ts or 0)
-        end_ts = int(end_ts) if end_ts else start_ts + 3 * 3600  # default 3 jam
-
+        end_ts = int(end_ts) if end_ts else start_ts + 3 * 3600
         return start_ts <= now <= end_ts
     except:
         return False
 
 # ============================
-# FETCH STREAM API
+# FETCH STREAMS API
 # ============================
 async def fetch_streams():
     async with aiohttp.ClientSession() as s:
@@ -84,7 +83,7 @@ async def fetch_streams():
 async def generate_m3u():
     data = await fetch_streams()
     if not data:
-        print("Gagal fetch API.")
+        print("Fetch API gagal.")
         return
 
     streams = data.get("data", [])
@@ -101,49 +100,33 @@ async def generate_m3u():
             end = item.get("endTime")
             start_wib = to_wib(start)
 
-            # URL stream HLS dari API resmi
-            stream_url = item.get("stream", {}).get("url", "")
+            stream_data = item.get("stream", {})
+            stream = stream_data.get("url", "")
 
-            if not stream_url:
-                continue
-
-            category = detect_category(title)
-
-            # ENTRY utama
-            f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="{category}",{title} - {start_wib}\n')
-            f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
-            f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
-            f.write(stream_url + "\n")
-
-            # ENTRY LIVE NOW
-            if is_live(start, end):
-                f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="LIVE NOW",{title} - LIVE NOW\n')
-                f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
-                f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
-                f.write(stream_url + "\n")
-
-    print("DONE → ppvsort.m3u created.")
-
-asyncio.run(generate_m3u())
             if not stream:
                 continue
 
             category = detect_category(title)
 
-            # ➜ Tulis entry utama
-            f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="{category}",{title} - {start_wib}\n')
+            # Entry utama
+            f.write(
+                f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="{category}",'
+                f'{title} - {start_wib}\n'
+            )
             f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
             f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
             f.write(stream + "\n")
 
-            # ➜ Tulis entry LIVE NOW
-            if is_live(s_time, e_time):
-                f.write(f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" group-title="LIVE NOW",{title} - ⛔ LIVE NOW\n')
+            # LIVE NOW versi duplikat
+            if is_live(start, end):
+                f.write(
+                    f'#EXTINF:-1 tvg-id="ppv-{event_id}" tvg-logo="{poster}" '
+                    f'group-title="LIVE NOW",{title} - LIVE NOW\n'
+                )
                 f.write("#EXTVLCOPT:http-referrer=https://ppv.to/\n")
                 f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
                 f.write(stream + "\n")
 
-    print("DONE → ppvsort.m3u berhasil dibuat.")
-
+    print("DONE → ppvsort.m3u created.")
 
 asyncio.run(generate_m3u())
