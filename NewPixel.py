@@ -5,6 +5,7 @@ from urllib.error import URLError, HTTPError
 from PIL import Image, ImageDraw
 import io
 import os
+from datetime import datetime, timedelta, timezone
 
 # ==============================================
 # CONFIG
@@ -28,73 +29,53 @@ DEFAULT_LOGO = "https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239
 
 
 # ==============================================
-# LEAGUE MAPPING
+# CATEGORY MAPPING (PIXELSPORT OFFICIAL)
 # ==============================================
 
 LEAGUE_MAP = {
     "nba": "NBA",
-    "basket": "NBA",
     "nfl": "NFL",
-    "football": "NFL",
     "mlb": "MLB",
-    "baseball": "MLB",
     "nhl": "NHL",
-    "hockey": "NHL",
-    "ufc": "UFC",
-    "mma": "UFC",
-    "boxing": "Boxing",
-    "fight": "Boxing",
-    "f1": "F1",
-    "formula": "F1",
-    "nascar": "Racing",
-    "motor": "Racing",
-    "epl": "EPL",
-    "premier": "EPL",
-    "england": "EPL",
-    "laliga": "LaLiga",
-    "bundes": "Bundesliga",
-    "serie a": "Serie A",
-    "italy": "Serie A",
-    "ligue": "Ligue 1",
-    "france": "Ligue 1",
-    "mls": "MLS",
-    "america": "MLS",
-    "soccer": "Soccer",
-    "futbol": "Soccer"
 }
 
-
 # ==============================================
-# PNG LOGO LIGA (FULL COMPATIBLE)
+# PNG LOGOS FOR LEAGUES (COMPATIBLE WITH PILLOW)
 # ==============================================
-
 LEAGUE_LOGOS = {
     "NBA": "https://i.imgur.com/3R8H0kT.png",
     "NFL": "https://i.imgur.com/AxHwU1l.png",
     "MLB": "https://i.imgur.com/H3cG9eA.png",
     "NHL": "https://i.imgur.com/q4LX0SK.png",
-    "EPL": "https://i.imgur.com/zM9iqmZ.png",
-    "Serie A": "https://i.imgur.com/8eZg5s8.png",
-    "Bundesliga": "https://i.imgur.com/EuhCXQg.png",
-    "LaLiga": "https://i.imgur.com/jURKCIp.png",
-    "Ligue 1": "https://i.imgur.com/V4DvVU2.png",
-    "MLS": "https://i.imgur.com/cNn9TuR.png",
-    "UFC": "https://i.imgur.com/MxFhgy5.png",
-    "Boxing": "https://i.imgur.com/BtEU3AC.png"
 }
 
 
 # ==============================================
-# LEAGUE HELPER
+# WIB TIME CONVERTER
 # ==============================================
+def to_wib(timestamp_ms):
+    """Convert timestamp (ms) from API → WIB time."""
+    try:
+        ts = int(timestamp_ms) / 1000
+        dt_utc = datetime.utcfromtimestamp(ts).replace(tzinfo=timezone.utc)
+        dt_wib = dt_utc + timedelta(hours=7)
+        return dt_wib.strftime("%d %b %Y %H:%M WIB")
+    except:
+        return ""
 
+
+# ==============================================
+# GET LEAGUE GROUP
+# ==============================================
 def get_league_group(raw_name):
     if not raw_name:
         return "PixelSport - Other"
+
     name = raw_name.lower()
     for key, cat in LEAGUE_MAP.items():
         if key in name:
             return f"PixelSport - {cat}"
+
     return "PixelSport - Other"
 
 
@@ -105,17 +86,12 @@ def get_league_logo(group_title):
     return None
 
 
+# ==============================================
+# GRADIENT COLORS PER LEAGUE
+# ==============================================
 def get_gradient_colors(group_title):
     gt = group_title.lower()
 
-    if "epl" in gt:
-        return (200, 20, 0), (255, 160, 0)
-    if "serie a" in gt:
-        return (10, 40, 160), (0, 120, 255)
-    if "bundes" in gt:
-        return (150, 0, 0), (60, 0, 0)
-    if "laliga" in gt:
-        return (80, 0, 120), (200, 40, 60)
     if "nba" in gt:
         return (20, 20, 80), (0, 100, 220)
     if "nfl" in gt:
@@ -124,8 +100,6 @@ def get_gradient_colors(group_title):
         return (0, 40, 120), (140, 0, 0)
     if "nhl" in gt:
         return (30, 30, 30), (90, 90, 90)
-    if "ufc" in gt or "boxing" in gt:
-        return (120, 0, 0), (20, 20, 20)
 
     return (30, 30, 30), (80, 80, 80)
 
@@ -133,7 +107,6 @@ def get_gradient_colors(group_title):
 # ==============================================
 # FETCH JSON
 # ==============================================
-
 def fetch_json(url):
     headers = {
         "User-Agent": VLC_USER_AGENT,
@@ -148,9 +121,8 @@ def fetch_json(url):
 
 
 # ==============================================
-# GENERATE THUMBNAIL (FINAL)
+# GENERATE THUMBNAIL (FINAL WIB VERSION)
 # ==============================================
-
 def generate_match_logo(home_url, away_url, group_title, output_path):
     try:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -219,7 +191,6 @@ def generate_match_logo(home_url, away_url, group_title, output_path):
 # ==============================================
 # BUILD M3U
 # ==============================================
-
 def collect_links(obj):
     links = []
     for i in range(1, 4):
@@ -233,7 +204,11 @@ def build_m3u(events, sliders):
     out = ["#EXTM3U"]
 
     for ev in events:
-        title = ev.get("match_name", "Unknown Event").strip()
+        raw_title = ev.get("match_name", "Unknown Event").strip()
+        timestamp = ev.get("date") or ev.get("time") or 0
+        wib_time = to_wib(timestamp)
+
+        title = f"{raw_title} - {wib_time}"
 
         home = ev.get("competitors1_logo") or DEFAULT_LOGO
         away = ev.get("competitors2_logo") or DEFAULT_LOGO
@@ -242,7 +217,7 @@ def build_m3u(events, sliders):
         group = get_league_group(raw_cat)
 
         safe = (
-            title.replace(" ", "_")
+            raw_title.replace(" ", "_")
             .replace("/", "_")
             .replace(":", "_")
             .replace("|", "_")
@@ -263,7 +238,7 @@ def build_m3u(events, sliders):
                 out.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
                 out.append(link)
 
-    # Live slider
+    # Sliders
     for ch in sliders:
         title = ch.get("title", "Live Channel")
         live = ch.get("liveTV", {})
@@ -281,7 +256,6 @@ def build_m3u(events, sliders):
 # ==============================================
 # MAIN
 # ==============================================
-
 def main():
     try:
         os.makedirs(THUMB_DIR, exist_ok=True)
