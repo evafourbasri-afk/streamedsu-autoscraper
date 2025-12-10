@@ -1,210 +1,159 @@
-import json
-import urllib.request
-from urllib.error import URLError, HTTPError
-import os
+import requests
+from PIL import Image, ImageDraw
+from io import BytesIO
 from datetime import datetime
 from zoneinfo import ZoneInfo
-from PIL import Image
-import requests
-from io import BytesIO
+import os
 
-BASE = "https://pixelsport.tv"
-API_EVENTS = f"{BASE}/backend/liveTV/events"
-API_SLIDERS = f"{BASE}/backend/slider/getSliders"
-OUTPUT_FILE = "NewPixel.m3u8"
+# ================================
+# CONFIG
+# ================================
+API_URL = "https://pixelsport.tv/backend/liveTV/events"
+OUTPUT_M3U = "NewPixel.m3u8"
+THUMB_DIR = "thumbs"
 
-THUMB_FOLDER = "thumbs"
-EVENT_LOGO_FOLDER = "event_logos"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "Referer": "https://pixelsport.tv/",
+    "Origin": "https://pixelsport.tv",
+    "Accept": "*/*",
+}
 
-# Pastikan folder ada
-os.makedirs(THUMB_FOLDER, exist_ok=True)
-
-VLC_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-VLC_REFERER = f"{BASE}/"
-
-# Event Logo Map (local GitHub folder)
 EVENT_LOGO_MAP = {
-    "NBA": f"{EVENT_LOGO_FOLDER}/NBA.png",
-    "NFL": f"{EVENT_LOGO_FOLDER}/NFL.png",
-    "MLB": f"{EVENT_LOGO_FOLDER}/MLB.png",
-    "NHL": f"{EVENT_LOGO_FOLDER}/NHL.png",
+    "NFL": "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/main/event_logos/NFL.png",
+    "NHL": "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/main/event_logos/NHL.png",
+    "NBA": "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/main/event_logos/NBA.png",
+    "MLB": "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/main/event_logos/MLB.png",
 }
 
-LEAGUE_KEYWORDS = {
-    "nba": "NBA",
-    "basket": "NBA",
-    "nfl": "NFL",
-    "football": "NFL",
-    "mlb": "MLB",
-    "baseball": "MLB",
-    "nhl": "NHL",
-    "hockey": "NHL",
-}
-
-def detect_league(text):
-    if not text:
-        return "Other"
-    t = text.lower()
-    for k, v in LEAGUE_KEYWORDS.items():
-        if k in t:
-            return v
-    return "Other"
+THUMB_W, THUMB_H = 512, 288
+LOGO_SIZE = 130
+EVENT_SIZE = 85
 
 
-def fetch_json(url):
-    headers = {
-        "User-Agent": VLC_USER_AGENT,
-        "Referer": VLC_REFERER,
-        "Accept": "*/*",
-        "Connection": "close",
-    }
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req, timeout=10) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+# ================================
+# GRADIENT BUILDER
+# ================================
+def build_gradient():
+    img = Image.new("RGB", (THUMB_W, THUMB_H), "#000")
+    draw = ImageDraw.Draw(img)
+
+    colors = [
+        (20, 30, 80),     # Dark Blue
+        (60, 20, 90),     # Deep Purple
+        (120, 30, 60)     # Dark Red Pink
+    ]
+
+    for x in range(THUMB_W):
+        t = x / THUMB_W
+        if t < 0.5:
+            r = int(colors[0][0] * (1 - t * 2) + colors[1][0] * (t * 2))
+            g = int(colors[0][1] * (1 - t * 2) + colors[1][1] * (t * 2))
+            b = int(colors[0][2] * (1 - t * 2) + colors[1][2] * (t * 2))
+        else:
+            t2 = (t - 0.5) * 2
+            r = int(colors[1][0] * (1 - t2) + colors[2][0] * t2)
+            g = int(colors[1][1] * (1 - t2) + colors[2][1] * t2)
+            b = int(colors[1][2] * (1 - t2) + colors[2][2] * t2)
+
+        draw.line([(x, 0), (x, THUMB_H)], fill=(r, g, b))
+
+    return img
 
 
-def load_image(url):
+# ================================
+# IMAGE DOWNLOADER + RESIZER
+# ================================
+def fetch_logo(url, size):
     try:
-        r = requests.get(url, timeout=8)
+        r = requests.get(url, timeout=10)
         img = Image.open(BytesIO(r.content)).convert("RGBA")
+        img.thumbnail((size, size), Image.LANCZOS)
         return img
     except:
         return None
 
 
-def merge_logos(logo1_url, event_logo_url, logo2_url, filename):
+# ================================
+# BUILD THUMB
+# ================================
+def build_thumb(home_url, away_url, event_logo, filename):
+    bg = build_gradient()
 
-    img1 = load_image(logo1_url)
-    img2 = load_image(logo2_url)
-    evt = load_image(event_logo_url)
+    home = fetch_logo(home_url, LOGO_SIZE)
+    away = fetch_logo(away_url, LOGO_SIZE)
+    evl  = fetch_logo(event_logo, EVENT_SIZE)
 
-    # Resize kecil seperti versi awal launcher
-    if img1 is None:
-        img1 = Image.new("RGBA", (80, 80), (0, 0, 0, 0))
-    else:
-        img1 = img1.resize((80, 80))
+    if home:
+        bg.paste(home, (100, int(THUMB_H/2 - home.height/2)), home)
+    if away:
+        bg.paste(away, (THUMB_W - 100 - away.width, int(THUMB_H/2 - away.height/2)), away)
+    if evl:
+        bg.paste(evl, (int(THUMB_W/2 - evl.width/2), int(THUMB_H/2 - evl.height/2)), evl)
 
-    if img2 is None:
-        img2 = Image.new("RGBA", (80, 80), (0, 0, 0, 0))
-    else:
-        img2 = img2.resize((80, 80))
-
-    if evt is None:
-        evt = Image.new("RGBA", (60, 60), (0, 0, 0, 0))
-    else:
-        evt = evt.resize((60, 60))
-
-    # canvas final total 220x80 → tampilan kecil rapi
-    W = 220
-    H = 80
-    canvas = Image.new("RGBA", (W, H), (20, 20, 20, 255))
-
-    # Home
-    canvas.paste(img1, (0, 0), img1)
-
-    # Event Logo di tengah
-    canvas.paste(evt, (80, 10), evt)
-
-    # Away
-    canvas.paste(img2, (140, 0), img2)
-
-    save_path = f"{THUMB_FOLDER}/{filename}.png"
-    canvas.save(save_path)
-    return save_path
+    bg.save(f"{THUMB_DIR}/{filename}", "PNG")
+    return f"{THUMB_DIR}/{filename}"
 
 
-def format_wib(dt_str):
-    if not dt_str:
-        return ""
-    try:
-        dt = datetime.fromisoformat(dt_str.replace("Z", "+00:00"))
-        wib = dt.astimezone(ZoneInfo("Asia/Jakarta"))
-        return wib.strftime("%d %b %Y %H:%M WIB")
-    except:
-        return ""
+# ================================
+# MAIN SCRAPER
+# ================================
+def scrape_pixel():
+    os.makedirs(THUMB_DIR, exist_ok=True)
 
+    events = requests.get(API_URL, headers=HEADERS, timeout=10).json().get("events", [])
 
-def collect_links(channel_obj):
-    links = []
-    if not channel_obj:
-        return links
-
-    for i in range(1, 4):
-        url = channel_obj.get(f"server{i}URL")
-        if url and url.lower() != "null":
-            links.append(url)
-
-    return links
-
-
-def build_m3u(events, sliders):
-    out = ["#EXTM3U"]
+    lines = ["#EXTM3U"]
 
     for ev in events:
-        title = ev.get("match_name", "Unknown Event").strip()
+        title = ev.get("match_name", "Unknown")
 
-        t1 = ev.get("competitors1_logo")
-        t2 = ev.get("competitors2_logo")
+        home_logo = ev.get("competitors1_logo")
+        away_logo = ev.get("competitors2_logo")
 
-        raw_cat = ev.get("channel", {}).get("TVCategory", {}).get("name", "")
-        league = detect_league(raw_cat)
+        league = ev.get("channel", {}).get("TVCategory", {}).get("name", "").upper()
+        event_logo = EVENT_LOGO_MAP.get(league, EVENT_LOGO_MAP["NFL"])
 
-        event_logo = EVENT_LOGO_MAP.get(league, None)
+        # ======================
+        # WIB TIME
+        # ======================
+        ts = ev.get("start_time")
+        if ts:
+            dt = datetime.fromtimestamp(int(ts)/1000, tz=ZoneInfo("UTC"))
+            wib = dt.astimezone(ZoneInfo("Asia/Jakarta"))
+            title += f" | {wib.strftime('%d %b %Y %H:%M WIB')}"
 
-        start_time = ev.get("start_date")
-        wib_time = format_wib(start_time)
+        # ======================
+        # THUMBNAIL GENERATE
+        # ======================
+        fname = f"{league}_{ev.get('id','0')}.png"
+        thumb_url = build_thumb(home_logo, away_logo, event_logo, fname)
 
-        final_title = f"{title} | {wib_time}"
-
-        filename = f"{league}_{title.replace(' ', '_')[:40]}"
-        merged = merge_logos(t1, event_logo, t2, filename)
-
-        raw_github = f"https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/main/{merged}"
-
-        links = collect_links(ev.get("channel", {}))
-        if not links:
-            continue
-
-        for link in links:
-            out.append(f'#EXTINF:-1 tvg-logo="{raw_github}" group-title="PixelSport - {league}",{final_title}')
-            out.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
-            out.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
-            out.append(link)
-
-    # SLIDERS
-    for ch in sliders:
-        title = ch.get("title", "Live Channel")
-        live = ch.get("liveTV", {})
-        links = collect_links(live)
-        if not links:
-            continue
+        # ======================
+        # STREAM LINKS
+        # ======================
+        links = [
+            ev.get("channel", {}).get("server1URL"),
+            ev.get("channel", {}).get("server2URL"),
+            ev.get("channel", {}).get("server3URL"),
+        ]
 
         for link in links:
-            out.append(f'#EXTINF:-1 tvg-logo="{EVENT_LOGO_MAP.get("NBA")}" group-title="PixelSport - Live",{title}')
-            out.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
-            out.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
-            out.append(link)
+            if not link or link == "null":
+                continue
 
-    return "\n".join(out)
+            lines.append(
+                f'#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/main/{thumb_url}" '
+                f'group-title="PixelSport - {league}",{title}'
+            )
+            lines.append(f"#EXTVLCOPT:http-user-agent={HEADERS['User-Agent']}")
+            lines.append(f"#EXTVLCOPT:http-referrer={HEADERS['Referer']}")
+            lines.append(f"#EXTVLCOPT:http-origin={HEADERS['Origin']}")
+            lines.append(link)
 
-
-def main():
-    try:
-        print("[*] Fetching events...")
-        events = fetch_json(API_EVENTS).get("events", [])
-
-        print("[*] Fetching sliders...")
-        sliders = fetch_json(API_SLIDERS).get("data", [])
-
-        m3u = build_m3u(events, sliders)
-
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            f.write(m3u)
-
-        print(f"[✓] Saved {OUTPUT_FILE}")
-    except Exception as e:
-        print("[X] ERROR:", e)
+    open(OUTPUT_M3U, "w", encoding="utf-8").write("\n".join(lines))
+    print(f"[OK] Saved → {OUTPUT_M3U}")
 
 
-if __name__ == "__main__":
-    main()
+scrape_pixel()
