@@ -5,7 +5,8 @@ from datetime import datetime, timezone, timedelta
 API_URL = "https://api.ppv.to/api/streams"
 OUTPUT = "ppvsort.m3u"
 
-PROXY_BASE = "https://panel1.ogie.shop:8181/m3u/proxy.php?u="
+# 🔥 Proxy baru
+PROXY_BASE = "https://ogie.biz.id/m3u/proxy.php?u="
 
 
 # ============================
@@ -49,7 +50,7 @@ def detect_category(title, raw_cat):
         return "Basketball"
     if "nhl" in rc or "hockey" in rc:
         return "Hockey"
-    if "nfl" in rc or "football" in rc:
+    if "nfl" in rc or "american" in rc:
         return "American Football"
 
     if "ufc" in t or "fight" in t or "mma" in t:
@@ -125,7 +126,7 @@ async def generate():
                 "raw_category": raw_cat,
             })
 
-    # SORT BY START TIME
+    # SORT BY TIME
     final_list.sort(key=lambda x: x["start"] or 0)
 
     # WRITE M3U
@@ -142,7 +143,7 @@ async def generate():
 
             category = detect_category(title, item["raw_category"])
 
-            # Convert stream through proxy
+            # Convert to your proxy
             proxied = PROXY_BASE + iframe
 
             # MAIN ENTRY
