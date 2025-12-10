@@ -2,42 +2,38 @@ name: NewPixel
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # setiap 5 menit (ubah jika mau)
-  workflow_dispatch:        # tombol manual run
+    # setiap 2 jam sekali
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: 🔹 Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # wajib agar commit tidak error
+          fetch-depth: 0  # penting supaya commit file PNG bisa masuk
 
-      - name: Set up Python 3.11
+      - name: 🔹 Set up Python 3.11
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: 🔹 Install dependencies (requests + pillow)
         run: |
-          pip install requests
+          pip install requests pillow
 
-      - name: Run PixelSports scraper
+      - name: 🔹 Run NewPixel.py (Generate thumbnails + M3U)
         run: |
           python NewPixel.py
 
-      - name: Commit & Push Playlist
+      - name: 🔹 Commit & Push (PNG + M3U)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Tambahkan semua file, termasuk file baru
+
           git add -A
-
-          # Force commit jika ada perubahan, kalau tidak ada, lanjutkan
-          git commit -m "Update NewPixel.m3u8" || echo "No changes to commit"
-
-          # Push ke repository
+          git commit -m "Auto-update NewPixel (playlist + thumbnails)" || echo "No changes to commit"
           git push
