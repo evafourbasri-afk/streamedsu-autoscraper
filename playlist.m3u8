@@ -64,10 +64,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-15/mia-pit
 
-#EXTINF:-1 group-title="Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/8b2f2d4da1b1f498a6e5aa0d6d4dbaa7-thumbnail.jpg",00:30 - 11/12/2025 | Phoenix Suns vs. Oklahoma City Thunder
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-10/phx-okc
-
 #EXTINF:-1 group-title="Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/9e34880b11bf85d1b23d17e9e68bc42b-thumbnail.jpg",03:00 - 11/12/2025 | San Antonio Spurs vs. Los Angeles Lakers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-10/sa-lal
@@ -415,10 +411,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=epl/20
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/67224d9a7e9c4021ad8b22dc0cd02144-thumbnail.jpg",20:00 - 15/12/2025 | Rayo Vallecano vs. Real Betis
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-15/ray-bet
-
-#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/dd2347b0a1d4c05b1f0b86f6ade2d1e7-thumbnail.jpg",00:30 - 11/12/2025 | New York Rangers vs. Chicago Blackhawks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-10/nyr-chi
 
 #EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/0d27c40f975b260b3608650d9e4688bf-thumbnail.jpg",01:30 - 11/12/2025 | Detroit Red Wings vs. Calgary Flames
 #EXTVLCOPT:http-referrer=https://ppv.to/
