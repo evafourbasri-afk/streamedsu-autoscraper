@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/2b040ac97dda46b94e93b98c33726112-thumbnail.jpg",01:15 - 12/12/2025 | Atlanta Falcons vs. Tampa Bay Buccaneers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-11/atl-tb
-
 #EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/331f55b0ccf9ea1f6b5d3882f51e3cc4-thumbnail.jpg",18:00 - 14/12/2025 | Cleveland Browns vs. Chicago Bears
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-14/cle-chi
