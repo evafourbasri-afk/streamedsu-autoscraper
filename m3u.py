@@ -15,8 +15,16 @@ try:
 except ImportError:
     print("ERROR: Missing required libraries. Please run: pip install requests beautifulsoup4 python-dateutil python-dotenv", file=sys.stderr)
 
+# ==============================================================================
+#           SETUP GLOBAL DAN DISABILITASI WARNINGS
+# ==============================================================================
+
 # Disabilita gli avvisi di sicurezza per le richieste senza verifica SSL
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+# MEMUAT VARIABEL LINGKUNGAN SEKALI DI AWAL
+# Ini sangat penting agar GitHub Actions dapat membaca Secret FLARESOLVERR_URL
+load_dotenv() 
 
 # ==============================================================================
 #           FUNGSI PEMBANTU UNTUK EKSTRAKSI STREAM M3U8
@@ -85,14 +93,13 @@ def dlhd():
     Rimuove automaticamente i canali duplicati.
     """
     print("Eseguendo dlhd...")
-    load_dotenv()
 
+    # Ambil variabel lingkungan yang sudah dimuat secara global
     FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
-    if FLARESOLVERR_URL:
-        FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
-    else:
-        print("❌ ERRORE: Variabel 'FLARESOLVERR_URL' tidak diatur.")
+    if not FLARESOLVERR_URL:
+        print("❌ ERRORE: Variabel 'FLARESOLVERR_URL' tidak diatur (diperlukan untuk dlhd).")
         return
+    FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
 
     JSON_FILE = "daddyliveSchedule.json"
     OUTPUT_FILE = "dlhd.m3u"
@@ -314,16 +321,15 @@ def dlhd():
 
 def schedule_extractor():
     print("Eseguendo lo schedule_extractor.py...")
-    load_dotenv()
+
+    # Ambil variabel lingkungan yang sudah dimuat secara global
+    FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
+    if not FLARESOLVERR_URL:
+        print("❌ ERRORE: Variabel 'FLARESOLVERR_URL' tidak diatur (diperlukan untuk schedule_extractor).")
+        return
+    FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
 
     LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://daddyhd.com"
-    FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
-    if FLARESOLVERR_URL:
-        FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
-    else:
-        print("❌ ERRORE: Variabel 'FLARESOLVERR_URL' tidak diatur.")
-        return
-    
     JSON_OUTPUT = "daddyliveSchedule.json"
 
     def html_to_json(html_content):
@@ -451,4 +457,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
