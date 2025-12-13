@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/530892ab4b0c7aec2617b333a6a9b56c-thumbnail.jpg",20:00 - 13/12/2025 | Army Black Knights vs. Navy Midshipmen
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/3294-3294
+
+#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/530892ab4b0c7aec2617b333a6a9b56c-thumbnail.jpg",20:00 - 13/12/2025 | Army Black Knights vs. Navy Midshipmen
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/1187-1187
+
 #EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/331f55b0ccf9ea1f6b5d3882f51e3cc4-thumbnail.jpg",18:00 - 14/12/2025 | Cleveland Browns vs. Chicago Bears
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-14/cle-chi
@@ -59,10 +67,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/fe25ffce3016f007f0c72f24acf143ca-thumbnail.jpg",01:15 - 16/12/2025 | Miami Dolphins vs. Pittsburgh Steelers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-15/mia-pit
-
-#EXTINF:-1 group-title="FanDuel SN SE" tvg-logo="https://api.ppv.to/assets/thumb/ab5d9773762910019251fc0873dcf405-thumbnail.jpg",01:00 - 13/12/2025 | Utah Jazz vs. Memphis Grizzlies
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-12/utah-mem
 
 #EXTINF:-1 group-title="KFAA-TV" tvg-logo="https://api.ppv.to/assets/thumb/f8b40190837ebce2885556bc3689b19b-thumbnail.jpg",01:30 - 13/12/2025 | Brooklyn Nets vs. Dallas Mavericks
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -264,17 +268,9 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=epl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-15/ray-bet
 
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/02e585920794b6a2911386855a46946b-thumbnail.jpg",01:00 - 13/12/2025 | Chicago Blackhawks vs. St. Louis Blues
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-12/chi-stl
-
 #EXTINF:-1 group-title="Utah 16" tvg-logo="https://api.ppv.to/assets/thumb/ee3f1bd987bbde10ae21117df01ebb9b-thumbnail.jpg",02:00 - 13/12/2025 | Seattle Kraken vs. Utah Mammoth
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-12/sea-uta
-
-#EXTINF:-1 group-title="USA Network" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",01:00 - 13/12/2025 | WWE: Friday Night Smackdown
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wwe/smackdown/25-12-12
 
 #EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",21:30 - 13/12/2025 | AEW: Saturday Night Collision
 #EXTVLCOPT:http-referrer=https://ppv.to/
