@@ -32,9 +32,45 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-15/mia-pit
 
-#EXTINF:-1 group-title="FanDuel SN OH" tvg-logo="https://api.ppv.to/assets/thumb/91e38eb5dc65bc77a34be9d7d8ee4602-thumbnail.jpg",20:30 - 14/12/2025 | Charlotte Hornets vs. Cleveland Cavaliers
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/c6cddbac1a83b27c684c9ad9b3cc306b-thumbnail.jpg",20:00 - 19/12/2025 | Valencia vs. Mallorca
 #EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-14/cha-cle
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-19/val-mll
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/c58290981dfd9e05bef76a188a9b9a21-thumbnail.jpg",13:00 - 20/12/2025 | Real Oviedo vs. Celta Vigo
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-20/ovi-cel
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/b9738472b7fe9a08c01cfce83a03499d-thumbnail.jpg",15:15 - 20/12/2025 | Levante vs. Real Sociedad
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-20/lev-rso
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/cb8ae67fad4d47417c8b5f762b63d405-thumbnail.jpg",17:30 - 20/12/2025 | Osasuna vs. Alavés
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-20/osa-ala
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/0022e6467a0f67267b05ea3d113a1dbd-thumbnail.jpg",20:00 - 20/12/2025 | Real Madrid vs. Sevilla
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-20/rma-sev
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/ab496b2290be2a6eeff252d4b0bc0126-thumbnail.jpg",13:00 - 21/12/2025 | Girona vs. Atlético Madrid
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-21/gir-atm
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/55d075300221429ae090c1c3ae1e0d4c-thumbnail.jpg",15:15 - 21/12/2025 | Villarreal vs. Barcelona
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-21/vil-bar
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/283cea09e93cfcc8a5fe80705d3ce2ba-thumbnail.jpg",17:30 - 21/12/2025 | Elche vs. Rayo Vallecano
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-21/elc-ray
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/d8824e911f824d9398a6198689bffff8-thumbnail.jpg",20:00 - 21/12/2025 | Real Betis vs. Getafe
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-21/bet-get
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/57f995fcead6b2148836731474875e9d-thumbnail.jpg",20:00 - 22/12/2025 | Athletic Club vs. Espanyol
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2025-12-22/ath-esp
 
 #EXTINF:-1 group-title="FanDuel SN SE" tvg-logo="https://api.ppv.to/assets/thumb/8cf96c9d56bc5d80b9864b878cd98b03-thumbnail.jpg",23:00 - 14/12/2025 | Philadelphia 76ers vs. Atlanta Hawks
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -63,10 +99,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://api.ppv.to/assets/thumb/dfe08bb48f4502d771b895d499d8ca10-thumbnail.jpg",02:00 - 25/01/2026 | UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
-
-#EXTINF:-1 group-title="PDC Darts" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg",12:30 - 14/12/2025 | World Darts Championship
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=2025-world-darts-championship
 
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/2e5d69d367d0235204da751521d5518a-thumbnail.jpg",19:45 - 15/12/2025 | Roma vs. Como
 #EXTVLCOPT:http-referrer=https://ppv.to/
