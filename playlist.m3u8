@@ -72,17 +72,17 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
 
-#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg",23:30 - 16/12/2025 | Australia vs. England
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg",23:30 - 16/12/2025 | Australia vs. England (UK Broadcast)
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cricket/2025/au-en/3rd-test
+
+#EXTINF:-1 group-title="FOX Cricket" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg",23:30 - 16/12/2025 | Australia vs. England (AU Broadcast)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=australia-vs.-england-au-broadcast
 
 #EXTINF:-1 group-title="PDC Darts" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg",12:30 - 16/12/2025 | World Darts Championship
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=2025-world-darts-championship
-
-#EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://api.ppv.to/assets/thumb/0d7a625e7581cd7f82be9865bfbbbf98-thumbnail.jpg",20:00 - 16/12/2025 | Cardiff City vs. Chelsea
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=eflcup/2025-12-16/car-che
 
 #EXTINF:-1 group-title="Copa del Rey" tvg-logo="https://api.ppv.to/assets/thumb/53ee005a6d754edcce487d378e1dd2d5-thumbnail.jpg",20:30 - 16/12/2025 | CD Guadalajara vs Barcelona
 #EXTVLCOPT:http-referrer=https://ppv.to/
