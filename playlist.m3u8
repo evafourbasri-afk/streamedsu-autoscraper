@@ -332,6 +332,30 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/ana-cbj
 
+#EXTINF:-1 group-title="NESN" tvg-logo="https://api.ppv.to/assets/thumb/a78408ccbcf926a11b0c4fc622f736c4-thumbnail.jpg",00:00 - 17/12/2025 | Utah Mammoth vs. Boston Bruins
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/1391/1391-bos
+
+#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/1a1d84ceae226da64afcfc827b910372-thumbnail.jpg",00:00 - 17/12/2025 | Chicago Blackhawks vs. Toronto Maple Leafs
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/8029/8029-tor
+
+#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/ef9e9c1df5502f6214fe00defbac2f44-thumbnail.jpg",00:00 - 17/12/2025 | Philadelphia Flyers vs. Montreal Canadiens
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/6656/6656-mtl
+
+#EXTINF:-1 group-title="FanDuel SN DET" tvg-logo="https://api.ppv.to/assets/thumb/4aaecf5af4dfefbb486ec95ef467ec99-thumbnail.jpg",00:00 - 17/12/2025 | New York Islanders vs. Detroit Red Wings
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/6053/6053-det
+
+#EXTINF:-1 group-title="MSG" tvg-logo="https://api.ppv.to/assets/thumb/5cd4d4116d5cb1aba63ad93ad172e5d0-thumbnail.jpg",00:00 - 17/12/2025 | Vancouver Canucks vs. New York Rangers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/3994/3994-nyr
+
+#EXTINF:-1 group-title="FanDuel SN OH" tvg-logo="https://api.ppv.to/assets/thumb/30ad359338e30eda127d17f54fa31c7b-thumbnail.jpg",00:00 - 17/12/2025 | Anaheim Ducks vs. Columbus Blue Jackets
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/6696/6696-cbj
+
 #EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/b8421eaa2e0ece4ab7d3bc937ea752aa-thumbnail.jpg",00:30 - 17/12/2025 | Edmonton Oilers vs. Pittsburgh Penguins
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/edm-pit
@@ -340,6 +364,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/wsh-min
 
+#EXTINF:-1 group-title="FanDuel SN North" tvg-logo="https://api.ppv.to/assets/thumb/a7a9eb776a04099f7b60f15bde2415f2-thumbnail.jpg",01:00 - 17/12/2025 | Washington Capitals vs. Minnesota Wild
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/3194/3194-min
+
 #EXTINF:-1 group-title="NBC Sports BA" tvg-logo="https://api.ppv.to/assets/thumb/da7bf5c302a2007bfd0d739efa1948d3-thumbnail.jpg",03:00 - 17/12/2025 | Calgary Flames vs. San Jose Sharks
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/cgy-sj
@@ -347,6 +375,14 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/5cb3a54a9b33ba49f4f0e277d9ff4cc6-thumbnail.jpg",03:00 - 17/12/2025 | Colorado Avalanche vs. Seattle Kraken
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/col-sea
+
+#EXTINF:-1 group-title="NBC Sports BA" tvg-logo="https://api.ppv.to/assets/thumb/e4c59e3d8eb766e9012d2e554f9a220d-thumbnail.jpg",03:00 - 17/12/2025 | Calgary Flames vs. San Jose Sharks
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/9538/9538-sj
+
+#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/ca43b3406f810df40c852ad5c04130d1-thumbnail.jpg",03:00 - 17/12/2025 | Colorado Avalanche vs. Seattle Kraken
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/1680/1680-sea
 
 #EXTINF:-1 group-title="Netflix" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",01:00 - 17/12/2025 | WWE: NXT
 #EXTVLCOPT:http-referrer=https://ppv.to/
