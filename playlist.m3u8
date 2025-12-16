@@ -1,5 +1,69 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/8cba672a633c05c2058d1dd5187ac272-thumbnail.jpg",01:15 - 19/12/2025 | Los Angeles Rams vs. Seattle Seahawks
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-18/lar-sea
+
+#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/27102a3353cda6be24a8a237c866a29d-thumbnail.jpg",22:00 - 20/12/2025 | Philadelphia Eagles vs. Washington Commanders
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-20/phi-wsh
+
+#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/7a7d7c2b86841db3a491508aae5a628b-thumbnail.jpg",01:20 - 21/12/2025 | Green Bay Packers vs. Chicago Bears
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-20/gb-chi
+
+#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/4f6f9b2fcef428719b4dc1ec89a0da50-thumbnail.jpg",18:00 - 21/12/2025 | Buffalo Bills vs. Cleveland Browns
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/buf-cle
+
+#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/fb8711c589b503ad2c7d1790e1b177e9-thumbnail.jpg",18:00 - 21/12/2025 | Los Angeles Chargers vs. Dallas Cowboys
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/lac-dal
+
+#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/ad20d8d02f58f69c34189626149475e0-thumbnail.jpg",18:00 - 21/12/2025 | Kansas City Chiefs vs. Tennessee Titans
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/kc-ten
+
+#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/ab5e194f199cc0f784a759449bf04bb8-thumbnail.jpg",18:00 - 21/12/2025 | Cincinnati Bengals vs. Miami Dolphins
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/cin-mia
+
+#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/f30797f5aaef342277c2aa8f2f062ae5-thumbnail.jpg",18:00 - 21/12/2025 | New York Jets vs. New Orleans Saints
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/nyj-no
+
+#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/fbd95960958ce6620baacdf436e1997a-thumbnail.jpg",18:00 - 21/12/2025 | Minnesota Vikings vs. New York Giants
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/min-nyg
+
+#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/0cb28b14ef6c9f5c864635115201ddd5-thumbnail.jpg",18:00 - 21/12/2025 | Tampa Bay Buccaneers vs. Carolina Panthers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/tb-car
+
+#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/bba0afadffddc0def3cfbe54fa09e5f1-thumbnail.jpg",21:05 - 21/12/2025 | Jacksonville Jaguars vs. Denver Broncos
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/jax-den
+
+#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/33f9727af3dbfe9f7d9d2fd584033970-thumbnail.jpg",21:05 - 21/12/2025 | Atlanta Falcons vs. Arizona Cardinals
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/atl-ari
+
+#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/0423fd7e2a61c7e6725b31ec73174b30-thumbnail.jpg",21:25 - 21/12/2025 | Pittsburgh Steelers vs. Detroit Lions
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/pit-det
+
+#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg",21:25 - 21/12/2025 | Las Vegas Raiders vs. Houston Texans
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/lv-hou
+
+#EXTINF:-1 group-title="NBC" tvg-logo="https://api.ppv.to/assets/thumb/83b095f8d210cbe091657a71b43ead52-thumbnail.jpg",01:20 - 22/12/2025 | New England Patriots vs. Baltimore Ravens
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/ne-bal
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/8c3f7f38e44f0944457f2e4c0c948e14-thumbnail.jpg",01:15 - 23/12/2025 | San Francisco 49ers vs. Indianapolis Colts
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-22/sf-ind
+
 #EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/87c0047c26fb2eca97ac9d4831568807-thumbnail.jpg",02:30 - 16/12/2025 | Houston Rockets vs. Denver Nuggets
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-15/hou-den
@@ -7,6 +71,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTINF:-1 group-title="FanDuel SN SoCal" tvg-logo="https://api.ppv.to/assets/thumb/188d77d66826cf6207bbf1804c7e2d95-thumbnail.jpg",03:30 - 16/12/2025 | Memphis Grizzlies vs. LA Clippers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-15/mem-lac
+
+#EXTINF:-1 group-title="Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/6e8b99e4f194ef58c43c2b5714d704ba-thumbnail.jpg",01:30 - 17/12/2025 | San Antonio Spurs vs. New York Knicks
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-16/sa-ny
 
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://api.ppv.to/assets/thumb/dfe08bb48f4502d771b895d499d8ca10-thumbnail.jpg",02:00 - 25/01/2026 | UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -151,6 +219,46 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/22be0401f51be0fa52c27270d50c91b7-thumbnail.jpg",20:00 - 22/12/2025 | Fulham vs. Nottingham Forest
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2025-12-22/ful-nfo
+
+#EXTINF:-1 group-title="NESN" tvg-logo="https://api.ppv.to/assets/thumb/be4d839fca28d8cfe53d8479d4fd036c-thumbnail.jpg",00:00 - 17/12/2025 | Utah Mammoth vs. Boston Bruins
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/uta-bos
+
+#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/435000dbcd07f24b1b76ce19a27184cc-thumbnail.jpg",00:00 - 17/12/2025 | Chicago Blackhawks vs. Toronto Maple Leafs
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/chi-tor
+
+#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/cbb3e15e84d4152d1a7f7bfdec39a02b-thumbnail.jpg",00:00 - 17/12/2025 | Philadelphia Flyers vs. Montreal Canadiens
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/phi-mtl
+
+#EXTINF:-1 group-title="FanDuel SN DET" tvg-logo="https://api.ppv.to/assets/thumb/f240361debbfbc96351d77d167026d5b-thumbnail.jpg",00:00 - 17/12/2025 | New York Islanders vs. Detroit Red Wings
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/nyi-det
+
+#EXTINF:-1 group-title="MSG" tvg-logo="https://api.ppv.to/assets/thumb/10f4a9e59503c4bd2551a11420123c98-thumbnail.jpg",00:00 - 17/12/2025 | Vancouver Canucks vs. New York Rangers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/van-nyr
+
+#EXTINF:-1 group-title="FanDuel SN OH" tvg-logo="https://api.ppv.to/assets/thumb/a9c43b788919c2a5f11cf655773c8a46-thumbnail.jpg",00:00 - 17/12/2025 | Anaheim Ducks vs. Columbus Blue Jackets
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/ana-cbj
+
+#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/b8421eaa2e0ece4ab7d3bc937ea752aa-thumbnail.jpg",00:30 - 17/12/2025 | Edmonton Oilers vs. Pittsburgh Penguins
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/edm-pit
+
+#EXTINF:-1 group-title="FanDuel SN North" tvg-logo="https://api.ppv.to/assets/thumb/788facd09262edf036ba90437595caba-thumbnail.jpg",01:00 - 17/12/2025 | Washington Capitals vs. Minnesota Wild
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/wsh-min
+
+#EXTINF:-1 group-title="NBC Sports BA" tvg-logo="https://api.ppv.to/assets/thumb/da7bf5c302a2007bfd0d739efa1948d3-thumbnail.jpg",03:00 - 17/12/2025 | Calgary Flames vs. San Jose Sharks
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/cgy-sj
+
+#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/5cb3a54a9b33ba49f4f0e277d9ff4cc6-thumbnail.jpg",03:00 - 17/12/2025 | Colorado Avalanche vs. Seattle Kraken
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-16/col-sea
 
 #EXTINF:-1 group-title="Netflix" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",01:00 - 17/12/2025 | WWE: NXT
 #EXTVLCOPT:http-referrer=https://ppv.to/
