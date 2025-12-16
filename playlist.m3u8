@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-15/mia-pit
 
-#EXTINF:-1 group-title="FanDuel SN Sun" tvg-logo="https://api.ppv.to/assets/thumb/ea6d45875018e9d859df36e19c94c50c-thumbnail.jpg",00:30 - 16/12/2025 | Toronto Raptors vs. Miami Heat
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-15/tor-mia
-
 #EXTINF:-1 group-title="KJZZ-TV" tvg-logo="https://api.ppv.to/assets/thumb/53e7b6d857c4ed0ed5991d6487cf7aeb-thumbnail.jpg",02:00 - 16/12/2025 | Dallas Mavericks vs. Utah Jazz
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-15/dal-utah
@@ -163,30 +159,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/22be0401f51be0fa52c27270d50c91b7-thumbnail.jpg",20:00 - 22/12/2025 | Fulham vs. Nottingham Forest
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2025-12-22/ful-nfo
-
-#EXTINF:-1 group-title="The Spot - MTN" tvg-logo="https://api.ppv.to/assets/thumb/ebf178cbed21ba243bd01e0f9a2cc62c-thumbnail.jpg",00:00 - 16/12/2025 | Florida Panthers vs. Tampa Bay Lightning
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-15/fla-tb
-
-#EXTINF:-1 group-title="MSG" tvg-logo="https://api.ppv.to/assets/thumb/ac238de826f1edb9dc13121861fbf658-thumbnail.jpg",00:00 - 16/12/2025 | Anaheim Ducks vs. New York Rangers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-15/ana-nyr
-
-#EXTINF:-1 group-title="The Spot - MTN" tvg-logo="https://api.ppv.to/assets/thumb/a6b01a2f457085166b9da096ce199722-thumbnail.jpg",00:00 - 16/12/2025 | Florida Panthers vs. Tampa Bay Lightning
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/6149/6149-tb
-
-#EXTINF:-1 group-title="MSG" tvg-logo="https://api.ppv.to/assets/thumb/d5a00691c931769c263c8155593f25d5-thumbnail.jpg",00:00 - 16/12/2025 | Anaheim Ducks vs. New York Rangers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/5372/5372-nyr
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/2902270c4fcc8958c53774e4b07a2c42-thumbnail.jpg",00:30 - 16/12/2025 | Ottawa Senators vs. Winnipeg Jets
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-15/ott-wpg
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/71bd07863d204d3414f9dee8239f050c-thumbnail.jpg",00:30 - 16/12/2025 | Ottawa Senators vs. Winnipeg Jets
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/9047/9047-wpg
 
 #EXTINF:-1 group-title="FanDuel SN MW" tvg-logo="https://api.ppv.to/assets/thumb/3d285228e188869b65975366360e8aeb-thumbnail.jpg",01:00 - 16/12/2025 | Nashville Predators vs. St. Louis Blues
 #EXTVLCOPT:http-referrer=https://ppv.to/
