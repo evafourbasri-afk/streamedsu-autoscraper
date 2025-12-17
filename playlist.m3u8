@@ -72,6 +72,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-17/mem-min
 
+#EXTINF:-1 group-title="Rumble" tvg-logo="https://api.ppv.to/assets/thumb/db7c5404454254e907120a09a5b943b2-thumbnail.jpg",19:00 - 20/12/2025 | Misfits Mania: Andrew Tate vs. Chase DeMoor
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=misfits-mania/2025-12-20
+
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://api.ppv.to/assets/thumb/dfe08bb48f4502d771b895d499d8ca10-thumbnail.jpg",02:00 - 25/01/2026 | UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
