@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cricke
 
 #EXTINF:-1 group-title="FOX Cricket" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg",23:30 - 17/12/2025 | Australia vs. England (AU Broadcast)
 #EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=https://ppv.to/live/cricket/2025/au-en/3rd-test/au-broadcast
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cricket/2025/au-en/3rd-test/au-broadcast
 
 #EXTINF:-1 group-title="PDC Darts" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg",19:00 - 17/12/2025 | World Darts Championship
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -91,6 +91,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=2025-w
 #EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://api.ppv.to/assets/thumb/182401495b0d7e0d91789945291f8e0f-thumbnail.jpg",19:30 - 17/12/2025 | Manchester City vs. Brentford
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=eflcup/2025-12-17/mnc-bre
+
+#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/522e1f99534c43869e3403cd10d401d3-thumbnail.jpg",20:00 - 17/12/2025 | Talavera vs. Real Madrid
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=copa-del-rey/2025-12-17/talavara-realmadrid
 
 #EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://api.ppv.to/assets/thumb/8f1efcbb9c6ef90823f65e545abbff12-thumbnail.jpg",20:15 - 17/12/2025 | Newcastle United vs. Fulham
 #EXTVLCOPT:http-referrer=https://ppv.to/
