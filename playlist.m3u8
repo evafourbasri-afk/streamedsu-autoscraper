@@ -64,14 +64,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-22/sf-ind
 
-#EXTINF:-1 group-title="CHSN" tvg-logo="https://api.ppv.to/assets/thumb/13c690ab603a7217b3e81cb4ba6ac4d9-thumbnail.jpg",01:00 - 18/12/2025 | Cleveland Cavaliers vs. Chicago Bulls
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-17/cle-chi
-
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://api.ppv.to/assets/thumb/6249196c6656611a63c539ab5ef1c976-thumbnail.jpg",01:00 - 18/12/2025 | Memphis Grizzlies vs. Minnesota Timberwolves
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-17/mem-min
-
 #EXTINF:-1 group-title="Netflix" tvg-logo="https://api.ppv.to/assets/thumb/77b3f7f092ac58125a60487f5073de40-thumbnail.jpg",01:00 - 20/12/2025 | Jake Paul vs. Anthony Joshua
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=jake-paul-vs.-anthony-joshua
@@ -312,21 +304,9 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2025-12-22/ful-nfo
 
-#EXTINF:-1 group-title="FanDuel SN MW" tvg-logo="https://api.ppv.to/assets/thumb/caea7cccd52bea425b9f025834744975-thumbnail.jpg",01:00 - 18/12/2025 | Winnipeg Jets vs. St. Louis Blues
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-17/wpg-stl
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/df6d1c1b076c39eb3f5c7252c7998352-thumbnail.jpg",01:00 - 18/12/2025 | Carolina Hurricanes vs. Nashville Predators
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-17/car-nsh
-
 #EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/9a2835de0f127282ab2407a9d44721b2-thumbnail.jpg",03:00 - 18/12/2025 | New Jersey Devils vs. Vegas Golden Knights
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-17/nj-vgk
-
-#EXTINF:-1 group-title="TBS" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",01:00 - 18/12/2025 | AEW: Wednesday Night Dynamite
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=aew/dynamite/2025-12-18
 
 #EXTINF:-1 group-title="AXS TV" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",01:00 - 19/12/2025 | TNA: Impact
 #EXTVLCOPT:http-referrer=https://ppv.to/
