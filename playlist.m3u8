@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="NFL RedZone" tvg-logo="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg",18:00 - 21/12/2025 | NFL RedZone
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl-redzone-wk16
+
 #EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/4f6f9b2fcef428719b4dc1ec89a0da50-thumbnail.jpg",18:00 - 21/12/2025 | Buffalo Bills vs. Cleveland Browns
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-21/buf-cle
