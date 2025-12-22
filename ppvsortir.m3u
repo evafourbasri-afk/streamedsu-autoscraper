@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-15322" tvg-logo="https://api.ppv.to/assets/thumb/767b97568a9a2bba26deebf8c94056e0-thumbnail.jpg" group-title="Football - Other",AC Milan vs. Hellas Verona - 28 Dec 2025 18:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_mil/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15332" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling",AEW: Saturday Night Collision - 28 Dec 2025 08:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15329" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="PPVLand - Wrestling",AEW: Wednesday Night Dynamite - 25 Dec 2025 08:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15289" tvg-logo="https://api.ppv.to/assets/thumb/a137e15b77c8c4fea21da71ecdf71a37-thumbnail.jpg" group-title="Football - Other",Algeria vs. Burkina Faso - 29 Dec 2025 00:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -7,10 +19,26 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15333" tvg-logo="https://api.ppv.to/assets/thumb/083cca91bb79170f7010740874cedf83-thumbnail.jpg" group-title="Football - Other",Angola vs. Egypt - 29 Dec 2025 23:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15279" tvg-logo="https://api.ppv.to/assets/thumb/69f93ba1393a3b513724f9c2fe1a9ca1-thumbnail.jpg" group-title="Football - Other",Angola vs. Zimbabwe - 26 Dec 2025 19:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15309" tvg-logo="https://api.ppv.to/assets/thumb/314103ff84388e79ab57b61c4f8e5e98-thumbnail.jpg" group-title="Football - Other",Arsenal vs. Brighton & Hove Albion - 27 Dec 2025 22:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_ars/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15326" tvg-logo="https://api.ppv.to/assets/thumb/0b5e56b9047d65c0856b6195cf3856d9-thumbnail.jpg" group-title="Football - Other",AS Roma vs. Genoa - 30 Dec 2025 02:45 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_roma/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15325" tvg-logo="https://api.ppv.to/assets/thumb/d1a635fb918d88d70a0f45b071ece37d-thumbnail.jpg" group-title="Football - Other",Atalanta vs. Internazionale - 29 Dec 2025 02:45 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_ata/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15013" tvg-logo="https://api.ppv.to/assets/thumb/57f995fcead6b2148836731474875e9d-thumbnail.jpg" group-title="Football - Other",Athletic Club vs. Espanyol - 23 Dec 2025 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -19,6 +47,14 @@ https://gg.poocloud.in/ll_ath/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15324" tvg-logo="https://api.ppv.to/assets/thumb/e64191771cbf9c6554dd7cc307250b9f-thumbnail.jpg" group-title="Football - Other",Bologna vs. Sassuolo - 29 Dec 2025 00:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_bol/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15310" tvg-logo="https://api.ppv.to/assets/thumb/27ecf816e5ececca7169c176a8980ef0-thumbnail.jpg" group-title="Football - Other",Brentford vs. AFC Bournemouth - 27 Dec 2025 22:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_bre/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15275" tvg-logo="https://api.ppv.to/assets/thumb/6179792c631a9d0f79a45565057a744f-thumbnail.jpg" group-title="Football - Other",Burkina Faso vs. Equatorial Guinea - 24 Dec 2025 19:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -27,10 +63,34 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15297" tvg-logo="https://api.ppv.to/assets/thumb/91e38eb5dc65bc77a34be9d7d8ee4602-thumbnail.jpg" group-title="PPVLand - Basketball",Charlotte Hornets vs. Cleveland Cavaliers - 23 Dec 2025 07:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15314" tvg-logo="https://api.ppv.to/assets/thumb/57ef40bc59d56d3a24d8f65fe68e3467-thumbnail.jpg" group-title="Football - Other",Chelsea vs. Aston Villa - 28 Dec 2025 00:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_che/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15305" tvg-logo="https://api.ppv.to/assets/thumb/8324015438e74566ad4107797464ecce-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Columbus Blue Jackets vs. Los Angeles Kings - 23 Dec 2025 10:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/losangeleskings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15271" tvg-logo="https://api.ppv.to/assets/thumb/2a65ab59f4e2b4d0d8d0f5805efa3295-thumbnail.jpg" group-title="Football - Other",Congo DR vs. Benin - 23 Dec 2025 19:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15323" tvg-logo="https://api.ppv.to/assets/thumb/c19eaa828a9e7f4cdc9776193c91927f-thumbnail.jpg" group-title="Football - Other",Cremonese vs. Napoli - 28 Dec 2025 21:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_cre/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15316" tvg-logo="https://api.ppv.to/assets/thumb/9041e5048b1d05666bf9b3a217adc617-thumbnail.jpg" group-title="Football - Other",Crystal Palace vs. Tottenham Hotspur - 28 Dec 2025 23:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_cry/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15306" tvg-logo="https://api.ppv.to/assets/thumb/0764ea0432db43904591d8b4a09339ca-thumbnail.jpg" group-title="PPVLand - Basketball",Detroit Pistons vs. Portland Trail Blazers - 23 Dec 2025 10:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15280" tvg-logo="https://api.ppv.to/assets/thumb/9e59e840cdbc7f9e09811f5d1c92b31f-thumbnail.jpg" group-title="Football - Other",Egypt vs. South Africa - 26 Dec 2025 22:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -43,50 +103,62 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15032" tvg-logo="https://api.ppv.to/assets/thumb/22be0401f51be0fa52c27270d50c91b7-thumbnail.jpg" group-title="Football - Other",Fulham vs. Nottingham Forest - 23 Dec 2025 03:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_ful/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15287" tvg-logo="https://api.ppv.to/assets/thumb/a325ba7490fb3271d96c92890ead13c2-thumbnail.jpg" group-title="Football - Other",Gabon vs. Mozambique - 28 Dec 2025 19:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15217" tvg-logo="https://api.ppv.to/assets/thumb/27829e97a4c2e97530dee5ac18aa6e77-thumbnail.jpg" group-title="PPVLand - Basketball",Houston Rockets vs. Sacramento Kings - 22 Dec 2025 10:00 WIB
+#EXTINF:-1 tvg-id="ppv-15298" tvg-logo="https://api.ppv.to/assets/thumb/1236e98a6ce0b24fff26385f130431b8-thumbnail.jpg" group-title="PPVLand - Basketball",Indiana Pacers vs. Boston Celtics - 23 Dec 2025 07:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sacramentokings/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15217" tvg-logo="https://api.ppv.to/assets/thumb/27829e97a4c2e97530dee5ac18aa6e77-thumbnail.jpg" group-title="PPVLand - Live Now",Houston Rockets vs. Sacramento Kings - 22 Dec 2025 10:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sacramentokings/index.m3u8
+https://gg.poocloud.in/bostonceltics/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15290" tvg-logo="https://api.ppv.to/assets/thumb/a98cabc88d5a7ac1f3b8e86c362dcb7b-thumbnail.jpg" group-title="Football - Other",Ivory Coast vs. Cameroon - 29 Dec 2025 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15277" tvg-logo="https://api.ppv.to/assets/thumb/bd3789a5273ebff7a9b2376ec59810b2-thumbnail.jpg" group-title="Football - Other",Ivory Coast vs. Mozambique - 25 Dec 2025 00:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15312" tvg-logo="https://api.ppv.to/assets/thumb/abc63d6d6a8782ab6e65062f88329716-thumbnail.jpg" group-title="Football - Other",Liverpool vs. Wolverhampton Wanderers - 27 Dec 2025 22:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_liv/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15268" tvg-logo="https://api.ppv.to/assets/thumb/03d328aebe8dfd2a2dff5062c2a55305-thumbnail.jpg" group-title="Football - Other",Mali vs. Zambia - 22 Dec 2025 21:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15282" tvg-logo="https://api.ppv.to/assets/thumb/202f862d91145346dce248f942a7ebbd-thumbnail.jpg" group-title="Football - Other",Morocco vs. Mali - 27 Dec 2025 03:00 WIB
+#EXTINF:-1 tvg-id="ppv-15307" tvg-logo="https://api.ppv.to/assets/thumb/2a6e9a66d74168c31ebf0e7a25a41727-thumbnail.jpg" group-title="Football - Other",Manchester United vs. Newcastle United - 27 Dec 2025 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/afcon/index.m3u8
+https://gg.poocloud.in/pl_man/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15303" tvg-logo="https://api.ppv.to/assets/thumb/f13a5267801bec20029bacef81542b21-thumbnail.jpg" group-title="PPVLand - Basketball",Memphis Grizzlies vs. Oklahoma City Thunder - 23 Dec 2025 09:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/oklahomacitythunder/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15295" tvg-logo="https://api.ppv.to/assets/thumb/5ca2b1d1fbaaebb3a9a69615da19d3fa-thumbnail.jpg" group-title="Football - Other",Napoli vs. Bologna - 23 Dec 2025 02:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_nap/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15087" tvg-logo="https://api.ppv.to/assets/thumb/83b095f8d210cbe091657a71b43ead52-thumbnail.jpg" group-title="PPVLand - NFL",New England Patriots vs. Baltimore Ravens - 22 Dec 2025 08:20 WIB
+#EXTINF:-1 tvg-id="ppv-15273" tvg-logo="https://api.ppv.to/assets/thumb/5898e2f98c3ed9e4a912d2348cfc02aa-thumbnail.jpg" group-title="Football - Other",Nigeria vs. Tanzania - 24 Dec 2025 00:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/baltimoreravens/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15087" tvg-logo="https://api.ppv.to/assets/thumb/83b095f8d210cbe091657a71b43ead52-thumbnail.jpg" group-title="PPVLand - Live Now",New England Patriots vs. Baltimore Ravens - 22 Dec 2025 08:20 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/baltimoreravens/index.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15286" tvg-logo="https://api.ppv.to/assets/thumb/c99920a9fadbb7ef9ce52c7393aad27c-thumbnail.jpg" group-title="Football - Other",Nigeria vs. Tunisia - 28 Dec 2025 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15304" tvg-logo="https://api.ppv.to/assets/thumb/624b57cd55a3f6ac827b1490445bc4aa-thumbnail.jpg" group-title="PPVLand - Basketball",Orlando Magic vs. Golden State Warriors - 23 Dec 2025 10:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/goldenstatewarriors/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15317" tvg-logo="https://api.ppv.to/assets/thumb/002ff9b1c5b148746fcd15cae6c84d85-thumbnail.jpg" group-title="Football - Other",Parma vs. Fiorentina - 27 Dec 2025 18:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_par/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15321" tvg-logo="https://api.ppv.to/assets/thumb/b92dcfdafa3f6f10549d7b72ef9a5cbb-thumbnail.jpg" group-title="Football - Other",Pisa vs. Juventus - 28 Dec 2025 02:45 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_pis/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15088" tvg-logo="https://api.ppv.to/assets/thumb/8c3f7f38e44f0944457f2e4c0c948e14-thumbnail.jpg" group-title="PPVLand - NFL",San Francisco 49ers vs. Indianapolis Colts - 23 Dec 2025 08:15 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -99,19 +171,59 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15269" tvg-logo="https://api.ppv.to/assets/thumb/91ed36e35e5993073d983aa42ae505fd-thumbnail.jpg" group-title="Football - Other",South Africa vs. Angola - 23 Dec 2025 00:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15296" tvg-logo="https://api.ppv.to/assets/thumb/3d370ac000d3cfe4bc66a90df8d203d6-thumbnail.jpg" group-title="PPVLand - Ice Hockey",St. Louis Blues vs. Tampa Bay Lightning - 23 Dec 2025 07:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/tampabaylightning/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15330" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPVLand - Wrestling",TNA: Impact - 26 Dec 2025 08:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15319" tvg-logo="https://api.ppv.to/assets/thumb/b56ce66b9e28f118b25a63409a351c41-thumbnail.jpg" group-title="Football - Other",Torino vs. Cagliari - 27 Dec 2025 21:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_tor/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15274" tvg-logo="https://api.ppv.to/assets/thumb/3e6bf417b4719678300c5aa777343b76-thumbnail.jpg" group-title="Football - Other",Tunisia vs. Uganda - 24 Dec 2025 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14284" tvg-logo="https://api.ppv.to/assets/thumb/4c9703bc12682df35335a376aeb10e0d-thumbnail.jpg" group-title="PPVLand - Combat Sports",UFC 324: Gaethje vs. Pimblett - 25 Jan 2026 07:00 WIB
+#EXTINF:-1 tvg-id="ppv-15320" tvg-logo="https://api.ppv.to/assets/thumb/fa3a88b0d40d06d17ecce1ab668932f3-thumbnail.jpg" group-title="Football - Other",Udinese vs. Lazio - 28 Dec 2025 00:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ufc/index.m3u8
+https://gg.poocloud.in/sa_udi/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15285" tvg-logo="https://api.ppv.to/assets/thumb/6459ca9955f5647d30777c2c63b51a7d-thumbnail.jpg" group-title="Football - Other",Uganda vs. Tanzania - 28 Dec 2025 00:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15301" tvg-logo="https://api.ppv.to/assets/thumb/27c0c38dc0c8fd606f56d0e5c547a638-thumbnail.jpg" group-title="PPVLand - Basketball",Utah Jazz vs. Denver Nuggets - 23 Dec 2025 09:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/denvernuggets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15300" tvg-logo="https://api.ppv.to/assets/thumb/25fd74d89eecc0cbd10996ee9141c5c0-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Vancouver Canucks vs. Philadelphia Flyers - 23 Dec 2025 07:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/philadelphiaflyers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15313" tvg-logo="https://api.ppv.to/assets/thumb/8012c94dd2a5a9d3c678e941edb1dbcc-thumbnail.jpg" group-title="Football - Other",West Ham United vs. Fulham - 27 Dec 2025 22:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_whu/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15327" tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="PPVLand - Wrestling",WWE: Monday Night RAW - 23 Dec 2025 08:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15328" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="PPVLand - Wrestling",WWE: NXT - 24 Dec 2025 08:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15281" tvg-logo="https://api.ppv.to/assets/thumb/23c5edb466b9e3a77e0874594c4d0c67-thumbnail.jpg" group-title="Football - Other",Zambia vs. Comoros - 27 Dec 2025 00:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15336" tvg-logo="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" group-title="Football - Other",Zambia vs. Morocco - 30 Dec 2025 02:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
