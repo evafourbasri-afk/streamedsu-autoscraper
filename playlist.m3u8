@@ -4,14 +4,6 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-22/sf-ind
 
-#EXTINF:-1 group-title="NBC Sports BO" tvg-logo="https://api.ppv.to/assets/thumb/1236e98a6ce0b24fff26385f130431b8-thumbnail.jpg",00:30 - 23/12/2025 | Indiana Pacers vs. Boston Celtics
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-22/ind-bos
-
-#EXTINF:-1 group-title="GCSEN" tvg-logo="https://api.ppv.to/assets/thumb/eeaed7d7598f8974049e2438e67c46e0-thumbnail.jpg",01:00 - 23/12/2025 | Dallas Mavericks vs. New Orleans Pelicans
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-22/dal-no
-
 #EXTINF:-1 group-title="Altitude Sports" tvg-logo="https://api.ppv.to/assets/thumb/27c0c38dc0c8fd606f56d0e5c547a638-thumbnail.jpg",02:00 - 23/12/2025 | Utah Jazz vs. Denver Nuggets
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-22/utah-den
@@ -211,14 +203,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/0b5e56b9047d65c0856b6195cf3856d9-thumbnail.jpg",19:45 - 29/12/2025 | AS Roma vs. Genoa
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2025-12-29/roma-gen
-
-#EXTINF:-1 group-title="The Spot - MTN" tvg-logo="https://api.ppv.to/assets/thumb/3d370ac000d3cfe4bc66a90df8d203d6-thumbnail.jpg",00:00 - 23/12/2025 | St. Louis Blues vs. Tampa Bay Lightning
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-22/stl-tb
-
-#EXTINF:-1 group-title="NBC Sports Phil" tvg-logo="https://api.ppv.to/assets/thumb/25fd74d89eecc0cbd10996ee9141c5c0-thumbnail.jpg",00:30 - 23/12/2025 | Vancouver Canucks vs. Philadelphia Flyers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-22/van-phi
 
 #EXTINF:-1 group-title="KCOP" tvg-logo="https://api.ppv.to/assets/thumb/bda2b8775578b430255dbabba203a2a4-thumbnail.jpg",03:00 - 23/12/2025 | Seattle Kraken vs. Anaheim Ducks
 #EXTVLCOPT:http-referrer=https://ppv.to/
