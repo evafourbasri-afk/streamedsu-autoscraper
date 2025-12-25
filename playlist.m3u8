@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="NCAAF" tvg-logo="https://api.ppv.to/assets/thumb/c06035bf4eb33695f4d4a1b4ef3c3915-thumbnail.jpg",01:00 - 25/12/2025 | Hawai'i Rainbow Warriors vs. California Golden Bears
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ncaaf/2025-12-25/haw-cal
+
 #EXTINF:-1 group-title="Netflix" tvg-logo="https://api.ppv.to/assets/thumb/3c4da57019a3db5ddc05846665384761-thumbnail.jpg",18:00 - 25/12/2025 | Dallas Cowboys vs. Washington Commanders
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-25/dal-wsh
