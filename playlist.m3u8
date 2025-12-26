@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/c2bb853298791c2c5de82ed30bbe6bea-thumbnail.jpg",18:00 - 26/12/2025 | Central Michigan Chippewas vs. Northwestern Wildcats
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/2497-2497
-
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/9004570f80af72d616058307b548063c-thumbnail.jpg",21:30 - 26/12/2025 | New Mexico Lobos vs. Minnesota Golden Gophers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/3009-3009
