@@ -104,10 +104,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cricke
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=2025-world-darts-championship
 
-#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/23c5edb466b9e3a77e0874594c4d0c67-thumbnail.jpg",17:30 - 26/12/2025 | Zambia vs. Comoros
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-26/zam-com
-
 #EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/202f862d91145346dce248f942a7ebbd-thumbnail.jpg",20:00 - 26/12/2025 | Morocco vs. Mali
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-26/mar-mli
@@ -239,6 +235,38 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/0b5e56b9047d65c0856b6195cf3856d9-thumbnail.jpg",19:45 - 29/12/2025 | AS Roma vs. Genoa
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2025-12-29/roma-gen
+
+#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/ca665241f0bfdddb9d5f115ad559c9bd-thumbnail.jpg",18:00 - 26/12/2025 | Sweden vs. Slovakia
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=sweden-vs.-slovakia
+
+#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/ca665241f0bfdddb9d5f115ad559c9bd-thumbnail.jpg",20:30 - 26/12/2025 | Denmark vs. Finland
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=denmark-vs.-finland
+
+#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/ca665241f0bfdddb9d5f115ad559c9bd-thumbnail.jpg",23:00 - 26/12/2025 | USA vs. Germany
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=usa-vs.-germany
+
+#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/ca665241f0bfdddb9d5f115ad559c9bd-thumbnail.jpg",01:30 - 27/12/2025 | Canada vs. Czechia
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=canada-vs.-czechia
+
+#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/ca665241f0bfdddb9d5f115ad559c9bd-thumbnail.jpg",19:00 - 27/12/2025 | Slovakia vs. Germany
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=slovakia-vs.-germany
+
+#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/ca665241f0bfdddb9d5f115ad559c9bd-thumbnail.jpg",21:30 - 27/12/2025 | Canada vs. Latvia
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=canada-vs.-latvia
+
+#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/ca665241f0bfdddb9d5f115ad559c9bd-thumbnail.jpg",23:00 - 27/12/2025 | USA vs. Switzerland
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=usa-vs.-switzerland
+
+#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/ca665241f0bfdddb9d5f115ad559c9bd-thumbnail.jpg",01:30 - 28/12/2025 | Denmark vs. Czechia
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=denmark-vs.-czechia
 
 #EXTINF:-1 group-title="USA Network" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",01:00 - 27/12/2025 | WWE: Friday Night Smackdown
 #EXTVLCOPT:http-referrer=https://ppv.to/
