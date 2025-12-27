@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ABC" tvg-logo="https://api.ppv.to/assets/thumb/166a63cd0e9333f68f130af97c06a189-thumbnail.jpg",17:00 - 27/12/2025 | Penn State Nittany Lions vs. Clemson Tigers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/2959-2959
-
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/64e7d28df770096f64a10109b4786c0a-thumbnail.jpg",19:15 - 27/12/2025 | UConn Huskies vs. Army Black Knights
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/4804-4804
