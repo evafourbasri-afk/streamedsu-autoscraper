@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/9004570f80af72d616058307b548063c-thumbnail.jpg",21:30 - 26/12/2025 | New Mexico Lobos vs. Minnesota Golden Gophers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/3009-3009
-
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/f56652cd0b5ae22900ede2c25e70a64b-thumbnail.jpg",01:00 - 27/12/2025 | Florida International Panthers vs. UTSA Roadrunners
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/5212-5212
@@ -335,10 +331,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/0b5e56b9047d65c0856b6195cf3856d9-thumbnail.jpg",19:45 - 29/12/2025 | AS Roma vs. Genoa
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2025-12-29/roma-gen
-
-#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/ef5bcdc03bad0d160d12ba08a9401ca6-thumbnail.jpg",23:00 - 26/12/2025 | USA vs. Germany
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=usa-vs.-germany
 
 #EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/b6dc9c7ff091b73a1d6889b5ce0c8a3d-thumbnail.jpg",01:30 - 27/12/2025 | Canada vs. Czechia
 #EXTVLCOPT:http-referrer=https://ppv.to/
