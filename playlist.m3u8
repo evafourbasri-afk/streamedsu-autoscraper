@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/9ecafd5833d12a12b46ca00fe4ea4603-thumbnail.jpg",16:00 - 27/12/2025 | Pittsburgh Panthers vs. East Carolina Pirates
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/8999-8999
-
 #EXTINF:-1 group-title="ABC" tvg-logo="https://api.ppv.to/assets/thumb/166a63cd0e9333f68f130af97c06a189-thumbnail.jpg",17:00 - 27/12/2025 | Penn State Nittany Lions vs. Clemson Tigers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/2959-2959
@@ -195,14 +191,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-32
 #EXTINF:-1 group-title="PDC Darts" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg",12:30 - 27/12/2025 | World Darts Championship
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=2025-world-darts-championship
-
-#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/fa3a88b0d40d06d17ecce1ab668932f3-thumbnail.jpg",17:00 - 27/12/2025 | Udinese vs. Lazio
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2025-12-27/udi-laz
-
-#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/6459ca9955f5647d30777c2c63b51a7d-thumbnail.jpg",17:30 - 27/12/2025 | Uganda vs. Tanzania
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-27/uga-tan
 
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/57ef40bc59d56d3a24d8f65fe68e3467-thumbnail.jpg",17:30 - 27/12/2025 | Chelsea vs. Aston Villa
 #EXTVLCOPT:http-referrer=https://ppv.to/
