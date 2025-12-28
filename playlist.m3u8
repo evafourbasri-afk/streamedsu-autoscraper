@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/de39ba20ea4671132358f4d801684320-thumbnail.jpg",01:00 - 28/12/2025 | Baltimore Ravens vs. Green Bay Packers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-27/bal-gb
-
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/b5fe61d543f89eb37fa97aa80fba6931-thumbnail.jpg",02:15 - 28/12/2025 | LSU Tigers vs. Houston Cougars
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/4566-4566
