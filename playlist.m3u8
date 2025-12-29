@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="NFL RedZone" tvg-logo="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg",18:00 - 28/12/2025 | NFL RedZone
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl-redzone-wk17
-
-#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/28ae5673cbb9e16046091b51d12b2c62-thumbnail.jpg",21:05 - 28/12/2025 | New York Giants vs. Las Vegas Raiders
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-28/nyg-lv
-
-#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/99d0118ed74a6f0772dc5389bfb457a8-thumbnail.jpg",21:25 - 28/12/2025 | Philadelphia Eagles vs. Buffalo Bills
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-28/phi-buf
-
 #EXTINF:-1 group-title="NBC" tvg-logo="https://api.ppv.to/assets/thumb/3c6e96c183dc419879fb33d07bf334de-thumbnail.jpg",01:20 - 29/12/2025 | Chicago Bears vs. San Francisco 49ers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2025-12-28/chi-sf
@@ -127,18 +115,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/0b5e56b9047d65c0856b6195cf3856d9-thumbnail.jpg",19:45 - 29/12/2025 | AS Roma vs. Genoa
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2025-12-29/roma-gen
-
-#EXTINF:-1 group-title="IIHF WJC" tvg-logo="https://api.ppv.to/assets/thumb/c1542521f574be70ad3d5dd1592b9d5e-thumbnail.jpg",21:30 - 28/12/2025 | Finland vs. Latvia
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wjc/2025-12-28/fin-lat
-
-#EXTINF:-1 group-title="The Spot - MTN" tvg-logo="https://api.ppv.to/assets/thumb/71b0e5e2fd67507565c3d876e4ef5d04-thumbnail.jpg",22:00 - 28/12/2025 | Montreal Canadiens vs. Tampa Bay Lightning
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-28/mtl-tb
-
-#EXTINF:-1 group-title="FanDuel SN OH" tvg-logo="https://api.ppv.to/assets/thumb/c56da23b99ccd1158f38f71f75eab9c0-thumbnail.jpg",22:00 - 28/12/2025 | New York Islanders vs. Columbus Blue Jackets
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-28/nyi-cbj
 
 #EXTINF:-1 group-title="FanDuel SN DET" tvg-logo="https://api.ppv.to/assets/thumb/2f5d35babb22bbe9c031356c4c6494df-thumbnail.jpg",00:00 - 29/12/2025 | Toronto Maple Leafs vs. Detroit Red Wings
 #EXTVLCOPT:http-referrer=https://ppv.to/
