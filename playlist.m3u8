@@ -136,10 +136,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/29
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9993-9993
 
-#EXTINF:-1 group-title="Spectrum Sports Net" tvg-logo="https://api.ppv.to/assets/thumb/d60c289079119ed5962af076b3812607-thumbnail.jpg",02:30 - 29/12/2025 | Sacramento Kings vs. Los Angeles Lakers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-28/sac-lal
-
 #EXTINF:-1 group-title="FanDuel SN SE" tvg-logo="https://api.ppv.to/assets/thumb/93220b806877b899320236079156017e-thumbnail.jpg",00:00 - 30/12/2025 | Milwaukee Bucks vs. Charlotte Hornets
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2025-12-29/mil-cha
@@ -208,29 +204,233 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2025-12-29/roma-gen
 
+#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/1d2f07d31b24afe5a3456ae7a1d97918-thumbnail.jpg",16:00 - 30/12/2025 | Tanzania vs. Tunisia
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-30/tan-tun
+
+#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/9fe15200b869c201676798c4048b0788-thumbnail.jpg",16:00 - 30/12/2025 | Uganda vs. Nigeria
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-30/uga-nga
+
+#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/9164dc6f53212a6ecda4a48945e6cfed-thumbnail.jpg",19:00 - 30/12/2025 | Benin vs. Senegal
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-30/ben-sen
+
+#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/b89ca941fcd89e49736c03747be152cf-thumbnail.jpg",19:00 - 30/12/2025 | Botswana vs. Congo DR
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-30/bot-cod
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/c968525e3f6446851d4dce0d4202b7a5-thumbnail.jpg",19:30 - 30/12/2025 | Burnley vs. Newcastle United
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2025-12-30/bur-new
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/12f5fc48b1b00cd626433f6b924ec4e7-thumbnail.jpg",19:30 - 30/12/2025 | Chelsea vs. AFC Bournemouth
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2025-12-30/che-bou
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/f177e6f6d9c3b72a2cab7656c0a954f6-thumbnail.jpg",19:30 - 30/12/2025 | Nottingham Forest vs. Everton
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2025-12-30/nfo-eve
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/8acf8ff2bafe8c7ae5b23256449a678a-thumbnail.jpg",19:30 - 30/12/2025 | West Ham United vs. Brighton & Hove Albion
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2025-12-30/whu-bha
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/267224f2ee604859c3d96540a2581a5f-thumbnail.jpg",20:15 - 30/12/2025 | Arsenal vs. Aston Villa
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2025-12-30/ars-avl
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/8c3d6b576b58c71264774fc39227d2dc-thumbnail.jpg",20:15 - 30/12/2025 | Manchester United vs. Wolverhampton Wanderers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2025-12-30/man-wol
+
+#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/7cf7727e3ecad0f8fefc602fbb424079-thumbnail.jpg",16:00 - 31/12/2025 | Equatorial Guinea vs. Algeria
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-31/eqg-alg
+
+#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/e837742358d3fb6db7014aab70e66578-thumbnail.jpg",16:00 - 31/12/2025 | Sudan vs. Burkina Faso
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-31/sud-bka
+
+#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/98f915e221e53348d9b53382bd9acffc-thumbnail.jpg",19:00 - 31/12/2025 | Gabon vs. Ivory Coast
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-31/gab-civ
+
+#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg",19:00 - 31/12/2025 | Mozambique vs. Cameroon
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2025-12-31/moz-cmr
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/a9fe7d80e6985fd9ef940d4b3a8eab1a-thumbnail.jpg",17:30 - 01/01/2026 | Crystal Palace vs. Fulham
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-01/cry-ful
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/d0b0544bf77396c4bee0ab242909fbfe-thumbnail.jpg",17:30 - 01/01/2026 | Liverpool vs. Leeds United
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-01/liv-lee
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/3ce97ec548d4bebc09a73c0d1850a597-thumbnail.jpg",20:00 - 01/01/2026 | Brentford vs. Tottenham Hotspur
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-01/bre-tot
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg",20:00 - 01/01/2026 | Sunderland vs. Manchester City
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-01/sun-mnc
+
+#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/f8a19b6245b3bb141dd813acd2b9b3cb-thumbnail.jpg",19:45 - 02/01/2026 | Cagliari vs. AC Milan
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-02/cag-mil
+
+#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/0098b62119882563e93c05d2f9ffd4a3-thumbnail.jpg",19:45 - 02/01/2026 | Toulouse vs. Lens
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-02/tou-rcl
+
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/9fe309872e8491a01aed3ac2822d7cec-thumbnail.jpg",20:00 - 02/01/2026 | Rayo Vallecano vs. Getafe
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-02/ray-get
+
+#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/d12aba40501e55e90e46258382098ec2-thumbnail.jpg",11:30 - 03/01/2026 | Como vs. Udinese
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-03/como-udi
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/145be18c71bc7091ce96135402eecc9d-thumbnail.jpg",12:30 - 03/01/2026 | Aston Villa vs. Nottingham Forest
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-03/avl-nfo
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/4c352a533a4a9cb75a223500ba0c5485-thumbnail.jpg",13:00 - 03/01/2026 | Celta Vigo vs. Valencia
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-03/cel-val
 
+#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/c4f90c733633c35581ce8a35bdd42890-thumbnail.jpg",14:00 - 03/01/2026 | Genoa vs. Pisa
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-03/gen-pis
+
+#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/9eb03ce38bc9fb160a0b08cd6f3168fa-thumbnail.jpg",14:00 - 03/01/2026 | Sassuolo vs. Parma
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-03/sas-par
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/490152b0725b67a205762a956a323d0c-thumbnail.jpg",15:00 - 03/01/2026 | Brighton & Hove Albion vs. Burnley
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-03/bha-bur
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/dd0135a3eadc6217fa73751f9ff1525f-thumbnail.jpg",15:00 - 03/01/2026 | Wolverhampton Wanderers vs. West Ham United
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-03/wol-whu
+
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/d0edaf27468aee5cefaf1dc2f4c69099-thumbnail.jpg",15:15 - 03/01/2026 | Osasuna vs. Athletic Club
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-03/osa-ath
+
+#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/caba358be42ecd3169de963faa2443a1-thumbnail.jpg",16:00 - 03/01/2026 | AS Monaco vs. Lyon
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-03/mon-lyon
+
+#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/04ab1cc40cd1afed4b09282f3c42097e-thumbnail.jpg",17:00 - 03/01/2026 | Juventus vs. Lecce
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-03/juv-lec
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/b22be3ec863d8e26f174380ad5dc34ef-thumbnail.jpg",17:30 - 03/01/2026 | Elche vs. Villarreal
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-03/elc-vil
 
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/6c93cdbd0b519cd15b015b8f489a9c21-thumbnail.jpg",17:30 - 03/01/2026 | AFC Bournemouth vs. Arsenal
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-03/bou-ars
+
+#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/09a5c0b3d8ee8f06111ce21a91f713fe-thumbnail.jpg",18:00 - 03/01/2026 | Nice vs. Strasbourg
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-03/nice-str
+
+#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/42af626809e6f27839181d396b209e00-thumbnail.jpg",19:45 - 03/01/2026 | Atalanta vs. AS Roma
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-03/ata-roma
+
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/3bf5e4fff347efe328b10e584688ea69-thumbnail.jpg",20:00 - 03/01/2026 | Espanyol vs. Barcelona
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-03/esp-bar
 
+#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/d83a89c1f64b35597807c6e1f9937175-thumbnail.jpg",20:05 - 03/01/2026 | Lille vs. Stade Rennais
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-03/lill-ren
+
+#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/70ca9127f9a79f2463f170f66c77a535-thumbnail.jpg",11:30 - 04/01/2026 | Lazio vs. Napoli
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-04/laz-nap
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/e54cbd8888ada20db1205420dc782a89-thumbnail.jpg",12:30 - 04/01/2026 | Leeds United vs. Manchester United
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/lee-man
+
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/ef9b2498fd10e0b2ba179f9b659bc469-thumbnail.jpg",13:00 - 04/01/2026 | Sevilla vs. Levante
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/sev-lev
+
+#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/5c759575b428dc5adea5c69acda16048-thumbnail.jpg",14:00 - 04/01/2026 | Fiorentina vs. Cremonese
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-04/fio-cre
+
+#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/d7829d33a2ab0af4557f905d56f99514-thumbnail.jpg",14:00 - 04/01/2026 | Marseille vs. Nantes
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-04/olm-nan
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/569fb0013ec39b8d35ab77e5d95f18b6-thumbnail.jpg",15:00 - 04/01/2026 | Everton vs. Brentford
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/eve-bre
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/3483afe1c342727b57ac4ef3ecaebab2-thumbnail.jpg",15:00 - 04/01/2026 | Fulham vs. Liverpool
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/ful-liv
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/eaa7fbde039ea3f5b9db93c50666249c-thumbnail.jpg",15:00 - 04/01/2026 | Newcastle United vs. Crystal Palace
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/new-cry
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/c26cf49438aa869e01d4ad873dd169ad-thumbnail.jpg",15:00 - 04/01/2026 | Tottenham Hotspur vs. Sunderland
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/tot-sun
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/7bfb1ba1fbe6ea2a1a57e2b05357f711-thumbnail.jpg",15:15 - 04/01/2026 | Real Madrid vs. Real Betis
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/rma-bet
+
+#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/7b8b730aca55a095afa83609be989cab-thumbnail.jpg",16:15 - 04/01/2026 | Brest vs. AJ Auxerre
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-04/bre-aux
+
+#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/00ee1ffb594f974bd3968628d8005343-thumbnail.jpg",16:15 - 04/01/2026 | Le Havre AC vs. Angers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-04/hac-ang
+
+#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/17e006f623c0a063a1ca1c418ef0e530-thumbnail.jpg",16:15 - 04/01/2026 | Lorient vs. Metz
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-04/lor-metz
+
+#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/af9fbb80c70992376a5554a553b0d635-thumbnail.jpg",17:00 - 04/01/2026 | Hellas Verona vs. Torino
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-04/ver-tor
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/1f03ec28b29415a255b929f2f9dd9782-thumbnail.jpg",17:30 - 04/01/2026 | Alavés vs. Real Oviedo
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/ala-ovi
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/e7f3645a60df5893e5b4e6297a85e993-thumbnail.jpg",17:30 - 04/01/2026 | Mallorca vs. Girona
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/mll-gir
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/819142cc3fd49934504f31d34bd88e3e-thumbnail.jpg",17:30 - 04/01/2026 | Manchester City vs. Chelsea
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/mnc-che
+
+#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/79995087401a08dd0b8575454dc872d9-thumbnail.jpg",19:45 - 04/01/2026 | Internazionale vs. Bologna
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-04/int-bol
+
+#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/a9baf4bb8d72505d10c26a1e0166eb20-thumbnail.jpg",19:45 - 04/01/2026 | Paris Saint-Germain vs. Paris FC
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-04/psg-par
+
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/00604fc5db6144217be3ac9c0c627cca-thumbnail.jpg",20:00 - 04/01/2026 | Real Sociedad vs. Atlético Madrid
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/rso-atm
 
 #EXTINF:-1 group-title="IIHF WJC" tvg-logo="https://api.ppv.to/assets/thumb/d4cc821226ccc51102326ec6fca98141-thumbnail.jpg",18:00 - 29/12/2025 | Germany vs. Sweden
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -283,6 +483,38 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTINF:-1 group-title="Scripps Sports" tvg-logo="https://api.ppv.to/assets/thumb/22a8d020334fad310ececaaffaeb4b75-thumbnail.jpg",03:00 - 30/12/2025 | Minnesota Wild vs. Vegas Golden Knights
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-29/min-vgk
+
+#EXTINF:-1 group-title="Victory+" tvg-logo="https://api.ppv.to/assets/thumb/494dfda37eebfc80cb041b16c1d4ad5d-thumbnail.jpg",03:00 - 30/12/2025 | San Jose Sharks vs. Anaheim Ducks
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-29/sj-ana
+
+#EXTINF:-1 group-title="KONG" tvg-logo="https://api.ppv.to/assets/thumb/e1d5a83d710f26d691c76181aeb6fb3d-thumbnail.jpg",03:00 - 30/12/2025 | Vancouver Canucks vs. Seattle Kraken
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-29/van-sea
+
+#EXTINF:-1 group-title="Netflix" tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",01:00 - 30/12/2025 | WWE: Monday Night RAW
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wwe/raw/2025-12-30
+
+#EXTINF:-1 group-title="Netflix" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",01:00 - 31/12/2025 | WWE: NXT
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wwe/nxt/2025-12-31
+
+#EXTINF:-1 group-title="TBS" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",01:00 - 01/01/2026 | AEW: Wednesday Night Dynamite
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=aew/dynamite/2026-01-01
+
+#EXTINF:-1 group-title="AXS TV" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",01:00 - 02/01/2026 | TNA: Impact
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=tna/impact/2026-01-02
+
+#EXTINF:-1 group-title="USA Network" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",01:00 - 03/01/2026 | WWE: Friday Night Smackdown
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wwe/smackdown/2026-01-03
+
+#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",01:00 - 04/01/2026 | AEW: Saturday Night Collision
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=aew/collision/2026-01-04
 
 #EXTINF:-1 group-title="South Park/PPV" tvg-logo="https://api.ppv.to/assets/thumb/c7caf570cf3494e7f9ad1ae3f3122242-thumbnail.jpg",06:00 - 25/08/2025 | Master stream test
 #EXTVLCOPT:http-referrer=https://ppv.to/
