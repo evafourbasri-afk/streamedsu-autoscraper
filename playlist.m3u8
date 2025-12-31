@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/02c1fdd0d04e56aa18cb873791915726-thumbnail.jpg",19:00 - 31/12/2025 | Arizona State Sun Devils vs. Duke Blue Devils
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/1197-1197
-
 #EXTINF:-1 group-title="ABC" tvg-logo="https://api.ppv.to/assets/thumb/c1373b1b99778a4a2fbe111db7e09331-thumbnail.jpg",20:00 - 31/12/2025 | Michigan Wolverines vs. Texas Longhorns
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9291-9291
