@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/19c83767d7695ee83c1ba6d4e69dac2f-thumbnail.jpg",17:00 - 31/12/2025 | Iowa Hawkeyes vs. Vanderbilt Commodores
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9257-9257
-
 #EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/02c1fdd0d04e56aa18cb873791915726-thumbnail.jpg",19:00 - 31/12/2025 | Arizona State Sun Devils vs. Duke Blue Devils
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/1197-1197
@@ -339,14 +335,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/00604fc5db6144217be3ac9c0c627cca-thumbnail.jpg",20:00 - 04/01/2026 | Real Sociedad vs. Atlético Madrid
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/rso-atm
-
-#EXTINF:-1 group-title="MNMT" tvg-logo="https://api.ppv.to/assets/thumb/c31a69186c159382971372a6aec487de-thumbnail.jpg",17:30 - 31/12/2025 | New York Rangers vs. Washington Capitals
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2025-12-31/nyr-wsh
-
-#EXTINF:-1 group-title="IIHF WJC" tvg-logo="https://api.ppv.to/assets/thumb/b7c2579c6b2628ffb11d354e818596e0-thumbnail.jpg",18:00 - 31/12/2025 | Switzerland vs. Slovakia
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wjc/2025-12-31/sui-svk
 
 #EXTINF:-1 group-title="Scripps Sports" tvg-logo="https://api.ppv.to/assets/thumb/78fede552d4d01f3b3adc503cbb706c3-thumbnail.jpg",20:00 - 31/12/2025 | Nashville Predators vs. Vegas Golden Knights
 #EXTVLCOPT:http-referrer=https://ppv.to/
