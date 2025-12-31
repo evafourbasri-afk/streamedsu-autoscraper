@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/8598245c737223b86ae56d7dbf82564f-thumbnail.jpg",22:30 - 30/12/2025 | Tennessee Volunteers vs. Illinois Fighting Illini
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/5338-5338
-
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/5ae695ca25a72e8c4672d7134cc21bd6-thumbnail.jpg",02:00 - 31/12/2025 | USC Trojans vs. TCU Horned Frogs
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/5731-5731
