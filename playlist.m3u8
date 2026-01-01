@@ -116,17 +116,9 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
 
-#EXTINF:-1 group-title="PDC Darts" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg",12:30 - 01/01/2026 | World Darts Championship
+#EXTINF:-1 group-title="PDC Darts" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg",19:30 - 02/01/2026 | World Darts Championship
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=2025-world-darts-championship
-
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/3ce97ec548d4bebc09a73c0d1850a597-thumbnail.jpg",20:00 - 01/01/2026 | Brentford vs. Tottenham Hotspur
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-01/bre-tot
-
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg",20:00 - 01/01/2026 | Sunderland vs. Manchester City
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-01/sun-mnc
 
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/f8a19b6245b3bb141dd813acd2b9b3cb-thumbnail.jpg",19:45 - 02/01/2026 | Cagliari vs. AC Milan
 #EXTVLCOPT:http-referrer=https://ppv.to/
