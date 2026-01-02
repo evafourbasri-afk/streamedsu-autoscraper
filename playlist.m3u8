@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/3c05a4468adaca4d72ed5b4ef4e1a0cf-thumbnail.jpg",21:00 - 01/01/2026 | Alabama Crimson Tide vs. Indiana Hoosiers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/7128-7128
-
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/36533879406a3c06c9267dbacef73e39-thumbnail.jpg",01:00 - 02/01/2026 | Ole Miss Rebels vs. Georgia Bulldogs
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/8312-8312
