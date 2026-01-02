@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/36533879406a3c06c9267dbacef73e39-thumbnail.jpg",01:00 - 02/01/2026 | Ole Miss Rebels vs. Georgia Bulldogs
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/8312-8312
-
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/418372260da4e53fd6d09f270bbda500-thumbnail.jpg",18:00 - 02/01/2026 | Rice Owls vs. Texas State Bobcats
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/4037-4037
@@ -87,10 +83,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg",00:30 - 06/01/2026 | Illinois State Redbirds vs. Montana State Bobcats
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9993-9993
-
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://api.ppv.to/assets/thumb/d03193288dc1690108a6681d246b3e54-thumbnail.jpg",01:30 - 02/01/2026 | Philadelphia 76ers vs. Dallas Mavericks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-01/phi-dal
 
 #EXTINF:-1 group-title="NBC Sports BO" tvg-logo="https://api.ppv.to/assets/thumb/12833293dc837d35cfb31ecbb80a0cc3-thumbnail.jpg",03:00 - 02/01/2026 | Boston Celtics vs. Sacramento Kings
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -263,10 +255,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/00604fc5db6144217be3ac9c0c627cca-thumbnail.jpg",20:00 - 04/01/2026 | Real Sociedad vs. Atlético Madrid
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/rso-atm
-
-#EXTINF:-1 group-title="CHSN" tvg-logo="https://api.ppv.to/assets/thumb/7499241be1da895a810375f0eeed7268-thumbnail.jpg",01:30 - 02/01/2026 | Dallas Stars vs. Chicago Blackhawks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-01/dal-chi
 
 #EXTINF:-1 group-title="KONG" tvg-logo="https://api.ppv.to/assets/thumb/08c6bad9b8987014cf053ff32b0f1663-thumbnail.jpg",03:00 - 02/01/2026 | Nashville Predators vs. Seattle Kraken
 #EXTVLCOPT:http-referrer=https://ppv.to/
