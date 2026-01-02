@@ -88,6 +88,26 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/99
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfc-#7-at-nfc-#2
 
+#EXTINF:-1 group-title="FOX/CBS/NBC/Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg",18:00 - 11/01/2026 | NFC #6 at NFC #3
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfc-#6-at-nfc-#3
+
+#EXTINF:-1 group-title="FOX/CBS/NBC/Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg",18:00 - 11/01/2026 | NFC #5 at #4 Carolina Panthers/Tampa Bay Buccaneers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfc-#5-at-#4-carolina-panthers/tampa-bay-buccaneers
+
+#EXTINF:-1 group-title="FOX/CBS/NBC/Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg",18:00 - 11/01/2026 | AFC #7 at AFC #2
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afc-#7-at-afc-#2
+
+#EXTINF:-1 group-title="FOX/CBS/NBC/Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg",18:00 - 11/01/2026 | AFC #6 at AFC #3
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afc-#6-at-afc-#3
+
+#EXTINF:-1 group-title="FOX/CBS/NBC/Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg",18:00 - 11/01/2026 | AFC #5 at #4 Pittsburgh Steelers/Baltimore Ravens
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afc-#5-at-#4-pittsburgh-steelers/baltimore-ravens
+
 #EXTINF:-1 group-title="FanDuel SN IN" tvg-logo="https://api.ppv.to/assets/thumb/f5272e08162b4e799a046432ff00ca7b-thumbnail.jpg",00:00 - 03/01/2026 | San Antonio Spurs vs. Indiana Pacers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-02/sa-ind
