@@ -264,22 +264,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/rso-atm
 
-#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/6f954df4f506a10878e503628b831908-thumbnail.jpg",00:00 - 02/01/2026 | Winnipeg Jets vs. Toronto Maple Leafs
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-01/wpg-tor
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/17358158d744a18b9c39e87a8e36e0fa-thumbnail.jpg",00:00 - 02/01/2026 | Detroit Red Wings vs. Pittsburgh Penguins
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-01/det-pit
-
-#EXTINF:-1 group-title="FanDuel SN South" tvg-logo="https://api.ppv.to/assets/thumb/21baaa3f52ac5796dfdf69168c663a4f-thumbnail.jpg",00:00 - 02/01/2026 | Montreal Canadiens vs. Carolina Hurricanes
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-01/mtl-car
-
-#EXTINF:-1 group-title="FanDuel SN West" tvg-logo="https://api.ppv.to/assets/thumb/71519124c0ab765fee3b58a071036bff-thumbnail.jpg",00:00 - 02/01/2026 | Tampa Bay Lightning vs. Los Angeles Kings
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-01/tb-la
-
 #EXTINF:-1 group-title="CHSN" tvg-logo="https://api.ppv.to/assets/thumb/7499241be1da895a810375f0eeed7268-thumbnail.jpg",01:30 - 02/01/2026 | Dallas Stars vs. Chicago Blackhawks
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-01/dal-chi
@@ -287,10 +271,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTINF:-1 group-title="KONG" tvg-logo="https://api.ppv.to/assets/thumb/08c6bad9b8987014cf053ff32b0f1663-thumbnail.jpg",03:00 - 02/01/2026 | Nashville Predators vs. Seattle Kraken
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-01/nsh-sea
-
-#EXTINF:-1 group-title="AXS TV" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",01:00 - 02/01/2026 | TNA: Impact
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=tna/impact/2026-01-02
 
 #EXTINF:-1 group-title="USA Network" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",01:00 - 03/01/2026 | WWE: Friday Night Smackdown
 #EXTVLCOPT:http-referrer=https://ppv.to/
