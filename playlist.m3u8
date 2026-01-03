@@ -68,10 +68,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9993-9993
 
-#EXTINF:-1 group-title="ESPN2" tvg-logo="https://api.ppv.to/assets/thumb/5cc168882a1848fa3bb5daada26abe02-thumbnail.jpg",20:00 - 03/01/2026 | Tennessee Volunteers vs. Arkansas Razorbacks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/2723-2723
-
 #EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/3e23826439bba5a80e194ae7e867e720-thumbnail.jpg",20:45 - 03/01/2026 | Duke Blue Devils vs. Florida State Seminoles
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/7666-7666
@@ -135,6 +131,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=amanda
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg",00:00 - 25/01/2026 | UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
+
+#EXTINF:-1 group-title="FOX Cricket" tvg-logo="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg",23:30 - 03/01/2026 | Australia vs. England
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cricket/2026/au-en/5th-test
 
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/70ca9127f9a79f2463f170f66c77a535-thumbnail.jpg",11:30 - 04/01/2026 | Lazio vs. Napoli
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -215,10 +215,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/00604fc5db6144217be3ac9c0c627cca-thumbnail.jpg",20:00 - 04/01/2026 | Real Sociedad vs. Atlético Madrid
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/rso-atm
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/77b2f3939c9e854cd9ba3ba9e1d0cc5f-thumbnail.jpg",20:30 - 03/01/2026 | Philadelphia Flyers vs. Edmonton Oilers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-03/phi-edm
 
 #EXTINF:-1 group-title="FanDuel SN MW" tvg-logo="https://api.ppv.to/assets/thumb/35d5d8bad2c4719c0acccc9eeba31e7e-thumbnail.jpg",21:00 - 03/01/2026 | Montreal Canadiens vs. St. Louis Blues
 #EXTVLCOPT:http-referrer=https://ppv.to/
