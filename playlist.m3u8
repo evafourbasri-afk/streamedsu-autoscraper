@@ -156,6 +156,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-03/bos-lac
 
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://api.ppv.to/assets/thumb/ad82e80a6b6868dfd69dbc8998ec1f4b-thumbnail.jpg",19:30 - 03/01/2026 | Amanda Serrano vs. Reina Tellez
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=amanda-serrano-vs.-reina-tellez
+
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg",00:00 - 25/01/2026 | UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
@@ -163,10 +167,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-32
 #EXTINF:-1 group-title="PDC Darts" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg",20:00 - 03/01/2026 | World Darts Championship
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=2025-world-darts-championship
-
-#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/015f4fa0875f89f338736d03006f2980-thumbnail.jpg",19:00 - 03/01/2026 | Mali vs. Tunisia
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2026-01-03/mli-tun
 
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/42af626809e6f27839181d396b209e00-thumbnail.jpg",19:45 - 03/01/2026 | Atalanta vs. AS Roma
 #EXTVLCOPT:http-referrer=https://ppv.to/
