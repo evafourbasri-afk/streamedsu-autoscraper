@@ -68,18 +68,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9993-9993
 
-#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/bb7fb6aa1586ee47df581cda62ea968c-thumbnail.jpg",19:00 - 03/01/2026 | Houston Cougars vs. Cincinnati Bearcats
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/8411-8411
-
-#EXTINF:-1 group-title="ESPNU" tvg-logo="https://api.ppv.to/assets/thumb/9afb89a7f9fd34525085c9a7375003e6-thumbnail.jpg",19:00 - 03/01/2026 | Vanderbilt Commodores vs. South Carolina Gamecocks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/2243-2243
-
-#EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/028ec12ed732d2bd73d32acd627b28ea-thumbnail.jpg",19:00 - 03/01/2026 | Kansas Jayhawks vs. UCF Knights
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/8810-8810
-
 #EXTINF:-1 group-title="The CW Network" tvg-logo="https://api.ppv.to/assets/thumb/2a1f454144fa3c60b23ca82be587d6f0-thumbnail.jpg",19:15 - 03/01/2026 | North Carolina Tar Heels vs. SMU Mustangs
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/1844-1844
@@ -155,18 +143,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-32
 #EXTINF:-1 group-title="PDC Darts" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg",20:00 - 03/01/2026 | World Darts Championship
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=2025-world-darts-championship
-
-#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/42af626809e6f27839181d396b209e00-thumbnail.jpg",19:45 - 03/01/2026 | Atalanta vs. AS Roma
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-03/ata-roma
-
-#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/3bf5e4fff347efe328b10e584688ea69-thumbnail.jpg",20:00 - 03/01/2026 | Espanyol vs. Barcelona
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-03/esp-bar
-
-#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/d83a89c1f64b35597807c6e1f9937175-thumbnail.jpg",20:05 - 03/01/2026 | Lille vs. Stade Rennais
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-03/lill-ren
 
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/70ca9127f9a79f2463f170f66c77a535-thumbnail.jpg",11:30 - 04/01/2026 | Lazio vs. Napoli
 #EXTVLCOPT:http-referrer=https://ppv.to/
