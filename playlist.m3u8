@@ -76,18 +76,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-32
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cricket/2026/au-en/5th-test
 
-#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/79995087401a08dd0b8575454dc872d9-thumbnail.jpg",19:45 - 04/01/2026 | Inter Milan vs. Bologna
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-04/int-bol
-
-#EXTINF:-1 group-title="Ligue 1" tvg-logo="https://api.ppv.to/assets/thumb/a9baf4bb8d72505d10c26a1e0166eb20-thumbnail.jpg",19:45 - 04/01/2026 | Paris Saint-Germain vs. Paris FC
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1/2026-01-04/psg-par
-
-#EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/00604fc5db6144217be3ac9c0c627cca-thumbnail.jpg",20:00 - 04/01/2026 | Real Sociedad vs. Atlético Madrid
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/rso-atm
-
 #EXTINF:-1 group-title="FanDuel SN OH" tvg-logo="https://api.ppv.to/assets/thumb/4c62f381f0cd3979b1dc582e1541d421-thumbnail.jpg",20:00 - 04/01/2026 | Pittsburgh Penguins vs. Columbus Blue Jackets
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-04/pit-cbj
