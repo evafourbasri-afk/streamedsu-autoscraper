@@ -100,10 +100,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-32
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cricket/2026/au-en/5th-test
 
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/e54cbd8888ada20db1205420dc782a89-thumbnail.jpg",12:30 - 04/01/2026 | Leeds United vs. Manchester United
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/lee-man
-
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/ef9b2498fd10e0b2ba179f9b659bc469-thumbnail.jpg",13:00 - 04/01/2026 | Sevilla vs. Levante
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/sev-lev
@@ -124,10 +120,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premie
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/eve-bre
 
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/3483afe1c342727b57ac4ef3ecaebab2-thumbnail.jpg",15:00 - 04/01/2026 | Fulham vs. Liverpool
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/ful-liv
-
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/eaa7fbde039ea3f5b9db93c50666249c-thumbnail.jpg",15:00 - 04/01/2026 | Newcastle United vs. Crystal Palace
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/new-cry
@@ -139,6 +131,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premie
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/7bfb1ba1fbe6ea2a1a57e2b05357f711-thumbnail.jpg",15:15 - 04/01/2026 | Real Madrid vs. Real Betis
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/rma-bet
+
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/3483afe1c342727b57ac4ef3ecaebab2-thumbnail.jpg",15:15 - 04/01/2026 | Fulham vs. Liverpool
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-04/ful-liv
 
 #EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/95729bb36aa0f66aab38d8f09d233de9-thumbnail.jpg",16:00 - 04/01/2026 | Morocco vs. Tanzania
 #EXTVLCOPT:http-referrer=https://ppv.to/
