@@ -64,33 +64,9 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9993-9993
 
-#EXTINF:-1 group-title="BTN" tvg-logo="https://api.ppv.to/assets/thumb/fb3cd5e9a6da61b60fab860a8e76fedc-thumbnail.jpg",00:00 - 04/01/2026 | Illinois Fighting Illini vs. Penn State Nittany Lions
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/8270-8270
-
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://api.ppv.to/assets/thumb/538641e5d67f300ee62a75dfb2b87c11-thumbnail.jpg",00:30 - 04/01/2026 | Philadelphia 76ers vs. New York Knicks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-03/phi-ny
-
-#EXTINF:-1 group-title="TSN" tvg-logo="https://api.ppv.to/assets/thumb/76fa0ea6fc1310ecd5e12bbb6c6376c6-thumbnail.jpg",00:30 - 04/01/2026 | Atlanta Hawks vs. Toronto Raptors
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-03/atl-tor
-
-#EXTINF:-1 group-title="CHSN+" tvg-logo="https://api.ppv.to/assets/thumb/4db7ca61f500660fbb363ebe70f3c521-thumbnail.jpg",01:00 - 04/01/2026 | Charlotte Hornets vs. Chicago Bulls
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-03/cha-chi
-
-#EXTINF:-1 group-title="FanDuel SN SW" tvg-logo="https://api.ppv.to/assets/thumb/d8b8db0f5f8c63b10d0c8af9f61f3d55-thumbnail.jpg",01:00 - 04/01/2026 | Portland Trail Blazers vs. San Antonio Spurs
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-03/por-sa
-
 #EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/693237a3167960c6889b30fdbc1804b5-thumbnail.jpg",01:00 - 04/01/2026 | Purdue Boilermakers vs. Wisconsin Badgers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/3300-3300
-
-#EXTINF:-1 group-title="KFAA-TV" tvg-logo="https://api.ppv.to/assets/thumb/58ca315a5c0fd70ca0b8e76419361870-thumbnail.jpg",01:30 - 04/01/2026 | Houston Rockets vs. Dallas Mavericks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-03/hou-dal
 
 #EXTINF:-1 group-title="SEC Network" tvg-logo="https://api.ppv.to/assets/thumb/49c9b198ce8a9c2d03872259fc2315f2-thumbnail.jpg",01:30 - 04/01/2026 | Florida Gators vs. Missouri Tigers
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -103,10 +79,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTINF:-1 group-title="NBA TV" tvg-logo="https://api.ppv.to/assets/thumb/0eb7bbff98ce2066105a9f94710dff4b-thumbnail.jpg",03:30 - 04/01/2026 | Boston Celtics vs. LA Clippers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-03/bos-lac
-
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://api.ppv.to/assets/thumb/ad82e80a6b6868dfd69dbc8998ec1f4b-thumbnail.jpg",19:30 - 03/01/2026 | Amanda Serrano vs. Reina Tellez
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=amanda-serrano-vs.-reina-tellez
 
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg",00:00 - 25/01/2026 | UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -203,10 +175,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/c20df4cbdc9c0005fe87eb9001428d85-thumbnail.jpg",03:00 - 04/01/2026 | Boston Bruins vs. Vancouver Canucks
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-03/bos-van
-
-#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",01:00 - 04/01/2026 | AEW: Saturday Night Collision
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=aew/collision/2026-01-04
 
 #EXTINF:-1 group-title="South Park/PPV" tvg-logo="https://api.ppv.to/assets/thumb/c7caf570cf3494e7f9ad1ae3f3122242-thumbnail.jpg",06:00 - 25/08/2025 | Master stream test
 #EXTVLCOPT:http-referrer=https://ppv.to/
