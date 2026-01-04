@@ -60,10 +60,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9993-9993
 
-#EXTINF:-1 group-title="NBA TV" tvg-logo="https://api.ppv.to/assets/thumb/0eb7bbff98ce2066105a9f94710dff4b-thumbnail.jpg",03:30 - 04/01/2026 | Boston Celtics vs. LA Clippers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-03/bos-lac
-
 #EXTINF:-1 group-title="FanDuel SN OH" tvg-logo="https://api.ppv.to/assets/thumb/6011182c0a5efb4a0c9575c203a6a2dc-thumbnail.jpg",19:00 - 04/01/2026 | Detroit Pistons vs. Cleveland Cavaliers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-04/det-cle
@@ -191,10 +187,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ligue1
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/00604fc5db6144217be3ac9c0c627cca-thumbnail.jpg",20:00 - 04/01/2026 | Real Sociedad vs. Atlético Madrid
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-04/rso-atm
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/c20df4cbdc9c0005fe87eb9001428d85-thumbnail.jpg",03:00 - 04/01/2026 | Boston Bruins vs. Vancouver Canucks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-03/bos-van
 
 #EXTINF:-1 group-title="Victory+" tvg-logo="https://api.ppv.to/assets/thumb/30fe258650bb756ecadce2b6793b83d0-thumbnail.jpg",19:00 - 04/01/2026 | Montreal Canadiens vs. Dallas Stars
 #EXTVLCOPT:http-referrer=https://ppv.to/
