@@ -8,10 +8,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9993-9993
 
-#EXTINF:-1 group-title="Arizona's Family 3TV" tvg-logo="https://api.ppv.to/assets/thumb/57cc8949b57395bab3919d83b5596db9-thumbnail.jpg",01:00 - 05/01/2026 | Oklahoma City Thunder vs. Phoenix Suns
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-04/okc-phx
-
 #EXTINF:-1 group-title="NBC Sports CA" tvg-logo="https://api.ppv.to/assets/thumb/945a32b5c961913e3d432ff18df76a6b-thumbnail.jpg",02:00 - 05/01/2026 | Milwaukee Bucks vs. Sacramento Kings
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-04/mil-sac
@@ -27,10 +23,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-32
 #EXTINF:-1 group-title="FOX Cricket" tvg-logo="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg",23:00 - 04/01/2026 | Australia vs. England
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cricket/2026/au-en/5th-test
-
-#EXTINF:-1 group-title="IIHF WJC" tvg-logo="https://api.ppv.to/assets/thumb/96cc3119df35c53f5cdc9492ee685352-thumbnail.jpg",01:30 - 05/01/2026 | Canada vs. Czech Republic
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wjc/2026-01-04/can-cze
 
 #EXTINF:-1 group-title="South Park/PPV" tvg-logo="https://api.ppv.to/assets/thumb/c7caf570cf3494e7f9ad1ae3f3122242-thumbnail.jpg",06:00 - 25/08/2025 | Master stream test
 #EXTVLCOPT:http-referrer=https://ppv.to/
