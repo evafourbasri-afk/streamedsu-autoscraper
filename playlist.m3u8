@@ -292,6 +292,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-06/bos-sea
 
+#EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",18:00 - 10/01/2026 | Supercross: Anaheim
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=smx-wk1
+
 #EXTINF:-1 group-title="CW" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",01:00 - 07/01/2026 | WWE: NXT
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wwe/nxt/2026-01-07
