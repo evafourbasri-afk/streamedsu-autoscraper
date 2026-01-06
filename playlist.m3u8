@@ -4,6 +4,18 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9993-9993
 
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg",00:30 - 06/01/2026 | Illinois State Redbirds vs. Montana State Bobcats
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/3326-3326
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/d23cc99b1da1a2bbe982298d886b38fa-thumbnail.jpg",00:30 - 09/01/2026 | Miami Hurricanes vs. Ole Miss Rebels
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/9565-9565
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/7f57931ba31a4d2c190558c4c6a03306-thumbnail.jpg",00:30 - 10/01/2026 | Oregon Ducks vs. Indiana Hoosiers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cfb/3525-3525
+
 #EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/9c7455eebac691891d928f0a58570de0-thumbnail.jpg",21:30 - 10/01/2026 | Los Angeles Rams vs. Carolina Panthers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-10/lar-car
@@ -263,10 +275,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg",20:00 - 12/01/2026 | Sevilla vs. Celta Vigo
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-12/sev-cel
-
-#EXTINF:-1 group-title="IIHF WJC" tvg-logo="https://api.ppv.to/assets/thumb/21f2c7836918954d7e911971a6ac6f73-thumbnail.jpg",21:30 - 05/01/2026 | Canada vs. Finland
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wjc/2026-01-05/can-fin
 
 #EXTINF:-1 group-title="MSG" tvg-logo="https://api.ppv.to/assets/thumb/abcd5e1ac2a23a698d56d0bcd61e0198-thumbnail.jpg",00:00 - 06/01/2026 | Utah Mammoth vs. New York Rangers
 #EXTVLCOPT:http-referrer=https://ppv.to/
