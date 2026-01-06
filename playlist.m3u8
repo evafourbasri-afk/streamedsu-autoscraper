@@ -64,10 +64,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-32
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cricket/2026/au-en/5th-test
 
-#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/f4abbeb7c5362ea217ef97a0ecb4f4a8-thumbnail.jpg",17:00 - 06/01/2026 | Lecce vs. AS Roma
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-06/lec-roma
-
 #EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/fdfa86a943aa94c615bad8ebece4ff9b-thumbnail.jpg",19:00 - 06/01/2026 | Ivory Coast vs. Burkina Faso
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2026-01-06/civ-bka
