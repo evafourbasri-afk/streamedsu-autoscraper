@@ -35,6 +35,10 @@ https://gg.poocloud.in/sa_roma/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_ata/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15894" tvg-logo="https://api.ppv.to/assets/thumb/ae74949e4deac35de85a36df9e3359c6-thumbnail.jpg" group-title="Football - Other",Barcelona vs. Athletic Club - 08 Jan 2026 02:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_bar/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15793" tvg-logo="https://api.ppv.to/assets/thumb/6489efa8339145b5058e08da7b8d7831-thumbnail.jpg" group-title="Football - Other",Bayer Leverkusen vs. VfB Stuttgart - 11 Jan 2026 00:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -67,6 +71,10 @@ https://gg.poocloud.in/pl_bur/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/montrealcanadiens/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15880" tvg-logo="https://api.ppv.to/assets/thumb/4251b328e2b2a0ceeadca7982590e9fa-thumbnail.jpg" group-title="PPVLand - Basketball",Chicago Bulls vs. Detroit Pistons - 08 Jan 2026 07:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/detroitpistons/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15816" tvg-logo="https://api.ppv.to/assets/thumb/10d8193fc5425b6aa99641d1d3aa8089-thumbnail.jpg" group-title="Football - Other",Como vs. Bologna - 10 Jan 2026 21:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -83,10 +91,10 @@ https://gg.poocloud.in/pl_cry/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/washingtoncapitals/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15787" tvg-logo="https://api.ppv.to/assets/thumb/985665e2b484202b781fa102ac24eb43-thumbnail.jpg" group-title="Football - Other",Eintracht Frankfurt vs. Borussia Dortmund - 10 Jan 2026 02:30 WIB
+#EXTINF:-1 tvg-id="ppv-15884" tvg-logo="https://api.ppv.to/assets/thumb/04556f5901481aeffc6dcfb97353d8fa-thumbnail.jpg" group-title="PPVLand - Basketball",Denver Nuggets vs. Boston Celtics - 08 Jan 2026 07:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_sge/index.m3u8
+https://gg.poocloud.in/bostonceltics/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15800" tvg-logo="https://api.ppv.to/assets/thumb/8e7b29025fa9499d22122d0846d806fb-thumbnail.jpg" group-title="Football - Other",Everton vs. Wolverhampton Wanderers - 08 Jan 2026 02:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -99,14 +107,18 @@ https://gg.poocloud.in/sa_fio/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_ful/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15824" tvg-logo="https://api.ppv.to/assets/thumb/e225ea803afed2683386dcff9558f9ed-thumbnail.jpg" group-title="Football - Other",Genoa vs. Cagliari - 13 Jan 2026 00:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_gen/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15762" tvg-logo="https://api.ppv.to/assets/thumb/72a542e44b7c5a11a05f9561e41d722b-thumbnail.jpg" group-title="Football - Other",Getafe vs. Real Sociedad - 10 Jan 2026 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_get/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15782" tvg-logo="https://api.ppv.to/assets/thumb/37f3b08c135c7887047ab557b8b8282f-thumbnail.jpg" group-title="Football - Other",Girona vs. Osasuna - 11 Jan 2026 00:30 WIB
+#EXTINF:-1 tvg-id="ppv-5193" tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football - Other",Goal Rush - 08 Jan 2026 02:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_gir/index.m3u8
+https://gg.poocloud.in/pl_goalrush/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15870" tvg-logo="https://api.ppv.to/assets/thumb/3cb40ffda5283992d755754d94972c91-thumbnail.jpg" group-title="PPVLand - NFL",Green Bay Packers vs. Chicago Bears - 11 Jan 2026 08:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -119,14 +131,14 @@ https://gg.poocloud.in/sa_ver/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/portlandtrailblazers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15874" tvg-logo="https://api.ppv.to/assets/thumb/5ac294f4f28fb24415e498e035e678ac-thumbnail.jpg" group-title="PPVLand - NFL",Houston Texans vs. Pittsburgh Steelers - 13 Jan 2026 08:15 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15823" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg" group-title="Football - Other",Internazionale vs. Napoli - 12 Jan 2026 02:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_int/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15825" tvg-logo="https://api.ppv.to/assets/thumb/08c60a46573b8501300337a9f87cf13a-thumbnail.jpg" group-title="Football - Other",Juventus vs. Cremonese - 13 Jan 2026 02:45 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_juv/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15887" tvg-logo="https://api.ppv.to/assets/thumb/81c7fb464f6db6614ae45e849314c4f4-thumbnail.jpg" group-title="PPVLand - Basketball",LA Clippers vs. New York Knicks - 08 Jan 2026 07:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -135,6 +147,10 @@ https://gg.poocloud.in/newyorkknicks/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_laz/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15820" tvg-logo="https://api.ppv.to/assets/thumb/f458d5351ab28a18d4ca4cd60eca8060-thumbnail.jpg" group-title="Football - Other",Lecce vs. Parma - 11 Jan 2026 18:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_lec/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15785" tvg-logo="https://api.ppv.to/assets/thumb/5a76503000f0a087df7446f9a78c266e-thumbnail.jpg" group-title="Football - Other",Levante vs. Espanyol - 11 Jan 2026 22:15 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -171,6 +187,10 @@ https://gg.poocloud.in/atlantahawks/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_new/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15836" tvg-logo="https://api.ppv.to/assets/thumb/7f57931ba31a4d2c190558c4c6a03306-thumbnail.jpg" group-title="PPVLand - NFL",Oregon Ducks vs. Indiana Hoosiers - 10 Jan 2026 07:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15886" tvg-logo="https://api.ppv.to/assets/thumb/4320d4c48177ca5bb93ae1ff45327cdc-thumbnail.jpg" group-title="PPVLand - Basketball",Orlando Magic vs. Brooklyn Nets - 08 Jan 2026 07:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -179,7 +199,7 @@ https://gg.poocloud.in/brooklynnets/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/utahmammoth/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15812" tvg-logo="https://api.ppv.to/assets/thumb/f051244c9e4cc9c0359fa2a44390892e-thumbnail.jpg" group-title="Football - Other",Parma vs. Internazionale - 08 Jan 2026 02:45 WIB
+#EXTINF:-1 tvg-id="ppv-15812" tvg-logo="https://api.ppv.to/assets/thumb/f051244c9e4cc9c0359fa2a44390892e-thumbnail.jpg" group-title="Football - Other",Parma vs. Inter Milan - 08 Jan 2026 02:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_par/index.m3u8
@@ -187,14 +207,14 @@ https://gg.poocloud.in/sa_par/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/memphisgrizzlies/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15784" tvg-logo="https://api.ppv.to/assets/thumb/f0b268ac94624cc050da5d1310ab2b24-thumbnail.jpg" group-title="Football - Other",Rayo Vallecano vs. Mallorca - 11 Jan 2026 20:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_ray/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15772" tvg-logo="https://api.ppv.to/assets/thumb/4117c9f430b190ef3e464c67c964ee92-thumbnail.jpg" group-title="Football - Other",Real Oviedo vs. Real Betis - 10 Jan 2026 20:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_ovi/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15872" tvg-logo="https://api.ppv.to/assets/thumb/423f6485debd0888a42c8bc00460dc22-thumbnail.jpg" group-title="PPVLand - NFL",San Francisco 49ers vs. Philadelphia Eagles - 12 Jan 2026 04:30 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15883" tvg-logo="https://api.ppv.to/assets/thumb/d295140d824a68f0939e78b04b38bd93-thumbnail.jpg" group-title="PPVLand - Ice Hockey",San Jose Sharks vs. Los Angeles Kings - 08 Jan 2026 10:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -203,6 +223,10 @@ https://gg.poocloud.in/losangeleskings/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_scf/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15786" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg" group-title="Football - Other",Sevilla vs. Celta Vigo - 13 Jan 2026 03:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_sev/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15879" tvg-logo="https://api.ppv.to/assets/thumb/9da6c9ace4e2aac5afe5794cfb3de821-thumbnail.jpg" group-title="PPVLand - Ice Hockey",St. Louis Blues vs. Chicago Blackhawks - 08 Jan 2026 09:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -215,10 +239,6 @@ https://gg.poocloud.in/bl_stp/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/smx/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15829" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPVLand - Wrestling",TNA: Impact - 09 Jan 2026 08:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15813" tvg-logo="https://api.ppv.to/assets/thumb/d3e13fea9b20dba48e699b21748a0ab3-thumbnail.jpg" group-title="Football - Other",Torino vs. Udinese - 08 Jan 2026 02:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -227,6 +247,10 @@ https://gg.poocloud.in/sa_tor/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/charlottehornets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15817" tvg-logo="https://api.ppv.to/assets/thumb/1d86d72651813e0d9001fa740334fd42-thumbnail.jpg" group-title="Football - Other",Udinese vs. Pisa - 10 Jan 2026 21:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_udi/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14284" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPVLand - Combat Sports",UFC 324: Gaethje vs. Pimblett - 25 Jan 2026 07:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -247,6 +271,10 @@ https://gg.poocloud.in/ll_vil/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/philadelphia76ers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15792" tvg-logo="https://api.ppv.to/assets/thumb/e7b1c6b8cc0da4539ef4e58d7aff19c5-thumbnail.jpg" group-title="Football - Other",Werder Bremen vs. TSG Hoffenheim - 10 Jan 2026 21:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_svw/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15830" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPVLand - Wrestling",WWE: Friday Night Smackdown - 10 Jan 2026 02:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
