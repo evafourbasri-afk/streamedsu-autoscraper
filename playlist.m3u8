@@ -32,30 +32,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-12/hou-pit
 
-#EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/dbc45a2e4fc7c311fb4943a19335be58-thumbnail.jpg",00:00 - 08/01/2026 | UConn Huskies vs. Providence Friars
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/2002/2002-prov
-
-#EXTINF:-1 group-title="FanDuel SN SE" tvg-logo="https://api.ppv.to/assets/thumb/66c5908287f9883f63cc247acf9887b5-thumbnail.jpg",00:30 - 08/01/2026 | New Orleans Pelicans vs. Atlanta Hawks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-07/no-atl
-
-#EXTINF:-1 group-title="YES" tvg-logo="https://api.ppv.to/assets/thumb/4320d4c48177ca5bb93ae1ff45327cdc-thumbnail.jpg",00:30 - 08/01/2026 | Orlando Magic vs. Brooklyn Nets
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-07/orl-bkn
-
-#EXTINF:-1 group-title="MSG" tvg-logo="https://api.ppv.to/assets/thumb/81c7fb464f6db6614ae45e849314c4f4-thumbnail.jpg",00:30 - 08/01/2026 | LA Clippers vs. New York Knicks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-07/lac-ny
-
-#EXTINF:-1 group-title="FanDuel SN SE" tvg-logo="https://api.ppv.to/assets/thumb/a2a56fc2bea6d3ba0e751048174ead82-thumbnail.jpg",01:00 - 08/01/2026 | Phoenix Suns vs. Memphis Grizzlies
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-07/phx-mem
-
-#EXTINF:-1 group-title="FanDuel SN OK" tvg-logo="https://api.ppv.to/assets/thumb/4c3cdfbfeb31164def6e5b3ea320604b-thumbnail.jpg",01:00 - 08/01/2026 | Utah Jazz vs. Oklahoma City Thunder
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-07/utah-okc
-
 #EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/867c74cacc90c15ec6023dfddf8ce621-thumbnail.jpg",01:00 - 08/01/2026 | Iowa State Cyclones vs. Baylor Bears
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/6090/6090-bay
@@ -228,14 +204,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-12/sev-cel
 
-#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/04fe2cf6f0e178f0c8fd17eefc28cc1b-thumbnail.jpg",00:00 - 08/01/2026 | Dallas Stars vs. Washington Capitals
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-07/dal-wsh
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/25f22e8bde7925a3a4077a688e4f4199-thumbnail.jpg",00:30 - 08/01/2026 | Calgary Flames vs. Montreal Canadiens
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-07/cgy-mtl
-
 #EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/9da6c9ace4e2aac5afe5794cfb3de821-thumbnail.jpg",02:30 - 08/01/2026 | St. Louis Blues vs. Chicago Blackhawks
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-07/stl-chi
@@ -251,10 +219,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",18:00 - 10/01/2026 | Supercross: Anaheim
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=smx-wk1
-
-#EXTINF:-1 group-title="TBS" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",01:00 - 08/01/2026 | AEW: Wednesday Night Dynamite
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=aew/dynamite/2026-01-08
 
 #EXTINF:-1 group-title="AXS" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",01:00 - 09/01/2026 | TNA: Impact
 #EXTVLCOPT:http-referrer=https://ppv.to/
