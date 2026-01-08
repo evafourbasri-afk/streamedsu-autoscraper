@@ -48,6 +48,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-07/den-bos
 
+#EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/dbc45a2e4fc7c311fb4943a19335be58-thumbnail.jpg",00:00 - 08/01/2026 | UConn Huskies vs. Providence Friars
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/2002/2002-prov
+
 #EXTINF:-1 group-title="FanDuel SN SE" tvg-logo="https://api.ppv.to/assets/thumb/66c5908287f9883f63cc247acf9887b5-thumbnail.jpg",00:30 - 08/01/2026 | New Orleans Pelicans vs. Atlanta Hawks
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-07/no-atl
@@ -67,6 +71,38 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTINF:-1 group-title="FanDuel SN OK" tvg-logo="https://api.ppv.to/assets/thumb/4c3cdfbfeb31164def6e5b3ea320604b-thumbnail.jpg",01:00 - 08/01/2026 | Utah Jazz vs. Oklahoma City Thunder
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-07/utah-okc
+
+#EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/867c74cacc90c15ec6023dfddf8ce621-thumbnail.jpg",01:00 - 08/01/2026 | Iowa State Cyclones vs. Baylor Bears
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/6090/6090-bay
+
+#EXTINF:-1 group-title="BTN" tvg-logo="https://api.ppv.to/assets/thumb/96fe8a1a4d26150b428e63dfc600f39b-thumbnail.jpg",01:30 - 08/01/2026 | Washington Huskies vs. Purdue Boilermakers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/3009/3009-pur
+
+#EXTINF:-1 group-title="FS1" tvg-logo="https://api.ppv.to/assets/thumb/b40a578abb61bcd2c9a2b71d870631b8-thumbnail.jpg",02:00 - 08/01/2026 | Kansas State Wildcats vs. Arizona Wildcats
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/3807/3807-ariz
+
+#EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/52f15d20c1209c50bf66523c4c2932c3-thumbnail.jpg",02:00 - 08/01/2026 | Arizona State Sun Devils vs. BYU Cougars
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/8164/8164-byu
+
+#EXTINF:-1 group-title="ESPN2" tvg-logo="https://api.ppv.to/assets/thumb/2d4b4605c008d889fd924ad298d29d4f-thumbnail.jpg",02:00 - 08/01/2026 | Alabama Crimson Tide vs. Vanderbilt Commodores
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/4608/4608-van
+
+#EXTINF:-1 group-title="SECN" tvg-logo="https://api.ppv.to/assets/thumb/48bf4becc338c48f6a3cf3d8c6edc8e8-thumbnail.jpg",02:00 - 08/01/2026 | Arkansas Razorbacks vs. Ole Miss Rebels
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/9004/9004-miss
+
+#EXTINF:-1 group-title="ACCN" tvg-logo="https://api.ppv.to/assets/thumb/df4f5793609883f9ea6d4f6bcf483beb-thumbnail.jpg",02:00 - 08/01/2026 | California Golden Bears vs. Virginia Cavaliers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/5851/5851-uva
+
+#EXTINF:-1 group-title="ESPNU" tvg-logo="https://api.ppv.to/assets/thumb/77b94fe39520c0d36b390e75459814b4-thumbnail.jpg",02:00 - 08/01/2026 | SMU Mustangs vs. Clemson Tigers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/7646/7646-clem
 
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/447c4bb643525202773a272bfddc3e0a-thumbnail.jpg",02:30 - 08/01/2026 | Los Angeles Lakers vs. San Antonio Spurs
 #EXTVLCOPT:http-referrer=https://ppv.to/
