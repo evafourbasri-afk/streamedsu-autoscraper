@@ -47,9 +47,9 @@ GROUP_RENAME_MAP = {
 
 FOOTBALL_MAP = {
     "EPL": ["premier", "epl", "premierleague", "england"],
-    "Serie A": ["serie a", "italy"],
+    "Serie A": ["serie a", "Serie A", "italy"],
     "Bundesliga": ["bundesliga", "germany"],
-    "LaLiga": ["laliga", "la liga", "spain"],
+    "LaLiga": ["laliga", "LaLuga", "la liga", "spain"],
     "Ligue 1": ["ligue 1"],
     "UCL": ["champions league", "ucl"],
     "UEL": ["europa league", "uel"],
