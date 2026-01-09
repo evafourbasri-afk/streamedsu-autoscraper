@@ -72,18 +72,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
 
-#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/ec7cefaabbeeaedf3a6df73dc0999056-thumbnail.jpg",19:00 - 09/01/2026 | Cameroon vs. Morocco
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2026-01-09/cmr-mar
-
-#EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/985665e2b484202b781fa102ac24eb43-thumbnail.jpg",19:30 - 09/01/2026 | Eintracht Frankfurt vs. Borussia Dortmund
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-09/sge-dor
-
-#EXTINF:-1 group-title="English FA Cup" tvg-logo="https://api.ppv.to/assets/thumb/683eb8c69ff7d597136db58bc327fe14-thumbnail.jpg",19:30 - 09/01/2026 | Wrexham vs. Nottingham Forest
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=english-fa-cup/2026-01-09/wxm-nfo
-
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/72a542e44b7c5a11a05f9561e41d722b-thumbnail.jpg",20:00 - 09/01/2026 | Getafe vs. Real Sociedad
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-09/get-rso
@@ -263,10 +251,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",18:00 - 10/01/2026 | Supercross: Anaheim
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=smx-wk1
-
-#EXTINF:-1 group-title="USA Network" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",19:00 - 09/01/2026 | WWE: Friday Night Smackdown
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=wwe/smackdown/2026-01-10
 
 #EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",01:00 - 11/01/2026 | AEW: Saturday Night Collision
 #EXTVLCOPT:http-referrer=https://ppv.to/
