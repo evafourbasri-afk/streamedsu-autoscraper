@@ -24,10 +24,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-12/hou-pit
 
-#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/3ee0b4f51125cb06b7ef7352f07a91c0-thumbnail.jpg",17:30 - 10/01/2026 | DePaul Blue Demons vs. UConn Huskies
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/1122/1122-conn
-
 #EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/4158ffdbf0feb6b8576cb429bb7b8279-thumbnail.jpg",18:00 - 10/01/2026 | Wisconsin Badgers vs. Michigan Wolverines
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/8217/8217-mich
@@ -199,10 +195,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=englis
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg",20:00 - 12/01/2026 | Sevilla vs. Celta Vigo
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-12/sev-cel
-
-#EXTINF:-1 group-title="ABC" tvg-logo="https://api.ppv.to/assets/thumb/aae06419ad59c9b2ca66328e6eff7e6e-thumbnail.jpg",18:00 - 10/01/2026 | New York Rangers vs. Boston Bruins
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-10/nyr-bos
 
 #EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/405a8094c806197679a722e0002d381a-thumbnail.jpg",20:30 - 10/01/2026 | Calgary Flames vs. Pittsburgh Penguins
 #EXTVLCOPT:http-referrer=https://ppv.to/
