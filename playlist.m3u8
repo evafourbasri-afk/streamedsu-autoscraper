@@ -24,13 +24,81 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-12/hou-pit
 
+#EXTINF:-1 group-title="BTN" tvg-logo="https://api.ppv.to/assets/thumb/739d72b9ce426dc3b2d8d5fac6221946-thumbnail.jpg",17:00 - 10/01/2026 | Nebraska Cornhuskers vs. Indiana Hoosiers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/5264/5264-iu
+
+#EXTINF:-1 group-title="The CW Network" tvg-logo="https://api.ppv.to/assets/thumb/f6811bdfd6e6a7293a51192050b6e912-thumbnail.jpg",17:00 - 10/01/2026 | Boston College Eagles vs. Louisville Cardinals
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/8705/8705-lou
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/3141aca32bfd5e060afa5e795e7b768b-thumbnail.jpg",17:00 - 10/01/2026 | Tennessee Volunteers vs. Florida Gators
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/1985/1985-fla
+
+#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/3a70d9d2a660c346413d001a144d717b-thumbnail.jpg",17:00 - 10/01/2026 | Kansas Jayhawks vs. West Virginia Mountaineers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/3499/3499-wvu
+
+#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/3ee0b4f51125cb06b7ef7352f07a91c0-thumbnail.jpg",17:30 - 10/01/2026 | DePaul Blue Demons vs. UConn Huskies
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/1122/1122-conn
+
 #EXTINF:-1 group-title="Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/d6fb5090c3f8fa5de233ea0fc4123e93-thumbnail.jpg",18:00 - 10/01/2026 | Minnesota Timberwolves vs. Cleveland Cavaliers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-10/min-cle
 
+#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/4158ffdbf0feb6b8576cb429bb7b8279-thumbnail.jpg",18:00 - 10/01/2026 | Wisconsin Badgers vs. Michigan Wolverines
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/8217/8217-mich
+
+#EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/a22e2edc234f0aef96797c92c3fb6089-thumbnail.jpg",18:00 - 10/01/2026 | Houston Cougars vs. Baylor Bears
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/5020/5020-bay
+
+#EXTINF:-1 group-title="SECN" tvg-logo="https://api.ppv.to/assets/thumb/7ecf8c81b0157955a8ef8f5a7ef5c99a-thumbnail.jpg",18:00 - 10/01/2026 | LSU Tigers vs. Vanderbilt Commodores
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/1773/1773-van
+
+#EXTINF:-1 group-title="BTN" tvg-logo="https://api.ppv.to/assets/thumb/1b962fd3ff21a43aa40900096b5a51bc-thumbnail.jpg",19:00 - 10/01/2026 | Penn State Nittany Lions vs. Purdue Boilermakers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/6437/6437-pur
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/8642bd4fb56b12e2d26ba4680ed12952-thumbnail.jpg",19:00 - 10/01/2026 | SMU Mustangs vs. Duke Blue Devils
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/8223/8223-duke
+
+#EXTINF:-1 group-title="ESPN2" tvg-logo="https://api.ppv.to/assets/thumb/05fee289a867d85bc507e12ae92c1a61-thumbnail.jpg",19:00 - 10/01/2026 | Georgia Bulldogs vs. South Carolina Gamecocks
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/1110/1110-sc
+
+#EXTINF:-1 group-title="The CW Network" tvg-logo="https://api.ppv.to/assets/thumb/9eba4359a1726c54e7c3d3eb9d7e5b41-thumbnail.jpg",19:15 - 10/01/2026 | Stanford Cardinal vs. Virginia Cavaliers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/4390/4390-uva
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/e4325f19f7bbff03d39b05693a1604bf-thumbnail.jpg",21:00 - 10/01/2026 | Arizona Wildcats vs. TCU Horned Frogs
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/4493/4493-tcu
+
+#EXTINF:-1 group-title="ESPN2" tvg-logo="https://api.ppv.to/assets/thumb/0dea87e8e74475201b6292be4c4f199d-thumbnail.jpg",21:00 - 10/01/2026 | Oklahoma State Cowboys vs. Iowa State Cyclones
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/3911/3911-isu
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/fc28ec1d65624809c8bf9407938701e0-thumbnail.jpg",23:00 - 10/01/2026 | Arkansas Razorbacks vs. Auburn Tigers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/3608/3608-aub
+
+#EXTINF:-1 group-title="ACCN" tvg-logo="https://api.ppv.to/assets/thumb/9d88dcc136e0601b6933b06e961f9929-thumbnail.jpg",23:00 - 10/01/2026 | Wake Forest Demon Deacons vs. North Carolina Tar Heels
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/7702/7702-unc
+
 #EXTINF:-1 group-title="FanDuel SN IN" tvg-logo="https://api.ppv.to/assets/thumb/23c6f4828f053d693289d035de373b8c-thumbnail.jpg",00:00 - 11/01/2026 | Miami Heat vs. Indiana Pacers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-10/mia-ind
+
+#EXTINF:-1 group-title="CBSSN" tvg-logo="https://api.ppv.to/assets/thumb/5ad155f4e9838bcafe6a6cf1304e793b-thumbnail.jpg",00:00 - 11/01/2026 | Texas Tech Red Raiders vs. Colorado Buffaloes
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/8659/8659-colo
 
 #EXTINF:-1 group-title="FanDuel SN DET Ext" tvg-logo="https://api.ppv.to/assets/thumb/1ed620820ef9c254ae7f2f98458128f3-thumbnail.jpg",00:30 - 11/01/2026 | LA Clippers vs. Detroit Pistons
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -44,9 +112,17 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-10/dal-chi
 
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/3dd84b697abbea2a9526f65e94cca81c-thumbnail.jpg",01:00 - 11/01/2026 | Texas Longhorns vs. Alabama Crimson Tide
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/1572/1572-ala
+
 #EXTINF:-1 group-title="KJZZ-TV" tvg-logo="https://api.ppv.to/assets/thumb/07c532449fcca698fef82764bad86a2f-thumbnail.jpg",02:30 - 11/01/2026 | Charlotte Hornets vs. Utah Jazz
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-10/cha-utah
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/b28bb5fa3137a4535035b3476de20f0d-thumbnail.jpg",03:00 - 11/01/2026 | BYU Cougars vs. Utah Utes
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/7907/7907-utah
 
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://api.ppv.to/assets/thumb/68f0ec61a4719ffca2b5f923461c5f8f-thumbnail.jpg",17:45 - 10/01/2026 | Agit Kabayel vs. Damian Knyba
 #EXTVLCOPT:http-referrer=https://ppv.to/
