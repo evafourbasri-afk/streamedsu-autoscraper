@@ -48,6 +48,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-10/cha-utah
 
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://api.ppv.to/assets/thumb/68f0ec61a4719ffca2b5f923461c5f8f-thumbnail.jpg",15:00 - 10/01/2026 | Agit Kabayel vs. Damian Knyba
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=agit-kabayel-vs.-damian-knyba
+
 #EXTINF:-1 group-title="FOX Nation" tvg-logo="https://api.ppv.to/assets/thumb/5625f9f76a23c5bebc87da63620ffda8-thumbnail.jpg",01:00 - 11/01/2026 | RAF 05: Covington vs. Rockhold
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=raf-05-covington-vs.-rockhold
@@ -199,6 +203,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=englis
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/3d0b3c2598ecf8609219d66012d1d8cc-thumbnail.jpg",17:00 - 11/01/2026 | Hellas Verona vs. Lazio
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-11/ver-laz
+
+#EXTINF:-1 group-title="Spanish Supercup" tvg-logo="https://api.ppv.to/assets/thumb/081c1d5ccc0ca5cadb53d52488e9e9a4-thumbnail.jpg",19:00 - 11/01/2026 | Barcelona vs. Real Madrid
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=spanish-supercopa/2026-01-11/bar-rma
 
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg",19:45 - 11/01/2026 | Internazionale vs. Napoli
 #EXTVLCOPT:http-referrer=https://ppv.to/
