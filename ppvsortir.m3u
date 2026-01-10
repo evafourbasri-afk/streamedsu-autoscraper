@@ -1,29 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ppv-15788" tvg-logo="https://api.ppv.to/assets/thumb/a3d1215e406a558eee01f26e79b8ffcb-thumbnail.jpg" group-title="Football - Other",1. FC Heidenheim 1846 vs. FC Cologne - 10 Jan 2026 21:30 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_hdh/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15788" tvg-logo="https://api.ppv.to/assets/thumb/a3d1215e406a558eee01f26e79b8ffcb-thumbnail.jpg" group-title="PPVLand - Live Now",1. FC Heidenheim 1846 vs. FC Cologne - 10 Jan 2026 21:30 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_hdh/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15789" tvg-logo="https://api.ppv.to/assets/thumb/850cf761a58861eed153fbd2c0787296-thumbnail.jpg" group-title="Football - Other",1. FC Union Berlin vs. Mainz - 10 Jan 2026 21:30 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_fcu/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15789" tvg-logo="https://api.ppv.to/assets/thumb/850cf761a58861eed153fbd2c0787296-thumbnail.jpg" group-title="PPVLand - Live Now",1. FC Union Berlin vs. Mainz - 10 Jan 2026 21:30 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_fcu/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15831" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling",AEW: Saturday Night Collision - 11 Jan 2026 08:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15988" tvg-logo="https://api.ppv.to/assets/thumb/68f0ec61a4719ffca2b5f923461c5f8f-thumbnail.jpg" group-title="PPVLand - Combat Sports",Agit Kabayel vs. Damian Knyba - 10 Jan 2026 22:00 WIB
+#EXTINF:-1 tvg-id="ppv-15988" tvg-logo="https://api.ppv.to/assets/thumb/68f0ec61a4719ffca2b5f923461c5f8f-thumbnail.jpg" group-title="PPVLand - Combat Sports",Agit Kabayel vs. Damian Knyba - 11 Jan 2026 00:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/daznboxing/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15988" tvg-logo="https://api.ppv.to/assets/thumb/68f0ec61a4719ffca2b5f923461c5f8f-thumbnail.jpg" group-title="PPVLand - Live Now",Agit Kabayel vs. Damian Knyba - 10 Jan 2026 22:00 WIB
+#EXTINF:-1 tvg-id="ppv-15988" tvg-logo="https://api.ppv.to/assets/thumb/68f0ec61a4719ffca2b5f923461c5f8f-thumbnail.jpg" group-title="PPVLand - Live Now",Agit Kabayel vs. Damian Knyba - 11 Jan 2026 00:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/daznboxing/index.m3u8
@@ -31,11 +15,27 @@ https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15962" tvg-logo="https://api.ppv.to/assets/thumb/49d5433f25fec9de4473b95a0d9a994d-thumbnail.jpg" group-title="PPVLand - Live Now",Algeria vs. Nigeria - 10 Jan 2026 23:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15973" tvg-logo="https://api.ppv.to/assets/thumb/62e441865850ccfd70392e0009d2d1fc-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Anaheim Ducks vs. Buffalo Sabres - 11 Jan 2026 07:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/buffalosabres/index.m3u8
+#EXTINF:-1 tvg-id="ppv-16002" tvg-logo="https://api.ppv.to/assets/thumb/e4325f19f7bbff03d39b05693a1604bf-thumbnail.jpg" group-title="PPVLand - Basketball",Arizona Wildcats vs. TCU Horned Frogs - 11 Jan 2026 04:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-16004" tvg-logo="https://api.ppv.to/assets/thumb/fc28ec1d65624809c8bf9407938701e0-thumbnail.jpg" group-title="PPVLand - Basketball",Arkansas Razorbacks vs. Auburn Tigers - 11 Jan 2026 06:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15818" tvg-logo="https://api.ppv.to/assets/thumb/0ab8cceafbe96c0b3b67c1d5ae3b6a9e-thumbnail.jpg" group-title="Football - Other",AS Roma vs. Sassuolo - 11 Jan 2026 00:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_roma/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15818" tvg-logo="https://api.ppv.to/assets/thumb/0ab8cceafbe96c0b3b67c1d5ae3b6a9e-thumbnail.jpg" group-title="PPVLand - Live Now",AS Roma vs. Sassuolo - 11 Jan 2026 00:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_roma/index.m3u8
@@ -51,6 +51,10 @@ https://gg.poocloud.in/ll_bar/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_b04/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15793" tvg-logo="https://api.ppv.to/assets/thumb/6489efa8339145b5058e08da7b8d7831-thumbnail.jpg" group-title="PPVLand - Live Now",Bayer Leverkusen vs. VfB Stuttgart - 11 Jan 2026 00:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_b04/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15795" tvg-logo="https://api.ppv.to/assets/thumb/bf18c32b6af32d2fe02fc31eca366670-thumbnail.jpg" group-title="Football - Other",Bayern Munich vs. VfL Wolfsburg - 11 Jan 2026 23:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -59,18 +63,22 @@ https://gg.poocloud.in/bl_mun/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_bmg/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15992" tvg-logo="https://api.ppv.to/assets/thumb/f6811bdfd6e6a7293a51192050b6e912-thumbnail.jpg" group-title="PPVLand - Basketball",Boston College Eagles vs. Louisville Cardinals - 11 Jan 2026 00:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/CW/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15992" tvg-logo="https://api.ppv.to/assets/thumb/f6811bdfd6e6a7293a51192050b6e912-thumbnail.jpg" group-title="PPVLand - Live Now",Boston College Eagles vs. Louisville Cardinals - 11 Jan 2026 00:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/CW/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15871" tvg-logo="https://api.ppv.to/assets/thumb/90703437d9db5c8dc882b706f39e869a-thumbnail.jpg" group-title="PPVLand - NFL",Buffalo Bills vs. Jacksonville Jaguars - 12 Jan 2026 01:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15949" tvg-logo="https://api.ppv.to/assets/thumb/096712689dd65aca2653f788b75ec032-thumbnail.jpg" group-title="Football - Other",Burnley vs. Millwall - 10 Jan 2026 22:00 WIB
+#EXTINF:-1 tvg-id="ppv-16008" tvg-logo="https://api.ppv.to/assets/thumb/b28bb5fa3137a4535035b3476de20f0d-thumbnail.jpg" group-title="PPVLand - Basketball",BYU Cougars vs. Utah Utes - 11 Jan 2026 10:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_bur/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15949" tvg-logo="https://api.ppv.to/assets/thumb/096712689dd65aca2653f788b75ec032-thumbnail.jpg" group-title="PPVLand - Live Now",Burnley vs. Millwall - 10 Jan 2026 22:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_bur/index.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15967" tvg-logo="https://api.ppv.to/assets/thumb/405a8094c806197679a722e0002d381a-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Calgary Flames vs. Pittsburgh Penguins - 11 Jan 2026 03:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -91,14 +99,6 @@ https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/coloradoavalanche/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15816" tvg-logo="https://api.ppv.to/assets/thumb/10d8193fc5425b6aa99641d1d3aa8089-thumbnail.jpg" group-title="Football - Other",Como vs. Bologna - 10 Jan 2026 21:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_como/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15816" tvg-logo="https://api.ppv.to/assets/thumb/10d8193fc5425b6aa99641d1d3aa8089-thumbnail.jpg" group-title="PPVLand - Live Now",Como vs. Bologna - 10 Jan 2026 21:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_como/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15972" tvg-logo="https://api.ppv.to/assets/thumb/9ffff548f9f3810376adf3b4f4755e3b-thumbnail.jpg" group-title="PPVLand - Basketball",Dallas Mavericks vs. Chicago Bulls - 11 Jan 2026 08:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -107,6 +107,14 @@ https://gg.poocloud.in/chicagobulls/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sanjosesharks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15990" tvg-logo="https://api.ppv.to/assets/thumb/3ee0b4f51125cb06b7ef7352f07a91c0-thumbnail.jpg" group-title="PPVLand - Basketball",DePaul Blue Demons vs. UConn Huskies - 11 Jan 2026 00:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/TNT/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15990" tvg-logo="https://api.ppv.to/assets/thumb/3ee0b4f51125cb06b7ef7352f07a91c0-thumbnail.jpg" group-title="PPVLand - Live Now",DePaul Blue Demons vs. UConn Huskies - 11 Jan 2026 00:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/TNT/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15956" tvg-logo="https://api.ppv.to/assets/thumb/bdf9f55f3d9f0eacd74322b800a8f3fb-thumbnail.jpg" group-title="Football - Other",Derby County vs. Leeds United - 11 Jan 2026 19:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -119,31 +127,23 @@ https://gg.poocloud.in/montrealcanadiens/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15986" tvg-logo="https://api.ppv.to/assets/thumb/522f68eb8b36afdffe52f089e6b1b3a7-thumbnail.jpg" group-title="Football - Other",FA Cup Goals Show - 10 Jan 2026 19:15 WIB
+#EXTINF:-1 tvg-id="ppv-15821" tvg-logo="https://api.ppv.to/assets/thumb/63d1d4245bb557213c16e76afdfa3b6b-thumbnail.jpg" group-title="Football - Other",Fiorentina vs. AC Milan - 11 Jan 2026 21:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_goals/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15986" tvg-logo="https://api.ppv.to/assets/thumb/522f68eb8b36afdffe52f089e6b1b3a7-thumbnail.jpg" group-title="PPVLand - Live Now",FA Cup Goals Show - 10 Jan 2026 19:15 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_goals/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15977" tvg-logo="https://api.ppv.to/assets/thumb/88195287a4e47f63350b6305876eff89-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Florida Panthers vs. Ottawa Senators - 11 Jan 2026 07:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ottawasenators/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15950" tvg-logo="https://api.ppv.to/assets/thumb/31cf45b08e8dca7f5e802300b5e12ee7-thumbnail.jpg" group-title="Football - Other",Fulham vs. Middlesbrough - 10 Jan 2026 22:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_ful/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15950" tvg-logo="https://api.ppv.to/assets/thumb/31cf45b08e8dca7f5e802300b5e12ee7-thumbnail.jpg" group-title="PPVLand - Live Now",Fulham vs. Middlesbrough - 10 Jan 2026 22:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_ful/index.m3u8
+https://gg.poocloud.in/sa_fio/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15824" tvg-logo="https://api.ppv.to/assets/thumb/e225ea803afed2683386dcff9558f9ed-thumbnail.jpg" group-title="Football - Other",Genoa vs. Cagliari - 13 Jan 2026 00:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_gen/index.m3u8
+#EXTINF:-1 tvg-id="ppv-16000" tvg-logo="https://api.ppv.to/assets/thumb/05fee289a867d85bc507e12ae92c1a61-thumbnail.jpg" group-title="PPVLand - Basketball",Georgia Bulldogs vs. South Carolina Gamecocks - 11 Jan 2026 02:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15782" tvg-logo="https://api.ppv.to/assets/thumb/37f3b08c135c7887047ab557b8b8282f-thumbnail.jpg" group-title="Football - Other",Girona vs. Osasuna - 11 Jan 2026 00:30 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_gir/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15782" tvg-logo="https://api.ppv.to/assets/thumb/37f3b08c135c7887047ab557b8b8282f-thumbnail.jpg" group-title="PPVLand - Live Now",Girona vs. Osasuna - 11 Jan 2026 00:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_gir/index.m3u8
@@ -155,6 +155,10 @@ https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_ver/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15874" tvg-logo="https://api.ppv.to/assets/thumb/5ac294f4f28fb24415e498e035e678ac-thumbnail.jpg" group-title="PPVLand - NFL",Houston Texans vs. Pittsburgh Steelers - 13 Jan 2026 08:15 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15823" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg" group-title="Football - Other",Internazionale vs. Napoli - 12 Jan 2026 02:45 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -163,10 +167,14 @@ https://gg.poocloud.in/sa_int/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_juv/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15968" tvg-logo="https://api.ppv.to/assets/thumb/1ed620820ef9c254ae7f2f98458128f3-thumbnail.jpg" group-title="PPVLand - Basketball",LA Clippers vs. Detroit Pistons - 11 Jan 2026 07:30 WIB
+#EXTINF:-1 tvg-id="ppv-15994" tvg-logo="https://api.ppv.to/assets/thumb/3a70d9d2a660c346413d001a144d717b-thumbnail.jpg" group-title="PPVLand - Basketball",Kansas Jayhawks vs. West Virginia Mountaineers - 11 Jan 2026 00:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/detroitpistons/index.m3u8
+https://gg.poocloud.in/FOX/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15994" tvg-logo="https://api.ppv.to/assets/thumb/3a70d9d2a660c346413d001a144d717b-thumbnail.jpg" group-title="PPVLand - Live Now",Kansas Jayhawks vs. West Virginia Mountaineers - 11 Jan 2026 00:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15820" tvg-logo="https://api.ppv.to/assets/thumb/f458d5351ab28a18d4ca4cd60eca8060-thumbnail.jpg" group-title="Football - Other",Lecce vs. Parma - 11 Jan 2026 18:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -179,22 +187,22 @@ https://gg.poocloud.in/ll_lev/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/fa_liv/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15982" tvg-logo="https://api.ppv.to/assets/thumb/c2e89091fc91edb66f871f513bc728aa-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Los Angeles Kings vs. Edmonton Oilers - 11 Jan 2026 10:00 WIB
+#EXTINF:-1 tvg-id="ppv-15873" tvg-logo="https://api.ppv.to/assets/thumb/363cd85b1d74fd7362c97609b59bb6d9-thumbnail.jpg" group-title="PPVLand - NFL",Los Angeles Chargers vs. New England Patriots - 12 Jan 2026 08:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/edmontonoilers/index.m3u8
+https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15869" tvg-logo="https://api.ppv.to/assets/thumb/94b83e19e92e8e128422a2889d65114e-thumbnail.jpg" group-title="PPVLand - NFL",Los Angeles Rams vs. Carolina Panthers - 11 Jan 2026 04:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/carolinapanthers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15951" tvg-logo="https://api.ppv.to/assets/thumb/663ec441c37a7f42ddee0af76d8531dc-thumbnail.jpg" group-title="Football - Other",Manchester City vs. Exeter City - 10 Jan 2026 22:00 WIB
+#EXTINF:-1 tvg-id="ppv-15997" tvg-logo="https://api.ppv.to/assets/thumb/7ecf8c81b0157955a8ef8f5a7ef5c99a-thumbnail.jpg" group-title="PPVLand - Basketball",LSU Tigers vs. Vanderbilt Commodores - 11 Jan 2026 01:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_mnc/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15951" tvg-logo="https://api.ppv.to/assets/thumb/663ec441c37a7f42ddee0af76d8531dc-thumbnail.jpg" group-title="PPVLand - Live Now",Manchester City vs. Exeter City - 10 Jan 2026 22:00 WIB
+https://gg.poocloud.in/SECN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15997" tvg-logo="https://api.ppv.to/assets/thumb/7ecf8c81b0157955a8ef8f5a7ef5c99a-thumbnail.jpg" group-title="PPVLand - Live Now",LSU Tigers vs. Vanderbilt Commodores - 11 Jan 2026 01:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_mnc/index.m3u8
+https://gg.poocloud.in/SECN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15959" tvg-logo="https://api.ppv.to/assets/thumb/1700fdbc0aa20f4e6db1e8833f48b1e9-thumbnail.jpg" group-title="Football - Other",Manchester United vs. Brighton & Hove Albion - 11 Jan 2026 23:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -203,26 +211,34 @@ https://gg.poocloud.in/fa_man/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/indianapacers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15963" tvg-logo="https://api.ppv.to/assets/thumb/d6fb5090c3f8fa5de233ea0fc4123e93-thumbnail.jpg" group-title="PPVLand - Basketball",Minnesota Timberwolves vs. Cleveland Cavaliers - 11 Jan 2026 01:00 WIB
+#EXTINF:-1 tvg-id="ppv-15991" tvg-logo="https://api.ppv.to/assets/thumb/739d72b9ce426dc3b2d8d5fac6221946-thumbnail.jpg" group-title="PPVLand - Basketball",Nebraska Cornhuskers vs. Indiana Hoosiers - 11 Jan 2026 00:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/clevelandcavaliers/index.m3u8
+https://gg.poocloud.in/BTN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15991" tvg-logo="https://api.ppv.to/assets/thumb/739d72b9ce426dc3b2d8d5fac6221946-thumbnail.jpg" group-title="PPVLand - Live Now",Nebraska Cornhuskers vs. Indiana Hoosiers - 11 Jan 2026 00:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/BTN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15981" tvg-logo="https://api.ppv.to/assets/thumb/674d1db60cf2f59cad6f6f801383208a-thumbnail.jpg" group-title="PPVLand - Ice Hockey",New York Islanders vs. Minnesota Wild - 11 Jan 2026 08:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/minnesotawild/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15952" tvg-logo="https://api.ppv.to/assets/thumb/d13656f1ea32e5075a60fd4ffb0b167d-thumbnail.jpg" group-title="Football - Other",Newcastle United vs. AFC Bournemouth - 10 Jan 2026 22:00 WIB
+#EXTINF:-1 tvg-id="ppv-15964" tvg-logo="https://api.ppv.to/assets/thumb/aae06419ad59c9b2ca66328e6eff7e6e-thumbnail.jpg" group-title="PPVLand - Ice Hockey",New York Rangers vs. Boston Bruins - 11 Jan 2026 01:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_new/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15952" tvg-logo="https://api.ppv.to/assets/thumb/d13656f1ea32e5075a60fd4ffb0b167d-thumbnail.jpg" group-title="PPVLand - Live Now",Newcastle United vs. AFC Bournemouth - 10 Jan 2026 22:00 WIB
+https://gg.poocloud.in/bostonbruins/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15964" tvg-logo="https://api.ppv.to/assets/thumb/aae06419ad59c9b2ca66328e6eff7e6e-thumbnail.jpg" group-title="PPVLand - Live Now",New York Rangers vs. Boston Bruins - 11 Jan 2026 01:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_new/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15957" tvg-logo="https://api.ppv.to/assets/thumb/e6c6b77490ffa711b8d142e8419549de-thumbnail.jpg" group-title="Football - Other",Portsmouth vs. Arsenal - 11 Jan 2026 21:00 WIB
+https://gg.poocloud.in/bostonbruins/index.m3u8
+#EXTINF:-1 tvg-id="ppv-16003" tvg-logo="https://api.ppv.to/assets/thumb/0dea87e8e74475201b6292be4c4f199d-thumbnail.jpg" group-title="PPVLand - Basketball",Oklahoma State Cowboys vs. Iowa State Cyclones - 11 Jan 2026 04:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_por/index.m3u8
+https://gg.poocloud.in/ESPN2/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15998" tvg-logo="https://api.ppv.to/assets/thumb/1b962fd3ff21a43aa40900096b5a51bc-thumbnail.jpg" group-title="PPVLand - Basketball",Penn State Nittany Lions vs. Purdue Boilermakers - 11 Jan 2026 02:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/BTN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15925" tvg-logo="https://api.ppv.to/assets/thumb/5625f9f76a23c5bebc87da63620ffda8-thumbnail.jpg" group-title="PPVLand - Combat Sports",RAF 05: Covington vs. Rockhold - 11 Jan 2026 08:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -239,54 +255,54 @@ https://gg.poocloud.in/bostonceltics/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/philadelphiaeagles/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15790" tvg-logo="https://api.ppv.to/assets/thumb/bd705b1a47f310595dd73bedbf535280-thumbnail.jpg" group-title="Football - Other",SC Freiburg vs. Hamburg SV - 10 Jan 2026 21:30 WIB
+#EXTINF:-1 tvg-id="ppv-15786" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg" group-title="Football - Other",Sevilla vs. Celta Vigo - 13 Jan 2026 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_scf/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15790" tvg-logo="https://api.ppv.to/assets/thumb/bd705b1a47f310595dd73bedbf535280-thumbnail.jpg" group-title="PPVLand - Live Now",SC Freiburg vs. Hamburg SV - 10 Jan 2026 21:30 WIB
+https://gg.poocloud.in/ll_sev/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15999" tvg-logo="https://api.ppv.to/assets/thumb/8642bd4fb56b12e2d26ba4680ed12952-thumbnail.jpg" group-title="PPVLand - Basketball",SMU Mustangs vs. Duke Blue Devils - 11 Jan 2026 02:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_scf/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15979" tvg-logo="https://api.ppv.to/assets/thumb/3f066b457d247eb3bdd538c2ccbe257b-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Seattle Kraken vs. Carolina Hurricanes - 11 Jan 2026 07:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/carolinahurricanes/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15953" tvg-logo="https://api.ppv.to/assets/thumb/28eaa90f1b326216614d91c08f0c136f-thumbnail.jpg" group-title="Football - Other",Sheffield Wednesday vs. Brentford - 10 Jan 2026 22:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_shw/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15953" tvg-logo="https://api.ppv.to/assets/thumb/28eaa90f1b326216614d91c08f0c136f-thumbnail.jpg" group-title="PPVLand - Live Now",Sheffield Wednesday vs. Brentford - 10 Jan 2026 22:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_shw/index.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15983" tvg-logo="https://api.ppv.to/assets/thumb/cf2c8c306634c10a536b4df7bcff3dc1-thumbnail.jpg" group-title="PPVLand - Ice Hockey",St. Louis Blues vs. Vegas Golden Knights - 11 Jan 2026 10:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/vegasgoldenknights/index.m3u8
+#EXTINF:-1 tvg-id="ppv-16001" tvg-logo="https://api.ppv.to/assets/thumb/9eba4359a1726c54e7c3d3eb9d7e5b41-thumbnail.jpg" group-title="PPVLand - Basketball",Stanford Cardinal vs. Virginia Cavaliers - 11 Jan 2026 02:15 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/CW/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15856" tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="PPVLand - Motorsports",Supercross: Anaheim - 11 Jan 2026 01:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/smx/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15978" tvg-logo="https://api.ppv.to/assets/thumb/a9f76c813844291b34cb0d94381004f8-thumbnail.jpg" group-title="PPVLand - Ice Hockey",Tampa Bay Lightning vs. Philadelphia Flyers - 11 Jan 2026 07:00 WIB
+#EXTINF:-1 tvg-id="ppv-15856" tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="PPVLand - Live Now",Supercross: Anaheim - 11 Jan 2026 01:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/philadelphiaflyers/index.m3u8
+https://gg.poocloud.in/smx/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15993" tvg-logo="https://api.ppv.to/assets/thumb/3141aca32bfd5e060afa5e795e7b768b-thumbnail.jpg" group-title="PPVLand - Basketball",Tennessee Volunteers vs. Florida Gators - 11 Jan 2026 00:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15993" tvg-logo="https://api.ppv.to/assets/thumb/3141aca32bfd5e060afa5e795e7b768b-thumbnail.jpg" group-title="PPVLand - Live Now",Tennessee Volunteers vs. Florida Gators - 11 Jan 2026 00:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-16007" tvg-logo="https://api.ppv.to/assets/thumb/3dd84b697abbea2a9526f65e94cca81c-thumbnail.jpg" group-title="PPVLand - Basketball",Texas Longhorns vs. Alabama Crimson Tide - 11 Jan 2026 08:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-16006" tvg-logo="https://api.ppv.to/assets/thumb/5ad155f4e9838bcafe6a6cf1304e793b-thumbnail.jpg" group-title="PPVLand - Basketball",Texas Tech Red Raiders vs. Colorado Buffaloes - 11 Jan 2026 07:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/CBSSN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15987" tvg-logo="https://api.ppv.to/assets/thumb/9281e0642d8407f9155de473b9dccd88-thumbnail.jpg" group-title="Snooker",The Masters - 11 Jan 2026 20:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/snooker/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15954" tvg-logo="https://api.ppv.to/assets/thumb/3dc06d4ef63d394a45c22926dfeafc26-thumbnail.jpg" group-title="Football - Other",Tottenham Hotspur vs. Aston Villa - 11 Jan 2026 00:45 WIB
+#EXTINF:-1 tvg-id="ppv-14284" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPVLand - Combat Sports",UFC 324: Gaethje vs. Pimblett - 25 Jan 2026 07:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_tot/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15817" tvg-logo="https://api.ppv.to/assets/thumb/1d86d72651813e0d9001fa740334fd42-thumbnail.jpg" group-title="Football - Other",Udinese vs. Pisa - 10 Jan 2026 21:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_udi/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15817" tvg-logo="https://api.ppv.to/assets/thumb/1d86d72651813e0d9001fa740334fd42-thumbnail.jpg" group-title="PPVLand - Live Now",Udinese vs. Pisa - 10 Jan 2026 21:00 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_udi/index.m3u8
+https://gg.poocloud.in/ufc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15783" tvg-logo="https://api.ppv.to/assets/thumb/8e706351e2f3f999d1fd8fe5ceef1e59-thumbnail.jpg" group-title="Football - Other",Valencia vs. Elche - 11 Jan 2026 03:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -295,15 +311,19 @@ https://gg.poocloud.in/ll_val/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/torontomapleleafs/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15778" tvg-logo="https://api.ppv.to/assets/thumb/0eb6546291404059ed737dd18e392c03-thumbnail.jpg" group-title="Football - Other",Villarreal vs. Alavés - 10 Jan 2026 22:15 WIB
+#EXTINF:-1 tvg-id="ppv-16005" tvg-logo="https://api.ppv.to/assets/thumb/9d88dcc136e0601b6933b06e961f9929-thumbnail.jpg" group-title="PPVLand - Basketball",Wake Forest Demon Deacons vs. North Carolina Tar Heels - 11 Jan 2026 06:00 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_vil/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15778" tvg-logo="https://api.ppv.to/assets/thumb/0eb6546291404059ed737dd18e392c03-thumbnail.jpg" group-title="PPVLand - Live Now",Villarreal vs. Alavés - 10 Jan 2026 22:15 WIB
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_vil/index.m3u8
+https://gg.poocloud.in/ACCN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15958" tvg-logo="https://api.ppv.to/assets/thumb/b9e431731c24df30fdac732c31bae018-thumbnail.jpg" group-title="Football - Other",West Ham United vs. Queens Park Rangers - 11 Jan 2026 21:30 WIB
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/fa_whu/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15995" tvg-logo="https://api.ppv.to/assets/thumb/4158ffdbf0feb6b8576cb429bb7b8279-thumbnail.jpg" group-title="PPVLand - Basketball",Wisconsin Badgers vs. Michigan Wolverines - 11 Jan 2026 01:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/CBS/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15995" tvg-logo="https://api.ppv.to/assets/thumb/4158ffdbf0feb6b8576cb429bb7b8279-thumbnail.jpg" group-title="PPVLand - Live Now",Wisconsin Badgers vs. Michigan Wolverines - 11 Jan 2026 01:00 WIB
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/CBS/index.m3u8
