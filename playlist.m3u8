@@ -24,22 +24,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-12/hou-pit
 
-#EXTINF:-1 group-title="BTN" tvg-logo="https://api.ppv.to/assets/thumb/739d72b9ce426dc3b2d8d5fac6221946-thumbnail.jpg",17:00 - 10/01/2026 | Nebraska Cornhuskers vs. Indiana Hoosiers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/5264/5264-iu
-
-#EXTINF:-1 group-title="The CW Network" tvg-logo="https://api.ppv.to/assets/thumb/f6811bdfd6e6a7293a51192050b6e912-thumbnail.jpg",17:00 - 10/01/2026 | Boston College Eagles vs. Louisville Cardinals
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/8705/8705-lou
-
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/3141aca32bfd5e060afa5e795e7b768b-thumbnail.jpg",17:00 - 10/01/2026 | Tennessee Volunteers vs. Florida Gators
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/1985/1985-fla
-
-#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/3a70d9d2a660c346413d001a144d717b-thumbnail.jpg",17:00 - 10/01/2026 | Kansas Jayhawks vs. West Virginia Mountaineers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/3499/3499-wvu
-
 #EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/3ee0b4f51125cb06b7ef7352f07a91c0-thumbnail.jpg",17:30 - 10/01/2026 | DePaul Blue Demons vs. UConn Huskies
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/1122/1122-conn
@@ -135,10 +119,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=raf-05
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg",00:00 - 25/01/2026 | UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
-
-#EXTINF:-1 group-title="English FA Cup" tvg-logo="https://api.ppv.to/assets/thumb/3dc06d4ef63d394a45c22926dfeafc26-thumbnail.jpg",17:45 - 10/01/2026 | Tottenham Hotspur vs. Aston Villa
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=english-fa-cup/2026-01-10/tot-avl
 
 #EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/f9729b0f0fb7d66ca3ca1419bc9e0314-thumbnail.jpg",19:00 - 10/01/2026 | Egypt vs. Ivory Coast
 #EXTVLCOPT:http-referrer=https://ppv.to/
