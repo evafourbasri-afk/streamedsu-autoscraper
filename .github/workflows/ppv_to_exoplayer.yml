@@ -1,8 +1,8 @@
-name: NewPPv
+name: NewPPV
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # setiap 2 jam
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,6 +20,11 @@ jobs:
       - name: Install deps
         run: |
           pip install -r requirements.txt
+          pip install playwright
+
+      - name: Install Playwright browser
+        run: |
+          playwright install chromium
 
       - name: Generate M3U
         run: |
