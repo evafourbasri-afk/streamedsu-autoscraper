@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CBS" tvg-logo="https://api.ppv.to/assets/thumb/90703437d9db5c8dc882b706f39e869a-thumbnail.jpg",18:00 - 11/01/2026 | Buffalo Bills vs. Jacksonville Jaguars
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-11/buf-jax
-
 #EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/423f6485debd0888a42c8bc00460dc22-thumbnail.jpg",21:30 - 11/01/2026 | San Francisco 49ers vs. Philadelphia Eagles
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-11/sf-phi
@@ -59,10 +55,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg",00:00 - 25/01/2026 | UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
-
-#EXTINF:-1 group-title="Spanish Supercup" tvg-logo="https://api.ppv.to/assets/thumb/081c1d5ccc0ca5cadb53d52488e9e9a4-thumbnail.jpg",19:00 - 11/01/2026 | Barcelona vs. Real Madrid
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=spanish-supercopa/2026-01-11/bar-rma
 
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg",19:45 - 11/01/2026 | Inter Milan vs. Napoli
 #EXTVLCOPT:http-referrer=https://ppv.to/
