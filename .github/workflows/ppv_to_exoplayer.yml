@@ -1,0 +1,34 @@
+name: NewPPv
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # setiap 2 jam
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt
+
+      - name: Generate M3U
+        run: |
+          python ppv_to_exoplayer.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name "ppv-bot"
+          git config user.email "ppv@bot"
+          git add ppv_exoplayer.m3u
+          git commit -m "Auto update PPV playlist" || echo "No changes"
+          git push
