@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/94b83e19e92e8e128422a2889d65114e-thumbnail.jpg",21:30 - 10/01/2026 | Los Angeles Rams vs. Carolina Panthers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-10/lar-car
-
 #EXTINF:-1 group-title="Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/3cb40ffda5283992d755754d94972c91-thumbnail.jpg",01:00 - 11/01/2026 | Green Bay Packers vs. Chicago Bears
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-10/gb-chi
@@ -23,14 +19,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTINF:-1 group-title="ESPN/ABC" tvg-logo="https://api.ppv.to/assets/thumb/5ac294f4f28fb24415e498e035e678ac-thumbnail.jpg",01:15 - 13/01/2026 | Houston Texans vs. Pittsburgh Steelers
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-12/hou-pit
-
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/e4325f19f7bbff03d39b05693a1604bf-thumbnail.jpg",21:00 - 10/01/2026 | Arizona Wildcats vs. TCU Horned Frogs
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/4493/4493-tcu
-
-#EXTINF:-1 group-title="ESPN2" tvg-logo="https://api.ppv.to/assets/thumb/0dea87e8e74475201b6292be4c4f199d-thumbnail.jpg",21:00 - 10/01/2026 | Oklahoma State Cowboys vs. Iowa State Cyclones
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/3911/3911-isu
 
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/fc28ec1d65624809c8bf9407938701e0-thumbnail.jpg",23:00 - 10/01/2026 | Arkansas Razorbacks vs. Auburn Tigers
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -71,10 +59,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/b28bb5fa3137a4535035b3476de20f0d-thumbnail.jpg",03:00 - 11/01/2026 | BYU Cougars vs. Utah Utes
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/7907/7907-utah
-
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://api.ppv.to/assets/thumb/68f0ec61a4719ffca2b5f923461c5f8f-thumbnail.jpg",17:45 - 10/01/2026 | Agit Kabayel vs. Damian Knyba
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=agit-kabayel-vs.-damian-knyba
 
 #EXTINF:-1 group-title="FOX Nation" tvg-logo="https://api.ppv.to/assets/thumb/5625f9f76a23c5bebc87da63620ffda8-thumbnail.jpg",01:00 - 11/01/2026 | RAF 05: Covington vs. Rockhold
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -151,14 +135,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=englis
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg",20:00 - 12/01/2026 | Sevilla vs. Celta Vigo
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-12/sev-cel
-
-#EXTINF:-1 group-title="Altitude Sports" tvg-logo="https://api.ppv.to/assets/thumb/4e7b4043ed4c13678f6172cd43baa7e6-thumbnail.jpg",21:00 - 10/01/2026 | Columbus Blue Jackets vs. Colorado Avalanche
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-10/cbj-col
-
-#EXTINF:-1 group-title="NBC Sports BA" tvg-logo="https://api.ppv.to/assets/thumb/058f28b32f61c881a218037f9b6b2b0c-thumbnail.jpg",21:00 - 10/01/2026 | Dallas Stars vs. San Jose Sharks
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-10/dal-sj
 
 #EXTINF:-1 group-title="MSGB" tvg-logo="https://api.ppv.to/assets/thumb/62e441865850ccfd70392e0009d2d1fc-thumbnail.jpg",00:00 - 11/01/2026 | Anaheim Ducks vs. Buffalo Sabres
 #EXTVLCOPT:http-referrer=https://ppv.to/
