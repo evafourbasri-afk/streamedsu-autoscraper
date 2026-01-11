@@ -20,22 +20,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-12/hou-pit
 
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/fc28ec1d65624809c8bf9407938701e0-thumbnail.jpg",23:00 - 10/01/2026 | Arkansas Razorbacks vs. Auburn Tigers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/3608/3608-aub
-
-#EXTINF:-1 group-title="ACCN" tvg-logo="https://api.ppv.to/assets/thumb/9d88dcc136e0601b6933b06e961f9929-thumbnail.jpg",23:00 - 10/01/2026 | Wake Forest Demon Deacons vs. North Carolina Tar Heels
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/7702/7702-unc
-
-#EXTINF:-1 group-title="FanDuel SN IN" tvg-logo="https://api.ppv.to/assets/thumb/23c6f4828f053d693289d035de373b8c-thumbnail.jpg",00:00 - 11/01/2026 | Miami Heat vs. Indiana Pacers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-10/mia-ind
-
-#EXTINF:-1 group-title="CBSSN" tvg-logo="https://api.ppv.to/assets/thumb/5ad155f4e9838bcafe6a6cf1304e793b-thumbnail.jpg",00:00 - 11/01/2026 | Texas Tech Red Raiders vs. Colorado Buffaloes
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=cbb/8659/8659-colo
-
 #EXTINF:-1 group-title="FanDuel SN DET Ext" tvg-logo="https://api.ppv.to/assets/thumb/1ed620820ef9c254ae7f2f98458128f3-thumbnail.jpg",00:30 - 11/01/2026 | LA Clippers vs. Detroit Pistons
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-10/lac-det
@@ -135,30 +119,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=englis
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg",20:00 - 12/01/2026 | Sevilla vs. Celta Vigo
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-12/sev-cel
-
-#EXTINF:-1 group-title="MSGB" tvg-logo="https://api.ppv.to/assets/thumb/62e441865850ccfd70392e0009d2d1fc-thumbnail.jpg",00:00 - 11/01/2026 | Anaheim Ducks vs. Buffalo Sabres
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-10/ana-buf
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/734a0adc25c5cf4722d5245a2e212374-thumbnail.jpg",00:00 - 11/01/2026 | Vancouver Canucks vs. Toronto Maple Leafs
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-10/van-tor
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/5b6a34d2662dd594f47b1b29f5d39d62-thumbnail.jpg",00:00 - 11/01/2026 | Detroit Red Wings vs. Montreal Canadiens
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-10/det-mtl
-
-#EXTINF:-1 group-title="NHL Net" tvg-logo="https://api.ppv.to/assets/thumb/88195287a4e47f63350b6305876eff89-thumbnail.jpg",00:00 - 11/01/2026 | Florida Panthers vs. Ottawa Senators
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-10/fla-ott
-
-#EXTINF:-1 group-title="NBC Sports Phil" tvg-logo="https://api.ppv.to/assets/thumb/a9f76c813844291b34cb0d94381004f8-thumbnail.jpg",00:00 - 11/01/2026 | Tampa Bay Lightning vs. Philadelphia Flyers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-10/tb-phi
-
-#EXTINF:-1 group-title="FanDuel SN South" tvg-logo="https://api.ppv.to/assets/thumb/3f066b457d247eb3bdd538c2ccbe257b-thumbnail.jpg",00:00 - 11/01/2026 | Seattle Kraken vs. Carolina Hurricanes
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-10/sea-car
 
 #EXTINF:-1 group-title="FanDuel SN South" tvg-logo="https://api.ppv.to/assets/thumb/4979225f913f871e31c9f7e8754d2642-thumbnail.jpg",01:00 - 11/01/2026 | Chicago Blackhawks vs. Nashville Predators
 #EXTVLCOPT:http-referrer=https://ppv.to/
