@@ -64,6 +64,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundes
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-13/m05-hdh
 
+#EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://api.ppv.to/assets/thumb/aed3008df440f2e5d8303af74904b01d-thumbnail.jpg",20:00 - 13/01/2026 | Newcastle United vs. Manchester City
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=carabao-cup/2026-01-13/new-mnc
+
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/d3aceff67885322bf93ab23c0da22b54-thumbnail.jpg",17:30 - 14/01/2026 | VfL Wolfsburg vs. St. Pauli
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-14/wob-stp
@@ -87,6 +91,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundes
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/013c427391a9dbe9e49df0c175a9b943-thumbnail.jpg",19:45 - 14/01/2026 | Internazionale vs. Lecce
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-14/int-lec
+
+#EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://api.ppv.to/assets/thumb/8bb98c33c31e016bab7f5558529725f4-thumbnail.jpg",20:00 - 14/01/2026 | Chelsea vs. Arsenal
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=carabao-cup/2026-01-14/che-ars
 
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/39c15a14165388b5a3c762e1631cfab1-thumbnail.jpg",17:30 - 15/01/2026 | Hellas Verona vs. Bologna
 #EXTVLCOPT:http-referrer=https://ppv.to/
