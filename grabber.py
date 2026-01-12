@@ -1,77 +1,62 @@
+import asyncio
+from playwright.async_api import async_playwright
 import requests
 import re
-import base64
-import os
 
 SOURCE_M3U_URL = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/refs/heads/main/matches.m3u"
 
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-    'Referer': 'https://embedsports.top/',
-    'Accept-Language': 'en-US,en;q=0.9'
-}
-
-def decode_base64_links(text):
-    """Mencoba mencari dan mendekode string Base64 yang mungkin berisi URL"""
-    potential_base64 = re.findall(r'[A-Za-z0-9+/]{30,}=', text)
-    for b in potential_base64:
-        try:
-            decoded = base64.b64decode(b).decode('utf-8')
-            if '.m3u8' in decoded or '.mpd' in decoded:
-                return decoded
-        except:
-            continue
-    return None
-
-def get_direct_stream(embed_url):
+async def get_m3u8_dynamic(browser, embed_url):
+    """Membuka browser dan menangkap link .m3u8 dari network traffic"""
+    page = await browser.new_page()
+    m3u8_link = embed_url # Default balik ke link asli jika gagal
+    
     try:
-        if not embed_url.startswith('http'): return embed_url
-        print(f"Scanning: {embed_url}")
+        # Listener untuk menangkap semua request jaringan
+        def handle_request(request):
+            nonlocal m3u8_link
+            if ".m3u8" in request.url:
+                m3u8_link = request.url
+
+        page.on("request", handle_request)
+
+        print(f"Browsing: {embed_url}")
+        # Buka halaman dengan timeout 30 detik
+        await page.goto(embed_url, wait_until="networkidle", timeout=60000)
+        # Beri waktu tambahan 5 detik agar player inisialisasi
+        await asyncio.sleep(5) 
         
-        response = requests.get(embed_url, headers=HEADERS, timeout=15)
-        html = response.text
-
-        # 1. Cari langsung .m3u8 atau .mpd (DASH)
-        links = re.findall(r'["\'](https?://[^\s\'"]+\.(?:m3u8|mpd)[^\s\'"]*)["\']', html)
-        if links:
-            return links[0].replace("\\", "")
-
-        # 2. Coba decode Base64 jika tidak ditemukan link mentah
-        b64_link = decode_base64_links(html)
-        if b64_link:
-            print(f"  -> Found via Base64 Decode")
-            return b64_link
-
-        # 3. Cari pola 'source: "URL"' atau 'file: "URL"' yang umum di player JS
-        js_links = re.findall(r'(?:file|source|src)\s*[:=]\s*["\'](https?://[^"\']+)["\']', html)
-        for j in js_links:
-            if '.m3u8' in j or '.mpd' in j or 'stream' in j:
-                return j.replace("\\", "")
-
-        print(f"  -> Failed: Link tetap tidak terlihat di HTML statis")
-        return embed_url
-            
     except Exception as e:
-        print(f"  -> Error: {e}")
-        return embed_url
+        print(f"  -> Error/Timeout: {e}")
+    finally:
+        await page.close()
+    
+    return m3u8_link
 
-def main():
-    print(f"Fetching source playlist...")
-    try:
-        r = requests.get(SOURCE_M3U_URL)
-        lines = r.text.splitlines()
-    except: return
+async def main():
+    print("Mengambil playlist sumber...")
+    r = requests.get(SOURCE_M3U_URL)
+    lines = r.text.splitlines()
 
-    new_playlist = []
-    for line in lines:
-        if line.startswith('http'):
-            new_playlist.append(get_direct_stream(line.strip()))
-        else:
-            new_playlist.append(line)
+    async with async_playwright() as p:
+        # Jalankan browser Chromium
+        browser = await p.chromium.launch(headless=True)
+        new_playlist = []
 
-    with open('playlist.m3u', 'w', encoding='utf-8') as f:
+        for line in lines:
+            line = line.strip()
+            if line.startswith("http"):
+                direct_link = await get_m3u8_dynamic(browser, line)
+                new_playlist.append(direct_link)
+                if direct_link != line:
+                    print(f"  -> SUCCESS: Found M3U8")
+            else:
+                new_playlist.append(line)
+
+        await browser.close()
+
+    with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write("\n".join(new_playlist))
-    print("\nUpdate Selesai.")
+    print("\nUpdate Selesai!")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
