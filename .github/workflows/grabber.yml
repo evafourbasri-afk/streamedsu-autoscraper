@@ -1,0 +1,32 @@
+name: Grabber
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Jalan setiap 6 jam
+  workflow_dispatch:      # Bisa dijalankan manual dari tab Actions
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Grabber Script
+        run: python grabber.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add playlist.m3u
+          git commit -m "Update playlist: $(date)" || exit 0
+          git push
