@@ -48,6 +48,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=coupe-de-france/2026-01-12/psg-par
 
+#EXTINF:-1 group-title="France 3" tvg-logo="https://api.ppv.to/assets/thumb/ced4531ed57385caebd30e1f805e83d2-thumbnail.jpg",20:10 - 12/01/2026 | Paris Saint-Germain vs. Paris FC (French)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=paris-saint-germain-vs.-paris-fc-french
+
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/a850e8aca850fb8235ad13f24b95c14d-thumbnail.jpg",17:30 - 13/01/2026 | VfB Stuttgart vs. Eintracht Frankfurt
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-13/vfb-sge
@@ -335,10 +339,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTINF:-1 group-title="FanDuel SN West" tvg-logo="https://api.ppv.to/assets/thumb/d612d0385f88b2ac9253c3d81aaba4ad-thumbnail.jpg",03:00 - 13/01/2026 | Dallas Stars vs. Los Angeles Kings
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-12/dal-la
-
-#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://api.ppv.to/assets/thumb/9281e0642d8407f9155de473b9dccd88-thumbnail.jpg",13:00 - 12/01/2026 | The Masters
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=snooker/masters
 
 #EXTINF:-1 group-title="Netflix" tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",19:00 - 12/01/2026 | WWE: Monday Night RAW
 #EXTVLCOPT:http-referrer=https://ppv.to/
