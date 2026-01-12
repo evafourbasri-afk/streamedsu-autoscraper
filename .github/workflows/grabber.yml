@@ -2,14 +2,14 @@ name: Grabber
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Jalan setiap 6 jam
-  workflow_dispatch:      # Bisa dijalankan manual dari tab Actions
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
 
 jobs:
   update-list:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout Code
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -18,15 +18,17 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: pip install requests
+        run: |
+          pip install requests playwright
+          playwright install chromium --with-deps
 
-      - name: Run Grabber Script
+      - name: Run Playwright Grabber
         run: python grabber.py
 
       - name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add playlist.m3u
-          git commit -m "Update playlist: $(date)" || exit 0
+          git commit -m "Auto-update via Playwright: $(date)" || exit 0
           git push
