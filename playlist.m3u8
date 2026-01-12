@@ -48,6 +48,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=englis
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-12/sev-cel
 
+#EXTINF:-1 group-title="Coupe de France" tvg-logo="https://api.ppv.to/assets/thumb/7660e3603847e00bb0d2dac025a4f3d4-thumbnail.jpg",20:10 - 12/01/2026 | Paris Saint-Germain vs. Paris FC
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=coupe-de-france/2026-01-12/psg-par
+
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/a850e8aca850fb8235ad13f24b95c14d-thumbnail.jpg",17:30 - 13/01/2026 | VfB Stuttgart vs. Eintracht Frankfurt
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-13/vfb-sge
