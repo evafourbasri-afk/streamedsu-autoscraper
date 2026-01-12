@@ -1,6 +1,5 @@
 import requests
 import re
-from datetime import datetime
 
 HEADERS = {
     "Referer": "https://embedsports.top/",
@@ -28,6 +27,15 @@ CATEGORIES = {
 def clean(text):
     return re.sub(r"[^\x00-\x7F]+", "", text or "")
 
+def normalize_streams(data):
+    # API kadang: { streams:[...] }
+    # kadang: [...]
+    if isinstance(data, dict):
+        return data.get("streams", [])
+    if isinstance(data, list):
+        return data
+    return []
+
 out = ["#EXTM3U"]
 
 print("StreamedSU IPTV Generator")
@@ -39,8 +47,8 @@ for cat_api, cat_name in CATEGORIES.items():
     print(f"\nFetching {cat_name}...")
     try:
         matches = requests.get(BASE_MATCHES.format(cat=cat_api), timeout=15).json()
-    except:
-        print("  Failed")
+    except Exception as e:
+        print("  Failed:", e)
         continue
 
     for match in matches:
@@ -55,8 +63,10 @@ for cat_api, cat_name in CATEGORIES.items():
             except:
                 continue
 
-            for stream in data.get("streams", []):
-                url = stream.get("url")
+            streams = normalize_streams(data)
+
+            for s in streams:
+                url = s.get("url")
                 if not url or ".m3u8" not in url:
                     continue
 
