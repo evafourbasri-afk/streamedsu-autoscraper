@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FOX" tvg-logo="https://api.ppv.to/assets/thumb/423f6485debd0888a42c8bc00460dc22-thumbnail.jpg",21:30 - 11/01/2026 | San Francisco 49ers vs. Philadelphia Eagles
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-11/sf-phi
-
 #EXTINF:-1 group-title="NBC/Peacock" tvg-logo="https://api.ppv.to/assets/thumb/363cd85b1d74fd7362c97609b59bb6d9-thumbnail.jpg",01:00 - 12/01/2026 | Los Angeles Chargers vs. New England Patriots
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-11/lac-ne
@@ -63,10 +59,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=englis
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg",20:00 - 12/01/2026 | Sevilla vs. Celta Vigo
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga/2026-01-12/sev-cel
-
-#EXTINF:-1 group-title="NESN" tvg-logo="https://api.ppv.to/assets/thumb/d669b1ae616d002abef24cb314a9e7ed-thumbnail.jpg",22:00 - 11/01/2026 | Pittsburgh Penguins vs. Boston Bruins
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-11/pit-bos
 
 #EXTINF:-1 group-title="FanDuel SN South" tvg-logo="https://api.ppv.to/assets/thumb/7e7b0c2b25bc991a399999c8b520768f-thumbnail.jpg",00:00 - 12/01/2026 | Washington Capitals vs. Nashville Predators
 #EXTVLCOPT:http-referrer=https://ppv.to/
