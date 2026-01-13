@@ -68,6 +68,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundes
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=carabao-cup/2026-01-13/new-mnc
 
+#EXTINF:-1 group-title="Coupe de France" tvg-logo="https://api.ppv.to/assets/thumb/f9f13d84fb4759461f50456542af5bcd-thumbnail.jpg",20:00 - 13/01/2026 | Bayeux vs. Marseille
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=coupe-de-france/2026-01-13/bay-olm
+
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/d3aceff67885322bf93ab23c0da22b54-thumbnail.jpg",17:30 - 14/01/2026 | VfL Wolfsburg vs. St. Pauli
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-14/wob-stp
@@ -343,6 +347,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTINF:-1 group-title="Animal Planet" tvg-logo="https://api.ppv.to/assets/thumb/a2c11c682ba20318ebdd47372110353f-thumbnail.jpg",19:00 - 08/02/2026 | Puppy Bowl XXII
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=puppy-bowl-xxii
+
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://api.ppv.to/assets/thumb/9281e0642d8407f9155de473b9dccd88-thumbnail.jpg",13:00 - 13/01/2026 | The Masters
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=snooker/masters
 
 #EXTINF:-1 group-title="CW" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",01:00 - 14/01/2026 | WWE: NXT
 #EXTVLCOPT:http-referrer=https://ppv.to/
