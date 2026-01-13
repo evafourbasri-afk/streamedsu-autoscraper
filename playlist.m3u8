@@ -4,9 +4,9 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-12/hou-pit
 
-#EXTINF:-1 group-title="FanDuel SN OH" tvg-logo="https://api.ppv.to/assets/thumb/eb8034b811df253439995fea9184210b-thumbnail.jpg",00:00 - 13/01/2026 | Utah Jazz vs. Cleveland Cavaliers
+#EXTINF:-1 group-title="ESPN2" tvg-logo="https://api.ppv.to/assets/thumb/258b0348b935508ab080ced0a730ca66-thumbnail.jpg",01:15 - 13/01/2026 | Manningcast
 #EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-12/utah-cle
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-12/manningcast
 
 #EXTINF:-1 group-title="Peacock" tvg-logo="https://api.ppv.to/assets/thumb/502b1a7f10a9060d39a9fec8f69d679e-thumbnail.jpg",00:30 - 13/01/2026 | Boston Celtics vs. Indiana Pacers
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -319,6 +319,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTINF:-1 group-title="FanDuel SN West" tvg-logo="https://api.ppv.to/assets/thumb/d612d0385f88b2ac9253c3d81aaba4ad-thumbnail.jpg",03:00 - 13/01/2026 | Dallas Stars vs. Los Angeles Kings
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-12/dal-la
+
+#EXTINF:-1 group-title="Animal Planet" tvg-logo="https://api.ppv.to/assets/thumb/a2c11c682ba20318ebdd47372110353f-thumbnail.jpg",19:00 - 08/02/2026 | Puppy Bowl XXII
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=puppy-bowl-xxii
 
 #EXTINF:-1 group-title="CW" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",01:00 - 14/01/2026 | WWE: NXT
 #EXTVLCOPT:http-referrer=https://ppv.to/
