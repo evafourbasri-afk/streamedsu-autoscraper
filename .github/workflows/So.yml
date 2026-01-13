@@ -1,0 +1,39 @@
+name: Sportsonline M3U Generator
+
+on:
+  workflow_dispatch:   # tombol "Run workflow"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install system dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y wget ffmpeg xvfb
+
+      - name: Install Python packages
+        run: |
+          pip install playwright requests
+          playwright install chromium
+
+      - name: Run Sportsonline extractor
+        run: |
+          python sportsonline.py
+
+      - name: Commit & Push M3U
+        run: |
+          git config user.name "sportsonline-bot"
+          git config user.email "actions@github.com"
+          git add sportsonline.m3u
+          git commit -m "Update Sportsonline playlist"
+          git push
