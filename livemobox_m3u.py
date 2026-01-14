@@ -40,6 +40,7 @@ def main():
 
         title = item.get("match_title_from_api", "Unknown Match")
         time_wib = item.get("time", "")
+        date_wib = item.get("date", "")
         competition = item.get("competition", "LIVE")
         match_id = item.get("match_id", "")
         logo = item.get("team1", {}).get("logo_url", "")
@@ -50,7 +51,7 @@ def main():
                 f'tvg-id="{match_id}" '
                 f'tvg-logo="{logo}" '
                 f'group-title="{competition}",'
-                f'{title} | {time_wib} WIB'
+                f'{title} | {date_wib} {time_wib} WIB'
             )
 
             m3u_lines.append(extinf)
