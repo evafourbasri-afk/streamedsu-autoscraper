@@ -1,0 +1,43 @@
+name: Generate Match Data JSON
+
+on:
+  schedule:
+    # Runs every 10 minutes
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Allows manual runs
+
+permissions:
+  contents: write # Grants permission to commit and push changes
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run the JSON generation script
+        # Assumes your script is named 'json_generator.py' in the root
+        run: python json_generator.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add matches.json json_generator_log.txt
+          # Commit only if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "Update match data JSON and logs"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+
