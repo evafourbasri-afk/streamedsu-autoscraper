@@ -48,22 +48,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
 
-#EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/a8bb7221ae33e485a331cde9102e3370-thumbnail.jpg",19:30 - 14/01/2026 | FC Cologne vs. Bayern Munich
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-14/koe-mun
-
-#EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/cad22a8b2090a25419f9804920da3377-thumbnail.jpg",19:30 - 14/01/2026 | RB Leipzig vs. SC Freiburg
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-14/rbl-scf
-
-#EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/cc320af7b14e5ac552f460b1f505712a-thumbnail.jpg",19:30 - 14/01/2026 | TSG Hoffenheim vs. Borussia Mönchengladbach
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-14/tsg-bmg
-
-#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/013c427391a9dbe9e49df0c175a9b943-thumbnail.jpg",19:45 - 14/01/2026 | Inter Milan vs. Lecce
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-14/int-lec
-
 #EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://api.ppv.to/assets/thumb/8bb98c33c31e016bab7f5558529725f4-thumbnail.jpg",20:00 - 14/01/2026 | Chelsea vs. Arsenal
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=carabao-cup/2026-01-14/che-ars
