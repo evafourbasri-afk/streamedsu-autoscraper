@@ -24,9 +24,41 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-13/por-gs
 
+#EXTINF:-1 group-title="FanDuel SN IN" tvg-logo="https://api.ppv.to/assets/thumb/f0e46ad3b40b41da62312ecccf87bf27-thumbnail.jpg",00:00 - 15/01/2026 | Toronto Raptors vs. Indiana Pacers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-14/tor-ind
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/a23448684b06f639cb3a7208d015bf66-thumbnail.jpg",00:00 - 15/01/2026 | Cleveland Cavaliers vs. Philadelphia 76ers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-14/cle-phi
+
+#EXTINF:-1 group-title="CHSN" tvg-logo="https://api.ppv.to/assets/thumb/77c6db38f286024b4fb20549e242363e-thumbnail.jpg",01:00 - 15/01/2026 | Utah Jazz vs. Chicago Bulls
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-14/utah-chi
+
+#EXTINF:-1 group-title="GCSEN" tvg-logo="https://api.ppv.to/assets/thumb/6d031e6c10d1238c45f6fa8b3544e66b-thumbnail.jpg",01:00 - 15/01/2026 | Brooklyn Nets vs. New Orleans Pelicans
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-14/bkn-no
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/9c3a34b270c150693f95d18682c9a392-thumbnail.jpg",02:30 - 15/01/2026 | Denver Nuggets vs. Dallas Mavericks
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-14/den-dal
+
+#EXTINF:-1 group-title="NBC Sports CA" tvg-logo="https://api.ppv.to/assets/thumb/75e7c01bb06a4a7577c491ee0e3a9eba-thumbnail.jpg",03:00 - 15/01/2026 | New York Knicks vs. Sacramento Kings
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-14/ny-sac
+
+#EXTINF:-1 group-title="FanDuel SN SoCal" tvg-logo="https://api.ppv.to/assets/thumb/a6f705b408f454ed240eb30258508997-thumbnail.jpg",03:30 - 15/01/2026 | Washington Wizards vs. LA Clippers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-14/wsh-lac
+
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg",00:00 - 25/01/2026 | UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
+
+#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/24abed837564873c7f7101cf84db3ea1-thumbnail.jpg",17:00 - 14/01/2026 | Senegal vs. Egypt
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2026-01-14/sen-egy
 
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/d3aceff67885322bf93ab23c0da22b54-thumbnail.jpg",17:30 - 14/01/2026 | VfL Wolfsburg vs. St. Pauli
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -55,6 +87,10 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea
 #EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://api.ppv.to/assets/thumb/8bb98c33c31e016bab7f5558529725f4-thumbnail.jpg",20:00 - 14/01/2026 | Chelsea vs. Arsenal
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=carabao-cup/2026-01-14/che-ars
+
+#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/518a4e19da9e721dde8891dccad0923f-thumbnail.jpg",20:00 - 14/01/2026 | Nigeria vs. Morocco
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2026-01-14/nga-mar
 
 #EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/39c15a14165388b5a3c762e1631cfab1-thumbnail.jpg",17:30 - 15/01/2026 | Hellas Verona vs. Bologna
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -267,6 +303,22 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/20
 #EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/6d2d41fe14f5ec49693fcf9959d52905-thumbnail.jpg",03:00 - 14/01/2026 | Dallas Stars vs. Anaheim Ducks
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-13/dal-ana
+
+#EXTINF:-1 group-title="MSGSN" tvg-logo="https://api.ppv.to/assets/thumb/94b902482afa44f4e615d8cac8c36d7c-thumbnail.jpg",00:00 - 15/01/2026 | Seattle Kraken vs. New Jersey Devils
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-14/sea-nj
+
+#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/5945428c5bd60960c822f88367627396-thumbnail.jpg",00:30 - 15/01/2026 | Philadelphia Flyers vs. Buffalo Sabres
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-14/phi-buf
+
+#EXTINF:-1 group-title="MSG" tvg-logo="https://api.ppv.to/assets/thumb/a6f5d62da8a946fa23f3639202fe4d31-thumbnail.jpg",00:30 - 15/01/2026 | Ottawa Senators vs. New York Rangers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-14/ott-nyr
+
+#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/a41ddb5193212e2ed2dc7c04de03d466-thumbnail.jpg",03:00 - 15/01/2026 | Vegas Golden Knights vs. Los Angeles Kings
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-14/vgk-la
 
 #EXTINF:-1 group-title="Animal Planet" tvg-logo="https://api.ppv.to/assets/thumb/a2c11c682ba20318ebdd47372110353f-thumbnail.jpg",19:00 - 08/02/2026 | Puppy Bowl XXII
 #EXTVLCOPT:http-referrer=https://ppv.to/
