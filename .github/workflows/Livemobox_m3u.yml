@@ -1,0 +1,41 @@
+name: Generate LiveMobox M3U
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # jalan tiap 2 jam
+  workflow_dispatch:       # bisa dijalankan manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run LiveMobox M3U generator
+        run: |
+          python livemobox_m3u.py
+
+      - name: Commit and push M3U
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if [[ `git status --porcelain` ]]; then
+            git add livemobox.m3u
+            git commit -m "Auto update LiveMobox M3U"
+            git push
+          else
+            echo "No changes to commit"
+          fi
