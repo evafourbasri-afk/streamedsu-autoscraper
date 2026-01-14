@@ -48,18 +48,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
 
-#EXTINF:-1 group-title="AFCON" tvg-logo="https://api.ppv.to/assets/thumb/24abed837564873c7f7101cf84db3ea1-thumbnail.jpg",17:00 - 14/01/2026 | Senegal vs. Egypt
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=afcon/2026-01-14/sen-egy
-
-#EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/d3aceff67885322bf93ab23c0da22b54-thumbnail.jpg",17:30 - 14/01/2026 | VfL Wolfsburg vs. St. Pauli
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-14/wob-stp
-
-#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/e0e6d65943c0e4f7348d98f3e233b331-thumbnail.jpg",17:30 - 14/01/2026 | Napoli vs. Parma
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-14/nap-par
-
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/a8bb7221ae33e485a331cde9102e3370-thumbnail.jpg",19:30 - 14/01/2026 | FC Cologne vs. Bayern Munich
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-14/koe-mun
