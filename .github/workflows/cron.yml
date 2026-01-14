@@ -1,0 +1,45 @@
+name: cron q=
+
+# Trigger setiap 15 menit
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+
+# Bisa juga kamu jalankan manual lewat tombol "Run workflow"
+  workflow_dispatch:
+
+jobs:
+  fetch-sources:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install curl
+        run: sudo apt-get update && sudo apt-get install -y curl
+
+      - name: Cek Source #1
+        run: |
+          echo "Fetching: https://phinnisi.web.id/m3u/skor/cekker.php?q=update"
+          curl -v "https://phinnisi.web.id/m3u/skor/cekker.php?q=update" -o phinnisi-update.txt
+
+      - name: Cek Source #2
+        run: |
+          echo "Fetching: https://ogietv.biz.id/m3u/cek.php?q=update"
+          curl -v "https://ogietv.biz.id/m3u/cek.php?q=update" -o ogietv-cek-update.txt
+
+      - name: Cek Source #3
+        run: |
+          echo "Fetching: https://ogietv.biz.id/m3u/skor/cekker.php?q=update"
+          curl -v "https://ogietv.biz.id/m3u/skor/cekker.php?q=update" -o ogietv-skor-update.txt
+
+      - name: Commit hasil fetch (opsional)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto fetch updates $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
