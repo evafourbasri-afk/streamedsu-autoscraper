@@ -60,10 +60,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-32
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=world-series-of-darts-bahrain-darts-masters
 
-#EXTINF:-1 group-title="Serie A" tvg-logo="https://api.ppv.to/assets/thumb/39c15a14165388b5a3c762e1631cfab1-thumbnail.jpg",17:30 - 15/01/2026 | Hellas Verona vs. Bologna
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea/2026-01-15/ver-bol
-
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="https://api.ppv.to/assets/thumb/14e5c80defa411032356b3642263bf8d-thumbnail.jpg",19:30 - 15/01/2026 | FC Augsburg vs. 1. FC Union Berlin
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=bundesliga/2026-01-15/fca-fcu
@@ -76,7 +72,7 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=seriea
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=copa-del-rey/2026-01-15/bur-val
 
-#EXTINF:-1 group-title="Copa del Rey" tvg-logo="https://api.ppv.to/assets/thumb/a48daaac9d34b77c584ad17ece539fe4-thumbnail.jpg",20:00 - 15/01/2026 | Racing Santander vs. Barcelona
+#EXTINF:-1 group-title="Copa del Rey" tvg-logo="https://api.ppv.to/assets/thumb/a48daaac9d34b77c584ad17ece539fe4-thumbnail.jpg",20:15 - 15/01/2026 | Racing Santander vs. Barcelona
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=copa-del-rey/2026-01-15/rac-bar
 
