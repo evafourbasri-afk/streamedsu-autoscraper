@@ -1,6 +1,5 @@
 import requests
-from datetime import datetime, timedelta
-import pytz
+from datetime import datetime, timedelta, timezone
 
 # =====================================================
 # CONFIG
@@ -13,9 +12,10 @@ HEADERS = {
 }
 
 UPCOMING_URL = "about:blank"
-MATCH_DURATION = timedelta(hours=2)  # asumsi durasi match
+MATCH_DURATION = timedelta(hours=2)
 
-WIB = pytz.timezone("Asia/Jakarta")
+# WIB = UTC+7 (tanpa pytz)
+WIB = timezone(timedelta(hours=7))
 
 # =====================================================
 # HELPER
@@ -29,12 +29,11 @@ def fetch_json(url):
     return r.json()
 
 def parse_wib_datetime(date_str, time_str):
-    """
-    date: DD-MM-YYYY
-    time: HH:MM
-    """
-    dt = datetime.strptime(f"{date_str} {time_str}", "%d-%m-%Y %H:%M")
-    return WIB.localize(dt)
+    dt = datetime.strptime(
+        f"{date_str} {time_str}",
+        "%d-%m-%Y %H:%M"
+    )
+    return dt.replace(tzinfo=WIB)
 
 # =====================================================
 # MAIN
@@ -61,7 +60,7 @@ def main():
         end_time = kickoff + MATCH_DURATION
 
         # =========================
-        # STATUS DETECTION
+        # STATUS LOGIC
         # =========================
         if now_wib > end_time:
             status = "[END]"
