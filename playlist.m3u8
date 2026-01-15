@@ -16,10 +16,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-18/lar-chi
 
-#EXTINF:-1 group-title="FanDuel SN SoCal" tvg-logo="https://api.ppv.to/assets/thumb/a6f705b408f454ed240eb30258508997-thumbnail.jpg",03:30 - 15/01/2026 | Washington Wizards vs. LA Clippers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-14/wsh-lac
-
 #EXTINF:-1 group-title="Prime Video" tvg-logo="https://api.ppv.to/assets/thumb/d89234c2d40445149188f4ed59a1a61d-thumbnail.jpg",19:00 - 15/01/2026 | Memphis Grizzlies vs. Orlando Magic
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-15/mem-orl
@@ -263,10 +259,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/833aac26be93c67f917751665c0ce99c-thumbnail.jpg",20:00 - 19/01/2026 | Brighton & Hove Albion vs. AFC Bournemouth
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-19/bha-bou
-
-#EXTINF:-1 group-title="TNT" tvg-logo="https://api.ppv.to/assets/thumb/a41ddb5193212e2ed2dc7c04de03d466-thumbnail.jpg",03:00 - 15/01/2026 | Vegas Golden Knights vs. Los Angeles Kings
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-14/vgk-la
 
 #EXTINF:-1 group-title="MSGB" tvg-logo="https://api.ppv.to/assets/thumb/ae0dae34f0c69ffdc43d1a1bc0443eb0-thumbnail.jpg",00:00 - 16/01/2026 | Montreal Canadiens vs. Buffalo Sabres
 #EXTVLCOPT:http-referrer=https://ppv.to/
