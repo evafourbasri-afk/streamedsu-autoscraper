@@ -3,7 +3,7 @@ name: buat matches.json
 on:
   schedule:
     # Runs every 10 minutes
-    - cron: '*/10 * * * *'
+    - cron: '*/16 * * * *'
   workflow_dispatch: # Allows manual runs
 
 permissions:
