@@ -14,7 +14,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Android; IPTV)"
 }
 
-# WIB = UTC+7 (tanpa pytz, aman GH Actions)
+# WIB = UTC+7 (tanpa pytz)
 WIB = timezone(timedelta(hours=7))
 
 MATCH_DURATION = timedelta(hours=2)
@@ -24,7 +24,7 @@ UPCOMING_URL = "about:blank"
 THUMB_DIR = "thumbs"
 THUMB_W, THUMB_H = 512, 288
 LOGO_SIZE = 130
-GAP = 28  # 👉 jarak logo ke tulisan VS (makin kecil makin rapat)
+GAP = 28  # jarak logo ke tulisan VS
 
 # =====================================================
 # BASIC HELPERS
@@ -49,9 +49,9 @@ def build_gradient():
     draw = ImageDraw.Draw(img)
 
     colors = [
-        (20, 30, 80),   # dark blue
-        (60, 20, 90),   # purple
-        (120, 30, 60),  # dark red
+        (20, 30, 80),
+        (60, 20, 90),
+        (120, 30, 60),
     ]
 
     for x in range(THUMB_W):
@@ -94,13 +94,13 @@ def build_match_thumb(home_url, away_url, filename):
     center_x = THUMB_W // 2
     center_y = THUMB_H // 2
 
-    # HOME (kiri, rapat ke VS)
+    # HOME (kiri)
     if home:
         x = center_x - GAP - home.width
         y = center_y - home.height // 2
         bg.paste(home, (x, y), home)
 
-    # AWAY (kanan, rapat ke VS)
+    # AWAY (kanan)
     if away:
         x = center_x + GAP
         y = center_y - away.height // 2
@@ -109,7 +109,6 @@ def build_match_thumb(home_url, away_url, filename):
     # Text "VS" di tengah
     vs_text = "VS"
 
-    # outline hitam
     for dx, dy in [(-2,0),(2,0),(0,-2),(0,2)]:
         draw.text(
             (center_x + dx, center_y + dy),
@@ -118,7 +117,6 @@ def build_match_thumb(home_url, away_url, filename):
             anchor="mm"
         )
 
-    # teks utama putih
     draw.text(
         (center_x, center_y),
         vs_text,
@@ -138,7 +136,6 @@ def main():
     now_wib = datetime.now(WIB)
 
     m3u = ["#EXTM3U"]
-    cnt_live = cnt_upcoming = cnt_end = 0
 
     for item in data:
         title = item.get("match_title_from_api", "Unknown Match")
@@ -156,25 +153,16 @@ def main():
         links = item.get("links", [])
         m3u8_links = [u for u in links if is_m3u8(u)]
 
-        # =========================
-        # STATUS LOGIC
-        # =========================
         if now_wib > end_time:
             status = "[END]"
             urls = [UPCOMING_URL]
-            cnt_end += 1
-
         elif now_wib >= kickoff and m3u8_links:
             status = "[LIVE]"
             urls = m3u8_links
-            cnt_live += 1
-
         else:
             status = "[UPCOMING]"
             urls = [UPCOMING_URL]
-            cnt_upcoming += 1
 
-        # Build thumbnail
         thumb_name = f"{match_id}.png"
         thumb_path = build_match_thumb(home_logo, away_logo, thumb_name)
         thumb_url = (
@@ -197,111 +185,6 @@ def main():
         f.write("\n".join(m3u))
 
     print(f"✅ Generated {OUTPUT_M3U}")
-    print(f"🔴 LIVE     : {cnt_live}")
-    print(f"🕒 UPCOMING : {cnt_upcoming}")
-    print(f"⚫ END      : {cnt_end}")
-
-# =====================================================
-if __name__ == "__main__":
-    main()        bg.paste(
-            away,
-            (THUMB_W - 100 - away.width, center_y - away.height // 2),
-            away
-        )
-
-    # TEXT "VS" (CENTER)
-    vs_text = "VS"
-    text_x = THUMB_W // 2
-    text_y = center_y
-
-    # outline
-    for dx, dy in [(-2,0),(2,0),(0,-2),(0,2)]:
-        draw.text(
-            (text_x + dx, text_y + dy),
-            vs_text,
-            fill=(0, 0, 0),
-            anchor="mm"
-        )
-
-    draw.text(
-        (text_x, text_y),
-        vs_text,
-        fill=(255, 255, 255),
-        anchor="mm"
-    )
-
-    path = os.path.join(THUMB_DIR, filename)
-    bg.save(path, "PNG")
-    return path
-
-# =====================================================
-# MAIN
-# =====================================================
-def main():
-    data = fetch_json(JSON_URL)
-    now_wib = datetime.now(WIB)
-
-    m3u = ["#EXTM3U"]
-    cnt_live = cnt_upcoming = cnt_end = 0
-
-    for item in data:
-        title = item.get("match_title_from_api", "Unknown Match")
-        competition = item.get("competition", "SPORT")
-        match_id = item.get("match_id", "")
-        date_wib = item.get("date", "")
-        time_wib = item.get("time", "")
-
-        home_logo = item.get("team1", {}).get("logo_url")
-        away_logo = item.get("team2", {}).get("logo_url")
-
-        kickoff = parse_wib_datetime(date_wib, time_wib)
-        end_time = kickoff + MATCH_DURATION
-
-        links = item.get("links", [])
-        m3u8_links = [u for u in links if is_m3u8(u)]
-
-        # STATUS LOGIC
-        if now_wib > end_time:
-            status = "[END]"
-            urls = [UPCOMING_URL]
-            cnt_end += 1
-
-        elif now_wib >= kickoff and m3u8_links:
-            status = "[LIVE]"
-            urls = m3u8_links
-            cnt_live += 1
-
-        else:
-            status = "[UPCOMING]"
-            urls = [UPCOMING_URL]
-            cnt_upcoming += 1
-
-        # build thumbnail
-        thumb_name = f"{match_id}.png"
-        thumb_path = build_match_thumb(home_logo, away_logo, thumb_name)
-        thumb_url = (
-            "https://raw.githubusercontent.com/evafourbasri-afk/"
-            "streamedsu-autoscraper/main/" + thumb_path.replace("\\", "/")
-        )
-
-        channel_name = f"{status} {title} | {date_wib} {time_wib} WIB"
-
-        for url in urls:
-            m3u.append(
-                f'#EXTINF:-1 tvg-id="{match_id}" '
-                f'tvg-logo="{thumb_url}" '
-                f'group-title="{competition}",'
-                f'{channel_name}'
-            )
-            m3u.append(url)
-
-    with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
-        f.write("\n".join(m3u))
-
-    print(f"✅ Generated {OUTPUT_M3U}")
-    print(f"🔴 LIVE     : {cnt_live}")
-    print(f"🕒 UPCOMING : {cnt_upcoming}")
-    print(f"⚫ END      : {cnt_end}")
 
 # =====================================================
 if __name__ == "__main__":
