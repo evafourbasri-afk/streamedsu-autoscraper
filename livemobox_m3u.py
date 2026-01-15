@@ -23,8 +23,11 @@ UPCOMING_URL = "about:blank"
 # Thumbnail config
 THUMB_DIR = "thumbs"
 THUMB_W, THUMB_H = 512, 288
-LOGO_SIZE = 130
-GAP = 28  # jarak logo ke tulisan VS
+
+# === LOGO VISUAL CONTROL (INI FIX NBA) ===
+LOGO_TARGET_HEIGHT = 120   # tinggi visual logo (seragam)
+LOGO_MIN_WIDTH = 110       # lebar minimum (logo NBA ramping jadi besar)
+GAP = 28                   # jarak logo ke tulisan VS
 
 # =====================================================
 # BASIC HELPERS
@@ -49,9 +52,9 @@ def build_gradient():
     draw = ImageDraw.Draw(img)
 
     colors = [
-        (20, 30, 80),   # dark blue
-        (60, 20, 90),   # purple
-        (120, 30, 60),  # dark red
+        (20, 30, 80),
+        (60, 20, 90),
+        (120, 30, 60),
     ]
 
     for x in range(THUMB_W):
@@ -72,19 +75,18 @@ def build_gradient():
     return img
 
 def trim_transparency(img):
-    """
-    Potong area transparan di sekitar logo
-    (FIX utama untuk logo NBA yang padding-nya besar)
-    """
     if img.mode != "RGBA":
         return img
-
     bbox = img.getbbox()
-    if bbox:
-        return img.crop(bbox)
-    return img
+    return img.crop(bbox) if bbox else img
 
-def fetch_logo(url, size):
+def fetch_logo(url):
+    """
+    FIX FINAL:
+    - crop transparansi
+    - scale by HEIGHT
+    - paksa MIN WIDTH (NBA fix)
+    """
     if not url:
         return None
     try:
@@ -92,10 +94,24 @@ def fetch_logo(url, size):
         r.raise_for_status()
         img = Image.open(BytesIO(r.content)).convert("RGBA")
 
-        # 🔥 FIX UTAMA: crop transparansi dulu
+        # crop padding transparan
         img = trim_transparency(img)
 
-        img.thumbnail((size, size), Image.LANCZOS)
+        w, h = img.size
+        scale = LOGO_TARGET_HEIGHT / h
+        new_w = int(w * scale)
+        new_h = LOGO_TARGET_HEIGHT
+
+        img = img.resize((new_w, new_h), Image.LANCZOS)
+
+        # paksa lebar minimum (fix logo NBA ramping)
+        if new_w < LOGO_MIN_WIDTH:
+            scale = LOGO_MIN_WIDTH / new_w
+            img = img.resize(
+                (LOGO_MIN_WIDTH, int(new_h * scale)),
+                Image.LANCZOS
+            )
+
         return img
     except Exception:
         return None
@@ -105,8 +121,8 @@ def build_match_thumb(home_url, away_url, filename):
     bg = build_gradient()
     draw = ImageDraw.Draw(bg)
 
-    home = fetch_logo(home_url, LOGO_SIZE)
-    away = fetch_logo(away_url, LOGO_SIZE)
+    home = fetch_logo(home_url)
+    away = fetch_logo(away_url)
 
     center_x = THUMB_W // 2
     center_y = THUMB_H // 2
@@ -123,7 +139,7 @@ def build_match_thumb(home_url, away_url, filename):
         y = center_y - away.height // 2
         bg.paste(away, (x, y), away)
 
-    # Text "VS" di tengah
+    # Text "VS"
     vs_text = "VS"
 
     # outline hitam
@@ -172,7 +188,7 @@ def main():
         links = item.get("links", [])
         m3u8_links = [u for u in links if is_m3u8(u)]
 
-        # STATUS LOGIC
+        # STATUS
         if now_wib > end_time:
             status = "[END]"
             urls = [UPCOMING_URL]
@@ -183,7 +199,7 @@ def main():
             status = "[UPCOMING]"
             urls = [UPCOMING_URL]
 
-        # Build thumbnail (home VS away)
+        # build thumbnail
         thumb_name = f"{match_id}.png"
         thumb_path = build_match_thumb(home_logo, away_logo, thumb_name)
         thumb_url = (
