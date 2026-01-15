@@ -1,4 +1,6 @@
 import requests
+from datetime import datetime, timedelta
+import pytz
 
 # =====================================================
 # CONFIG
@@ -10,10 +12,13 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Android; IPTV)"
 }
 
-UPCOMING_URL = "about:blank"  # aman untuk ExoPlayer / OTT
+UPCOMING_URL = "about:blank"
+MATCH_DURATION = timedelta(hours=2)  # asumsi durasi match
+
+WIB = pytz.timezone("Asia/Jakarta")
 
 # =====================================================
-# HELPER FUNCTIONS
+# HELPER
 # =====================================================
 def is_m3u8(url: str) -> bool:
     return isinstance(url, str) and ".m3u8" in url.lower()
@@ -23,68 +28,74 @@ def fetch_json(url):
     r.raise_for_status()
     return r.json()
 
+def parse_wib_datetime(date_str, time_str):
+    """
+    date: DD-MM-YYYY
+    time: HH:MM
+    """
+    dt = datetime.strptime(f"{date_str} {time_str}", "%d-%m-%Y %H:%M")
+    return WIB.localize(dt)
+
 # =====================================================
 # MAIN
 # =====================================================
 def main():
     data = fetch_json(JSON_URL)
+    now_wib = datetime.now(WIB)
 
-    m3u_lines = ["#EXTM3U"]
-    total_live = 0
-    total_upcoming = 0
+    m3u = ["#EXTM3U"]
+    cnt_live = cnt_upcoming = cnt_end = 0
 
     for item in data:
         links = item.get("links", [])
         m3u8_links = [u for u in links if is_m3u8(u)]
 
         title = item.get("match_title_from_api", "Unknown Match")
-        time_wib = item.get("time", "")
-        date_wib = item.get("date", "")
-        competition = item.get("competition", "LIVE")
+        competition = item.get("competition", "SPORT")
         match_id = item.get("match_id", "")
         logo = item.get("team1", {}).get("logo_url", "")
+        date_wib = item.get("date", "")
+        time_wib = item.get("time", "")
 
-        # ================================
-        # LIVE
-        # ================================
-        if m3u8_links:
-            channel_name = f"[LIVE] {title} | {date_wib} {time_wib} WIB"
+        kickoff = parse_wib_datetime(date_wib, time_wib)
+        end_time = kickoff + MATCH_DURATION
 
-            for stream_url in m3u8_links:
-                extinf = (
-                    f'#EXTINF:-1 '
-                    f'tvg-id="{match_id}" '
-                    f'tvg-logo="{logo}" '
-                    f'group-title="{competition}",'
-                    f'{channel_name}'
-                )
-                m3u_lines.append(extinf)
-                m3u_lines.append(stream_url)
-                total_live += 1
+        # =========================
+        # STATUS DETECTION
+        # =========================
+        if now_wib > end_time:
+            status = "[END]"
+            urls = [UPCOMING_URL]
+            cnt_end += 1
 
-        # ================================
-        # UPCOMING (TIDAK ADA LINK)
-        # ================================
+        elif now_wib >= kickoff and m3u8_links:
+            status = "[LIVE]"
+            urls = m3u8_links
+            cnt_live += 1
+
         else:
-            channel_name = f"[UPCOMING] {title} | {date_wib} {time_wib} WIB"
+            status = "[UPCOMING]"
+            urls = [UPCOMING_URL]
+            cnt_upcoming += 1
 
-            extinf = (
-                f'#EXTINF:-1 '
-                f'tvg-id="{match_id}" '
+        channel_name = f"{status} {title} | {date_wib} {time_wib} WIB"
+
+        for url in urls:
+            m3u.append(
+                f'#EXTINF:-1 tvg-id="{match_id}" '
                 f'tvg-logo="{logo}" '
                 f'group-title="{competition}",'
                 f'{channel_name}'
             )
-            m3u_lines.append(extinf)
-            m3u_lines.append(UPCOMING_URL)
-            total_upcoming += 1
+            m3u.append(url)
 
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
-        f.write("\n".join(m3u_lines))
+        f.write("\n".join(m3u))
 
     print(f"✅ Generated {OUTPUT_M3U}")
-    print(f"   ▶ LIVE     : {total_live}")
-    print(f"   ⏳ UPCOMING : {total_upcoming}")
+    print(f"🔴 LIVE     : {cnt_live}")
+    print(f"🕒 UPCOMING : {cnt_upcoming}")
+    print(f"⚫ END      : {cnt_end}")
 
 # =====================================================
 if __name__ == "__main__":
