@@ -2,8 +2,8 @@ name: Generate LiveMobox M3U
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # jalan tiap 2 jam
-  workflow_dispatch:       # bisa dijalankan manual
+    - cron: "*/15 * * * *"   # jalan tiap 15 menit
+  workflow_dispatch:        # bisa dijalankan manual
 
 jobs:
   build:
