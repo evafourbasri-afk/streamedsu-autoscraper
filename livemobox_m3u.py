@@ -14,23 +14,23 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Android; IPTV)"
 }
 
-# WIB = UTC+7 (tanpa pytz, aman GitHub Actions)
+# WIB (UTC+7)
 WIB = timezone(timedelta(hours=7))
 
 MATCH_DURATION = timedelta(hours=2)
 UPCOMING_URL = "about:blank"
 
-# Thumbnail config
+# Thumbnail
 THUMB_DIR = "thumbs"
 THUMB_W, THUMB_H = 512, 288
 
-# === LOGO VISUAL CONTROL (INI FIX NBA) ===
-LOGO_TARGET_HEIGHT = 120   # tinggi visual logo (seragam)
-LOGO_MIN_WIDTH = 110       # lebar minimum (logo NBA ramping jadi besar)
-GAP = 28                   # jarak logo ke tulisan VS
+# === LOGO VISUAL FIX (FINAL) ===
+LOGO_TARGET_HEIGHT = 120   # tinggi visual logo
+LOGO_MIN_WIDTH = 110       # fix logo NBA ramping
+GAP = 28                   # jarak ke VS
 
 # =====================================================
-# BASIC HELPERS
+# HELPERS
 # =====================================================
 def is_m3u8(url: str) -> bool:
     return isinstance(url, str) and ".m3u8" in url.lower()
@@ -45,30 +45,26 @@ def parse_wib_datetime(date_str, time_str):
     return dt.replace(tzinfo=WIB)
 
 # =====================================================
-# IMAGE HELPERS
+# IMAGE
 # =====================================================
 def build_gradient():
     img = Image.new("RGB", (THUMB_W, THUMB_H), "#000000")
     draw = ImageDraw.Draw(img)
 
-    colors = [
-        (20, 30, 80),
-        (60, 20, 90),
-        (120, 30, 60),
-    ]
+    colors = [(20,30,80), (60,20,90), (120,30,60)]
 
     for x in range(THUMB_W):
         t = x / THUMB_W
         if t < 0.5:
             t2 = t * 2
-            r = int(colors[0][0] * (1 - t2) + colors[1][0] * t2)
-            g = int(colors[0][1] * (1 - t2) + colors[1][1] * t2)
-            b = int(colors[0][2] * (1 - t2) + colors[1][2] * t2)
+            c1, c2 = colors[0], colors[1]
         else:
             t2 = (t - 0.5) * 2
-            r = int(colors[1][0] * (1 - t2) + colors[2][0] * t2)
-            g = int(colors[1][1] * (1 - t2) + colors[2][1] * t2)
-            b = int(colors[1][2] * (1 - t2) + colors[2][2] * t2)
+            c1, c2 = colors[1], colors[2]
+
+        r = int(c1[0] * (1 - t2) + c2[0] * t2)
+        g = int(c1[1] * (1 - t2) + c2[1] * t2)
+        b = int(c1[2] * (1 - t2) + c2[2] * t2)
 
         draw.line([(x, 0), (x, THUMB_H)], fill=(r, g, b))
 
@@ -81,12 +77,6 @@ def trim_transparency(img):
     return img.crop(bbox) if bbox else img
 
 def fetch_logo(url):
-    """
-    FIX FINAL:
-    - crop transparansi
-    - scale by HEIGHT
-    - paksa MIN WIDTH (NBA fix)
-    """
     if not url:
         return None
     try:
@@ -94,17 +84,17 @@ def fetch_logo(url):
         r.raise_for_status()
         img = Image.open(BytesIO(r.content)).convert("RGBA")
 
-        # crop padding transparan
+        # crop transparansi
         img = trim_transparency(img)
 
+        # scale by HEIGHT
         w, h = img.size
         scale = LOGO_TARGET_HEIGHT / h
         new_w = int(w * scale)
         new_h = LOGO_TARGET_HEIGHT
-
         img = img.resize((new_w, new_h), Image.LANCZOS)
 
-        # paksa lebar minimum (fix logo NBA ramping)
+        # force min width (FIX NBA)
         if new_w < LOGO_MIN_WIDTH:
             scale = LOGO_MIN_WIDTH / new_w
             img = img.resize(
@@ -124,40 +114,17 @@ def build_match_thumb(home_url, away_url, filename):
     home = fetch_logo(home_url)
     away = fetch_logo(away_url)
 
-    center_x = THUMB_W // 2
-    center_y = THUMB_H // 2
+    cx, cy = THUMB_W // 2, THUMB_H // 2
 
-    # HOME (kiri, rapat ke VS)
     if home:
-        x = center_x - GAP - home.width
-        y = center_y - home.height // 2
-        bg.paste(home, (x, y), home)
-
-    # AWAY (kanan, rapat ke VS)
+        bg.paste(home, (cx - GAP - home.width, cy - home.height // 2), home)
     if away:
-        x = center_x + GAP
-        y = center_y - away.height // 2
-        bg.paste(away, (x, y), away)
+        bg.paste(away, (cx + GAP, cy - away.height // 2), away)
 
-    # Text "VS"
-    vs_text = "VS"
-
-    # outline hitam
+    # VS text
     for dx, dy in [(-2,0),(2,0),(0,-2),(0,2)]:
-        draw.text(
-            (center_x + dx, center_y + dy),
-            vs_text,
-            fill=(0, 0, 0),
-            anchor="mm"
-        )
-
-    # teks utama putih
-    draw.text(
-        (center_x, center_y),
-        vs_text,
-        fill=(255, 255, 255),
-        anchor="mm"
-    )
+        draw.text((cx+dx, cy+dy), "VS", fill=(0,0,0), anchor="mm")
+    draw.text((cx, cy), "VS", fill=(255,255,255), anchor="mm")
 
     path = os.path.join(THUMB_DIR, filename)
     bg.save(path, "PNG")
@@ -175,7 +142,7 @@ def main():
     for item in data:
         title = item.get("match_title_from_api", "Unknown Match")
         competition = item.get("competition", "SPORT")
-        match_id = item.get("match_id", "")
+        match_id = item.get("match_id", "0")
         date_wib = item.get("date", "")
         time_wib = item.get("time", "")
 
@@ -188,7 +155,6 @@ def main():
         links = item.get("links", [])
         m3u8_links = [u for u in links if is_m3u8(u)]
 
-        # STATUS
         if now_wib > end_time:
             status = "[END]"
             urls = [UPCOMING_URL]
@@ -199,8 +165,21 @@ def main():
             status = "[UPCOMING]"
             urls = [UPCOMING_URL]
 
-        # build thumbnail
-        thumb_name = f"{match_id}.png"
+        # ===============================
+        # 🔥 ANTI CACHE (INI KUNCI FINAL)
+        # ===============================
+        ts = int(now_wib.timestamp())
+        thumb_name = f"{match_id}_{ts}.png"
+
+        # hapus thumb lama match ini
+        if os.path.exists(THUMB_DIR):
+            for f in os.listdir(THUMB_DIR):
+                if f.startswith(match_id + "_") and f != thumb_name:
+                    try:
+                        os.remove(os.path.join(THUMB_DIR, f))
+                    except Exception:
+                        pass
+
         thumb_path = build_match_thumb(home_logo, away_logo, thumb_name)
         thumb_url = (
             "https://raw.githubusercontent.com/evafourbasri-afk/"
@@ -221,7 +200,7 @@ def main():
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
         f.write("\n".join(m3u))
 
-    print(f"✅ Generated {OUTPUT_M3U}")
+    print("✅ Generated livemobox.m3u (anti-cache active)")
 
 # =====================================================
 if __name__ == "__main__":
