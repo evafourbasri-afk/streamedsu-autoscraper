@@ -28,6 +28,30 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-15/cha-lal
 
+#EXTINF:-1 group-title="FanDuel SN IN" tvg-logo="https://api.ppv.to/assets/thumb/fa6e5f58424bf40ecf6e3a1b7fc51dc8-thumbnail.jpg",00:00 - 17/01/2026 | New Orleans Pelicans vs. Indiana Pacers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-16/no-ind
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/a23448684b06f639cb3a7208d015bf66-thumbnail.jpg",00:00 - 17/01/2026 | Cleveland Cavaliers vs. Philadelphia 76ers
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-16/cle-phi
+
+#EXTINF:-1 group-title="YES" tvg-logo="https://api.ppv.to/assets/thumb/9ed69e60a903fcabd527968fbf72a2e8-thumbnail.jpg",00:30 - 17/01/2026 | Chicago Bulls vs. Brooklyn Nets
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-16/chi-bkn
+
+#EXTINF:-1 group-title="Sportsnet" tvg-logo="https://api.ppv.to/assets/thumb/5db6335b70f97d9fcaf9bc0d7027192e-thumbnail.jpg",00:30 - 17/01/2026 | LA Clippers vs. Toronto Raptors
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-16/lac-tor
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/a9966b2b8bc7a4e41135c579552b1c85-thumbnail.jpg",02:30 - 17/01/2026 | Minnesota Timberwolves vs. Houston Rockets
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-16/min-hou
+
+#EXTINF:-1 group-title="NBC Sports CA" tvg-logo="https://api.ppv.to/assets/thumb/a44de545b635dd225a2d31ae4f204583-thumbnail.jpg",03:00 - 17/01/2026 | Washington Wizards vs. Sacramento Kings
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-16/wsh-sac
+
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg",00:00 - 25/01/2026 | UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=ufc-324
@@ -228,17 +252,29 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-19/bha-bou
 
-#EXTINF:-1 group-title="Utah 16" tvg-logo="https://api.ppv.to/assets/thumb/04d8a360c833ade02c7b66cde4bb57f6-thumbnail.jpg",02:00 - 16/01/2026 | Dallas Stars vs. Utah Mammoth
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-15/dal-uta
-
-#EXTINF:-1 group-title="ESPN+" tvg-logo="https://api.ppv.to/assets/thumb/bacfe40f41421be703acdff6ff19bada-thumbnail.jpg",02:00 - 16/01/2026 | New York Islanders vs. Edmonton Oilers
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-15/nyi-edm
-
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/44457823487f3781dca443382f8444cd-thumbnail.jpg",02:30 - 16/01/2026 | Toronto Maple Leafs vs. Vegas Golden Knights
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-15/tor-vgk
+
+#EXTINF:-1 group-title="NBC Sports BA" tvg-logo="https://api.ppv.to/assets/thumb/1d4d5c06b95700d69510f8242d90870d-thumbnail.jpg",00:00 - 17/01/2026 | San Jose Sharks vs. Detroit Red Wings
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-16/sj-det
+
+#EXTINF:-1 group-title="Scripps Sports" tvg-logo="https://api.ppv.to/assets/thumb/288275ceb898d52ae66e805aa1aaacc1-thumbnail.jpg",00:00 - 17/01/2026 | Florida Panthers vs. Carolina Hurricanes
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-16/fla-car
+
+#EXTINF:-1 group-title="FanDuel SN MW" tvg-logo="https://api.ppv.to/assets/thumb/e4332133b857548066b5f9fe7fdf5107-thumbnail.jpg",01:00 - 17/01/2026 | Tampa Bay Lightning vs. St. Louis Blues
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-16/tb-stl
+
+#EXTINF:-1 group-title="Altitude Sports" tvg-logo="https://api.ppv.to/assets/thumb/4c54ec1291f2f764f6e3c9e27af02d38-thumbnail.jpg",02:00 - 17/01/2026 | Nashville Predators vs. Colorado Avalanche
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-16/nsh-col
+
+#EXTINF:-1 group-title="FanDuel SN West" tvg-logo="https://api.ppv.to/assets/thumb/95ba76f6cb37d3f7c1de35c4f132f3cd-thumbnail.jpg",03:30 - 17/01/2026 | Anaheim Ducks vs. Los Angeles Kings
+#EXTVLCOPT:http-referrer=https://ppv.to/
+https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-16/ana-la
 
 #EXTINF:-1 group-title="Animal Planet" tvg-logo="https://api.ppv.to/assets/thumb/a2c11c682ba20318ebdd47372110353f-thumbnail.jpg",19:00 - 08/02/2026 | Puppy Bowl XXII
 #EXTVLCOPT:http-referrer=https://ppv.to/
