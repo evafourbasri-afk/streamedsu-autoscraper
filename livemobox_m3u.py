@@ -24,10 +24,10 @@ UPCOMING_URL = "about:blank"
 THUMB_DIR = "thumbs"
 THUMB_W, THUMB_H = 512, 288
 
-# === LOGO VISUAL FIX (FINAL) ===
-LOGO_TARGET_HEIGHT = 120   # tinggi visual logo
-LOGO_MIN_WIDTH = 110       # fix logo NBA ramping
-GAP = 28                   # jarak ke VS
+# === LOGO VISUAL (STABIL) ===
+LOGO_TARGET_HEIGHT = 120
+LOGO_MIN_WIDTH = 110
+GAP = 28
 
 # =====================================================
 # HELPERS
@@ -94,7 +94,7 @@ def fetch_logo(url):
         new_h = LOGO_TARGET_HEIGHT
         img = img.resize((new_w, new_h), Image.LANCZOS)
 
-        # force min width (FIX NBA)
+        # force min width (NBA fix)
         if new_w < LOGO_MIN_WIDTH:
             scale = LOGO_MIN_WIDTH / new_w
             img = img.resize(
@@ -108,6 +108,12 @@ def fetch_logo(url):
 
 def build_match_thumb(home_url, away_url, filename):
     os.makedirs(THUMB_DIR, exist_ok=True)
+    path = os.path.join(THUMB_DIR, filename)
+
+    # ⚠️ STABIL: kalau sudah ada, JANGAN rebuild
+    if os.path.exists(path):
+        return path
+
     bg = build_gradient()
     draw = ImageDraw.Draw(bg)
 
@@ -126,7 +132,6 @@ def build_match_thumb(home_url, away_url, filename):
         draw.text((cx+dx, cy+dy), "VS", fill=(0,0,0), anchor="mm")
     draw.text((cx, cy), "VS", fill=(255,255,255), anchor="mm")
 
-    path = os.path.join(THUMB_DIR, filename)
     bg.save(path, "PNG")
     return path
 
@@ -136,6 +141,7 @@ def build_match_thumb(home_url, away_url, filename):
 def main():
     data = fetch_json(JSON_URL)
     now_wib = datetime.now(WIB)
+    cache_bust = int(now_wib.timestamp())
 
     m3u = ["#EXTM3U"]
 
@@ -165,25 +171,15 @@ def main():
             status = "[UPCOMING]"
             urls = [UPCOMING_URL]
 
-        # ===============================
-        # 🔥 ANTI CACHE (INI KUNCI FINAL)
-        # ===============================
-        ts = int(now_wib.timestamp())
-        thumb_name = f"{match_id}_{ts}.png"
-
-        # hapus thumb lama match ini
-        if os.path.exists(THUMB_DIR):
-            for f in os.listdir(THUMB_DIR):
-                if f.startswith(match_id + "_") and f != thumb_name:
-                    try:
-                        os.remove(os.path.join(THUMB_DIR, f))
-                    except Exception:
-                        pass
-
+        thumb_name = f"{match_id}.png"
         thumb_path = build_match_thumb(home_logo, away_logo, thumb_name)
+
+        # ✅ STABIL CACHE BUST (query only)
         thumb_url = (
             "https://raw.githubusercontent.com/evafourbasri-afk/"
-            "streamedsu-autoscraper/main/" + thumb_path.replace("\\", "/")
+            "streamedsu-autoscraper/main/"
+            + thumb_path.replace("\\", "/")
+            + f"?v={cache_bust}"
         )
 
         channel_name = f"{status} {title} | {date_wib} {time_wib} WIB"
@@ -200,7 +196,7 @@ def main():
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
         f.write("\n".join(m3u))
 
-    print("✅ Generated livemobox.m3u (anti-cache active)")
+    print("✅ Generated livemobox.m3u (FINAL STABLE)")
 
 # =====================================================
 if __name__ == "__main__":
