@@ -16,10 +16,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/20
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nfl/2026-01-18/lar-chi
 
-#EXTINF:-1 group-title="FanDuel SN DET" tvg-logo="https://api.ppv.to/assets/thumb/d3d0289bbcbd047c944e0250f1df7d30-thumbnail.jpg",00:00 - 16/01/2026 | Phoenix Suns vs. Detroit Pistons
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-15/phx-det
-
 #EXTINF:-1 group-title="FanDuel SN Sun" tvg-logo="https://api.ppv.to/assets/thumb/e5bc286b8c4406d342aa139f673cd6cc-thumbnail.jpg",00:30 - 16/01/2026 | Boston Celtics vs. Miami Heat
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nba/2026-01-15/bos-mia
@@ -247,22 +243,6 @@ https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=laliga
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://api.ppv.to/assets/thumb/833aac26be93c67f917751665c0ce99c-thumbnail.jpg",20:00 - 19/01/2026 | Brighton & Hove Albion vs. AFC Bournemouth
 #EXTVLCOPT:http-referrer=https://ppv.to/
 https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=premierleague/2026-01-19/bha-bou
-
-#EXTINF:-1 group-title="MSGB" tvg-logo="https://api.ppv.to/assets/thumb/ae0dae34f0c69ffdc43d1a1bc0443eb0-thumbnail.jpg",00:00 - 16/01/2026 | Montreal Canadiens vs. Buffalo Sabres
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-15/mtl-buf
-
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://api.ppv.to/assets/thumb/b1b53165d97fdc4cf6ffa114866a59ac-thumbnail.jpg",00:00 - 16/01/2026 | Philadelphia Flyers vs. Pittsburgh Penguins
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-15/phi-pit
-
-#EXTINF:-1 group-title="MNMT" tvg-logo="https://api.ppv.to/assets/thumb/8f75abab0c36a95cab0c64abc1cd52e9-thumbnail.jpg",00:00 - 16/01/2026 | San Jose Sharks vs. Washington Capitals
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-15/sj-wsh
-
-#EXTINF:-1 group-title="FanDuel SN OH" tvg-logo="https://api.ppv.to/assets/thumb/7eca9a0309433fcf537ad3e27c34d3bf-thumbnail.jpg",00:00 - 16/01/2026 | Vancouver Canucks vs. Columbus Blue Jackets
-#EXTVLCOPT:http-referrer=https://ppv.to/
-https://raw.githubusercontent.com/evafourbasri-afk/ppv-m3u/main/api.py?id=nhl/2026-01-15/van-cbj
 
 #EXTINF:-1 group-title="NESN" tvg-logo="https://api.ppv.to/assets/thumb/46bc682d79fdf95a134c66c748764059-thumbnail.jpg",01:00 - 16/01/2026 | Seattle Kraken vs. Boston Bruins
 #EXTVLCOPT:http-referrer=https://ppv.to/
