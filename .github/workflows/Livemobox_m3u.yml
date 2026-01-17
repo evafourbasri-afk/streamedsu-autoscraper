@@ -5,6 +5,9 @@ on:
     - cron: "*/5 * * * *"   # jalan tiap 5 menit
   workflow_dispatch:
 
+permissions:
+  contents: write   # ⬅️ WAJIB agar bisa push ke repo
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,6 +30,9 @@ jobs:
         run: |
           python livemobox_m3u.py
 
+      # =========================
+      # COMMIT KE GITHUB REPO
+      # =========================
       - name: Commit and push M3U + thumbs
         run: |
           git config user.name "github-actions"
@@ -40,3 +46,17 @@ jobs:
           else
             echo "No changes to commit"
           fi
+
+      # =========================
+      # UPLOAD KE HOSTING
+      # =========================
+      - name: Upload livemobox.m3u to phinnisi.web.id
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          server-dir: ${{ secrets.FTP_PATH }}
+          local-dir: ./
+          include: |
+            livemobox.m3u
