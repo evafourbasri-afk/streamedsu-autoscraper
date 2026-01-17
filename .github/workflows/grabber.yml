@@ -1,8 +1,7 @@
 name: Grabber
 
 on:
-  schedule:
-    - cron: '0 */3 * * *' # Berjalan otomatis setiap 3 jam untuk menjaga kesegaran token stream
+   # Berjalan otomatis setiap 3 jam untuk menjaga kesegaran token stream
   workflow_dispatch:      # Memungkinkan Anda menjalankan manual dari tab Actions
 
 jobs:
