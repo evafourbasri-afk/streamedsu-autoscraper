@@ -2,11 +2,11 @@ name: livemobox.m3u
 
 on:
   schedule:
-    - cron: "*/50 * * * *"   # jalan tiap 5 menit
+    - cron: "*/5 * * * *"   # jalan tiap 5 menit
   workflow_dispatch:
 
 permissions:
-  contents: write   # ⬅️ WAJIB agar bisa push ke repo
+  contents: write
 
 jobs:
   build:
@@ -31,7 +31,7 @@ jobs:
           python livemobox_m3u.py
 
       # =========================
-      # COMMIT KE GITHUB REPO
+      # COMMIT KE GITHUB
       # =========================
       - name: Commit and push M3U + thumbs
         run: |
@@ -41,16 +41,16 @@ jobs:
           git add livemobox.m3u thumbs/
 
           if [[ `git status --porcelain` ]]; then
-            git commit -m "Auto update LiveMobox M3U & thumbnails"
+            git commit -m "Auto update LiveMobox M3U"
             git push
           else
             echo "No changes to commit"
           fi
 
       # =========================
-      # UPLOAD KE HOSTING
+      # UPLOAD 1 FILE SAJA
       # =========================
-      - name: Upload livemobox.m3u to phinnisi.web.id
+      - name: Upload ONLY livemobox.m3u to hosting
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_HOST }}
@@ -58,5 +58,7 @@ jobs:
           password: ${{ secrets.FTP_PASS }}
           server-dir: ${{ secrets.FTP_PATH }}
           local-dir: ./
+          exclude: |
+            **
           include: |
             livemobox.m3u
