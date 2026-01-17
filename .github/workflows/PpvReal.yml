@@ -1,10 +1,7 @@
 name: PPVReal
 
 on:
-  schedule:
-    # Run every hour on the hour
-    - cron: "0 */3 * * *"
-  workflow_dispatch:
+    workflow_dispatch:
     # Allow manual trigger
 
 jobs:
