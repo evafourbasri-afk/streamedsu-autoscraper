@@ -1,6 +1,6 @@
 [
     {
-        "id": "323gi1matxahbly0hk5vrjdsxd3",
+        "id": "pf47b2bvzp5hgdetf9bdtf8iy5l",
         "match_id": "7796315726051426512",
         "source_name": "Premium",
         "match_title_from_api": "Indiana Pacers vs New Orleans Pelicans",
@@ -18,13 +18,13 @@
         "timezone": "WIB",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
-            "http://play.sportsteam368.com/play/j.php?id=22500588&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500588&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38669042&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=38669042&id2=",
+            "http://play.sportsteam368.com/play/j.php?id=22500588&id2="
         ]
     },
     {
-        "id": "7b1lq7e1yk2jqghznncov1wsaqj",
+        "id": "l6yb8h2gz08zfq4zxqapt14243m",
         "match_id": "446441134182876520",
         "source_name": "Premium",
         "match_title_from_api": "Philadelphia 76ers vs Cleveland Cavaliers",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "id": "7h5qzy4c0akjk8nkhvxfngoxyea",
+        "id": "zxxf476t4jzer8izwmfiy5d0tzm",
         "match_id": "590556322258632912",
         "source_name": "Premium",
         "match_title_from_api": "Brooklyn Nets vs Chicago Bulls",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "id": "lkzu6hu7hxg1uuit4nx3i4u9y11",
+        "id": "spie3pdepmtrwyn0pmllh9f5mlq",
         "match_id": "2391996173206831312",
         "source_name": "Premium",
         "match_title_from_api": "Toronto Raptors vs LA Clippers",
@@ -90,13 +90,13 @@
         "timezone": "WIB",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
+            "http://play.sportsteam368.com/play/j.php?id=22500590&id2=",
             "http://play.sportsteam368.com/play/kbs.html?id=10022500590&id2=",
-            "http://play.sportsteam368.com/play/pao.php?id=38671202&id2=",
-            "http://play.sportsteam368.com/play/j.php?id=22500590&id2="
+            "http://play.sportsteam368.com/play/pao.php?id=38671202&id2="
         ]
     },
     {
-        "id": "ynd1iu3hdg6a8w9kvwqrmx3x8ad",
+        "id": "vrv6zgrgb2d84zlj6tsyl0w11ht",
         "match_id": "8444834072392777936",
         "source_name": "Premium",
         "match_title_from_api": "Houston Rockets vs Minnesota Timberwolves",
@@ -114,13 +114,13 @@
         "timezone": "WIB",
         "links": [
             "https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8",
-            "http://tv.cctv.com/live/cctv5/",
             "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://sports.cctv.com/H5/CCTV5/index.shtml"
+            "http://sports.cctv.com/H5/CCTV5/index.shtml",
+            "http://tv.cctv.com/live/cctv5/"
         ]
     },
     {
-        "id": "obeontw0kkc2c7sewyoo3z3e9nw",
+        "id": "77oe54v3vjxb1u0nrvlfsye08ce",
         "match_id": "4265493618193057040",
         "source_name": "Premium",
         "match_title_from_api": "Sacramento Kings vs Washington Wizards",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "id": "tjc8klme7rjgycc1iq4t26iggrp",
+        "id": "mh8u8pqbpt8lamjk42243fmy058",
         "match_id": "4878198353966811000",
         "source_name": "Premium",
         "match_title_from_api": "UP Warriorz vs Mumbai Indians W",
@@ -165,7 +165,7 @@
         ]
     },
     {
-        "id": "6vwxmqlwa93c36ez9vrimbobzxb",
+        "id": "v8ian2hcpki68otpkmctxzlxe8q",
         "match_id": "1375708231951696992",
         "source_name": "Premium",
         "match_title_from_api": "Manchester United vs Manchester City",
@@ -183,13 +183,13 @@
         "timezone": "WIB",
         "links": [
             "https://live-en.aisports.cc/moviebox/device02/playlist.m3u8",
+            "http://sports.cctv.com/H5/CCTV5plus/index.shtml",
             "http://tv.cctv.com/live/cctv5plus/",
-            "https://www.yangshipin.cn/tv/home?pid=600001817",
-            "http://sports.cctv.com/H5/CCTV5plus/index.shtml"
+            "https://www.yangshipin.cn/tv/home?pid=600001817"
         ]
     },
     {
-        "id": "80whnl7ln6jqonzamxltio7q8of",
+        "id": "jpedz5tfdeo35juiy2j7ll9yq0r",
         "match_id": "8182572771466790792",
         "source_name": "Premium",
         "match_title_from_api": "Real Madrid vs Levante",
@@ -213,7 +213,7 @@
         ]
     },
     {
-        "id": "pp9knw4b262wq357xcpz462opt7",
+        "id": "fkwhzwterd1tbjhrwvwxlee50ua",
         "match_id": "1339070958325452880",
         "source_name": "Premium",
         "match_title_from_api": "Udinese vs Inter",
@@ -229,10 +229,15 @@
         "time": "21:00",
         "date": "17-01-2026",
         "timezone": "WIB",
-        "links": []
+        "links": [
+            "https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8",
+            "http://play.sportsteam368.com/play/wlive.php?id=797d148d5ed5e1f03a9fd06a962f6d1a&id2=",
+            "http://play.sportsteam368.com/play/kbs.html?id=962411951&id2=",
+            "http://play.sportsteam368.com/play/wlive.php?id=7bc6360e3a553dd1144597a1d435a902&id2="
+        ]
     },
     {
-        "id": "ywilk1xcx3vqdek6c9ho3gdasu0",
+        "id": "pglk906pz5xqglii49xocp1tml5",
         "match_id": "6607580610877081464",
         "source_name": "Premium",
         "match_title_from_api": "Delhi Capitals W vs Royal Challengers Bengaluru W",
@@ -253,7 +258,7 @@
         ]
     },
     {
-        "id": "8jnxl0wunxamz5yr95eyuu4gja9",
+        "id": "hnbrd7o8v07yvu50t5umd861wvl",
         "match_id": "1662886152137767384",
         "source_name": "Premium",
         "match_title_from_api": "Borussia Dortmund vs St. Pauli",
@@ -272,7 +277,7 @@
         "links": []
     },
     {
-        "id": "213fbcn76e1w1me00119gnblepv",
+        "id": "qeo0rnde3mggqh522wid1pyeni3",
         "match_id": "7769767246852159960",
         "source_name": "Premium",
         "match_title_from_api": "Hoffenheim vs Bayer Leverkusen",
@@ -291,7 +296,7 @@
         "links": []
     },
     {
-        "id": "vp64gtys7moj2k2rl3130zoof5l",
+        "id": "r9n3u5zltex43y9hp8qtv4e4v5d",
         "match_id": "5617046624969062872",
         "source_name": "Premium",
         "match_title_from_api": "Wolfsburg vs FC Heidenheim",
@@ -310,7 +315,7 @@
         "links": []
     },
     {
-        "id": "cn8zoyszftbbnilmo2ao4d1c4qe",
+        "id": "vqthlv1itx20t4u0z9h3bjuvtyl",
         "match_id": "5157679462977272280",
         "source_name": "Premium",
         "match_title_from_api": "FC Cologne vs Mainz 05",
@@ -329,7 +334,7 @@
         "links": []
     },
     {
-        "id": "7e0lhcb7fzho1b05wxg9feyfvt3",
+        "id": "2ecvatmyo5dgd8xbduu6q5tpbea",
         "match_id": "1680900550647249368",
         "source_name": "Premium",
         "match_title_from_api": "Hamburger SV vs Borussia M'gladbach",
@@ -348,7 +353,7 @@
         "links": []
     },
     {
-        "id": "gpm4qrte6ifxk2t7xc0pd7fkko3",
+        "id": "x5iqme7kahma1warwhs3n6ux1v9",
         "match_id": "5469480293232002144",
         "source_name": "Premium",
         "match_title_from_api": "Liverpool vs Burnley",
@@ -367,7 +372,7 @@
         "links": []
     },
     {
-        "id": "a30033y31pqg7uskr7pfgdw2tz3",
+        "id": "97b8zhgif91k1159w2tjtdo1yki",
         "match_id": "2857392509357113632",
         "source_name": "Premium",
         "match_title_from_api": "Chelsea vs Brentford",
@@ -386,7 +391,7 @@
         "links": []
     },
     {
-        "id": "5yw0f4k8zh821hzsluy3kz22cs8",
+        "id": "xzlciugwnvuxdhb0atpdwjjuner",
         "match_id": "6185552633983910176",
         "source_name": "Premium",
         "match_title_from_api": "Tottenham Hotspur vs West Ham United",
@@ -405,7 +410,7 @@
         "links": []
     },
     {
-        "id": "q7gf15zs30v8dqblm5jfam5ti5o",
+        "id": "lki7o4mno0xwlwbfrnwsmtrsxvq",
         "match_id": "3127608486999343392",
         "source_name": "Premium",
         "match_title_from_api": "Leeds United vs Fulham",
@@ -424,7 +429,7 @@
         "links": []
     },
     {
-        "id": "r7cxvo1yf4jp4yhz7zkr150vj9f",
+        "id": "rnjhwyinfcyknl7p0hcaxwcx0sm",
         "match_id": "2546644135068549408",
         "source_name": "Premium",
         "match_title_from_api": "Sunderland vs Crystal Palace",
@@ -443,7 +448,7 @@
         "links": []
     },
     {
-        "id": "k59yc8wxfurbfxkajpy5ua078hx",
+        "id": "pspcy1325et253i2uli4mdo95ng",
         "match_id": "5167412820942768008",
         "source_name": "Premium",
         "match_title_from_api": "Mallorca vs Athletic Club",
@@ -462,7 +467,7 @@
         "links": []
     },
     {
-        "id": "mdq57o867o59tfwg6fzozmnemmu",
+        "id": "7otv9o6z3k4seojmyop3dww23h2",
         "match_id": "2851897070783448912",
         "source_name": "Premium",
         "match_title_from_api": "Egypt vs Nigeria",
@@ -483,7 +488,7 @@
         ]
     },
     {
-        "id": "zayur9tvmaq2yr72tk5vok8zwe3",
+        "id": "e9tvwaaswzy2v5gz6kriqwlrgms",
         "match_id": "8425903559506557400",
         "source_name": "Premium",
         "match_title_from_api": "Lens vs Auxerre",
@@ -502,7 +507,7 @@
         "links": []
     },
     {
-        "id": "znuz8bpx4uk33a3qnus9q2rtlwc",
+        "id": "nc2tcah96tce0dkowzrrba1mj6t",
         "match_id": "8116988397519097936",
         "source_name": "Premium",
         "match_title_from_api": "Napoli vs Sassuolo",
@@ -521,7 +526,7 @@
         "links": []
     },
     {
-        "id": "1a1e0oxujsskyop8be9ecopxnjj",
+        "id": "eu3y9mla14u7iiv8fpw9bqewpkj",
         "match_id": "4870501542790676768",
         "source_name": "Premium",
         "match_title_from_api": "Nottingham Forest vs Arsenal",
@@ -540,7 +545,7 @@
         "links": []
     },
     {
-        "id": "rdkevi6hhh394wejnakpoh5fmys",
+        "id": "1xum1nbirtx297shil09qow2nni",
         "match_id": "3528102556579910016",
         "source_name": "Premium",
         "match_title_from_api": "Osasuna vs Real Oviedo",
@@ -559,7 +564,7 @@
         "links": []
     },
     {
-        "id": "ynz2j5qsqdpyfkb3hqph5rgtmqw",
+        "id": "h1firf63t4pdenetokfyn1ebquy",
         "match_id": "9021767943261157848",
         "source_name": "Premium",
         "match_title_from_api": "RB Leipzig vs Bayern Munich",
@@ -578,7 +583,7 @@
         "links": []
     },
     {
-        "id": "b5karmweezggpr7lps92tv1ibz4",
+        "id": "73mfdx51rplg51yeiawpyni9yb4",
         "match_id": "8592536745719265752",
         "source_name": "Premium",
         "match_title_from_api": "Toulouse vs Nice",
@@ -597,7 +602,7 @@
         "links": []
     },
     {
-        "id": "rpaysigq72pzxbricx7feiwe5h7",
+        "id": "ia6yxulitlmfewhvd8eq7xaop8q",
         "match_id": "3136007209646805072",
         "source_name": "Premium",
         "match_title_from_api": "Cagliari vs Juventus",
@@ -616,7 +621,7 @@
         "links": []
     },
     {
-        "id": "o3jwhuhujqdd54msifkz8yewe3a",
+        "id": "50twumy7kj0cy7xkubldmzk8deu",
         "match_id": "3030454797754421632",
         "source_name": "Premium",
         "match_title_from_api": "Real Betis vs Villarreal",
@@ -635,7 +640,7 @@
         "links": []
     },
     {
-        "id": "oi0f1e020bsaegytojssi8t55g8",
+        "id": "m7j0uvse2u5cuafx02yzzwy2nab",
         "match_id": "8966335514791016920",
         "source_name": "Premium",
         "match_title_from_api": "Angers vs Marseille",
