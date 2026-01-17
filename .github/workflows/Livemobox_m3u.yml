@@ -2,7 +2,7 @@ name: livemobox.m3u
 
 on:
   schedule:
-    - cron: "*/16 * * * *"
+  - cron: "0,16,32,48 * * * *"
   workflow_dispatch:
 
 permissions:
