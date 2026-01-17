@@ -2,7 +2,7 @@ name: livemobox.m3u
 
 on:
   schedule:
-    - cron: "*/50 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -47,7 +47,7 @@ jobs:
           fi
 
       # =========================
-      # FTP UPLOAD (1 FILE SAJA)
+      # FTP UPLOAD (PASTI ADA FILE)
       # =========================
       - name: Upload livemobox.m3u to hosting
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
@@ -57,5 +57,3 @@ jobs:
           password: ${{ secrets.FTP_PASS }}
           server-dir: ${{ secrets.FTP_PATH }}
           local-dir: dist/
-          exclude: |
-            **/*
