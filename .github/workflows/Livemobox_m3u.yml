@@ -2,7 +2,7 @@ name: livemobox.m3u
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # jalan tiap 5 menit
+    - cron: "*/50 * * * *"   # jalan tiap 5 menit
   workflow_dispatch:
 
 permissions:
