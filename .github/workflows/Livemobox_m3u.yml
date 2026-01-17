@@ -2,7 +2,7 @@ name: livemobox.m3u
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # jalan tiap 5 menit
+    - cron: "*/50 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -33,32 +33,29 @@ jobs:
       # =========================
       # COMMIT KE GITHUB
       # =========================
-      - name: Commit and push M3U + thumbs
+      - name: Commit and push M3U
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add livemobox.m3u thumbs/
-
+          git add dist/livemobox.m3u
           if [[ `git status --porcelain` ]]; then
-            git commit -m "Auto update LiveMobox M3U"
+            git commit -m "Auto update livemobox.m3u"
             git push
           else
             echo "No changes to commit"
           fi
 
       # =========================
-      # UPLOAD 1 FILE SAJA
+      # FTP UPLOAD (1 FILE SAJA)
       # =========================
-      - name: Upload ONLY livemobox.m3u to hosting
+      - name: Upload livemobox.m3u to hosting
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
           server-dir: ${{ secrets.FTP_PATH }}
-          local-dir: ./
+          local-dir: dist/
           exclude: |
-            **
-          include: |
-            livemobox.m3u
+            **/*
