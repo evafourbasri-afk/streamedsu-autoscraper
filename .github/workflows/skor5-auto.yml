@@ -2,9 +2,7 @@ name: Skor5 Auto M3U Generator
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */2 * * *"   # tiap 2 jam
-
+  
 jobs:
   build:
     runs-on: ubuntu-latest
