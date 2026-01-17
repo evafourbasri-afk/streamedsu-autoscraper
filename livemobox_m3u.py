@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw
 # CONFIG
 # =====================================================
 JSON_URL = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/refs/heads/main/matches.json"
-OUTPUT_M3U = "livemobox.m3u"
+OUTPUT_M3U = "dist/livemobox.m3u"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Android; IPTV)"
@@ -91,14 +91,12 @@ def fetch_logo(url):
 
         img = trim_transparency(img)
 
-        # scale by HEIGHT
         w, h = img.size
         scale = LOGO_TARGET_HEIGHT / h
         new_w = int(w * scale)
         new_h = LOGO_TARGET_HEIGHT
         img = img.resize((new_w, new_h), Image.LANCZOS)
 
-        # force min width (fix NBA logo ramping)
         if new_w < LOGO_MIN_WIDTH:
             scale = LOGO_MIN_WIDTH / new_w
             img = img.resize((LOGO_MIN_WIDTH, int(new_h * scale)), Image.LANCZOS)
@@ -111,7 +109,6 @@ def build_match_thumb(home_url, away_url, filename):
     os.makedirs(THUMB_DIR, exist_ok=True)
     path = os.path.join(THUMB_DIR, filename)
 
-    # STABIL: kalau sudah ada, tidak rebuild (hemat CI + tidak bikin flicker)
     if os.path.exists(path):
         return path
 
@@ -128,7 +125,6 @@ def build_match_thumb(home_url, away_url, filename):
     if away:
         bg.paste(away, (cx + GAP, cy - away.height // 2), away)
 
-    # VS text
     for dx, dy in [(-2, 0), (2, 0), (0, -2), (0, 2)]:
         draw.text((cx + dx, cy + dy), "VS", fill=(0, 0, 0), anchor="mm")
     draw.text((cx, cy), "VS", fill=(255, 255, 255), anchor="mm")
@@ -157,17 +153,12 @@ def main():
         away_logo = item.get("team2", {}).get("logo_url")
 
         kickoff = parse_wib_datetime(date_wib, time_wib)
-
-        # Durasi per kompetisi (NBA 3 jam)
         duration = MATCH_DURATION_MAP.get(competition, DEFAULT_DURATION)
         end_time = kickoff + duration
 
         links = item.get("links", [])
         m3u8_links = [u for u in links if is_m3u8(u)]
 
-        # ============================
-        # STATUS LOGIC (ANTI BLANK)
-        # ============================
         if m3u8_links:
             if now_wib < kickoff:
                 status = "[UPCOMING]"
@@ -177,16 +168,14 @@ def main():
                 urls = m3u8_links
             else:
                 status = "[END]"
-                urls = m3u8_links  # 🔥 tetap pakai link kalau masih ada
+                urls = m3u8_links
         else:
             status = "[UPCOMING]"
             urls = [UPCOMING_URL]
 
-        # Thumbnail (statis)
         thumb_name = f"{match_id}.png"
         thumb_path = build_match_thumb(home_logo, away_logo, thumb_name)
 
-        # Cache bust query only (stabil untuk launcher)
         thumb_url = (
             "https://raw.githubusercontent.com/evafourbasri-afk/"
             "streamedsu-autoscraper/main/"
@@ -205,10 +194,12 @@ def main():
             )
             m3u.append(url)
 
+    os.makedirs("dist", exist_ok=True)
+
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
         f.write("\n".join(m3u))
 
-    print("✅ Generated livemobox.m3u (FINAL STABLE v2)")
+    print("✅ Generated dist/livemobox.m3u (FINAL STABLE)")
 
 # =====================================================
 if __name__ == "__main__":
