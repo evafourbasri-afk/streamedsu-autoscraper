@@ -2,7 +2,7 @@ import os
 import requests
 from datetime import datetime, timedelta, timezone
 from io import BytesIO
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
 
 # =====================================================
 # CONFIG
@@ -11,24 +11,22 @@ JSON_URL = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autosc
 OUTPUT_M3U = "dist/livemobox.m3u"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Android; IPTV)"
+    "User-Agent": "Mozilla/5.0 (Android IPTV)"
 }
 
 # WIB (UTC+7)
 WIB = timezone(timedelta(hours=7))
-
 UPCOMING_URL = "about:blank"
 
 # Thumbnail
 THUMB_DIR = "thumbs"
-THUMB_W, THUMB_H = 512, 288
+THUMB_W, THUMB_H = 512, 288   # 16:9 IPTV safe
 
-# Logo visual
+# Logo layout
 LOGO_TARGET_HEIGHT = 120
-LOGO_MIN_WIDTH = 110
-GAP = 28
+GAP = 20
 
-# Durasi per kompetisi (NBA = 3 jam)
+# Durasi pertandingan
 MATCH_DURATION_MAP = {
     "NBA": timedelta(hours=3),
 }
@@ -37,7 +35,7 @@ DEFAULT_DURATION = timedelta(hours=2)
 # =====================================================
 # HELPERS
 # =====================================================
-def is_m3u8(url: str) -> bool:
+def is_m3u8(url):
     return isinstance(url, str) and ".m3u8" in url.lower()
 
 def fetch_json(url):
@@ -50,60 +48,42 @@ def parse_wib_datetime(date_str, time_str):
     return dt.replace(tzinfo=WIB)
 
 # =====================================================
-# IMAGE
+# IMAGE BUILD (IPTV SAFE)
 # =====================================================
-def build_gradient():
-    img = Image.new("RGB", (THUMB_W, THUMB_H), "#000000")
+def build_gradient_bg():
+    img = Image.new("RGB", (THUMB_W, THUMB_H), "#111111")
     draw = ImageDraw.Draw(img)
 
-    colors = [(20, 30, 80), (60, 20, 90), (120, 30, 60)]
+    left = (30, 40, 90)
+    right = (120, 30, 60)
 
     for x in range(THUMB_W):
         t = x / THUMB_W
-        if t < 0.5:
-            t2 = t * 2
-            c1, c2 = colors[0], colors[1]
-        else:
-            t2 = (t - 0.5) * 2
-            c1, c2 = colors[1], colors[2]
-
-        r = int(c1[0] * (1 - t2) + c2[0] * t2)
-        g = int(c1[1] * (1 - t2) + c2[1] * t2)
-        b = int(c1[2] * (1 - t2) + c2[2] * t2)
-
+        r = int(left[0] * (1 - t) + right[0] * t)
+        g = int(left[1] * (1 - t) + right[1] * t)
+        b = int(left[2] * (1 - t) + right[2] * t)
         draw.line([(x, 0), (x, THUMB_H)], fill=(r, g, b))
 
     return img
 
-def trim_transparency(img):
-    if img.mode != "RGBA":
-        return img
-    bbox = img.getbbox()
-    return img.crop(bbox) if bbox else img
-
 def fetch_logo(url):
-    if not url:
-        return None
     try:
-        r = requests.get(url, timeout=10)
-        r.raise_for_status()
-        img = Image.open(BytesIO(r.content)).convert("RGBA")
+        if not url:
+            raise Exception("no logo")
 
-        img = trim_transparency(img)
+        r = requests.get(url, headers=HEADERS, timeout=10)
+        r.raise_for_status()
+
+        img = Image.open(BytesIO(r.content)).convert("RGB")
 
         w, h = img.size
         scale = LOGO_TARGET_HEIGHT / h
-        new_w = int(w * scale)
-        new_h = LOGO_TARGET_HEIGHT
-        img = img.resize((new_w, new_h), Image.LANCZOS)
-
-        if new_w < LOGO_MIN_WIDTH:
-            scale = LOGO_MIN_WIDTH / new_w
-            img = img.resize((LOGO_MIN_WIDTH, int(new_h * scale)), Image.LANCZOS)
+        img = img.resize((int(w * scale), LOGO_TARGET_HEIGHT), Image.LANCZOS)
 
         return img
     except Exception:
-        return None
+        # fallback blank logo
+        return Image.new("RGB", (LOGO_TARGET_HEIGHT, LOGO_TARGET_HEIGHT), "#333333")
 
 def build_match_thumb(home_url, away_url, filename):
     os.makedirs(THUMB_DIR, exist_ok=True)
@@ -112,7 +92,7 @@ def build_match_thumb(home_url, away_url, filename):
     if os.path.exists(path):
         return path
 
-    bg = build_gradient()
+    bg = build_gradient_bg()
     draw = ImageDraw.Draw(bg)
 
     home = fetch_logo(home_url)
@@ -120,16 +100,17 @@ def build_match_thumb(home_url, away_url, filename):
 
     cx, cy = THUMB_W // 2, THUMB_H // 2
 
-    if home:
-        bg.paste(home, (cx - GAP - home.width, cy - home.height // 2), home)
-    if away:
-        bg.paste(away, (cx + GAP, cy - away.height // 2), away)
+    # Paste logos (RAPAT)
+    bg.paste(home, (cx - GAP - home.width, cy - home.height // 2))
+    bg.paste(away, (cx + GAP, cy - away.height // 2))
 
-    for dx, dy in [(-2, 0), (2, 0), (0, -2), (0, 2)]:
-        draw.text((cx + dx, cy + dy), "VS", fill=(0, 0, 0), anchor="mm")
-    draw.text((cx, cy), "VS", fill=(255, 255, 255), anchor="mm")
+    # VS text
+    for dx, dy in [(-2,0),(2,0),(0,-2),(0,2)]:
+        draw.text((cx+dx, cy+dy), "VS", fill=(0,0,0), anchor="mm")
+    draw.text((cx, cy), "VS", fill=(255,255,255), anchor="mm")
 
-    bg.save(path, "PNG")
+    # SAVE AS JPG (IPTV SAFE)
+    bg.save(path, "JPEG", quality=92, subsampling=0)
     return path
 
 # =====================================================
@@ -173,7 +154,7 @@ def main():
             status = "[UPCOMING]"
             urls = [UPCOMING_URL]
 
-        thumb_name = f"{match_id}.png"
+        thumb_name = f"{match_id}.jpg"
         thumb_path = build_match_thumb(home_logo, away_logo, thumb_name)
 
         thumb_url = (
@@ -189,17 +170,15 @@ def main():
             m3u.append(
                 f'#EXTINF:-1 tvg-id="{match_id}" '
                 f'tvg-logo="{thumb_url}" '
-                f'group-title="{competition}",'
-                f'{channel_name}'
+                f'group-title="{competition}",{channel_name}'
             )
             m3u.append(url)
 
     os.makedirs("dist", exist_ok=True)
-
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
         f.write("\n".join(m3u))
 
-    print("✅ Generated dist/livemobox.m3u (FINAL STABLE)")
+    print("✅ FINAL: livemobox.m3u + JPG thumbnails generated")
 
 # =====================================================
 if __name__ == "__main__":
