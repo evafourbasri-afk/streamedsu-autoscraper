@@ -1,4 +1,4 @@
-- name: Cleanup thumbs
+name: Cleanup thumbs
   run: |
     rm -rf thumbs
     git rm -r thumbs || true
