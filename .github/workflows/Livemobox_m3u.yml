@@ -2,7 +2,7 @@ name: livemobox.m3u
 
 on:
   schedule:
-    # Jalan tiap 16 menit: 00,16,32,48
+    # Jalan tiap 16 menit: 00, 16, 32, 48
     - cron: "0,16,32,48 * * * *"
   workflow_dispatch:
 
@@ -15,13 +15,13 @@ jobs:
 
     steps:
       # =========================
-      # CHECKOUT
+      # CHECKOUT REPO
       # =========================
       - name: Checkout repository
         uses: actions/checkout@v4
 
       # =========================
-      # PYTHON SETUP
+      # SETUP PYTHON
       # =========================
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,7 +29,7 @@ jobs:
           python-version: "3.11"
 
       # =========================
-      # DEPENDENCIES
+      # INSTALL DEPENDENCIES
       # =========================
       - name: Install dependencies
         run: |
@@ -44,34 +44,34 @@ jobs:
           python livemobox_m3u.py
 
       # =========================
-      # VALIDATION (ANTI KOSONG)
+      # VALIDASI OUTPUT (DEBUG AMAN)
       # =========================
       - name: Validate output files
         run: |
           echo "=== dist ==="
           ls -lh dist || true
-          echo "=== thumbs ==="
-          ls -lh thumbs | head -n 20 || true
+          echo "=== logos ==="
+          ls -lh logos | head -n 20 || true
 
       # =========================
-      # COMMIT KE GITHUB (WAJIB THUMBS)
+      # COMMIT KE GITHUB
       # =========================
-      - name: Commit and push M3U + thumbnails
+      - name: Commit and push M3U + logos
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add dist/livemobox.m3u thumbs/*.jpg
+          git add dist/livemobox.m3u logos/*.png
 
           if [[ `git status --porcelain` ]]; then
-            git commit -m "Auto update LiveMobox M3U + thumbnails"
+            git commit -m "Auto update LiveMobox M3U + VS logos"
             git push
           else
             echo "No changes to commit"
           fi
 
       # =========================
-      # FTP UPLOAD (PASTI ADA FILE)
+      # FTP UPLOAD (HANYA M3U)
       # =========================
       - name: Upload livemobox.m3u to hosting
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
