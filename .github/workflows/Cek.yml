@@ -1,0 +1,6 @@
+- name: Cleanup thumbs
+  run: |
+    rm -rf thumbs
+    git rm -r thumbs || true
+    git commit -m "Cleanup thumbs directory" || true
+    git push || true
