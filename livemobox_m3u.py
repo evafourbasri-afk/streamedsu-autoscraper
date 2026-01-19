@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw
 # =====================================================
 # CONFIG
 # =====================================================
-JSON_URL = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/refs/heads/main/matches.json"
+JSON_URL = "https://ogietv.biz.id/m3u/matches.json"
 OUTPUT_M3U = "dist/livemobox.m3u"
 
 LOGO_DIR = "logos"
