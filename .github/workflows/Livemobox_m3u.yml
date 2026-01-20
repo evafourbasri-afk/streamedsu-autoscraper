@@ -21,6 +21,16 @@ jobs:
         uses: actions/checkout@v4
 
       # =========================
+      # TRIGGER MATCH API (WAJIB DIAWAL)
+      # =========================
+      - name: Trigger match.php (pre-run)
+        run: |
+          echo "Triggering match.php ..."
+          curl -L --fail --silent --show-error \
+            "https://ogietv.biz.id/m3u/match.php"
+          echo "match.php triggered successfully"
+
+      # =========================
       # SETUP PYTHON
       # =========================
       - name: Set up Python
@@ -61,7 +71,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add dist/livemobox.m3u logos/*.png
+          git add dist/livemobox.m3u logos/*.png || true
 
           if [[ `git status --porcelain` ]]; then
             git commit -m "Auto update LiveMobox M3U + VS logos"
