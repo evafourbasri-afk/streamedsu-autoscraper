@@ -1,11 +1,9 @@
 import requests
-import json
-from datetime import datetime
 
 # ==========================
-# INPUT
+# CONFIG
 # ==========================
-JSON_FILE = "feed.json"   # simpan JSON Anda di file ini
+FEED_URL = "https://zapp-5434-volleyball-tv.web.app/jw/playlists/eMqXVhhW"
 OUTPUT_M3U = "volleyball.m3u"
 
 HEADERS = {
@@ -13,24 +11,16 @@ HEADERS = {
     "Referer": "https://zapp-5434-volleyball-tv.web.app/"
 }
 
-# ==========================
-# LOAD JSON
-# ==========================
-with open(JSON_FILE, "r", encoding="utf-8") as f:
-    data = json.load(f)
+print("Fetching feed...")
 
+r = requests.get(FEED_URL, headers=HEADERS, timeout=15)
+r.raise_for_status()
+
+data = r.json()
 entries = data.get("entry", [])
 
-# ==========================
-# INIT M3U
-# ==========================
-m3u = [
-    "#EXTM3U"
-]
+m3u = ["#EXTM3U"]
 
-# ==========================
-# PROCESS ENTRIES
-# ==========================
 for e in entries:
     media_id = e.get("id")
     title = e.get("title", "Unknown Match")
@@ -45,37 +35,39 @@ for e in entries:
     jw_api = f"https://cdn.jwplayer.com/v2/media/{media_id}"
 
     try:
-        r = requests.get(jw_api, headers=HEADERS, timeout=10)
-        if r.status_code != 200:
-            print(f"[SKIP] {title} → JW API {r.status_code}")
+        jr = requests.get(jw_api, headers=HEADERS, timeout=10)
+        if jr.status_code != 200:
+            print(f"[SKIP] {title} → JW API {jr.status_code}")
             continue
 
-        jw = r.json()
-        sources = jw.get("playlist", [{}])[0].get("sources", [])
+        jw = jr.json()
+        playlist = jw.get("playlist", [])
+        if not playlist:
+            print(f"[NO PLAYLIST] {title}")
+            continue
 
-        hls_url = None
+        sources = playlist[0].get("sources", [])
+        hls = None
+
         for s in sources:
             if s.get("type") in ["application/vnd.apple.mpegurl", "hls"]:
-                hls_url = s.get("file")
+                hls = s.get("file")
                 break
 
-        if not hls_url:
+        if not hls:
             print(f"[NO HLS] {title}")
             continue
 
         m3u.append(
             f'#EXTINF:-1 tvg-logo="{poster}" group-title="Volleyball",{title}'
         )
-        m3u.append(hls_url)
+        m3u.append(hls)
 
         print(f"[OK] {title}")
 
     except Exception as ex:
         print(f"[ERROR] {title} → {ex}")
 
-# ==========================
-# SAVE M3U
-# ==========================
 with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
     f.write("\n".join(m3u))
 
