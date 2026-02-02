@@ -1,9 +1,6 @@
 name: Trigger Roxi
 
 on:
-  schedule:
-    # Jalan tiap 30 menit (00 & 30)
-    - cron: "0,30 * * * *"
   workflow_dispatch:
 
 jobs:
