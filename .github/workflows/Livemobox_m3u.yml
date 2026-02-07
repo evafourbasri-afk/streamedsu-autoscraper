@@ -1,93 +1,18 @@
-name: livemobox.m3u
+name: Trigger Match M3U
 
 on:
-  schedule:
-    # Jalan tiap 16 menit: 00, 16, 32, 48
-    - cron: "0,16,32,48 * * * *"
+  # Jalankan manual dari GitHub
   workflow_dispatch:
 
-permissions:
-  contents: write
+  # Jalankan otomatis setiap 30 menit
+  schedule:
+    - cron: "*/15 * * * *"
 
 jobs:
-  build:
+  ping-url:
     runs-on: ubuntu-latest
 
     steps:
-      # =========================
-      # CHECKOUT REPO
-      # =========================
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      # =========================
-      # TRIGGER MATCH API (WAJIB DIAWAL)
-      # =========================
-      - name: Trigger match.php (pre-run)
+      - name: Call match.php
         run: |
-          echo "Triggering match.php ..."
-          curl -L --fail --silent --show-error \
-            "https://ogietv.biz.id/m3u/match.php"
-          echo "match.php triggered successfully"
-
-      # =========================
-      # SETUP PYTHON
-      # =========================
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      # =========================
-      # INSTALL DEPENDENCIES
-      # =========================
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests pillow
-
-      # =========================
-      # RUN GENERATOR
-      # =========================
-      - name: Run LiveMobox M3U generator
-        run: |
-          python livemobox_m3u.py
-
-      # =========================
-      # VALIDASI OUTPUT (DEBUG AMAN)
-      # =========================
-      - name: Validate output files
-        run: |
-          echo "=== dist ==="
-          ls -lh dist || true
-          echo "=== logos ==="
-          ls -lh logos | head -n 20 || true
-
-      # =========================
-      # COMMIT KE GITHUB
-      # =========================
-      - name: Commit and push M3U + logos
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-          git add dist/livemobox.m3u logos/*.png || true
-
-          if [[ `git status --porcelain` ]]; then
-            git commit -m "Auto update LiveMobox M3U + VS logos"
-            git push
-          else
-            echo "No changes to commit"
-          fi
-
-      # =========================
-      # FTP UPLOAD (HANYA M3U)
-      # =========================
-      - name: Upload livemobox.m3u to hosting
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_HOST }}
-          username: ${{ secrets.FTP_USER }}
-          password: ${{ secrets.FTP_PASS }}
-          server-dir: ${{ secrets.FTP_PATH }}
-          local-dir: dist/
+          curl -I https://ogietv.biz.id/m3u/match.php
