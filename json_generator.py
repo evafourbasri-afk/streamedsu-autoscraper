@@ -13,7 +13,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # =====================================================
 # CONFIGURATION
 # =====================================================
-BASE_URL = "https://h5.aoneroom.com"
+BASE_URL = "https://sportslivetoday.com"
 OUTPUT_FILENAME = "matches.json"
 LOG_FILENAME = "json_generator_log.txt"
 
