@@ -3188,3 +3188,16 @@
 [2026-02-12 01:51:31 UTC] Found 13 matches for Basketball
 [2026-02-12 01:51:37 UTC] Generated matches.json with 18 matches
 [2026-02-12 01:51:37 UTC] --- JSON Generator Workflow Finished ---
+[2026-02-12 03:26:55 UTC] --- JSON Generator Workflow Started ---
+[2026-02-12 03:26:55 UTC] Scanning matches window ending 2026-02-12 21:00 UTC
+[2026-02-12 03:26:55 UTC] Fetching Football matches...
+[2026-02-12 03:26:55 UTC] API request failed for https://sportslivetoday.com/wefeed-h5-bff/live/match-list-v3 | params={'status': 0, 'matchType': 'football', 'startTime': 1770843600000, 'endTime': 1770929999999} | error=404 Client Error: Not Found for url: https://sportslivetoday.com/wefeed-h5-bff/live/match-list-v3?status=0&matchType=football&startTime=1770843600000&endTime=1770929999999
+[2026-02-12 03:26:55 UTC] Found 0 matches for Football
+[2026-02-12 03:26:55 UTC] Fetching Cricket matches...
+[2026-02-12 03:26:56 UTC] API request failed for https://sportslivetoday.com/wefeed-h5-bff/live/match-list-v3 | params={'status': 0, 'matchType': 'cricket', 'startTime': 1770843600000, 'endTime': 1770929999999} | error=404 Client Error: Not Found for url: https://sportslivetoday.com/wefeed-h5-bff/live/match-list-v3?status=0&matchType=cricket&startTime=1770843600000&endTime=1770929999999
+[2026-02-12 03:26:56 UTC] Found 0 matches for Cricket
+[2026-02-12 03:26:56 UTC] Fetching Basketball matches...
+[2026-02-12 03:26:56 UTC] API request failed for https://sportslivetoday.com/wefeed-h5-bff/live/match-list-v3 | params={'status': 0, 'matchType': 'basketball', 'startTime': 1770843600000, 'endTime': 1770929999999} | error=404 Client Error: Not Found for url: https://sportslivetoday.com/wefeed-h5-bff/live/match-list-v3?status=0&matchType=basketball&startTime=1770843600000&endTime=1770929999999
+[2026-02-12 03:26:56 UTC] Found 0 matches for Basketball
+[2026-02-12 03:26:56 UTC] Generated matches.json with 0 matches
+[2026-02-12 03:26:56 UTC] --- JSON Generator Workflow Finished ---
