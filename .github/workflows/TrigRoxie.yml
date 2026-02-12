@@ -1,0 +1,23 @@
+name: Trigger Roxi
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-roxi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Hit roxi.php endpoint
+        run: |
+          echo "Triggering roxi.php..."
+          curl -L \
+               --connect-timeout 15 \
+               --max-time 60 \
+               --retry 3 \
+               --retry-delay 5 \
+               --silent \
+               --show-error \
+               "https://ogietv.biz.id/m3u/roxi.php"
+
+          echo "Done."

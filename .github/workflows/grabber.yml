@@ -1,0 +1,46 @@
+name: Grabber
+
+on:
+   # Berjalan otomatis setiap 3 jam untuk menjaga kesegaran token stream
+  workflow_dispatch:      # Memungkinkan Anda menjalankan manual dari tab Actions
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    
+    # Memberikan izin akses untuk menulis ke repository
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Mengambil seluruh histori agar proses rebase berjalan lancar
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests playwright
+          playwright install chromium --with-deps # Menginstal browser Chromium untuk render JavaScript
+
+      - name: Run Playwright Grabber
+        run: python grabber.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Mengatasi error ![rejected] dengan melakukan pull rebase terlebih dahulu
+          git pull origin main --rebase
+          
+          git add playlist.m3u
+          # Melakukan commit hanya jika ada perubahan pada file
+          git commit -m "Auto-update playlist.m3u: $(date)" || echo "No changes to commit"
+          
+          git push origin main

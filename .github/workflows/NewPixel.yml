@@ -1,0 +1,39 @@
+name: NewPixel
+
+on:
+  schedule:
+    # setiap 2 jam sekali
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🔹 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # penting supaya commit file PNG bisa masuk
+
+      - name: 🔹 Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: 🔹 Install dependencies (requests + pillow)
+        run: |
+          pip install requests pillow
+
+      - name: 🔹 Run NewPixel.py (Generate thumbnails + M3U)
+        run: |
+          python NewPixel.py
+
+      - name: 🔹 Commit & Push (PNG + M3U)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+          git commit -m "Auto-update NewPixel (playlist + thumbnails)" || echo "No changes to commit"
+          git push

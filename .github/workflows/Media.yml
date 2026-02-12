@@ -1,0 +1,64 @@
+name: Update Mediasinna M3U
+
+on:
+  workflow_dispatch:
+  
+permissions:
+  contents: write  # Diperlukan agar bisa push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🔄 Checkout repo utama (isi script)
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: 🛠️ Fix dpkg lock and update package lists
+        run: |
+          sudo rm /var/lib/dpkg/lock-frontend || true
+          sudo rm /var/lib/apt/lists/lock || true
+          sudo dpkg --configure -a || true
+          sudo apt-get update -y
+
+      - name: 📦 Install dependencies
+        shell: bash
+        run: |
+          pip install playwright beautifulsoup4 deep-translator
+          playwright install --with-deps
+
+      - name: 📁 Ambil file konfigurasi dari repo privat
+        shell: bash
+        run: |
+          git clone --depth=1 https://x-access-token:${{ secrets.TOKEN_PRIVATE }}@github.com/${{ secrets.REPO_PRIVATE }} configrepo
+          cp configrepo/mediasdata_file.txt $HOME/mediasdata_file.txt
+
+      - name: ▶️ Jalankan script Python dan simpan output M3U
+        shell: bash
+        run: |
+          python mediasinna.py > mediasinna.m3u
+
+      - name: 📤 Push output ke repo privat jika ada perubahan
+        shell: bash
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git clone --depth=1 https://x-access-token:${{ secrets.TOKEN_PRIVATE }}@github.com/${{ secrets.REPO_PRIVATE }} repo-output
+          cp mediasinna.m3u repo-output/
+
+          cd repo-output
+          git add mediasinna.m3u
+
+          if git diff --cached --quiet; then
+            echo "✅ Tidak ada perubahan pada mediasinna.m3u, skip push."
+          else
+            git commit -m "🔄 auto: update mediasinna.m3u"
+            git push
+          fi
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="ppv-14599">
+    <display-name>Georgia Bulldogs vs. Alabama Crimson Tide</display-name>
+  </channel>
+  <programme start="20251206210000 +0000" stop="20251207003000 +0000" channel="ppv-14599">
+    <title lang="en">Georgia Bulldogs vs. Alabama Crimson Tide</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/c25b4d7302c5c1c448a26dc0a4a8f2cf-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14435">
+    <display-name>PSG vs. Rennes</display-name>
+  </channel>
+  <programme start="20251206200500 +0000" stop="20251206223500 +0000" channel="ppv-14435">
+    <title lang="en">PSG vs. Rennes</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/57910f21e35c5297c74118d13f835c74-thumbnail.jpg" />
+  </programme>
+</tv>

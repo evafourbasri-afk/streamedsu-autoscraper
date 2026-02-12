@@ -1,0 +1,47 @@
+name: Skor5 Auto M3U Generator
+
+on:
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🎭 Install Playwright Chromium
+        run: |
+          python -m playwright install chromium
+          python -m playwright install-deps
+
+      - name: 🚀 Run Skor5 Grabber (generate M3U)
+        run: |
+          python skor5_playwright_to_m3u.py
+
+      - name: 📤 Commit & Push skor5_live.m3u
+        run: |
+          git config user.name "skor5-bot"
+          git config user.email "skor5-bot@users.noreply.github.com"
+
+          if [ -f skor5_live.m3u ]; then
+            git add skor5_live.m3u
+            git diff --cached --quiet || git commit -m "🔄 Auto update skor5_live.m3u"
+            git push
+          else
+            echo "❌ skor5_live.m3u not found, skip commit"
+          fi

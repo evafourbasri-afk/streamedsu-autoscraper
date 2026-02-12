@@ -1,0 +1,32 @@
+name: NowMovies Playlist
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # tiap 2 jam
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install deps
+      run: pip install requests
+
+    - name: Run generator
+      run: python now.py
+
+    - name: Commit & push if changed
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add movnow.m3u
+        git commit -m "Auto update movnow.m3u" || echo "No changes"
+        git push
