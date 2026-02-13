@@ -2,47 +2,69 @@ name: Auto Update IPTV Playlists
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # chạy mỗi 30 phút
-  workflow_dispatch:      # cho phép chạy thủ công
-  # push:
-  #   branches:
-  #     - master
+    - cron: "*/30 * * * *"   # setiap 30 menit
+  workflow_dispatch:
+
 permissions:
-  contents: write  # Cho phép workflow push lên repo
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+    # 1️⃣ Checkout repository
     - name: 🔹 Checkout code
       uses: actions/checkout@v4
 
+    # 2️⃣ Setup Python
     - name: 🐍 Setup Python
       uses: actions/setup-python@v5
       with:
         python-version: "3.11"
 
+    # 3️⃣ Install dependencies
     - name: 📦 Install dependencies
-      run: pip install -r requirements.txt
+      run: |
+        if [ -f requirements.txt ]; then
+          pip install -r requirements.txt
+        fi
 
+    # 4️⃣ Run playlist generator
     - name: 🚀 Run playlist generator
       run: |
         echo "📡 Running Python script..."
         python multi_playlist.py || exit 0
         echo "✅ Script finished."
 
-    - name: 📤 Deploy M3U to playlists branch
+    # 5️⃣ Deploy to main/Branch folder
+    - name: 📤 Deploy M3U to main/Branch
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git fetch origin playlists || true
-        git checkout playlists || git checkout --orphan playlists
-        mkdir -p output
-        cp -r output/* . || true
-        # 🧮 Lấy số link từ stats.txt (nếu có)
+
+        git checkout main
+
+        # Pastikan folder Branch ada
+        mkdir -p Branch
+
+        # Hapus isi lama supaya tidak numpuk
+        rm -rf Branch/*
+
+        # Copy hasil dari folder output (jika ada)
+        if [ -d "output" ]; then
+          cp -r output/* Branch/ || true
+        fi
+
+        # Ambil jumlah link dari stats.txt (jika ada)
         LINKS_COUNT=$(cat stats.txt 2>/dev/null || echo "0")
-        
-        git add *.m3u stats.txt || true
-        git commit -m "Auto update playlists $(date '+%Y-%m-%d %H:%M:%S') (links: ${LINKS_COUNT})" || echo "No changes"
-        git push origin playlists --force || echo "No changes to push"
+
+        git add Branch/* stats.txt || true
+
+        # Commit hanya jika ada perubahan
+        if git diff --cached --quiet; then
+          echo "⚠️ No changes to commit."
+        else
+          git commit -m "Auto update playlists $(date '+%Y-%m-%d %H:%M:%S') (links: ${LINKS_COUNT})"
+          git push origin main
+        fi
