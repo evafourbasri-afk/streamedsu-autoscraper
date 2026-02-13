@@ -3,6 +3,8 @@
 https://hnlive.dramahay.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",KuboCast
 https://hnlive.dramahay.xyz/live/kubocast/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",TXBN
+https://livecd1.dramahay.xyz/live/TXBN/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SG Network
 https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/devonlynino/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel
@@ -144,7 +146,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Livestream
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Việt
-https://freem3u.xyz/api/live/play.m3u8?vid=9902
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
