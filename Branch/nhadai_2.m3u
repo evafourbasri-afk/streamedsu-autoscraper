@@ -21,6 +21,8 @@ https://1.org.vn/oni1/?/index.m3u8
 https://1.org.vn/oni2hd/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi3
 https://1.org.vn/oni3/?/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",ONi4
+https://d.org.vn/oni2-mbnlife/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Mix
@@ -249,8 +251,6 @@ https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",In The Box
 https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Box Hits
-https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
 #EXTINF:-1 group-title="TruyenHinh_2",Man
 https://toiyeuvietnam.dpdns.org/Start/VMT456_MAN
 #EXTINF:-1 group-title="TruyenHinh_2",Music Box

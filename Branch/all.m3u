@@ -95,40 +95,48 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",19h00: [SÙNG A MÚP] Eintracht Braunschweig vs SV Darmstadt 98
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ĐỐM] Eintracht Braunschweig vs SV Darmstadt 98
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV VOI] Eintracht Braunschweig vs SV Darmstadt 98
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV 7UP] Eintracht Braunschweig vs SV Darmstadt 98
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",19h00: [NGƯỜI THÉP] Hertha Berlin vs Hannover 96
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ENZO] Hertha Berlin vs Hannover 96
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",19h00: [TAM MAO] Hertha Berlin vs Hannover 96
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",19h00: [SAO LA] Hertha Berlin vs Hannover 96
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV EDRIC] 1. FC Kaiserslautern vs SpVgg Greuther Fürth
-http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV GÔN] 1. FC Kaiserslautern vs SpVgg Greuther Fürth
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ANH TÀI] 1. FC Kaiserslautern vs SpVgg Greuther Fürth
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TAP] Burton vs West Ham United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",19h15: [CÔNG CHẤT] Burton vs West Ham United
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",19h15: [RICKHANTER] Burton vs West Ham United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV Củ Cải] Burton vs West Ham United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV LONG] Burton vs West Ham United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TOMMY] Burton vs West Ham United
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-14/02 JENNIE Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-14/02 Cordoba Vs Leganes BLV ĐOÀN DỰ
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-14/02 Como Vs Fiorentina BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-14/02 RCD Espanyol Vs Celta Vigo BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-14/02 Burton Albion Vs West Ham United BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-14/02 Werder Bremen Vs Bayern Munchen BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h45-14/02 CSKA 1948 Sofia Vs CSKA Sofia BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h55-14/02 Al-Riyadh Vs Al-Khaleej BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-14/02 Alanyaspor Vs Konyaspor BLV DƯƠNG CHÍ
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-14/02 Eintracht Frankfurt Vs Borussia Monchengladbach BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-14/02 Bayer Leverkusen Vs St. Pauli BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-14/02 TSG Hoffenheim Vs SC Freiburg BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-14/02 Hamburger SV Vs Union Berlin BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-14/02 FC Arda Kardzhali Vs Slavia Sofia BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV DECO] RCD Espanyol vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV  TYPN] RCD Espanyol vs RC Celta
@@ -141,6 +149,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=548860
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",20h00: [CR Bưởi] RCD Espanyol vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTINF:-1 group-title="Socolive_2",20h10: [BLV TAP] Burton vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTINF:-1 group-title="Socolive_2",20h10: [CÔNG CHẤT] Burton vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=291277
+#EXTINF:-1 group-title="Socolive_2",20h10: [RICKHANTER] Burton vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912101
+#EXTINF:-1 group-title="Socolive_2",20h10: [BLV Củ Cải] Burton vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912091
+#EXTINF:-1 group-title="Socolive_2",20h10: [BLV LONG] Burton vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
+#EXTINF:-1 group-title="Socolive_2",20h10: [BLV TOMMY] Burton vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ALEX] Como vs Fiorentina
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV KEM] Como vs Fiorentina
@@ -155,8 +175,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=552832
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV VOI] Bayer 04 Leverkusen vs FC St. Pauli
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",21h30: [BLV SATIVA] Bayer 04 Leverkusen vs FC St. Pauli
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",21h30: [A PÁO] Bayer 04 Leverkusen vs FC St. Pauli
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV COZY] Bayer 04 Leverkusen vs FC St. Pauli
@@ -167,6 +185,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=400722
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV XO] Eintracht Frankfurt vs Borussia Monchengladbach
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
+#EXTINF:-1 group-title="Socolive_2",21h30: [VỊT BẠC] Eintracht Frankfurt vs Borussia Monchengladbach
+http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV TÔM] Hamburger SV vs 1. FC Union Berlin
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV ROBBEN] Hamburger SV vs 1. FC Union Berlin
@@ -897,6 +917,8 @@ https://1.org.vn/oni1/?/index.m3u8
 https://1.org.vn/oni2hd/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi3
 https://1.org.vn/oni3/?/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",ONi4
+https://d.org.vn/oni2-mbnlife/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Mix
@@ -1125,8 +1147,6 @@ https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",In The Box
 https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Box Hits
-https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
 #EXTINF:-1 group-title="TruyenHinh_2",Man
 https://toiyeuvietnam.dpdns.org/Start/VMT456_MAN
 #EXTINF:-1 group-title="TruyenHinh_2",Music Box
