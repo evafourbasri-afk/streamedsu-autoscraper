@@ -164,7 +164,7 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV Cần Thơ
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV8
@@ -382,7 +382,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/ninh-thuan/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV1 - Báo và PTTH Quảng Ngãi
 https://freem3u.xyz/api/live/play.m3u8?vid=81
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV2 - Báo và PTTH Quảng Ngãi
-http://42.115.209.229:8090/225.1.1.36:30120
+https://ace.hoiquan.click/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",TTV HD - Báo và PTTH Tuyên Quang
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tuyen-quang/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TN - Báo và PTTH Thái Nguyên
@@ -414,7 +414,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Animax HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1165775&extension=ts&play_token=yyA3sijrgj
 #EXTINF:-1 group-title="TruyenHinh_2",Cartoonito
-http://42.115.209.229:8090/225.1.1.138:30120
+https://ace.hoiquan.click/module/IPTV/?id=cartoonito&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",Cartoon Network HD
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",BabyTV
