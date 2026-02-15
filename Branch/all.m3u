@@ -96,20 +96,11 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-16/02 Mallorca Vs Real Betis BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV A TÚ] RCD Mallorca vs Real Betis
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV TOMIA] RCD Mallorca vs Real Betis
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV ENZO] RCD Mallorca vs Real Betis
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV ADAM] RCD Mallorca vs Real Betis
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",03h00: [SAO LA] RCD Mallorca vs Real Betis
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",03h00: [A PÁO] RCD Mallorca vs Real Betis
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h30-16/02 CDSyC Cruz Azul Vs Tigres UANL BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/02 USA Stars Vs Team World BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="Socolive_2",03h30: [BLV GÔN] Sporting CP vs FC Famalicao
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",03h30: [BLV A WIN] Sporting CP vs FC Famalicao
