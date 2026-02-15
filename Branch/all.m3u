@@ -96,57 +96,26 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-15/02 Real Oviedo Vs Athletic Bilbao BLV VƯƠNG LUÂN
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-15/02 Birmingham City Vs Leeds United BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-15/02 Grimsby Town Vs Wolves BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-15/02 Cremonese Vs Genoa BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-15/02 Parma Vs Verona BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-15/02 Oxford United Vs Sunderland A.F.C BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-15/02 Stoke City Vs Fulham BLV DƯƠNG CHÍ
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-15/02 Le Havre Vs Toulouse BLV QUAN VŨ
 https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-15/02 Stoke City Vs Fulham BLV DƯƠNG CHÍ
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-15/02 Augsburg Vs Heidenheimer BLV A TỦA
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-15/02 Parma Vs Verona BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-15/02 Cremonese Vs Genoa BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-15/02 Oxford United Vs Sunderland A.F.C BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-15/02 Rayo Vallecano Vs Atletico Madrid BLV TRIỆU TỬ LONG
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="Socolive_2",19h45: [TAM MAO] Birmingham City vs Leeds United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV TAP] Birmingham City vs Leeds United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",19h45: [CÔNG CHẤT] Birmingham City vs Leeds United
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV VODKA] Birmingham City vs Leeds United
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV BÉO] Birmingham City vs Leeds United
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV 7UP] Birmingham City vs Leeds United
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",20h00: [CR Bưởi] Real Oviedo vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",20h00: [RICKHANTER] Real Oviedo vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV TOMIA] Real Oviedo vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV KINH TẾ] Real Oviedo vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV TOMMY] Real Oviedo vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",20h30: [Đình Bắc] Grimsby Town vs Wolverhampton Wanderers
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV SATIVA] Grimsby Town vs Wolverhampton Wanderers
@@ -231,9 +200,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-15/02: [HUNTER] Barcelona vs Manresa
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-15/02: [A CHÈ] Barcelona vs Manresa
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h15-15/02: [BLV A WIN] Lorient vs Angers SCO
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -311,9 +277,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-16/02: [BLV GÔN] Levante vs Valencia CF
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-16/02: [BLV DECO] Levante vs Valencia CF
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-16/02: [BLV A BỆU] Levante vs Valencia CF
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
@@ -699,6 +662,8 @@ https://1.org.vn/oni2hd/?/index.m3u8
 https://1.org.vn/oni3/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi4
 https://d.org.vn/oni2-mbnlife/?/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
+https://7pal.short.gy/ssportsf1
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Mix
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145813.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Tennis
