@@ -99,27 +99,14 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-15/02 KoGas Vs Seoul Thunders BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-15/02 Avispa Fukuoka Vs Cerezo Osaka BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-15/02 Hantharwady United Vs Mahar United BLV DƯƠNG CHÍ
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-15/02 Arema FC Vs Semen Padang BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-15/02 Gamba Osaka Vs Nagoya Grampus BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-15/02 Hantharwady United Vs Mahar United BLV DƯƠNG CHÍ
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV DECO] Gamba Osaka vs Nagoya Grampus
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV  TYPN] Gamba Osaka vs Nagoya Grampus
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV TOMIA] Gamba Osaka vs Nagoya Grampus
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",14h00: [TẠ BIÊN GIỚI] Gamba Osaka vs Nagoya Grampus
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV TAP] Gamba Osaka vs Nagoya Grampus
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-15/02 Avispa Fukuoka Vs Cerezo Osaka BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV ĐỐM] Arema FC vs Semen Padang
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV KEM] Arema FC vs Semen Padang
