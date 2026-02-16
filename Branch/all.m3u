@@ -96,6 +96,9 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-16/02 Santa Clara U23 Vs Leixoes U23 BLV THỜI THIÊN
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-16/02 Samaxı FC Vs Turan Tovuz BLV QUAN VŨ
 https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 group-title="Socolive_2",17h30: [LÃO LÂM] Shamakhi FK vs Turan Tovuz
@@ -106,13 +109,13 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV XAVI] Shamakhi FK vs Turan Tovuz
 http://sharing.gotdns.ch:8091/socolive.php?id=525090
-#EXTINF:-1 group-title="Socolive_2",18h00: [Đình Bắc] Santa Clara U23 vs Leixoes U23
+#EXTINF:-1 group-title="Socolive_2",19h00: [Đình Bắc] Santa Clara U23 vs Leixoes U23
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",18h00: [Lửng Mật] Santa Clara U23 vs Leixoes U23
+#EXTINF:-1 group-title="Socolive_2",19h00: [Lửng Mật] Santa Clara U23 vs Leixoes U23
 http://sharing.gotdns.ch:8091/socolive.php?id=566705
-#EXTINF:-1 group-title="Socolive_2",18h00: [TAM MAO] Santa Clara U23 vs Leixoes U23
+#EXTINF:-1 group-title="Socolive_2",19h00: [TAM MAO] Santa Clara U23 vs Leixoes U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",18h00: [LOKA] Santa Clara U23 vs Leixoes U23
+#EXTINF:-1 group-title="Socolive_2",19h00: [LOKA] Santa Clara U23 vs Leixoes U23
 http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",20h00: [BÚA TẠ] FK Gilan Gabala vs Sabah Baku
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
@@ -361,6 +364,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h10-17/02: [BLV TOMIA] Mazatlan FC Women vs Tigres Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h10-17/02: [BLV FIREMAN] Mazatlan FC Women vs Tigres Women
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-17/02: [A CHÈ] KoGas vs Suwon KT
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
