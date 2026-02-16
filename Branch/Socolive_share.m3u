@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",19h00: [Đình Bắc] Santa Clara U23 vs Leixoes U23
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",19h00: [Lửng Mật] Santa Clara U23 vs Leixoes U23
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
-#EXTINF:-1 group-title="Socolive_2",19h00: [TAM MAO] Santa Clara U23 vs Leixoes U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",19h00: [LOKA] Santa Clara U23 vs Leixoes U23
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",20h00: [BÚA TẠ] FK Gilan Gabala vs Sabah Baku
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTINF:-1 group-title="Socolive_2",20h00: [SÙNG A MÚP] FK Gilan Gabala vs Sabah Baku
@@ -185,6 +177,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",03h15-17/02: [BÚA TẠ] Rio Ave vs Moreirense
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",03h15-17/02: [BLV CÒ] Rio Ave vs Moreirense
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",04h00-17/02: [BLV Hổ Lùn] Fluminense RJ vs Bangu
 http://sharing.gotdns.ch:8091/socolive.php?id=308080
