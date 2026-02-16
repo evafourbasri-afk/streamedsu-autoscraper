@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",20h00: [BÚA TẠ] FK Gilan Gabala vs Sabah Baku
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTINF:-1 group-title="Socolive_2",20h00: [SÙNG A MÚP] FK Gilan Gabala vs Sabah Baku
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV LIO] FK Gilan Gabala vs Sabah Baku
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV CHIVAS] FK Gilan Gabala vs Sabah Baku
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",21h00: [CR Bưởi] East Bengal FC vs Northeast United
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV MESSI] East Bengal FC vs Northeast United
@@ -174,9 +166,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",03h00-17/02: [Đình Bắc] Coventry City vs Middlesbrough
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",03h15-17/02: [BÚA TẠ] Rio Ave vs Moreirense
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",03h15-17/02: [BLV CÒ] Rio Ave vs Moreirense
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
