@@ -1,13 +1,19 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",12h00-17/02 KoGas Vs Suwon KT BLV YẾN THANH
+#EXTINF:-1 group-title="LuongSon_2",14h30-17/02 Seoul Thunders Vs Seoul Knights BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",12h00-17/02 Cashmere Technical Vs Selwyn United NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNq9168nkiGi956/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",15h00-17/02 Sydney FC Vs Auckland FC BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",12h00-17/02 Putra Plaosan Martapura Vs Persenus Nusantara NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNq8zRkGz4Gpngt/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",13h00-17/02 Persigubin Pegunungan Bintang Vs Persilanny NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNq9kkYLC6ni1S4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",14h00-17/02 PS Badung Vs MIFA NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNq8zRL6hUzji12/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",14h25-17/02 Barabai FC Vs Persemar Martapura NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNq9kkh87ai1g3e/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",16h00-17/02 JF Khroub(W) Vs MZ Biskra (W) NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNq8Fmxwv5wsect/playlist.m3u8
