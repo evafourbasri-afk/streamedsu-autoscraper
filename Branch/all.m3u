@@ -96,36 +96,14 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-17/02 Sydney FC Vs Auckland FC BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/02 Machida Zelvia Vs Chengdu Rongcheng FC BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-17/02 JF Khroub(W) Vs MZ Biskra (W) BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-17/02 Seoul Thunders Vs Seoul Knights BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Socolive_2",14h30: [A CHÈ] Seoul Thunders vs Seoul Knights
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",14h30: [BRIAN] Seoul Thunders vs Seoul Knights
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV HENRY] Seoul Thunders vs Seoul Knights
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",14h30: [CHAN SENA] Seoul Thunders vs Seoul Knights
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV TOMMY] Sydney FC vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",15h00: [CR Bưởi] Sydney FC vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV MESSI] Sydney FC vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV A BỆU] Sydney FC vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV KEM] Sydney FC vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV ENZO] Sydney FC vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",15h00: [HUNTER] Bendigo W vs Perth Lynx W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/02 FC Seoul Vs Hiroshima Sanfrecce BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 group-title="Socolive_2",17h00: [CR Bưởi] Machida Zelvia vs Chengdu Rongcheng FC
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTINF:-1 group-title="Socolive_2",17h00: [LÃO LÂM] Machida Zelvia vs Chengdu Rongcheng FC
