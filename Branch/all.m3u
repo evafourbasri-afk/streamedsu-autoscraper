@@ -96,41 +96,17 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/02 FC Seoul Vs Hiroshima Sanfrecce BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/02 Machida Zelvia Vs Chengdu Rongcheng FC BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-17/02 Chanthaburi FC Vs JL Chiangmai United FC BLV A TỦA
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-17/02 Bangkok FC Vs Phrae United FC BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-17/02 Hatayspor Vs 76 Igdir Belediye spor BLV TẦN CA
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 group-title="Socolive_2",17h00: [CR Bưởi] Machida Zelvia vs Chengdu Rongcheng FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",17h00: [LÃO LÂM] Machida Zelvia vs Chengdu Rongcheng FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV VODKA] Machida Zelvia vs Chengdu Rongcheng FC
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV KEM] Machida Zelvia vs Chengdu Rongcheng FC
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV 7UP] Machida Zelvia vs Chengdu Rongcheng FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV TOMMY] Machida Zelvia vs Chengdu Rongcheng FC
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV DECO] FC Seoul vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV LUCAS] FC Seoul vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV BÉO] FC Seoul vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",17h00: [VƯƠNG ANH] FC Seoul vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV ADAM] FC Seoul vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV XAVI] FC Seoul vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=525090
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-17/02 Johor Darul Takzim Vs Vissel Kobe BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV FIREMAN] Atakas Hatayspor vs Iğdır FK
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",18h30: [LOKA] Atakas Hatayspor vs Iğdır FK
@@ -439,9 +415,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-18/02: [VƯƠNG ANH] Real Espana vs Los Angeles FC
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-18/02: [RED BULL] Real Espana vs Los Angeles FC
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-18/02: [SAO LA] Real Espana vs Los Angeles FC
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
