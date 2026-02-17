@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV FIREMAN] Atakas Hatayspor vs Iğdır FK
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",18h30: [LOKA] Atakas Hatayspor vs Iğdır FK
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",18h30: [CÔNG LÝ] Atakas Hatayspor vs Iğdır FK
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV VITAMIN] Atakas Hatayspor vs Iğdır FK
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV EDRIC] Buriram United vs Shanghai Shenhua FC
 http://sharing.gotdns.ch:8091/socolive.php?id=5126499
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV BÉO] Buriram United vs Shanghai Shenhua FC
@@ -310,6 +302,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",10h00-18/02: [SAO LA] Real Espana vs Los Angeles FC
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",10h00-18/02: [BLV FIREMAN] Real Espana vs Los Angeles FC
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",12h00-18/02: [KING] Anyang JungKwanJang vs Wonju DB
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
