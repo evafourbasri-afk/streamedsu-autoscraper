@@ -399,7 +399,7 @@ https://absp-live.akamaized.net/dash/live/2099522/gmapt/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_4",cctv4 Asia
 http://t.061899.xyz/tl/tl.php?id=cctv4
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Jade International
-http://cdn6.163189.xyz/163189/jade
+https://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 group-title="TruyenHinh_4",TVB News International
 https://tvb.860775.xyz/I-NEWS
 #EXTINF:-1 group-title="TruyenHinh_4",TDM-Macau Satéllite
@@ -1251,21 +1251,23 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="TruyenHinh_4",HOY 78
 https://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Jade
-http://60.246.171.122:8889/bysid/1
+https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Jade Cable
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 group-title="TruyenHinh_4",TVB Jade 4K
+https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Plus
-http://60.246.171.122:8892/bysid/82
+https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 group-title="TruyenHinh_4",TVB News
 http://60.246.171.122:8892/bysid/83
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Pearl
-http://60.246.171.122:8892/bysid/2
+https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 group-title="TruyenHinh_4",Phoenix Hong Kong
 http://60.246.171.122:8892/bysid/85
 #EXTINF:-1 group-title="TruyenHinh_4",ViuTV Six
-http://60.246.171.122:8889/bysid/96
+https://cdn10.163189.xyz/stream/163189/viu6/
 #EXTINF:-1 group-title="TruyenHinh_4",ViuTV
-http://60.246.171.122:8889/bysid/99
+https://cdn10.163189.xyz/stream/163189/viu/
 #EXTINF:-1 group-title="TruyenHinh_4",NOW News
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 group-title="TruyenHinh_4",TDM Ou Mun
@@ -1950,197 +1952,3 @@ https://tzh911.qzz.io/play-smt.php?id=Inewstv
 https://tzh911.qzz.io/play-smt.php?id=DaaiTV
 #EXTINF:-1 group-title="TruyenHinh_4",Net TV
 https://tzh911.qzz.io/play-smt.php?id=NetTV
-#EXTINF:-1 group-title="TruyenHinh_4",Net TV
---------------------------------------------------------------------------------
-#EXTINF:-1 group-title="TruyenHinh_4",HanoiTV2 4K
-https://xem.hoiquan.Click/NguonOnliveTV/hanoi2/ToChaThangVThanh
-#EXTINF:-1 group-title="TruyenHinh_4",TVB Jade UHD
-https://judy.diver.eu.org/websuper265.php?id=JUHD
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports Main Event UHD
-https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 group-title="TruyenHinh_4",Astro Sports UHD
-https://byvn.net/astrosupersports4k
-#EXTINF:-1 group-title="TruyenHinh_4",beIN 4K
-https://7pal.short.gy/bein-uhd
-#EXTINF:-1 group-title="TruyenHinh_4",Now Sports 1 4k
-https://7pal.short.gy/nowsport4k
-#EXTINF:-1 group-title="TruyenHinh_4",Hub Premier 2 UHD
-https://7pal.short.gy/HubP2uhd
-#EXTINF:-1 group-title="TruyenHinh_4",V Sport UltraHD
-https://7pal.short.gy/VSportUHD
-#EXTINF:-1 group-title="TruyenHinh_4",TNT Sport Ultimate
-https://7pal.short.gy/TNTUltimate
-#EXTINF:-1 group-title="TruyenHinh_4",ElevenSport1 4K
-https://7pal.short.gy/11sports1
-#EXTINF:-1 group-title="TruyenHinh_4",Prima4K
-https://7pal.short.gy/prima4k
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports F1 UHD
-https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 group-title="TruyenHinh_4",Ziggo Sport UHD
-https://7pal.short.gy/ZiggoSport
-#EXTINF:-1 group-title="TruyenHinh_4",Sport5_4k
-https://7pal.short.gy/5sport
-#EXTINF:-1 group-title="TruyenHinh_4",EuroSport 4K
-https://7pal.short.gy/eusport4k
-#EXTINF:-1 group-title="TruyenHinh_4",M+LaLiga UHD
-https://7pal.short.gy/mplusuhd
-#EXTINF:-1 group-title="TruyenHinh_4",NESN UHD
-https://7pal.short.gy/nesnuhd
-#EXTINF:-1 group-title="TruyenHinh_4",NESN UHD
---------------------------------------------------------------------------------
-#EXTINF:-1 group-title="TruyenHinh_4",Hub Premier1 HD
-https://7pal.short.gy/HPremier1
-#EXTINF:-1 group-title="TruyenHinh_4",Hub Premier2 HD
-https://7pal.short.gy/HPremier2
-#EXTINF:-1 group-title="TruyenHinh_4",Hub Premier3 HD
-https://7pal.short.gy/HPremier3
-#EXTINF:-1 group-title="TruyenHinh_4",Now Sports Premier League1 HD
-https://7pal.short.gy/nowhkp1
-#EXTINF:-1 group-title="TruyenHinh_4",Now Sports PremierLeague 2 HD
-https://7pal.short.gy/nowhkp2
-#EXTINF:-1 group-title="TruyenHinh_4",Now Sports Premier eague 3-HD
-https://7pal.short.gy/nowhkp3
-#EXTINF:-1 group-title="TruyenHinh_4",Astro Premier League HD
-https://7pal.short.gy/astross1
-#EXTINF:-1 group-title="TruyenHinh_4",Astro Premier League 2 HD
-https://7pal.short.gy/astross2
-#EXTINF:-1 group-title="TruyenHinh_4",Astro Grandstand HD
-https://7pal.short.gy/astross3
-#EXTINF:-1 group-title="TruyenHinh_4",Astro Football HD
-https://7pal.short.gy/astross4
-#EXTINF:-1 group-title="TruyenHinh_4",USA NetWork HD
-https://7pal.short.gy/usanetwork
-#EXTINF:-1 group-title="TruyenHinh_4",TNT Sports 1 HD
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="TruyenHinh_4",TNT Sports 2 HD
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="TruyenHinh_4",TNT Sports 3 HD
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="TruyenHinh_4",TNT Sports 4 HD
-https://7pal.short.gy/tntspts4
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports Main Event HD
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports PremierLeague HD
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports Football HD
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports F1 HD
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports Tennis HD
-https://7pal.short.gy/ssportstn
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports+ HD
-https://7pal.short.gy/ssportplus
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports Criket HD
-https://7pal.short.gy/ssportscrk
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports Golf- HD
-https://7pal.short.gy/ssportsgf
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports News-HD
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports Action-HD
-https://7pal.short.gy/ssportsat
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sports Box Office
-https://7pal.short.gy/ssportsbo
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sport1 NZ HD
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sport2 NZ HD
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sport3 NZ HD
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sport4 NZ HD
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sport5 NZ HD
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sport6 NZ HD
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sport7 NZ HD
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 group-title="TruyenHinh_4",Sky Sport Premier League HD
-https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 group-title="TruyenHinh_4",Fox Sports 501
-https://7pal.short.gy/fox501au
-#EXTINF:-1 group-title="TruyenHinh_4",Fox Sports 502
-https://7pal.short.gy/fox502au
-#EXTINF:-1 group-title="TruyenHinh_4",Fox Sports 503
-https://7pal.short.gy/fox503au
-#EXTINF:-1 group-title="TruyenHinh_4",Fox Sports 504
-https://7pal.short.gy/fox504au
-#EXTINF:-1 group-title="TruyenHinh_4",Fox Sports 505
-https://7pal.short.gy/fox505au
-#EXTINF:-1 group-title="TruyenHinh_4",Fox Sports 506
-https://7pal.short.gy/fox506au
-#EXTINF:-1 group-title="TruyenHinh_4",Fox Sports 507
-https://7pal.short.gy/fox507au
-#EXTINF:-1 group-title="TruyenHinh_4",Sportsnet ONE
-https://7pal.short.gy/sptsnet1
-#EXTINF:-1 group-title="TruyenHinh_4",Sportsnet 360
-https://7pal.short.gy/sptsnet360
-#EXTINF:-1 group-title="TruyenHinh_4",Sportsnet Ontario
-https://7pal.short.gy/sptsneton
-#EXTINF:-1 group-title="TruyenHinh_4",TSN1
-https://7pal.short.gy/tsn1ca
-#EXTINF:-1 group-title="TruyenHinh_4",TSN2
-https://7pal.short.gy/tsn2ca
-#EXTINF:-1 group-title="TruyenHinh_4",TSN3
-https://7pal.short.gy/tsn3ca
-#EXTINF:-1 group-title="TruyenHinh_4",TSN4
-https://7pal.short.gy/tsn4ca
-#EXTINF:-1 group-title="TruyenHinh_4",TSN5
-https://7pal.short.gy/tsn5ca
-#EXTINF:-1 group-title="TruyenHinh_4",CBS Sport Network
-https://7pal.short.gy/cbssptnw
-#EXTINF:-1 group-title="TruyenHinh_4",MSG
-https://7pal.short.gy/msgusa
-#EXTINF:-1 group-title="TruyenHinh_4",MSG+
-https://7pal.short.gy/msgsn
-#EXTINF:-1 group-title="TruyenHinh_4",NFL Network
-https://7pal.short.gy/nflnw
-#EXTINF:-1 group-title="TruyenHinh_4",USA: NFL Redzone
-https://7pal.short.gy/nflredz
-#EXTINF:-1 group-title="TruyenHinh_4",ESPN
-https://7pal.short.gy/espnus
-#EXTINF:-1 group-title="TruyenHinh_4",#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="THỂ THAO QUỐC TẾ" ESPN2
-https://7pal.short.gy/espn2
-#EXTINF:-1 group-title="TruyenHinh_4",WWE Network
-https://7pal.short.gy/wwenw
-#EXTINF:-1 group-title="TruyenHinh_4",NBA TV
-https://7pal.short.gy/nbatvus
-#EXTINF:-1 group-title="TruyenHinh_4",MLB Network
-https://7pal.short.gy/mlbnw
-#EXTINF:-1 group-title="TruyenHinh_4",NHL Network
-https://7pal.short.gy/nhlnw
-#EXTINF:-1 group-title="TruyenHinh_4",UFC 24/7
-https://7pal.short.gy/ufc247
-#EXTINF:-1 group-title="TruyenHinh_4",Tennis Channel
-https://7pal.short.gy/tennisc
-#EXTINF:-1 group-title="TruyenHinh_4",SEC Network
-https://7pal.short.gy/secnw
-#EXTINF:-1 group-title="TruyenHinh_4",YES Network
-https://7pal.short.gy/yesnw
-#EXTINF:-1 group-title="TruyenHinh_4",FS 1
-https://7pal.short.gy/fs1us
-#EXTINF:-1 group-title="TruyenHinh_4",FS 2
-https://7pal.short.gy/fs2us
-#EXTINF:-1 group-title="TruyenHinh_4",PremierSports1-HD
-https://7pal.short.gy/prsport1
-#EXTINF:-1 group-title="TruyenHinh_4",PremierSports2-HD
-https://7pal.short.gy/prsport2
-#EXTINF:-1 group-title="TruyenHinh_4",Supersport_Premier_League-HD
-https://7pal.short.gy/spersppl
-#EXTINF:-1 group-title="TruyenHinh_4",Supersport_Football-HD
-https://7pal.short.gy/sperspfb
-#EXTINF:-1 group-title="TruyenHinh_4",Supersport_Laliga-HD
-https://7pal.short.gy/sperspllg
-#EXTINF:-1 group-title="TruyenHinh_4",Supersport_PSL-HD
-https://7pal.short.gy/spersppsl
-#EXTINF:-1 group-title="TruyenHinh_4",Supersport_Motosport-HD
-https://7pal.short.gy/sperspmts
-#EXTINF:-1 group-title="TruyenHinh_4",Supersport_Action-HD
-https://7pal.short.gy/sperspat
-#EXTINF:-1 group-title="TruyenHinh_4",Supersport_Rugby-HD
-https://7pal.short.gy/spersprb
-#EXTINF:-1 group-title="TruyenHinh_4",Supersport_Golf-HD
-https://7pal.short.gy/sperspgf
-#EXTINF:-1 group-title="TruyenHinh_4",Supersport_Tennis-HD
-https://7pal.short.gy/spersptns
-#EXTINF:-1 group-title="TruyenHinh_4",Ziggo Sport HD
-https://7pal.short.gy/zigosHD
