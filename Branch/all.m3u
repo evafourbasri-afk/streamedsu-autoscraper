@@ -96,20 +96,35 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-18/02 Tai Po FC Vs Biu Chun Rangers BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-18/02 NTV Beleza (W) Vs RB Omiya Ardija (W) BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-18/02 Brisbane City (W) Vs Gold Coast United W BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-18/02 Tasmania JackJumpers Vs Illawarra Hawks BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-18/02 NTV Beleza (W) Vs RB Omiya Ardija (W) BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h45-18/02 Khelaghar Samaj Kalyan Samiti Vs BRTC Sports Club NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNq9jF7gdDynnZi/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-18/02 FK MOIK Baku Vs Sabail NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNVZYJuTkU1eE5a/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h45-18/02 Chattogram City FC Vs Chittagong Abahani NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNq9jF9t76Tchic/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/02 Lesotho (W) Vs Angola (W) BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/02 Shanghai Port Vs Ulsan HD FC BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/02 Melbourne City Vs Gangwon FC BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-18/02 Cəbrayıl FK Vs Baku Sporting NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNVZYJq4nj3zPmn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-18/02 FK MOIK Baku Vs Sabail NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNVZYJuTkU1eE5a/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-18/02 Gagauziya Vs Olimp Comrat NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNtNYNdv9yACCkt/playlist.m3u8
@@ -128,26 +143,8 @@ https://auto.cdnok9.com/live/sd-6MvVNtNYNiK7i7r34g/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-19/02 Winterthur Vs St. Gallen BLV KHỔNG MINH
 https://auto.cdnok9.com/live/sd-6MuSs9oNwXZTPHMHfA/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",14h00: [KING] Samsung Blue Minx W vs KB Stars W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",14h00: [BRIAN] Samsung Blue Minx W vs KB Stars W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",14h00: [A CHÈ] Samsung Blue Minx W vs KB Stars W
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",14h30: [CHAN SENA] KCC Egis vs LG Sakers
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",14h30: [HUNTER] KCC Egis vs LG Sakers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV HENRY] Tasmania JackJumpers vs Illawarra Hawks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV LIO] NTV Tokyo Verdy Beleza vs RB Omiya Ardija Ventus
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",16h00: [XUÂN SON] NTV Tokyo Verdy Beleza vs RB Omiya Ardija Ventus
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",16h00: [BÚA TẠ] NTV Tokyo Verdy Beleza vs RB Omiya Ardija Ventus
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV A WIN] NTV Tokyo Verdy Beleza vs RB Omiya Ardija Ventus
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV VODKA] Melbourne City vs Gangwon FC
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV KEM] Melbourne City vs Gangwon FC
