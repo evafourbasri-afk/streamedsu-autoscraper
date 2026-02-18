@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV TOMIA] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",02h00: [Lửng Mật] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV SINGER] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV PEWPEW] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",02h00: [SÙNG A MÚP] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV VODKA] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",02h45: [LOKA] AC Milan vs Como
 http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",02h45: [Đình Bắc] AC Milan vs Como
@@ -291,9 +279,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=586938
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",00h45-20/02: [CR Bưởi] Fenerbahce vs Nottingham Forest
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",00h45-20/02: [BLV DECO] Fenerbahce vs Nottingham Forest
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",00h45-20/02: [RICKHANTER] Fenerbahce vs Nottingham Forest
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
