@@ -96,69 +96,14 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-18/02 Pattani Vs Rasi Salai United BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-18/02 Serik Belediyespor Vs Corum Belediyespor BLV NGŨ CA
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-18/02 Tatran LM Vs KFC Komarno BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-18/02 South Africa (W) Vs Malawi  (W) BLV A TỦA
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-18/02 Keciorengucu Vs Erzurum BB BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-18/02 Tampines Rovers FC Vs Cong An Ha Noi BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-18/02 Persib Bandung Vs Ratchaburi FC BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-18/02 Sisaket United Vs Nong Bua Lamphu BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-19/02 Winterthur Vs St. Gallen BLV KHỔNG MINH
 https://auto.cdnok9.com/live/sd-6MuSs9oNwXZTPHMHfA/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV RAMBO] Keciorengucu vs Erzurum BB
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",18h30: [MR BÍCH] Keciorengucu vs Erzurum BB
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV ROBBEN] Keciorengucu vs Erzurum BB
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV EDRIC] Keciorengucu vs Erzurum BB
-http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",18h30: [Lửng Mật] Serik Belediyespor vs Corum Belediyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV A WIN] Serik Belediyespor vs Corum Belediyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV A TÚ] Serik Belediyespor vs Corum Belediyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",18h30: [XUÂN SON] Serik Belediyespor vs Corum Belediyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV LONG] Persib Bandung vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",19h15: [RED BULL] Persib Bandung vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV PEWPEW] Persib Bandung vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",19h15: [LÃO LÂM] Persib Bandung vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV LUCAS] Persib Bandung vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV XO] Persib Bandung vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV SINGER] Tampines Rovers FC vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",19h15: [CR Bưởi] Tampines Rovers FC vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",19h15: [SÙNG A MÚP] Tampines Rovers FC vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV  TYPN] Tampines Rovers FC vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV BÉO] Tampines Rovers FC vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV 7UP] Tampines Rovers FC vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV GÔN] South Africa Women vs Malawi Women
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",20h00: [NGƯỜI THÉP] South Africa Women vs Malawi Women
