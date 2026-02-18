@@ -96,79 +96,29 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-18/02 Ilves Tampere Vs SJK Seinajoen BLV LEO
-https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/02 Lesotho (W) Vs Angola (W) BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/02 Shanghai Port Vs Ulsan HD FC BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-18/02 Sisaket United Vs Nong Bua Lamphu BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-18/02 Pattani Vs Rasi Salai United BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-18/02 Serik Belediyespor Vs Corum Belediyespor BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-18/02 South Africa (W) Vs Malawi  (W) BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-18/02 Keciorengucu Vs Erzurum BB BLV TẦN CA
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-18/02 Pattaya Discovery United FC Vs Nakhon Pathom FC BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-18/02 Tampines Rovers FC Vs Cong An Ha Noi BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/02 Melbourne City Vs Gangwon FC BLV NHỊ KA
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-18/02 Persib Bandung Vs Ratchaburi FC BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-18/02 Pattani Vs Rasi Salai United BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-18/02 Sisaket United Vs Nong Bua Lamphu BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-19/02 Winterthur Vs St. Gallen BLV KHỔNG MINH
 https://auto.cdnok9.com/live/sd-6MuSs9oNwXZTPHMHfA/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV VODKA] Melbourne City vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV KEM] Melbourne City vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV LONG] Melbourne City vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",17h00: [CR Bưởi] Melbourne City vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",17h00: [SÙNG A MÚP] Melbourne City vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",17h00: [RED BULL] Melbourne City vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV TOMIA] Shanghai Port FC vs Ulsan HD FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",17h00: [VƯƠNG ANH] Shanghai Port FC vs Ulsan HD FC
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV ADAM] Shanghai Port FC vs Ulsan HD FC
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",17h00: [LOGAN] Shanghai Port FC vs Ulsan HD FC
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",17h00: [CÔNG CHẤT] Shanghai Port FC vs Ulsan HD FC
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV  TYPN] Shanghai Port FC vs Ulsan HD FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV Hổ Lùn] Lesotho Women vs Angola Women
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV GÔN] Lesotho Women vs Angola Women
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",17h30: [NGƯỜI THÉP] Cebrayil vs Baku Sporting FK
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV CÒ] Cebrayil vs Baku Sporting FK
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",17h30: [A PÁO] FK MOIK Baku vs Sabail FC
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",17h30: [KÉP] FK MOIK Baku vs Sabail FC
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",18h00: [Đình Bắc] Ilves Tampere vs SJK Seinajoen
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV VITAMIN] Ilves Tampere vs SJK Seinajoen
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",18h00: [SON HÍP] Ilves Tampere vs SJK Seinajoen
-http://sharing.gotdns.ch:8091/socolive.php?id=586938
-#EXTINF:-1 group-title="Socolive_2",18h00: [LOKA] Ilves Tampere vs SJK Seinajoen
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV RAMBO] Keciorengucu vs Erzurum BB
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",18h30: [MR BÍCH] Keciorengucu vs Erzurum BB
@@ -667,8 +617,10 @@ https://hnlive.dramahay.xyz/live/kubocast/index.m3u8
 https://livecd1.dramahay.xyz/live/TXBN/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SG Network
 https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/devonlynino/playlist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Nino Channel
+#EXTINF:-1 group-title="TruyenHinh_2",Nino Channel (server 1)
 https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/ninochannel12/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Nino Channel (server 2)
+https://apn22.playlist.ttvnw.net/v1/playlist/CsQGFyhS6KcM6DqL7FZxCUwQG_9bfWujxwseAn9-9MAIJ2zz0N_xhfqsp42ugMhoyN89Pu15ZPNM_LNPL2ymq3OrBW2YvBi4lGmXHrM8pNbT5AaicP3u596E7AICc0t73mt3laJRyHaY5Yjc-kWRuZOUKd2XWizhysPO4JWE14Pfcszp3KPXUcdeyWwBu8wrGmdlyuSBtRsVDfxEMWlD8B-MjWxCf_5C3LNwEFNfkaZTliIpJQ0nzkLV9GEwUME0Zcz_sSIYgzNIqHz0F2o6pn-U1oGGj8jYvmy-ADhOgBzhTneWs9Ws8ghQbR_XQ-dnHUiUiOiID9z0uxD_mBTqhBDt_OioK6kCZS0cIHTgpyZauM8dCwGdMsZKYk6w5DbZ6k5slegBl6FKik-6t5wtTH7AVdQSyW7T7PHXtsSDNWiFa9G6LOoS03tWYvhdhM1WItEOGlPsCAWyJOgiaZR32eZ50-3MM-sAW8kTwCtGFbXoNZw3sZrnnu0bWIiLXclXPRlZgdytPLNxZQLTmpb76EtnEAfh0MrLt7xa2t_m9sJLG7E7RtmjFNmGgZoaLwCujmAg_LnH-ZbFfOKMOpmobfkvePyXrueSrJyQhBFsnXlp7nv5Nc_n7PDkiS6o19_Ppi4QNjHFxwQMMvY_EhhTJ8ADT9abeW1Vzpgqt_2AOXak2KFFQKdIwXNg62AkjMlXNW-RWH2ReRr4SCeFTroARZFKb34cO7n6uNPCxHX2aNlLlrrcee1KvHnJ58O7n-XXAqN5onJyaMnD8-6csPl9S5-JUvkKC9b0boUinwQ60IPPgC5dQPrepA5cu5PfmRe19FTbxOMGQFyBWUsDwVJyqpB_cqZ5HbXivMKyOnZFZyIp_Yk8zcFAVou7VncqSjMEFf9ttlRBGHGxAwVuWb1DKaqd0jAtoH9iiMWo8dh1iL6OW0Zrqdoq1pEr0_FY32vFf0RVSCQYCtxUJ7-lE8j_phsAFWKNVj4tnISqBKGClL3nCcjEl0SxAn3fb8b3ZoKBTUj5LoeUUe_EogzdHWUuBz0d8ZRLKf4eDp1IF_GciGniYUBppb7W0DpGWpxTliERQQXNtXapxc04-De5nLlIGw1rC2ZQxxAaDEyTNwucqi1XNno53yABKgl1cy13ZXN0LTIwug4.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",LVTT
 https://kubolive.ddns.net:8081/live/lvtt1/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ATV HD
