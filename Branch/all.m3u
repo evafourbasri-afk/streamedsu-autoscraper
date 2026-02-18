@@ -96,23 +96,41 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-18/02 Anyang JungKwanJ Vs Wonju DB BLV YẾN THANH
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-18/02 Tai Po FC Vs Biu Chun Rangers BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-18/02 Tasmania JackJumpers Vs Illawarra Hawks BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-18/02 Ulsan University Vs Konkuk Univerity NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNqAUjWyCqqgiRz/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-18/02 Shinsung University Vs Daegu University NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNqAUjbNAaoLYjn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-18/02 FK MOIK Baku Vs Sabail NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNVZYJuTkU1eE5a/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-18/02 Cəbrayıl FK Vs Baku Sporting NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNVZYJq4nj3zPmn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-18/02 FC Sheriff B Vs Politeh Chisinau NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNtNYNpuZKZKnXN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-18/02 Gagauziya Vs Olimp Comrat NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNtNYNdv9yACCkt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-18/02 Iskra Stal Ribnita Vs CF Sparta Selemet NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNtNYNg7dqe27un/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-18/02 Real Sireti Vs Dacia-Buiucani NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNtNYNkWbabfxDa/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-18/02 Zimbru Chisinau B Vs FC Ursidos Stauceni NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNtNYNiK7i7r34g/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-19/02 Winterthur Vs St. Gallen BLV KHỔNG MINH
 https://auto.cdnok9.com/live/sd-6MuSs9oNwXZTPHMHfA/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",12h00: [KING] Anyang JungKwanJang vs Wonju DB
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",12h00: [BRIAN] Anyang JungKwanJang vs Wonju DB
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",12h00: [A CHÈ] Anyang JungKwanJang vs Wonju DB
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",12h00: [HUNTER] Anyang JungKwanJang vs Wonju DB
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",12h00: [CHAN SENA] Anyang JungKwanJang vs Wonju DB
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV HENRY] Anyang JungKwanJang vs Wonju DB
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",14h00: [KING] Samsung Blue Minx W vs KB Stars W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",14h00: [BRIAN] Samsung Blue Minx W vs KB Stars W
@@ -828,8 +846,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
