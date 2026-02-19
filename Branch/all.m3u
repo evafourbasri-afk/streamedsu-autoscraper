@@ -96,35 +96,11 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-20/02 Jagiellonia Bialystok Vs Fiorentina BLV QUAN VŨ
-https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-20/02 Panathinaikos Vs FC Viktoria Plzen BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-20/02 FK Shkendija 79 Vs Samsunspor BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-20/02 Lille Vs Crvena Zvezda BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-20/02 Celtic FC Vs VfB Stuttgart BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-20/02 Ludogorets Razgrad Vs Ferencvarosi TC BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-20/02 Omonia Nicosia FC Vs Rijeka BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-20/02 KF Drita Gjilan Vs NK Publikum Celje BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-20/02 CA Juventud Vs Guarani CA BLV THỜI THIÊN
-https://auto.cdnok9.com/live/sd-6MvVNq91mF4euPHuNL/playlist.m3u8
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h30-20/02 Atletico Paranaense Vs Corinthians Paulista (SP) BLV VƯƠNG LUÂN
-https://auto.cdnok9.com/live/sd-6MvZ6LxU5essgQB3Pa/playlist.m3u8
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-20/02 Lanus Vs Flamengo BLV TÔN LẬP
 https://auto.cdnok9.com/live/sd-6MvZ6HiwJi9HHj5oM6/playlist.m3u8
@@ -146,50 +122,14 @@ https://auto.cdnok9.com/live/sd-6MuTc8aHKcwBCainAG/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/02 Semen Padang Vs Malut United BLV LƯU BỊ
 https://auto.cdnok9.com/live/sd-6MuTNFjqvSKWxe1YTN/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV A WIN] Panathinaikos vs FC Viktoria Plzen
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",03h00: [KÉP] Panathinaikos vs FC Viktoria Plzen
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",03h00: [LOKA] Panathinaikos vs FC Viktoria Plzen
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV ADAM] Celtic FC vs VfB Stuttgart
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",03h00: [CR Bưởi] Celtic FC vs VfB Stuttgart
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",03h00: [SÙNG A MÚP] Celtic FC vs VfB Stuttgart
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV VODKA] Celtic FC vs VfB Stuttgart
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV KEM] Celtic FC vs VfB Stuttgart
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV 7UP] Celtic FC vs VfB Stuttgart
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",03h00: [LÃO LÂM] LOSC Lille vs Crvena Zvezda
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV ALEX] LOSC Lille vs Crvena Zvezda
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV VOI] LOSC Lille vs Crvena Zvezda
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV CÒ] LOSC Lille vs Crvena Zvezda
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",03h00: [Đình Bắc] Ludogorets Razgrad vs Ferencvarosi TC
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",03h00: [BÚA TẠ] Ludogorets Razgrad vs Ferencvarosi TC
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV Hổ Lùn] Jagiellonia Bialystok vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV GÔN] Jagiellonia Bialystok vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV CHIVAS] CA Juventud de Las Piedras vs Club Guarani
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV VITAMIN] CA Juventud de Las Piedras vs Club Guarani
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV LUCAS] CA Juventud de Las Piedras vs Club Guarani
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",05h30: [BLV ANH TÀI] Independiente Rivadavia vs CA Independiente
+#EXTINF:-1 group-title="Socolive_2",05h00: [BLV ANH TÀI] CA Juventud de Las Piedras vs Club Guarani
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",05h30: [BLV LUCAS] Independiente Rivadavia vs CA Independiente
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",05h30: [CÔNG CHẤT] Athletico Paranaense vs Sport Club Corinthians Paulista
 http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTINF:-1 group-title="Socolive_2",05h30: [BLV COZY] Athletico Paranaense vs Sport Club Corinthians Paulista
@@ -198,6 +138,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=531989
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",05h30: [BLV SATIVA] Athletico Paranaense vs Sport Club Corinthians Paulista
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTINF:-1 group-title="Socolive_2",05h30: [BLV FIREMAN] Athletico Paranaense vs Sport Club Corinthians Paulista
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTINF:-1 group-title="Socolive_2",05h30: [BLV XAVI] Athletico Paranaense vs Sport Club Corinthians Paulista
+http://sharing.gotdns.ch:8091/socolive.php?id=525090
 #EXTINF:-1 group-title="Socolive_2",06h30: [BLV RAMBO] FC Nacional Asuncion vs Sportivo Ameliano
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",06h30: [BLV TÔM] FC Nacional Asuncion vs Sportivo Ameliano
