@@ -96,23 +96,20 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-19/02 Chainat FC Vs Mahasarakham United FC BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-19/02 Gil Vicente U23 Vs Estoril U23 BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-19/02 Zambia (W) Vs Botswana   (W) BLV LEO
 https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h10-19/02 Belarus U16 Vs Uzbekistan U17 NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNqBy3N4PNNCUUt/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-19/02 Mumbai City Vs Chennai Titans BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-19/02 Sarpsborg 08 Vs Brno NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNqByDFioXapfWt/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-19/02 JENNIE Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-19/02 Belarus U17 Vs Tajikistan U16 NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNqBy3Z3nimL4FN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-19/02 Sarpsborg 08 Vs Brno NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNqByDFioXapfWt/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-19/02 FC Voluntari Vs CSA Steaua Bucuresti BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
@@ -125,14 +122,54 @@ https://auto.cdnok9.com/live/sd-6MvYqgT7T16rTpsBhE/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h45-20/02 Juventus (W) Vs VfL Wolfsburg (W) NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvZ6Hd3FeZpXBQKEL/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV SINGER] Gil Vicente U23 vs Estoril U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV XAVI] Gil Vicente U23 vs Estoril U23
-http://sharing.gotdns.ch:8091/socolive.php?id=525090
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV XO] Gil Vicente U23 vs Estoril U23
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV CÒ] Gil Vicente U23 vs Estoril U23
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-20/02 Al Ali CSC Vs Al-Shabbab NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVd3WhVWav1zM9HN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-20/02 Al-Budaiya Vs Al-Riffa NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVd3WhVdBMdRptk4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h45-20/02 AL Salt Vs Al-Jazeera NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVd3XQduTtyzCydv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h45-20/02 Ramtha Club Vs Al-Ahly NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVd3XQoGMaxVGLXN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h45-20/02 Al-Jndal Vs Al Raed NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYrBj8ZQX5bsorfv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h45-20/02 Al-Adalh Vs AL-Rbeea Jeddah NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYrBj8iocFSrh8iG/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h45-20/02 Al Anwar SA Vs Al-Jabalain NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYrBj8imQmaNsDZN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h45-20/02 Jubail Vs Al-Baten NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYrBj8ZNKbjPywX2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-20/02 Al Kholood Vs Al-Riyadh NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvXc75RdkcankigDS/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-20/02 Al-Ettifaq Vs Al-Fateh NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvXc75QnwffnpeJeg/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-20/02 Al-Ahli SFC Vs Al Najma(KSA) NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvXc74fyoSuqzdohE/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h30-20/02 El Mokawloon El Arab Vs Al Masry NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuPtu6mgVPprpvKvc/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h30-20/02 Pharco Vs Petrojet NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuPtu6mgTCLzM6Qmi/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h30-20/02 Al Ahly SC Vs El Gouna FC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuPtu6mqrHWqKygp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h30-20/02 Al-Wehda Vs Al Bukayriyah NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYrBj8ZUv3LqTgyi/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-20/02 Manchester United (W) Vs Atletico de Madrid (W) NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6Hd3FcNLehaQ5S/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",20h00: [LOKA] Zambia Women vs Botswana Women
 http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",20h00: [CÔNG CHẤT] Zambia Women vs Botswana Women
@@ -653,8 +690,6 @@ https://7pal.short.gy/ssportstn
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 1 4Mbps for 4G
 https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 2 4Mbps for 4G
-http://maho2025.xyz:80/play/live.php?mac=00:1A:79:39:e7:c6&stream=658435&extension=ts
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 3 4Mbps for 4G
 http://maho2025.xyz:80/play/live.php?mac=00:1A:79:39:e7:c6&stream=658436&extension=ts
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 4 4Mbps for 4G
@@ -883,8 +918,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Man
 https://livevlisctcdnw.seenow.vn/livesnv2/MAN/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Music Box
-https://toiyeuvietnam.dpdns.org/Start/VMT567_MusicBox
 #EXTINF:-1 group-title="TruyenHinh_2",Dr.Fit
 https://toiyeuvietnam.dpdns.org/Start/VMT456_DrFit
 #EXTINF:-1 group-title="TruyenHinh_2",Happy Kids
