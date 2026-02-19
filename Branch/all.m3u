@@ -99,14 +99,39 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-19/02 New Zealand Breakers Vs Cairns Taipans BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-19/02 Kahibah FC Reserves Vs Lambton Jaffas Reserves NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNq9jEp6nG9BTLY/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-19/02 FC Minsk U19 Vs Kazakhstan U17 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNqBy3HfRdQYeB6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h45-19/02 FC Macarthur Vs Bangkok United FC BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h50-19/02 Azerbaijan U18 Vs Russia U17 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNqBy3QFsEr2Pdn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-19/02 Swaziland (W) Vs Zimbabwe (W) NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNtNXhkq8zvZwP2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-19/02 Simal FK Vs Shahdagh Qusar NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNtNXYAkZoYZ5aC/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-19/02 Veres Rivne U21 Vs SC Poltava U21 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuQ8zyx4RrVAQChFr/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-19/02 Gagauziya Vs Olimp Comrat NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNtNYNdv9yACCkt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h10-19/02 Belarus U16 Vs Uzbekistan U17 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNqBy3N4PNNCUUt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-19/02 Belarus U17 Vs Tajikistan U16 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNqBy3Z3nimL4FN/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",13h30: [HUNTER] New Zealand Breakers vs Cairns Taipans
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",13h30: [BRIAN] New Zealand Breakers vs Cairns Taipans
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",13h30: [A CHÈ] New Zealand Breakers vs Cairns Taipans
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",13h30: [CHAN SENA] New Zealand Breakers vs Cairns Taipans
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",14h45: [SAO LA] Macarthur FC vs Bangkok United FC
@@ -161,8 +186,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=414317
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",17h00: [A CHÈ] Goyang Sono vs Seoul Thunders
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] Goyang Sono vs Seoul Thunders
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] KoGas vs Seoul Knights
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV A TÚ] Adana Demirspor vs Sivasspor
