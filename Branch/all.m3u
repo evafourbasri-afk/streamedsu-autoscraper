@@ -96,46 +96,14 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-19/02 National Defense Forces Vs Philadelphia Union BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV LUCAS] O.Higgins vs Bahia
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV RAMBO] O.Higgins vs Bahia
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV GÔN] O.Higgins vs Bahia
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",05h00: [A PÁO] O.Higgins vs Bahia
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV ENZO] National Defense Forces vs Philadelphia Union
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",06h00: [CÔNG CHẤT] National Defense Forces vs Philadelphia Union
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV COZY] National Defense Forces vs Philadelphia Union
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV ADAM] Nacional Potosi vs Botafogo RJ
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV GÔN] Nacional Potosi vs Botafogo RJ
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV BÉO] Nacional Potosi vs Botafogo RJ
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV SATIVA] Nacional Potosi vs Botafogo RJ
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",07h30: [LOGAN] Barcelona SC(ECU) vs Argentinos Juniors
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",07h30: [A PÁO] Barcelona SC(ECU) vs Argentinos Juniors
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV LIO] Barcelona SC(ECU) vs Argentinos Juniors
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV FIREMAN] Barcelona SC(ECU) vs Argentinos Juniors
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV ROBBEN] Atletico Junior Barranquilla vs America de Cali
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",07h30: [NGƯỜI THÉP] Atletico Junior Barranquilla vs America de Cali
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV CÒ] Atletico Junior Barranquilla vs America de Cali
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV  TYPN] Atletico Junior Barranquilla vs America de Cali
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-19/02 New Zealand Breakers Vs Cairns Taipans BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-19/02 UniversidadO M Vs FC Cincinnati BLV VƯƠNG LUÂN
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h00-19/02 Cartagines Deportiva SA Vs Vancouver Whitecaps BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",08h00: [BLV RAMBO] Universidad O&M vs FC Cincinnati
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",08h00: [BLV PEWPEW] Universidad O&M vs FC Cincinnati
@@ -148,10 +116,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=531989
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV VITAMIN] Antigua GFC vs Aurora F.C.
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",09h15: [BRIAN] Astros vs Angeles CDMX
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",09h15: [BLV HENRY] Astros vs Angeles CDMX
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",10h00: [BLV ADAM] CS Cartagines vs Vancouver Whitecaps
 http://sharing.gotdns.ch:8091/socolive.php?id=336303
 #EXTINF:-1 group-title="Socolive_2",10h00: [LOGAN] CS Cartagines vs Vancouver Whitecaps
@@ -166,6 +130,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534219
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",11h00: [CHAN SENA] Zonkeys de Tijuana vs Ostioneros de Guaymas
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
+#EXTINF:-1 group-title="Socolive_2",11h00: [BRIAN] Zonkeys de Tijuana vs Ostioneros de Guaymas
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",13h30: [HUNTER] New Zealand Breakers vs Cairns Taipans
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",13h30: [BRIAN] New Zealand Breakers vs Cairns Taipans
@@ -228,6 +194,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] Goyang Sono vs Seoul Thunders
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
+#EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] KoGas vs Seoul Knights
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV A TÚ] Adana Demirspor vs Sivasspor
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",17h30: [MR BÍCH] Adana Demirspor vs Sivasspor
@@ -417,6 +385,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=308080
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-20/02: [BLV GÔN] Jagiellonia Bialystok vs Fiorentina
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-20/02: [BLV CHIVAS] CA Juventud de Las Piedras vs Club Guarani
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-20/02: [BLV VITAMIN] CA Juventud de Las Piedras vs Club Guarani
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-20/02: [BLV ANH TÀI] Independiente Rivadavia vs CA Independiente
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -467,6 +441,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-20/02: [VƯƠNG ANH] Club Atlético Lanús vs CR Flamengo
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-20/02: [BLV SINGER] Deportivo Tachira F.C. vs Deportes Tolima
+http://sharing.gotdns.ch:8091/socolive.php?id=9912102
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-20/02: [BLV XAVI] Deportivo Tachira F.C. vs Deportes Tolima
+http://sharing.gotdns.ch:8091/socolive.php?id=525090
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-20/02: [BLV CHIVAS] Deportivo Tachira F.C. vs Deportes Tolima
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-20/02: [BLV VITAMIN] Deportivo Tachira F.C. vs Deportes Tolima
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-20/02: [BRIAN] New York Knicks vs Detroit Pistons
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
