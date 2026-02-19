@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",15h30-19/02 South Melbourne Vs Hume City BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",16h00-19/02 Kahibah FC Vs Lambton Jaffas FC BLV KHỔNG MINH
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -12,23 +9,20 @@ https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefd
 #EXTINF:-1 group-title="LuongSon_2",15h30-19/02  Melbourne United Vs South East Melbourne BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",15h45-19/02 MSPCC City Club Vs Dhaka Wanderers NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNqByD2XvJhsAbW/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",15h45-19/02 Shuktara Jubo Sangsad Vs Little Friends Club NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNqByD6vt3fWzuJ/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",16h30-19/02 Ayeyawady united Vs Laconi Lian BLV LEO
 https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",16h50-19/02 Azerbaijan U18 Vs Russia U17 NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNqBy3QFsEr2Pdn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",17h00-19/02 Gamba Osaka Vs Pohang Steelers BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",17h00-19/02 Swaziland (W) Vs Zimbabwe (W) NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNtNXhkq8zvZwP2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",17h00-19/02 Gamba Osaka Vs Pohang Steelers BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2",17h00-19/02 Spain U19 Vs Norway U19 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNq9jFP4zKLaCdz/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",17h00-19/02 Bosnia and Herzegovina U19 Vs Montenegro U18 NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNq9jFLsWSrkHV6/playlist.m3u8
@@ -36,8 +30,23 @@ https://auto.cdnok9.com/live/sd-6MvVNq9jFLsWSrkHV6/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",17h00-19/02 Italy U18 Vs Ukraine U18 NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNtNXhVSmuZnXJk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",17h30-19/02 FK Safa Vs E Nel G Tick BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",17h30-19/02 Sariyer Vs Amedspor BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",17h30-19/02 Belediye Vanspor Vs Bodrumspor BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",17h30-19/02 Adana Demirspor Vs Sivasspor BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-19/02 Gagauziya Vs Olimp Comrat NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNtNYNdv9yACCkt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",18h00-19/02 Zaqatala FK Vs Difai Agsu FK BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-19/02 Simal FK Vs Shahdagh Qusar NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNtNXYAkZoYZ5aC/playlist.m3u8
