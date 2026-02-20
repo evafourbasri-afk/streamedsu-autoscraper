@@ -96,35 +96,23 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persija Jakarta Vs PSM Makassar BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Veres Vs SC Poltava BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persik Kediri Vs Bhayangkara Solo FC BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/02 Semen Padang Vs Malut United BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/02 Mohammedan SC Vs FC Goa BLV DƯƠNG CHÍ
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/02 Semen Padang Vs Malut United BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persija Jakarta Vs PSM Makassar BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/02 JENNIE Vs OK9 TV MEGA LIVE
 https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
-#EXTINF:-1 group-title="Socolive_2",19h30: [A PÁO] Balestier Khalsa FC vs Geylang United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",19h30: [KÉP] Balestier Khalsa FC vs Geylang United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",19h30: [XUÂN SON] Balestier Khalsa FC vs Geylang United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",19h30: [BLV SATIVA] Balestier Khalsa FC vs Geylang United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV Hổ Lùn] Turan Tovuz vs Zira FK
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
-#EXTINF:-1 group-title="Socolive_2",20h00: [MR BÍCH] Turan Tovuz vs Zira FK
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV KINH TẾ] Persatuan Sepakbola Indonesia Jakarta vs Persatuan Sepakbola Makassar
 http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTINF:-1 group-title="Socolive_2",20h30: [THẠCH TÚ] Persatuan Sepakbola Indonesia Jakarta vs Persatuan Sepakbola Makassar
