@@ -96,20 +96,32 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-20/02 Arsenal Vs Sunderland A.F.C BLV LƯU BỊ REPLAY
-https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-20/02  Brisbane Bullets Vs Sydney BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h35-20/02 Adelaide United Vs Perth Glory BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-20/02 Melbourne Victory (W) Vs Wellington Phoenix (W) BLV TÔN LẬP
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h40-20/02 Manly United Vs A.P.I.A. Leichhardt Tigers BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-20/02 Central Coast Mariners (W) Vs Melbourne City (W) BLV LEO
 https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h35-20/02 Adelaide United Vs Perth Glory BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-20/02 Hearst Neville Vs Inter Lions BLV DƯƠNG CHÍ
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-20/02 Edgeworth Eagles FC Vs Broadmeadow Magic BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-20/02  Brisbane Bullets Vs Sydney BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h15-20/02 Blacktown Spartans Vs Hake Ya Dong in Sydney City BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-20/02 Preston Lions Vs St Albans Saints BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persik Kediri Vs Bhayangkara Solo FC BLV NGŨ CA
 https://auto.cdnok9.com/live/sd-6MuTNFkb5Ms7DuGRUp/playlist.m3u8
@@ -156,13 +168,15 @@ http://sharing.gotdns.ch:8091/socolive.php?id=548860
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTINF:-1 group-title="Socolive_2",15h45: [BLV ROBBEN] Dandenong City SC vs Melbourne City NPL
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
+#EXTINF:-1 group-title="Socolive_2",16h00: [BLV VIP] Edgeworth Eagles FC vs Broadmeadow Magic
+http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",16h15: [NGƯỜI THÉP] Oakleigh Cannons vs Altona Magic
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",16h15: [BLV KINH TẾ] Oakleigh Cannons vs Altona Magic
 http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",16h15: [BLV RAMBO] Bentleigh greens vs Avondale FC
+#EXTINF:-1 group-title="Socolive_2",16h30: [BLV RAMBO] Bentleigh greens vs Avondale FC
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",16h15: [LOGAN] Bentleigh greens vs Avondale FC
+#EXTINF:-1 group-title="Socolive_2",16h30: [LOGAN] Bentleigh greens vs Avondale FC
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2",16h30: [LÃO LÂM] Preston Lions vs St Albans Saints
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
@@ -707,9 +721,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-21/02: [BLV MIXI] FC Dobrudzha Dobrich vs PFK Montana
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-21/02: [SAO LA] Karvan Evlakh vs Araz Nakhchivan
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-21/02: [CÔNG LÝ] Chiangrai United vs Chonburi FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -963,7 +974,7 @@ https://hnlive.dramahay.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",KuboCast
 https://hnlive.dramahay.xyz/live/kubocast/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TXBN
-https://hn-api.dramahay.xyz/live/TXBN/index.m3u8
+https://hnlive.dramahay.xyz/live/TXBN/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SG Network
 https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/devonlynino/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel (server 1)
