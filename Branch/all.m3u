@@ -95,27 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-21/02 Caykur Rizespor Vs Kocaelispor BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-21/02 VfL Bochum Vs Nurnberg BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-21/02 Piast Gliwice Vs Motor Lublin BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-21/02 Nordsjaelland Vs Vejle BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-21/02 Greuther Furth Vs Arminia Bielefeld BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="Socolive_2",00h00: [SON HÍP] Caykur Rizespor vs Kocaelispor
-http://sharing.gotdns.ch:8091/socolive.php?id=586938
-#EXTINF:-1 group-title="Socolive_2",00h00: [MR BÍCH] Caykur Rizespor vs Kocaelispor
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV A WIN] Piast Gliwice vs Motor Lublin
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",00h30: [BLV MESSI] VfL Bochum 1848 vs 1. FC Nürnberg
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTINF:-1 group-title="Socolive_2",00h30: [BLV A BỆU] VfL Bochum 1848 vs 1. FC Nürnberg
@@ -170,14 +149,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=536185
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV PEWPEW] Athletic Club vs Elche
 http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV VODKA] Athletic Club vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV XO] Athletic Club vs Elche
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV ANH TÀI] Athletic Club vs Elche
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV CÒ] Athletic Club vs Elche
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTINF:-1 group-title="Socolive_2",03h00: [KÉP] Athletic Club vs Elche
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV TÔM] Blackburn Rovers vs Preston North End
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",03h45: [BLV FIREMAN] CF Estrela Amadora SAD vs CD Tondela
