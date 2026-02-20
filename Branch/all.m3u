@@ -96,13 +96,8 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h45-21/02 Estrela da Amadora Vs CD Tondela BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-21/02 Boca Juniors Vs Racing Club BLV VƯƠNG LUÂN
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="Socolive_2",03h45: [BLV FIREMAN] CF Estrela Amadora SAD vs CD Tondela
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",06h00: [NGƯỜI THÉP] Boca Juniors vs Racing Club de Avellaneda
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",06h00: [BLV SATIVA] Boca Juniors vs Racing Club de Avellaneda
@@ -175,8 +170,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=356042
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",10h00: [HUNTER] Portland Trail Blazers vs Denver Nuggets
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV DECO] Puebla vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",11h00: [RICKHANTER] Puebla vs Club America
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",11h00: [BLV COCA] Puebla vs Club America
@@ -187,6 +180,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",11h00: [CR Bưởi] Puebla vs Club America
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTINF:-1 group-title="Socolive_2",11h00: [SÙNG A MÚP] Puebla vs Club America
+http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTINF:-1 group-title="Socolive_2",11h00: [BLV  TYPN] Wellington Phoenix vs Auckland FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",11h00: [BLV BÉO] Wellington Phoenix vs Auckland FC
