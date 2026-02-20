@@ -96,38 +96,23 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-20/02 Prachuap Khiri Khan Vs Rayong FC BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persik Kediri Vs Bhayangkara Solo FC BLV NGŨ CA
-https://auto.cdnok9.com/live/sd-6MuTNFkb5Ms7DuGRUp/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persija Jakarta Vs PSM Makassar BLV TRIỆU TỬ LONG
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Veres Vs SC Poltava BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persik Kediri Vs Bhayangkara Solo FC BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/02 Semen Padang Vs Malut United BLV LƯU BỊ
-https://auto.cdnok9.com/live/sd-6MuTNFjqvSKWxe1YTN/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV A TÚ] Cagliari U20 vs US Cremonese U20
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV XO] Cagliari U20 vs US Cremonese U20
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",19h00: [Lửng Mật] Cagliari U20 vs US Cremonese U20
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV BÉO] PT Prachuap FC vs Rayong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h00: [VƯƠNG ANH] PT Prachuap FC vs Rayong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",19h00: [RED BULL] PT Prachuap FC vs Rayong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",19h00: [SAO LA] PT Prachuap FC vs Rayong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",19h00: [SÙNG A MÚP] PT Prachuap FC vs Rayong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV A BỆU] PT Prachuap FC vs Rayong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/02 Mohammedan SC Vs FC Goa BLV DƯƠNG CHÍ
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/02 JENNIE Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
 #EXTINF:-1 group-title="Socolive_2",19h30: [A PÁO] Balestier Khalsa FC vs Geylang United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",19h30: [KÉP] Balestier Khalsa FC vs Geylang United FC
