@@ -1,19 +1,13 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",07h00-20/02 aCharlotte Hornets Vs Houston Rockets BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",10h00-20/02 Golden State Warriors Vs Boston Celtics BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",08h00-20/02 Sporting San Miguelito Vs Los Angeles Galaxy BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",20h30-20/02 Persija Jakarta Vs PSM Makassar BLV TRIỆU TỬ LONG
+https://auto.cdnok9.com/live/sd-6MuTNFkb54HGG4f6Fe/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",20h30-20/02 Persik Kediri Vs Bhayangkara Solo FC BLV NGŨ CA
 https://auto.cdnok9.com/live/sd-6MuTNFkb5Ms7DuGRUp/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",20h30-20/02 Persija Jakarta Vs PSM Makassar BLV TRIỆU TỬ LONG
-https://auto.cdnok9.com/live/sd-6MuTNFkb54HGG4f6Fe/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",20h30-20/02 Veres Vs SC Poltava BLV LÝ ỨNG
 https://auto.cdnok9.com/live/sd-6MuTc8aHKcwBCainAG/playlist.m3u8

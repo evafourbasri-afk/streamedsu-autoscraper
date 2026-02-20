@@ -96,79 +96,27 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-20/02 aCharlotte Hornets Vs Houston Rockets BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h00-20/02 Golden State Warriors Vs Boston Celtics BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-20/02 Sporting San Miguelito Vs Los Angeles Galaxy BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persija Jakarta Vs PSM Makassar BLV TRIỆU TỬ LONG
+https://auto.cdnok9.com/live/sd-6MuTNFkb54HGG4f6Fe/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persik Kediri Vs Bhayangkara Solo FC BLV NGŨ CA
 https://auto.cdnok9.com/live/sd-6MuTNFkb5Ms7DuGRUp/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persija Jakarta Vs PSM Makassar BLV TRIỆU TỬ LONG
-https://auto.cdnok9.com/live/sd-6MuTNFkb54HGG4f6Fe/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Veres Vs SC Poltava BLV LÝ ỨNG
 https://auto.cdnok9.com/live/sd-6MuTc8aHKcwBCainAG/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/02 Semen Padang Vs Malut United BLV LƯU BỊ
 https://auto.cdnok9.com/live/sd-6MuTNFjqvSKWxe1YTN/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",07h30: [CÔNG CHẤT] Club Atlético Lanús vs CR Flamengo
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV  TYPN] Club Atlético Lanús vs CR Flamengo
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV BÉO] Club Atlético Lanús vs CR Flamengo
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",07h30: [VƯƠNG ANH] Club Atlético Lanús vs CR Flamengo
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV SINGER] Deportivo Tachira F.C. vs Deportes Tolima
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV XAVI] Deportivo Tachira F.C. vs Deportes Tolima
-http://sharing.gotdns.ch:8091/socolive.php?id=525090
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV CHIVAS] Deportivo Tachira F.C. vs Deportes Tolima
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV VITAMIN] Deportivo Tachira F.C. vs Deportes Tolima
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",07h35: [KING] Charlotte Hornets vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",07h35: [A CHÈ] Charlotte Hornets vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",07h35: [CHAN SENA] Cleveland Cavaliers vs Brooklyn Nets
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV MESSI] Sporting San Miguelito vs Los Angeles Galaxy
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",08h00: [RICKHANTER] Sporting San Miguelito vs Los Angeles Galaxy
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV COCA] Sporting San Miguelito vs Los Angeles Galaxy
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV TOMMY] Sporting San Miguelito vs Los Angeles Galaxy
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV TAP] Sporting San Miguelito vs Los Angeles Galaxy
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV SATIVA] Sporting San Miguelito vs Los Angeles Galaxy
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV ANH TÀI] Argentina Women U20 vs Ecuador Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV LUCAS] Argentina Women U20 vs Ecuador Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV FIREMAN] UNAN Managua vs Managua FC
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",08h00: [LOGAN] UNAN Managua vs Managua FC
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",08h05: [BRIAN] New York Knicks vs Detroit Pistons
+#EXTINF:-1 group-title="Socolive_2",10h35: [BRIAN] Golden State Warriors vs Boston Celtics
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",08h35: [HUNTER] Chicago Bulls vs Toronto Raptors
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",10h00: [BRIAN] Golden State Warriors vs Boston Celtics
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",10h00: [A CHÈ] Golden State Warriors vs Boston Celtics
+#EXTINF:-1 group-title="Socolive_2",10h35: [A CHÈ] Golden State Warriors vs Boston Celtics
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",10h30: [HUNTER] Los Angeles Clippers vs Denver Nuggets
+#EXTINF:-1 group-title="Socolive_2",11h05: [HUNTER] Los Angeles Clippers vs Denver Nuggets
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",10h30: [CHAN SENA] Los Angeles Clippers vs Denver Nuggets
+#EXTINF:-1 group-title="Socolive_2",11h05: [CHAN SENA] Los Angeles Clippers vs Denver Nuggets
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV MESSI] Central Coast Mariners women vs Melbourne City Women
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
