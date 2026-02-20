@@ -96,28 +96,19 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-20/02 Bentleigh greens Vs Avondale FC BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h35-20/02 Adelaide United Vs Perth Glory BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-20/02 Hearst Neville Vs Inter Lions BLV DƯƠNG CHÍ
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-20/02 Moreton City Excelsior FC Vs Gold Coast Knights BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-20/02 Preston Lions Vs St Albans Saints BLV TẦN CA
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-20/02 Edgeworth Eagles FC Vs Broadmeadow Magic BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-20/02 Bentleigh greens Vs Avondale FC BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-20/02 Moreton City Excelsior FC Vs Gold Coast Knights BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-20/02 Academico Viseu U23 Vs Braga U23 BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h40-20/02 Manly United Vs A.P.I.A. Leichhardt Tigers BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-20/02  Brisbane Bullets Vs Sydney BLV YẾN THANH
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-20/02 Perth Vs Adelaide BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persik Kediri Vs Bhayangkara Solo FC BLV NGŨ CA
@@ -131,32 +122,6 @@ https://auto.cdnok9.com/live/sd-6MuTc8aHKcwBCainAG/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/02 Semen Padang Vs Malut United BLV LƯU BỊ
 https://auto.cdnok9.com/live/sd-6MuTNFjqvSKWxe1YTN/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV MIXI] Green Gully Cavaliers vs Caroline Springs George Cross
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV TÔM] Manly United vs APIA Leichhardt Tigers
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",15h30: [KING] Brisbane Bullets vs Sydney
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",15h30: [BRIAN] Brisbane Bullets vs Sydney
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",15h30: [A CHÈ] Brisbane Bullets vs Sydney
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",15h35: [RICKHANTER] Adelaide United vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",15h35: [THẠCH TÚ] Adelaide United vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV DECO] Adelaide United vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV VOI] Adelaide United vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",15h35: [VƯƠNG ANH] Adelaide United vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",15h35: [SAO LA] Adelaide United vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",15h45: [BLV ROBBEN] Dandenong City SC vs Melbourne City NPL
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV VIP] Edgeworth Eagles FC vs Broadmeadow Magic
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",16h15: [NGƯỜI THÉP] Oakleigh Cannons vs Altona Magic
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",16h15: [BLV KINH TẾ] Oakleigh Cannons vs Altona Magic
@@ -708,6 +673,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-21/02: [BLV MIXI] FC Dobrudzha Dobrich vs PFK Montana
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-21/02: [BLV GÔN] Karvan Evlakh vs Araz Nakhchivan
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-21/02: [CÔNG LÝ] Chiangrai United vs Chonburi FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -1092,6 +1060,8 @@ https://rumble.com/hls-vod/73k35o/playlist.m3u8
 https://rumble.com/hls-vod/73os1q/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Hùng Long Phong Bá Phần 4 - Tập 4
 https://rumble.com/hls-vod/73s4u6/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Hùng Long Phong Bá Phần 4 - Tập 5
+https://rumble.com/hls-vod/73txdq/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
