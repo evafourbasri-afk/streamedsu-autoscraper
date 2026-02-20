@@ -96,24 +96,20 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h00-20/02 Golden State Warriors Vs Boston Celtics BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persija Jakarta Vs PSM Makassar BLV TRIỆU TỬ LONG
-https://auto.cdnok9.com/live/sd-6MuTNFkb54HGG4f6Fe/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-20/02 Arsenal Vs Sunderland A.F.C BLV LƯU BỊ REPLAY
+https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persik Kediri Vs Bhayangkara Solo FC BLV NGŨ CA
 https://auto.cdnok9.com/live/sd-6MuTNFkb5Ms7DuGRUp/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Persija Jakarta Vs PSM Makassar BLV TRIỆU TỬ LONG
+https://auto.cdnok9.com/live/sd-6MuTNFkb54HGG4f6Fe/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/02 Veres Vs SC Poltava BLV LÝ ỨNG
 https://auto.cdnok9.com/live/sd-6MuTc8aHKcwBCainAG/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/02 Semen Padang Vs Malut United BLV LƯU BỊ
 https://auto.cdnok9.com/live/sd-6MuTNFjqvSKWxe1YTN/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",10h35: [BRIAN] Golden State Warriors vs Boston Celtics
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",10h35: [A CHÈ] Golden State Warriors vs Boston Celtics
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",11h05: [HUNTER] Los Angeles Clippers vs Denver Nuggets
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",11h05: [CHAN SENA] Los Angeles Clippers vs Denver Nuggets
