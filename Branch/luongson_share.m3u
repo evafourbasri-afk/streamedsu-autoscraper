@@ -1,7 +1,22 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",22h00-21/02 Aston Villa Vs Leeds United BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",22h00-21/02 Brentford Vs Brighton Hove Albion BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",22h00-21/02 Chelsea Vs Burnley BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",21h00-21/02 LANA Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",20h00-21/02 Real Sociedad Vs Real Oviedo BLV TRIỆU TỬ LONG
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",21h00-21/02 Juventus Vs Como BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",21h30-21/02 Union Berlin Vs Bayer Leverkusen BLV QUAN VŨ
 https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
@@ -9,17 +24,11 @@ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bb
 #EXTINF:-1 group-title="LuongSon_2",21h30-21/02 Bayern Munchen Vs Eintracht Frankfurt BLV TÔN LẬP
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",21h30-21/02 VfL Wolfsburg Vs Augsburg BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",21h30-21/02 FC Koln Vs TSG Hoffenheim BLV TẦN CA
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",21h00-21/02 LANA Vs OK9 TV MEGA LIVE
-https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTINF:-1 group-title="LuongSon_2",21h30-21/02 VfL Wolfsburg Vs Augsburg BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",21h00-21/02 Juventus Vs Como BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",22h00-21/02 Brentford Vs Brighton Hove Albion BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2",22h15-21/02 Real Betis Vs Rayo Vallecano BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
