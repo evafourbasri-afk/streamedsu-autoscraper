@@ -135,6 +135,8 @@ https://rumble.com/hls-vod/73os1q/playlist.m3u8
 https://rumble.com/hls-vod/73s4u6/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Hùng Long Phong Bá Phần 4 - Tập 5
 https://rumble.com/hls-vod/73txdq/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Hùng Long Phong Bá Phần 4 - Tập Cuối
+https://rumble.com/hls-vod/73vrdu/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
@@ -143,6 +145,8 @@ https://rumble.com/hls-vod/72nhy6/playlist.m3u8
 https://rumble.com/hls-vod/73bg84/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 4
 https://rumble.com/hls-vod/73gpe4/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 5
+https://rumble.com/hls-vod/73uq6q/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
@@ -155,8 +159,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -261,6 +263,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Man
 https://livevlisctcdnw.seenow.vn/livesnv2/MAN/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",Music Box
+https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Dr.Fit
 https://toiyeuvietnam.dpdns.org/Start/VMT456_DrFit
 #EXTINF:-1 group-title="TruyenHinh_2",Happy Kids
