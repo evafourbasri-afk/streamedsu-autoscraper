@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-22/02 Manchester City Vs Newcastle United BLV THỜI THIÊN
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-22/02 Al Hilal Vs Al-Ittihad BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h45-22/02 Cagliari Vs Lazio BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-22/02 Atletico Madrid Vs RCD Espanyol BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h05-22/02 Paris Saint Germain (PSG) Vs Metz BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h30-22/02 Sporting Braga Vs Vitoria Guimaraes BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="Socolive_2",02h00: [SON HÍP] Al Hilal vs Al Ittihad Club
-http://sharing.gotdns.ch:8091/socolive.php?id=586938
-#EXTINF:-1 group-title="Socolive_2",02h00: [Đình Bắc] Al Nassr FC vs Al Hazem
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",02h00: [Lửng Mật] Al Nassr FC vs Al Hazem
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
 #EXTINF:-1 group-title="Socolive_2",02h45: [BLV A TÚ] Cagliari vs Lazio
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",02h45: [A PÁO] Cagliari vs Lazio
