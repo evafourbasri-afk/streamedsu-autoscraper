@@ -96,38 +96,14 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-21/02 Charlotte Hornets Vs Cleveland Cavaliers BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h00-21/02 Los Angeles Lakers Vs  Los Angeles Clippers BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h05-21/02 Puebla Vs Club America BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="Socolive_2",10h00: [LOGAN] Santos Laguna Women vs Toluca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV ANH TÀI] Santos Laguna Women vs Toluca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV COZY] Santos Laguna Women vs Toluca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",10h00: [A CHÈ] Los Angeles Lakers vs Los Angeles Clippers
+#EXTINF:-1 group-title="Socolive_2",10h35: [A CHÈ] Los Angeles Lakers vs Los Angeles Clippers
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",10h00: [CHAN SENA] Portland Trail Blazers vs Denver Nuggets
+#EXTINF:-1 group-title="Socolive_2",10h35: [CHAN SENA] Portland Trail Blazers vs Denver Nuggets
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",10h00: [HUNTER] Portland Trail Blazers vs Denver Nuggets
+#EXTINF:-1 group-title="Socolive_2",10h35: [HUNTER] Portland Trail Blazers vs Denver Nuggets
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV COCA] Puebla vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",11h00: [TẠ BIÊN GIỚI] Puebla vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",11h00: [THẠCH TÚ] Puebla vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",11h00: [CR Bưởi] Puebla vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",11h00: [SÙNG A MÚP] Puebla vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV VODKA] Puebla vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",11h00: [BLV  TYPN] Wellington Phoenix vs Auckland FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",11h00: [BLV BÉO] Wellington Phoenix vs Auckland FC
@@ -150,8 +126,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=235232
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2",12h00: [VƯƠNG ANH] Yokohama F. Marinos vs Urawa Red Diamonds
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV Hổ Lùn] Yokohama F. Marinos vs Urawa Red Diamonds
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
 #EXTINF:-1 group-title="Socolive_2",12h00: [SAO LA] Yokohama F. Marinos vs Urawa Red Diamonds
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTINF:-1 group-title="Socolive_2",12h00: [KING] Busan BNK Sum W vs Samsung Blue Minx W
@@ -1230,6 +1204,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
