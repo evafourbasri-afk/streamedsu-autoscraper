@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",04h45: [BLV SATIVA] FC Cincinnati vs Atlanta United
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",05h15: [BLV CHIVAS] Deportivo Riestra vs CA Huracan
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",05h35: [HUNTER] Phoenix Suns vs Orlando Magic
@@ -683,14 +681,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTINF:-1 group-title="Socolive_2",16h00-23/02: [BLV HENRY] Enisey Krasnoyarsk W vs Samara W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",16h00-23/02: [A CHÈ] Enisey Krasnoyarsk W vs Samara W
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",17h00-23/02: [BRIAN] KB Stars W vs Hana Bank W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",17h00-23/02: [CHAN SENA] KB Stars W vs Hana Bank W
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",17h00-23/02: [A CHÈ] KB Stars W vs Hana Bank W
+http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",17h30-23/02: [BLV TOMMY] Sariyer vs Adana Demirspor
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
