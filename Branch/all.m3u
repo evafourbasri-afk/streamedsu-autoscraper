@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",07h35: [BRIAN] New Orleans Pelicans vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",07h35: [A CHÈ] New Orleans Pelicans vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV NIBO] Club Leon vs Santos Laguna
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV COZY] Club Leon vs Santos Laguna
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",08h00: [LOGAN] Necaxa vs Toluca
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",08h00: [CÔNG LÝ] Necaxa vs Toluca
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV SATIVA] Necaxa vs Toluca
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV SINGER] Necaxa vs Toluca
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",08h00: [KING] Chicago Bulls vs Detroit Pistons
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV HENRY] San Antonio Spurs vs Sacramento Kings
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV RAMBO] Houston Dynamo vs Chicago Fire
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV GÔN] Houston Dynamo vs Chicago Fire
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",08h30: [HUNTER] New York Knicks vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",08h30: [CHAN SENA] New York Knicks vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV COCA] Los Angeles FC vs Inter Miami CF
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV 7UP] Los Angeles FC vs Inter Miami CF
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",09h30: [TAM MAO] Los Angeles FC vs Inter Miami CF
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV TAP] Los Angeles FC vs Inter Miami CF
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV PIRLO] Los Angeles FC vs Inter Miami CF
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV ĐỐM] Los Angeles FC vs Inter Miami CF
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",10h05: [BLV  TYPN] Cruz Azul vs Club Deportivo Guadalajara
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",10h05: [BLV XO] Cruz Azul vs Club Deportivo Guadalajara
@@ -990,6 +950,8 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
