@@ -1,19 +1,25 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-22/02 Fagiano Okayama Vs Gamba Osaka BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-22/02 Mito Hollyhock Vs JEF United Ichihara Chiba BLV MAYBACH
 https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-22/02 Central Coast Mariners Vs Western Sydney BLV THỜI THIÊN
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-22/02 Fagiano Okayama Vs Gamba Osaka BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-22/02 Cerezo Osaka Vs Hiroshima Sanfrecce BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h10-22/02 Club Tijuana Vs Mazatlan FC BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-22/02 Cerezo Osaka Vs Hiroshima Sanfrecce BLV GIÁO SƯ XOAY
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-22/02 Central Coast Mariners Vs Western Sydney BLV THỜI THIÊN
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-22/02 Brisbane Roar (W) Vs Adelaide United (W) BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-22/02 Newcastle Jets Vs FC Macarthur BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV NIBO] Mito Hollyhock vs JEF United Ichihara Chiba
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV LUCAS] Mito Hollyhock vs JEF United Ichihara Chiba
@@ -462,11 +468,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/02: [BLV BÉO] Pumas U.N.A.M. vs Monterrey
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/02: [BLV KINH TẾ] Pumas U.N.A.M. vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/02: [BLV CÒ] Pumas U.N.A.M. vs Monterrey
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/02: [BLV XAVI] Pumas U.N.A.M. vs Monterrey
+http://sharing.gotdns.ch:8091/socolive.php?id=525090
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/02: [KING] Washington Wizards vs Charlotte Hornets
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
@@ -576,11 +582,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=372746
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-23/02: [BLV LUCAS] Xelaju MC vs Deportivo Mixco
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-23/02: [BLV CHIVAS] Xelaju MC vs Deportivo Mixco
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-23/02: [BLV CÒ] Xelaju MC vs Deportivo Mixco
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-23/02: [NGƯỜI THÉP] Xelaju MC vs Deportivo Mixco
+http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-23/02: [KING] Los Angeles Clippers vs Orlando Magic
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
@@ -702,11 +708,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-23/02: [BLV  TYPN] Pendikspor vs Keciorengucu
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-23/02: [NGƯỜI THÉP] Pendikspor vs Keciorengucu
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-23/02: [BLV ENZO] Pendikspor vs Keciorengucu
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-23/02: [BLV CHIVAS] Pendikspor vs Keciorengucu
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-23/02: [Đình Bắc] Namibia Women vs Madagascar Women
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
