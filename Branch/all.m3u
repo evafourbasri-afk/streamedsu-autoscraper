@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-24/02 Zimbabwe (W) Vs Botswana   (W) BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-24/02 Dagon FC Vs Laconi Lian BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h20-24/02 Arsenal Vs Sunderland A.F.C BLV LƯU BỊ REPLAY
-https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-24/02 Hantharwady United Vs Yadanabon FC BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-24/02 Alaves Vs Girona BLV PHONG VÂN REPLAY
-https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-24/02 Zambia (W) Vs Swaziland (W) BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-24/02 South Melbourne Vs Tahiti United FC BLV KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV VIP] South Melbourne vs Tahiti United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV GÔN] South Melbourne vs Tahiti United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV SÓI] South Melbourne vs Tahiti United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-24/02 Qabala Vs Turan Tovuz NHÀ ĐÀI
+rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MvY6UexuNNidEhZVW/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-25/02 Gent B Vs Olympic Charleroi NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuTcJQyKVZ5JyN7EL/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV Củ Cải] Dagon Star United vs Rakhine United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV RAMBO] Dagon Star United vs Rakhine United FC
@@ -297,6 +297,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h15-25/02: [BLV SATIVA] San Lorenzo vs Instituto de Córdoba
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h15-25/02: [BLV CÒ] San Lorenzo vs Instituto de Córdoba
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h45-25/02: [HOA VINH] Central Cordoba SDE vs Talleres Cordoba
 http://sharing.gotdns.ch:8091/socolive.php?id=579055
