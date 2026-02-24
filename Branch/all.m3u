@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV MIXI] Sabail FC vs Baku Sporting FK
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV KAN] Sabail FC vs Baku Sporting FK
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ANH TÀI] Angola Women vs Malawi Women
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",20h00: [KÉP] Angola Women vs Malawi Women
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV VITAMIN] South Africa Women vs Lesotho Women
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",20h00: [NGƯỜI THÉP] South Africa Women vs Lesotho Women
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",20h00: [LÃO LÂM] Inter Milan(U19) vs Real Betis(U19)
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A BỆU] Inter Milan(U19) vs Real Betis(U19)
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV XO] Inter Milan(U19) vs Real Betis(U19)
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV KINH TẾ] Inter Milan(U19) vs Real Betis(U19)
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV SINGER] Inter Milan(U19) vs Real Betis(U19)
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV PEWPEW] Inter Milan(U19) vs Real Betis(U19)
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV ĐỐM] Bhayangkara Presisi Indonesia FC vs Semen Padang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV KEM] Bhayangkara Presisi Indonesia FC vs Semen Padang
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",20h30: [TẠ BIÊN GIỚI] Bhayangkara Presisi Indonesia FC vs Semen Padang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV TOMMY] Bhayangkara Presisi Indonesia FC vs Semen Padang
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV TAP] Bhayangkara Presisi Indonesia FC vs Semen Padang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV BÉO] Odisha FC vs Inter Kashi
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ADAM] Odisha FC vs Inter Kashi
@@ -80,6 +46,60 @@ http://sharing.gotdns.ch:8091/socolive.php?id=586938
 #EXTINF:-1 group-title="Socolive_2",22h30: [BLV KAN] Yantra Gabrovo vs Etar
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2",22h30: [A PÁO] Yantra Gabrovo vs Etar
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [BLV WUKONG] Estrela FC U23 vs Estoril U23
+http://sharing.gotdns.ch:8091/socolive.php?id=511367
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [LOKA] Estrela FC U23 vs Estoril U23
+http://sharing.gotdns.ch:8091/socolive.php?id=589848
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [BLV A WIN] Estrela FC U23 vs Estoril U23
+http://sharing.gotdns.ch:8091/socolive.php?id=536185
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [BLV VIP] Farense U23 vs Uniao Leiria U23
+http://sharing.gotdns.ch:8091/socolive.php?id=491873
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [NGƯỜI THÉP] Farense U23 vs Uniao Leiria U23
+http://sharing.gotdns.ch:8091/socolive.php?id=568233
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [BÚA TẠ] Farense U23 vs Uniao Leiria U23
+http://sharing.gotdns.ch:8091/socolive.php?id=570313
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [BLV ENZO] Eintracht Frankfurt(U19) vs Sporting Lisbon(U19)
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [RED BULL] Eintracht Frankfurt(U19) vs Sporting Lisbon(U19)
+http://sharing.gotdns.ch:8091/socolive.php?id=547345
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [CR Bưởi] Eintracht Frankfurt(U19) vs Sporting Lisbon(U19)
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [BLV PIRLO] Eintracht Frankfurt(U19) vs Sporting Lisbon(U19)
+http://sharing.gotdns.ch:8091/socolive.php?id=351530
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [RICKHANTER] Eintracht Frankfurt(U19) vs Sporting Lisbon(U19)
+http://sharing.gotdns.ch:8091/socolive.php?id=9912101
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/02: [BLV XO] Eintracht Frankfurt(U19) vs Sporting Lisbon(U19)
+http://sharing.gotdns.ch:8091/socolive.php?id=472241
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h30-24/02: [BLV LIO] Concordia Chiajna vs Corvinul Hunedoara
+http://sharing.gotdns.ch:8091/socolive.php?id=564362
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h30-24/02: [Đình Bắc] Concordia Chiajna vs Corvinul Hunedoara
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h30-24/02: [TẠ BIÊN GIỚI] Concordia Chiajna vs Corvinul Hunedoara
+http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h30-24/02: [SON HÍP] Yantra Gabrovo vs Etar
+http://sharing.gotdns.ch:8091/socolive.php?id=586938
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h30-24/02: [BLV KAN] Yantra Gabrovo vs Etar
+http://sharing.gotdns.ch:8091/socolive.php?id=283501
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h30-24/02: [A PÁO] Yantra Gabrovo vs Etar
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-25/02: [NGƯỜI THÉP] Barbados U20 vs The Saint Martin U20
