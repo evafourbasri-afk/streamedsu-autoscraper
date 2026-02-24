@@ -1,7 +1,13 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",11h45-24/02 South Island United FC Vs Auckland FC Reserves BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",12h20-24/02 Arsenal Vs Sunderland A.F.C BLV LƯU BỊ REPLAY
+https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",09h30-24/02 Houston Rockets Vs Utah Jazz BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",11h00-24/02 Bangalore Eagles Vs Jawahar Union NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5hZgjiShjHSwgp/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",11h00-24/02 Kyunghee University Vs Yonsei University NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5hZgjbrG7qyCE8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-25/02 Gent B Vs Olympic Charleroi NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuTcJQyKVZ5JyN7EL/playlist.m3u8

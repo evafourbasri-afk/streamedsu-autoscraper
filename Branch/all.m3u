@@ -1,30 +1,16 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",11h45-24/02 South Island United FC Vs Auckland FC Reserves BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h20-24/02 Arsenal Vs Sunderland A.F.C BLV LƯU BỊ REPLAY
+https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h30-24/02 Houston Rockets Vs Utah Jazz BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Socolive_2",10h05: [KING] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",10h05: [HUNTER] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",10h05: [BRIAN] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",10h05: [CHAN SENA] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",10h05: [BLV HENRY] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",10h05: [A CHÈ] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV NIBO] South Island United FC vs Auckland FC Reserves
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV COZY] South Island United FC vs Auckland FC Reserves
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",11h00: [Đình Bắc] South Island United FC vs Auckland FC Reserves
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",11h00: [HOA VINH] South Island United FC vs Auckland FC Reserves
-http://sharing.gotdns.ch:8091/socolive.php?id=579055
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",11h00-24/02 Bangalore Eagles Vs Jawahar Union NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5hZgjiShjHSwgp/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",11h00-24/02 Kyunghee University Vs Yonsei University NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5hZgjbrG7qyCE8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-25/02 Gent B Vs Olympic Charleroi NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuTcJQyKVZ5JyN7EL/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV VIP] South Melbourne vs Tahiti United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",15h00: [SON HÍP] South Melbourne vs Tahiti United FC
@@ -440,11 +426,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-25/02: [BLV TAP] Los Angeles FC vs Real Espana
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-25/02: [BLV PIRLO] Los Angeles FC vs Real Espana
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-25/02: [BLV ĐỐM] Los Angeles FC vs Real Espana
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-25/02: [BLV MESSI] Los Angeles FC vs Real Espana
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-25/02: [KING] Portland Trail Blazers vs Minnesota Timberwolves
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
@@ -524,9 +510,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-25/02: [LOGAN] Buriram United vs Khonkaen United
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-25/02: [BLV MESSI] Buriram United vs Khonkaen United
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-25/02: [BLV VODKA] Buriram United vs Khonkaen United
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -535,6 +518,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-25/02: [VƯƠNG ANH] Buriram United vs Khonkaen United
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-25/02: [BLV PIRLO] Buriram United vs Khonkaen United
+http://sharing.gotdns.ch:8091/socolive.php?id=351530
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-25/02: [Lửng Mật] Lamphun Warriors vs Bangkok United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=566705
