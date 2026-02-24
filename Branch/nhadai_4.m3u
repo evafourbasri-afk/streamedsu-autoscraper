@@ -1246,28 +1246,30 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 group-title="TruyenHinh_4",RTHK 33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 group-title="TruyenHinh_4",HOY 76
+http://110.235.82.60:8000/bysid/76
 #EXTINF:-1 group-title="TruyenHinh_4",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="TruyenHinh_4",HOY 78
 https://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Jade
-https://o11.163189.xyz/stream/tvb/fct/
+http://110.235.82.60:8001/bysid/1
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Jade Cable
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Jade 4K
-https://o11.163189.xyz/stream/tvb/fct4k/
+https://www.judy.xx.kg/websuper265.php?id=JUHD
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Plus
-https://o11.163189.xyz/stream/tvb/tvbp/
+http://60.246.171.122:8892/bysid/82
 #EXTINF:-1 group-title="TruyenHinh_4",TVB News
 http://60.246.171.122:8892/bysid/83
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Pearl
-https://o11.163189.xyz/stream/tvb/mzt/
+http://60.246.171.122:8892/bysid/84
 #EXTINF:-1 group-title="TruyenHinh_4",Phoenix Hong Kong
 http://60.246.171.122:8892/bysid/85
 #EXTINF:-1 group-title="TruyenHinh_4",ViuTV Six
-https://cdn10.163189.xyz/stream/163189/viu6/
+http://110.235.82.60:8001/bysid/96
 #EXTINF:-1 group-title="TruyenHinh_4",ViuTV
-https://cdn10.163189.xyz/stream/163189/viu/
+http://110.235.82.60:8001/bysid/99
 #EXTINF:-1 group-title="TruyenHinh_4",NOW News
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 group-title="TruyenHinh_4",TDM Ou Mun
@@ -1768,19 +1770,13 @@ https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 http://43.252.18.195:5080/live/streams/mytv.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",My TV
 --------------------------------------------------------------------------------
-#EXTINF:-1 group-title="TruyenHinh_4",CNA (DOMESTIC)
-https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_4",Channel 5 Singapore
 http://cdn6.163189.xyz/163189/ch5
 #EXTINF:-1 group-title="TruyenHinh_4",Channel 8 Singapore
 http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="TruyenHinh_4",Channel U Singapore
-http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 group-title="TruyenHinh_4",Suria
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",Vasantham
-https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",Vasantham
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 group-title="TruyenHinh_4",Channel U Singapore
 --------------------------------------------------------------------------------
 #EXTINF:-1 group-title="TruyenHinh_4",TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8

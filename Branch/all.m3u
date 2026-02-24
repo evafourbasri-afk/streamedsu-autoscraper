@@ -1,65 +1,29 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-24/02 Detroit Pistons Vs San Antonio Spurs BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",11h45-24/02 South Island United FC Vs Auckland FC Reserves BLV MAYBACH
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-24/02 Rancho Santana FC Vs Real Madriz FC BLV GIÁO SƯ XOAY
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTINF:-1 group-title="Socolive_2",07h35: [KING] Detroit Pistons vs San Antonio Spurs
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h30-24/02 Houston Rockets Vs Utah Jazz BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="Socolive_2",10h05: [KING] Houston Rockets vs Utah Jazz
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",07h35: [HUNTER] Detroit Pistons vs San Antonio Spurs
+#EXTINF:-1 group-title="Socolive_2",10h05: [HUNTER] Houston Rockets vs Utah Jazz
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",07h35: [BRIAN] Detroit Pistons vs San Antonio Spurs
+#EXTINF:-1 group-title="Socolive_2",10h05: [BRIAN] Houston Rockets vs Utah Jazz
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",07h35: [CHAN SENA] Detroit Pistons vs San Antonio Spurs
+#EXTINF:-1 group-title="Socolive_2",10h05: [CHAN SENA] Houston Rockets vs Utah Jazz
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",07h35: [BLV HENRY] Detroit Pistons vs San Antonio Spurs
+#EXTINF:-1 group-title="Socolive_2",10h05: [BLV HENRY] Houston Rockets vs Utah Jazz
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",07h35: [A CHÈ] Detroit Pistons vs San Antonio Spurs
+#EXTINF:-1 group-title="Socolive_2",10h05: [A CHÈ] Houston Rockets vs Utah Jazz
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV SHIN] El Salvador U20 vs French Guiana U20
-http://sharing.gotdns.ch:8091/socolive.php?id=522086
-#EXTINF:-1 group-title="Socolive_2",09h00: [TAM MAO] El Salvador U20 vs French Guiana U20
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV XAVI] El Salvador U20 vs French Guiana U20
-http://sharing.gotdns.ch:8091/socolive.php?id=525090
-#EXTINF:-1 group-title="Socolive_2",09h00: [CÔNG CHẤT] El Salvador U20 vs French Guiana U20
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV COCA] El Salvador U20 vs French Guiana U20
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV ENZO] El Salvador U20 vs French Guiana U20
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",09h00: [VỊT BẠC] Rancho Santana FC vs Real Madriz FC
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV TAP] Rancho Santana FC vs Real Madriz FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",09h00: [CÔNG LÝ] Rancho Santana FC vs Real Madriz FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",09h00: [HOA VINH] Rancho Santana FC vs Real Madriz FC
-http://sharing.gotdns.ch:8091/socolive.php?id=579055
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV SÓI] Rancho Santana FC vs Real Madriz FC
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",09h00: [KÉP] Rancho Santana FC vs Real Madriz FC
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",09h30: [KING] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",09h30: [HUNTER] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",09h30: [BRIAN] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",09h30: [CHAN SENA] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV HENRY] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",09h30: [A CHÈ] Houston Rockets vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV NIBO] South Island United FC vs Auckland FC Reserves
+#EXTINF:-1 group-title="Socolive_2",11h00: [BLV NIBO] South Island United FC vs Auckland FC Reserves
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV COZY] South Island United FC vs Auckland FC Reserves
+#EXTINF:-1 group-title="Socolive_2",11h00: [BLV COZY] South Island United FC vs Auckland FC Reserves
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",12h00: [Đình Bắc] South Island United FC vs Auckland FC Reserves
+#EXTINF:-1 group-title="Socolive_2",11h00: [Đình Bắc] South Island United FC vs Auckland FC Reserves
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",12h00: [HOA VINH] South Island United FC vs Auckland FC Reserves
+#EXTINF:-1 group-title="Socolive_2",11h00: [HOA VINH] South Island United FC vs Auckland FC Reserves
 http://sharing.gotdns.ch:8091/socolive.php?id=579055
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV VIP] South Melbourne vs Tahiti United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
@@ -913,6 +877,8 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Âu Mỹ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -3364,28 +3330,30 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 group-title="TruyenHinh_4",RTHK 33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 group-title="TruyenHinh_4",HOY 76
+http://110.235.82.60:8000/bysid/76
 #EXTINF:-1 group-title="TruyenHinh_4",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="TruyenHinh_4",HOY 78
 https://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Jade
-https://o11.163189.xyz/stream/tvb/fct/
+http://110.235.82.60:8001/bysid/1
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Jade Cable
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Jade 4K
-https://o11.163189.xyz/stream/tvb/fct4k/
+https://www.judy.xx.kg/websuper265.php?id=JUHD
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Plus
-https://o11.163189.xyz/stream/tvb/tvbp/
+http://60.246.171.122:8892/bysid/82
 #EXTINF:-1 group-title="TruyenHinh_4",TVB News
 http://60.246.171.122:8892/bysid/83
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Pearl
-https://o11.163189.xyz/stream/tvb/mzt/
+http://60.246.171.122:8892/bysid/84
 #EXTINF:-1 group-title="TruyenHinh_4",Phoenix Hong Kong
 http://60.246.171.122:8892/bysid/85
 #EXTINF:-1 group-title="TruyenHinh_4",ViuTV Six
-https://cdn10.163189.xyz/stream/163189/viu6/
+http://110.235.82.60:8001/bysid/96
 #EXTINF:-1 group-title="TruyenHinh_4",ViuTV
-https://cdn10.163189.xyz/stream/163189/viu/
+http://110.235.82.60:8001/bysid/99
 #EXTINF:-1 group-title="TruyenHinh_4",NOW News
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 group-title="TruyenHinh_4",TDM Ou Mun
@@ -3886,19 +3854,13 @@ https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 http://43.252.18.195:5080/live/streams/mytv.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",My TV
 --------------------------------------------------------------------------------
-#EXTINF:-1 group-title="TruyenHinh_4",CNA (DOMESTIC)
-https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_4",Channel 5 Singapore
 http://cdn6.163189.xyz/163189/ch5
 #EXTINF:-1 group-title="TruyenHinh_4",Channel 8 Singapore
 http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="TruyenHinh_4",Channel U Singapore
-http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 group-title="TruyenHinh_4",Suria
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",Vasantham
-https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",Vasantham
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 group-title="TruyenHinh_4",Channel U Singapore
 --------------------------------------------------------------------------------
 #EXTINF:-1 group-title="TruyenHinh_4",TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
