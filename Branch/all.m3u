@@ -1,49 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-24/02 Inter Milan U19 Vs Real Betis U19 BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-24/02 Sabail Vs Baku Sporting BLV VĂN VỸ
-https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-24/02 Angola (W) Vs Malawi  (W) BLV TRƯƠNG THANH
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-24/02 South Africa (W) Vs Lesotho (W) BLV KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-24/02 Viettel FC Vs Nam Dinh FC BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-24/02 Malut United Vs Persija Jakarta BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-24/02 Bhayangkara Solo FC Vs Semen Padang BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="Socolive_2",19h00: [TAM MAO] Malut United vs Persatuan Sepakbola Indonesia Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",19h00: [SAO LA] Malut United vs Persatuan Sepakbola Indonesia Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV MESSI] Malut United vs Persatuan Sepakbola Indonesia Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",19h00: [RICKHANTER] Malut United vs Persatuan Sepakbola Indonesia Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV BÉO] Malut United vs Persatuan Sepakbola Indonesia Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ENZO] Malut United vs Persatuan Sepakbola Indonesia Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",19h15: [CR Bưởi] The Cong Viettel vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV PIRLO] The Cong Viettel vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV  TYPN] The Cong Viettel vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV VOI] The Cong Viettel vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",19h15: [VƯƠNG ANH] The Cong Viettel vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",19h15: [VỊT BẠC] The Cong Viettel vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV MIXI] Sabail FC vs Baku Sporting FK
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV KAN] Sabail FC vs Baku Sporting FK
@@ -80,8 +35,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=414317
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV BÉO] Odisha FC vs Inter Kashi
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",21h00: [BLV LONG] Odisha FC vs Inter Kashi
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ADAM] Odisha FC vs Inter Kashi
 http://sharing.gotdns.ch:8091/socolive.php?id=336303
 #EXTINF:-1 group-title="Socolive_2",21h00: [LOGAN] Odisha FC vs Inter Kashi
@@ -90,6 +43,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=552832
 http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV VODKA] Odisha FC vs Inter Kashi
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV CÒ] Odisha FC vs Inter Kashi
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV WUKONG] Estrela FC U23 vs Estoril U23
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTINF:-1 group-title="Socolive_2",22h00: [LOKA] Estrela FC U23 vs Estoril U23
