@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-25/02 Newcastle United Vs Qarabag BLV TRIỆU TỬ LONG REPLAY
-https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h00-25/02 st Vincent the Grenadine U20 Vs Anguilla U20 NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6Mwd5koxVt3saQJTVE/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h00-25/02 Union Magdalena Vs Tigres Zipaquira NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVcenABAMGqqvqeU/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-25/02 Huachipato Vs Carabobo FC NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvZ6HdmQKsr53sdVn/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-25/02 Martinique U20 Vs US Virgin Islands U20 NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6Mwd5koxVzeKBqnCwv/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-26/02 Irapuato Vs CF Atlante NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYqnv9qSEi3CWQkL/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV SÓI] Tuloy FC vs Philippine Army FC
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV EDRIC] Tuloy FC vs Philippine Army FC
