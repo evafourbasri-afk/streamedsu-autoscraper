@@ -1,8 +1,28 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",17h05: [BRIAN] Japan vs China
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",18h30: [KING] Philippines vs New Zealand
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-26/02 Dire Dawa Vs Wolaita Dicha BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-26/02 Persita Tangerang Vs Dewa United FC BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-26/02 Borneo FC Samarinda Vs Arema FC BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-26/02 Geylang International Vs Young Lions BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-26/02 Persib Bandung Vs Madura United BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-26/02 FC Goa Vs Sporting Club Delhi BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-26/02 Adama City Vs Sheger Ketema BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-26/02 Albania (W) U17 Vs Andorra (W) U17 BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV VODKA] Geylang United FC vs Young Lions
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV VOI] Geylang United FC vs Young Lions
@@ -15,18 +35,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=525090
 http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV ENZO] Geylang United FC vs Young Lions
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV TOMIA] Borneo FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV 7UP] Borneo FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV SINGER] Borneo FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV TAP] Borneo FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",20h30: [SÙNG A MÚP] Borneo FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV A BỆU] Borneo FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV CÒ] Persib Bandung vs Madura United
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",20h30: [A PÁO] Persib Bandung vs Madura United
@@ -35,6 +43,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=235232
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",20h30: [Đình Bắc] Persib Bandung vs Madura United
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTINF:-1 group-title="Socolive_2",20h30: [BLV TAP] Persib Bandung vs Madura United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTINF:-1 group-title="Socolive_2",20h30: [BLV SINGER] Persib Bandung vs Madura United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV FIREMAN] Persita Tangerang vs Dewa United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",20h30: [LOKA] Persita Tangerang vs Dewa United FC
@@ -43,6 +55,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=589848
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTINF:-1 group-title="Socolive_2",20h30: [Lửng Mật] Persita Tangerang vs Dewa United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=566705
+#EXTINF:-1 group-title="Socolive_2",20h30: [SÙNG A MÚP] Persita Tangerang vs Dewa United FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912097
+#EXTINF:-1 group-title="Socolive_2",20h30: [BLV A BỆU] Persita Tangerang vs Dewa United FC
+http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV TÔM] FC Goa vs SC Delhi
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ROBBEN] FC Goa vs SC Delhi
@@ -51,6 +67,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=527383
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV RAMBO] FC Goa vs SC Delhi
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV TOMIA] FC Goa vs SC Delhi
+http://sharing.gotdns.ch:8091/socolive.php?id=9912008
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV 7UP] FC Goa vs SC Delhi
+http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTINF:-1 group-title="Socolive_2",22h30: [BLV KINH TẾ] CSA Steaua Bucuresti vs CSM Slatina
 http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTINF:-1 group-title="Socolive_2",22h30: [RED BULL] CSA Steaua Bucuresti vs CSM Slatina
