@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",16h00: [MR BÍCH] Dagon Port vs Yarmanya United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV ANH TÀI] Dagon Port vs Yarmanya United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV A TÚ] Dagon Port vs Yarmanya United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",16h00: [XUÂN SON] Dagon Port vs Yarmanya United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",16h00: [TẠ BIÊN GIỚI] Dagon Port vs Yarmanya United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV ADAM] Dagon Port vs Yarmanya United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",16h00: [A CHÈ] Guam vs Australia
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV ALEX] Thitsar Arman FC vs Ayeyawady united
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",16h30: [CÔNG LÝ] Thitsar Arman FC vs Ayeyawady united
@@ -219,8 +205,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-27/02: [Đình Bắc] Crystal Palace vs HSK Zrinjski Mostar
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-27/02: [BÚA TẠ] Crystal Palace vs HSK Zrinjski Mostar
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-27/02: [BLV LONG] Crystal Palace vs HSK Zrinjski Mostar
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-27/02: [BLV CHIVAS] Club Guaraní vs CA Juventud
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
