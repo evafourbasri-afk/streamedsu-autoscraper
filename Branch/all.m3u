@@ -1,61 +1,19 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-27/02 Araz Nakhchivan Vs Zira FK BLV TRƯƠNG THANH
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-27/02 Bengaluru Vs Minerva Punjab BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-27/02 Fakel Vs Ural Sverdlovsk Oblast BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-27/02 Hermannstadt Vs FC Botosani BLV KENCHU
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-27/02 FC Shakhtar Donetsk Vs Veres BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-27/02 Fakel Vs Ural Sverdlovsk Oblast BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-27/02 Verona U20 Vs Parma U20 BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-27/02 PSBS Biak Vs PSIM Yogyakarta BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-27/02 Kelantan United Vs DPMM FC BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-27/02 Terengganu Vs Kuala Lumpur City F.C. BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h45-27/02 Slavia Sofia Vs CSKA 1948 Sofia BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-27/02 KAMAZ Naberezhnye Chelny Vs Arsenal Tula BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h15-27/02 PFK Montana Vs Botev Plovdiv BLV ĐOÀN DỰ
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 group-title="Socolive_2",20h15: [GOAT] PFK Montana vs Botev Plovdiv
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",20h15: [BLV KAN] PFK Montana vs Botev Plovdiv
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV A BỆU] FC Shakhtar Donetsk vs Veres
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV VOI] FC Shakhtar Donetsk vs Veres
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",20h30: [VƯƠNG ANH] FC Shakhtar Donetsk vs Veres
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV SINGER] FC Shakhtar Donetsk vs Veres
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV TAP] FC Shakhtar Donetsk vs Veres
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV ĐỐM] PSBS Biak Numfor vs PSIM Yogyakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV TOMIA] PSBS Biak Numfor vs PSIM Yogyakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",20h30: [TAM MAO] PSBS Biak Numfor vs PSIM Yogyakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",20h30: [LOGAN] PSBS Biak Numfor vs PSIM Yogyakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV PIRLO] PSBS Biak Numfor vs PSIM Yogyakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-27/02 Verona U20 Vs Parma U20 BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTINF:-1 group-title="Socolive_2",21h00: [NGƯỜI THÉP] Fakel Voronezh vs Ural Yekaterinburg
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV VITAMIN] Fakel Voronezh vs Ural Yekaterinburg
@@ -101,6 +59,36 @@ http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",22h45: [BLV MIXI] Slavia Sofia vs CSKA 1948 Sofia
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTINF:-1 group-title="Socolive_2",22h45: [LOKA] Slavia Sofia vs CSKA 1948 Sofia
+http://sharing.gotdns.ch:8091/socolive.php?id=589848
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-27/02: [BLV XO] Hermannstadt vs FC Botosani
+http://sharing.gotdns.ch:8091/socolive.php?id=472241
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-27/02: [BÚA TẠ] Hermannstadt vs FC Botosani
+http://sharing.gotdns.ch:8091/socolive.php?id=570313
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-27/02: [BLV ADAM] Hermannstadt vs FC Botosani
+http://sharing.gotdns.ch:8091/socolive.php?id=336303
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-27/02: [BLV PEWPEW] Hermannstadt vs FC Botosani
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-27/02: [BLV MESSI] Hermannstadt vs FC Botosani
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-27/02: [BLV A TÚ] Hermannstadt vs FC Botosani
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-27/02: [BLV A WIN] KAMAZ Naberezhnye Chelny vs Arsenal Tula
+http://sharing.gotdns.ch:8091/socolive.php?id=536185
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-27/02: [BLV LUCAS] KAMAZ Naberezhnye Chelny vs Arsenal Tula
+http://sharing.gotdns.ch:8091/socolive.php?id=304148
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h45-27/02: [BLV MIXI] Slavia Sofia vs CSKA 1948 Sofia
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h45-27/02: [LOKA] Slavia Sofia vs CSKA 1948 Sofia
 http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-27/02: [HUNTER] Iran vs Jordan
@@ -1051,12 +1039,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Âu Mỹ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 1
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 3
-https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1167,8 +1149,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/DF/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Happy Kids
 https://livevlisctcdnw.seenow.vn/livesnv2/HK/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Planet Earth
-https://toiyeuvietnam.dpdns.org/Start/VMT345_PlanetEarth
 #EXTINF:-1 group-title="TruyenHinh_2",Woman
 https://toiyeuvietnam.dpdns.org/Start/VMT789_Women
 #EXTINF:-1 group-title="TruyenHinh_2",HTV1 - Đài PTTH Thành Phố Hồ Chí Minh
