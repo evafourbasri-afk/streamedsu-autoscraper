@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-28/02 Gazovik Orenburg Vs Akron Togliatti BLV DƯƠNG CHÍ
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-28/02 V-Varen Nagasaki Vs Cerezo Osaka BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h35-28/02 FC Macarthur Vs Western Sydney BLV LƯU BỊ
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-28/02 Gazovik Orenburg Vs Akron Togliatti BLV DƯƠNG CHÍ
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV XO] V-Varen Nagasaki vs Cerezo Osaka
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV KINH TẾ] V-Varen Nagasaki vs Cerezo Osaka
@@ -50,8 +50,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV RAMBO] Kasimpasa vs Caykur Rizespor
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ADAM] SHB Da Nang vs PVF CAND
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
 #EXTINF:-1 group-title="Socolive_2",18h00: [SAO LA] SHB Da Nang vs PVF CAND
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTINF:-1 group-title="Socolive_2",18h00: [SÙNG A MÚP] SHB Da Nang vs PVF CAND
