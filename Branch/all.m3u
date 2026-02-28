@@ -1,28 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV SATIVA] Yokohama F. Marinos vs Tokyo Verdy
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV RAMBO] Yokohama F. Marinos vs Tokyo Verdy
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV GÔN] Yokohama F. Marinos vs Tokyo Verdy
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV SÓI] Yokohama F. Marinos vs Tokyo Verdy
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV LIO] Yokohama F. Marinos vs Tokyo Verdy
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",11h00: [CÔNG LÝ] Yokohama F. Marinos vs Tokyo Verdy
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV TOMMY] Auckland FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV TAP] Auckland FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV MESSI] Auckland FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",11h00: [RICKHANTER] Auckland FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV COCA] Auckland FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV 7UP] Auckland FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-28/02 Central Coast Mariners Vs Newcastle Jets BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-28/02 Urawa Red Diamonds Vs Kashima Antlers BLV URA
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-28/02 Incheon United Vs FC Seoul BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-28/02 FC Tokyo Vs Kashiwa Reysol BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-28/02 Ulsan HD FC Vs Gangwon FC BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-28/02 Gamba Osaka Vs Shimizu S-Pulse BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-28/02 Brisbane Roar Vs Perth Glory BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV XAVI] Urawa Red Diamonds vs Kashima Antlers
 http://sharing.gotdns.ch:8091/socolive.php?id=525090
 #EXTINF:-1 group-title="Socolive_2",12h00: [LÃO LÂM] Urawa Red Diamonds vs Kashima Antlers
@@ -774,9 +771,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-01/03: [BLV MESSI] Australia Women vs Philippines Women
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-01/03: [BLV VODKA] Australia Women vs Philippines Women
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-01/03: [BLV Củ Cải] Australia Women vs Philippines Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -785,6 +779,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-01/03: [BLV ADAM] Australia Women vs Philippines Women
 http://sharing.gotdns.ch:8091/socolive.php?id=336303
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-01/03: [BLV SHIN] Australia Women vs Philippines Women
+http://sharing.gotdns.ch:8091/socolive.php?id=522086
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-01/03: [SON HÍP] Dynamo Moscow vs Krylya Sovetov
 http://sharing.gotdns.ch:8091/socolive.php?id=586938
@@ -831,14 +828,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h15-01/03: [BLV SÓI] PEC Zwolle vs AFC Ajax
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h15-01/03: [BLV SHIN] PEC Zwolle vs AFC Ajax
-http://sharing.gotdns.ch:8091/socolive.php?id=522086
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h15-01/03: [NGƯỜI THÉP] PEC Zwolle vs AFC Ajax
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h15-01/03: [BLV VITAMIN] PEC Zwolle vs AFC Ajax
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h15-01/03: [BLV VODKA] PEC Zwolle vs AFC Ajax
+http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-01/03: [BLV ĐỐM] Cremonese vs AC Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
@@ -1206,10 +1203,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Âu Mỹ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1372,13 +1365,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV3 - Báo và PTTH Đồng Nai
 https://1.org.vn/dnrtv3
-#EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 1 HD - Báo và PTTH Hà Nội
+#EXTINF:-1 group-title="TruyenHinh_2",H1 - Báo và PTTH Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=33
-#EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 2 HD - Báo và PTTH Hà Nội
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/ha-noi-2/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 2 UHD - Báo và PTTH Hà Nội
-https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 2 UHD - Báo và PTTH Hà Nội (Luồng FPT PLAY)
+#EXTINF:-1 group-title="TruyenHinh_2",H2 - Báo và PTTH Hà Nội
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TTV HD - Báo và PTTH Thanh Hóa
 https://freem3u.xyz/api/live/play.m3u8?vid=89

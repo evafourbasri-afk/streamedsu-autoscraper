@@ -165,10 +165,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Âu Mỹ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -331,13 +327,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV3 - Báo và PTTH Đồng Nai
 https://1.org.vn/dnrtv3
-#EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 1 HD - Báo và PTTH Hà Nội
+#EXTINF:-1 group-title="TruyenHinh_2",H1 - Báo và PTTH Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=33
-#EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 2 HD - Báo và PTTH Hà Nội
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/ha-noi-2/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 2 UHD - Báo và PTTH Hà Nội
-https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 2 UHD - Báo và PTTH Hà Nội (Luồng FPT PLAY)
+#EXTINF:-1 group-title="TruyenHinh_2",H2 - Báo và PTTH Hà Nội
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TTV HD - Báo và PTTH Thanh Hóa
 https://freem3u.xyz/api/live/play.m3u8?vid=89
