@@ -3,31 +3,17 @@
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-28/02 Kasimpasa Vs Caykur Rizespor BLV PHONG VÂN
 https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-28/02 Gazovik Orenburg Vs Akron Togliatti BLV DƯƠNG CHÍ
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-28/02 Hong Linh Ha Tinh Vs Song Lam Nghe An BLV MÃ SIÊU
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-28/02 Da Nang Vs PVF-CAND BLV MAYBACH
 https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-28/02 FC Krasnodar Vs Rostov FK BLV QUAN VŨ
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-28/02 Burnley Vs Brentford BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV FIREMAN] Gazovik Orenburg vs Akron Togliatti
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV KAN] Gazovik Orenburg vs Akron Togliatti
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",16h00: [A PÁO] Gazovik Orenburg vs Akron Togliatti
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV EDRIC] Gazovik Orenburg vs Akron Togliatti
-http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",16h00: [XUÂN SON] Bac Ninh vs Quang Ninh
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",16h00: [BÚA TẠ] Bac Ninh vs Quang Ninh
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTINF:-1 group-title="Socolive_2",16h00: [BRIAN] Enisey Krasnoyarsk W vs Neftyanik Omsk W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV TÔM] Kasimpasa vs Caykur Rizespor
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV RAMBO] Kasimpasa vs Caykur Rizespor
@@ -52,8 +38,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=527383
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV XO] Hong Linh Ha Tinh vs Song Lam Nghe An
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",18h00: [Lửng Mật] Hong Linh Ha Tinh vs Song Lam Nghe An
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV MIXI] Hong Linh Ha Tinh vs Song Lam Nghe An
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV SÓI] FK Krasnodar vs FK Rostov
@@ -76,14 +60,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=5126499
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",19h15: [KÉP] Cong An Ha Noi FC vs Hoang Anh Gia Lai
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV Củ Cải] Cong An Ha Noi FC vs Hoang Anh Gia Lai
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV SATIVA] Cong An Ha Noi FC vs Hoang Anh Gia Lai
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV GÔN] Cong An Ha Noi FC vs Hoang Anh Gia Lai
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV WUKONG] Cong An Ha Noi FC vs Hoang Anh Gia Lai
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV BÉO] Cong An Ha Noi FC vs Hoang Anh Gia Lai
+http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV TOMMY] Bournemouth AFC vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV TAP] Bournemouth AFC vs Sunderland
