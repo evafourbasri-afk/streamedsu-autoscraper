@@ -1,60 +1,34 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-01/03 Viettel FC Vs Hanoi FC BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-01/03 Hertha Berlin Vs Nurnberg BLV TRƯƠNG THANH
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-01/03 Elche Vs RCD Espanyol BLV GIÁO SƯ XOAY
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-01/03 Genclerbirligi Vs Kayserispor BLV ĐOÀN DỰ
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-01/03 FC Twente Enschede Vs Feyenoord BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-01/03 Cong An TP Ho Chi Minh Vs Becamex TP Ho Chi Minh BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-01/03 Muang Thong United Vs Port FC BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-01/03 Paris FC Vs Nice BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-01/03 Sassuolo Vs Atalanta BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-01/03 Fulham Vs Tottenham Hotspur BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-01/03 Manchester United Vs Crystal Palace BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-01/03 Brighton Hove Albion Vs Nottingham Forest BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TÔM] Cong An Ho Chi Minh City vs Becamex Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV NIBO] Cong An Ho Chi Minh City vs Becamex Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV LIO] Cong An Ho Chi Minh City vs Becamex Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV Hổ Lùn] Cong An Ho Chi Minh City vs Becamex Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV CHIVAS] The Cong Viettel vs Hanoi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",19h15: [BÚA TẠ] The Cong Viettel vs Hanoi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV MIXI] The Cong Viettel vs Hanoi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV KAN] The Cong Viettel vs Hanoi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV ANH TÀI] The Cong Viettel vs Hanoi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV COZY] The Cong Viettel vs Hanoi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-01/03 Fulham Vs Tottenham Hotspur BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-01/03 MELON Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-01/03 Genclerbirligi Vs Kayserispor BLV ĐOÀN DỰ
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-01/03 Elche Vs RCD Espanyol BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-01/03 FC Twente Enschede Vs Feyenoord BLV MAYBACH
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-01/03 Sassuolo Vs Atalanta BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-01/03 Paris FC Vs Nice BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-01/03 VfB Stuttgart Vs VfL Wolfsburg BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV ENZO] Elche vs RCD Espanyol
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV ADAM] Elche vs RCD Espanyol
