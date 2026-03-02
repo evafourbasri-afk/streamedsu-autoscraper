@@ -1,42 +1,13 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-02/03 Chungnam Asan Vs Paju Frontier FC BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-02/03 Daejeon Citizen Vs FC Anyang BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h15-02/03 San Diego FC Vs St. Louis City BLV TÂY MÔN KHÁNH
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-02/03 New Zealand (W) Vs Solomon Islands (W) BLV GIÁO SƯ XOAY
 https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV TOMMY] Daejeon Citizen vs FC Anyang
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",12h00: [CR Bưởi] Daejeon Citizen vs FC Anyang
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV PIRLO] Daejeon Citizen vs FC Anyang
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV ĐỐM] Daejeon Citizen vs FC Anyang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV COCA] Daejeon Citizen vs FC Anyang
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",12h00: [TẠ BIÊN GIỚI] Daejeon Citizen vs FC Anyang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV COZY] Chungnam Asan vs Paju Frontier FC
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",12h00: [CÔNG LÝ] Chungnam Asan vs Paju Frontier FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",12h00: [HOA VINH] Chungnam Asan vs Paju Frontier FC
-http://sharing.gotdns.ch:8091/socolive.php?id=579055
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV MIXI] New Zealand Women vs Solomon Islands Women
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV KAN] New Zealand Women vs Solomon Islands Women
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV ANH TÀI] New Zealand Women vs Solomon Islands Women
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",14h30: [CR Bưởi] Busan I Park vs Seongnam FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-02/03 Busan I Park Vs Seongnam FC BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTINF:-1 group-title="Socolive_2",14h30: [BLV DECO] Busan I Park vs Seongnam FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",14h30: [RICKHANTER] Busan I Park vs Seongnam FC
@@ -47,6 +18,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=513394
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2",14h30: [BLV TOMMY] Busan I Park vs Seongnam FC
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTINF:-1 group-title="Socolive_2",14h30: [BLV XAVI] Busan I Park vs Seongnam FC
+http://sharing.gotdns.ch:8091/socolive.php?id=525090
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV MESSI] South Korea Women vs Iran Women
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV A BỆU] South Korea Women vs Iran Women
