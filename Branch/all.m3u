@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",02h45: [SÙNG A MÚP] Udinese vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV ALEX] Udinese vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV TOMIA] Udinese vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV KINH TẾ] Udinese vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV MIXI] Udinese vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",02h45: [LOKA] Udinese vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",02h45: [NGƯỜI THÉP] Amiens vs Troyes
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",02h45: [BÚA TẠ] Amiens vs Troyes
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTINF:-1 group-title="Socolive_2",03h00: [RICKHANTER] Real Madrid vs Getafe
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV KEM] Real Madrid vs Getafe
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV 7UP] Real Madrid vs Getafe
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV TOMMY] Real Madrid vs Getafe
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV PEWPEW] Real Madrid vs Getafe
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV MESSI] Real Madrid vs Getafe
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV WUKONG] Birmingham City vs Middlesbrough
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",03h00: [CR Bưởi] Birmingham City vs Middlesbrough
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",03h15: [BLV A WIN] Gil Vicente vs Benfica
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",03h15: [KÉP] Gil Vicente vs Benfica
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",03h15: [Đình Bắc] Gil Vicente vs Benfica
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",03h15: [Lửng Mật] Gil Vicente vs Benfica
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
 #EXTINF:-1 group-title="Socolive_2",04h30: [BRIAN] Argentina vs Panama
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",05h00: [A CHÈ] Brazil vs Colombia
@@ -167,10 +127,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=414317
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV EDRIC] Bula FC(N) vs South Island United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",16h30: [SON HÍP] Mahar United vs Dagon Star United
-http://sharing.gotdns.ch:8091/socolive.php?id=586938
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV XAVI] Mahar United vs Dagon Star United
 http://sharing.gotdns.ch:8091/socolive.php?id=525090
+#EXTINF:-1 group-title="Socolive_2",16h30: [VỊT BẠC] Mahar United vs Dagon Star United
+http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV DECO] Gangwon FC vs Machida Zelvia
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV ĐỐM] Gangwon FC vs Machida Zelvia
@@ -303,9 +263,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=548860
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV A TÚ] Torreense U23 vs Academico Viseu U23
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-03/03: [SON HÍP] FK Jablonec vs Slavia Praha
-http://sharing.gotdns.ch:8091/socolive.php?id=586938
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-03/03: [MR BÍCH] FK Jablonec vs Slavia Praha
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
@@ -817,9 +774,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-04/03: [Lửng Mật] Frosinone U20 vs AS Roma U20
 http://sharing.gotdns.ch:8091/socolive.php?id=566705
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-04/03: [SON HÍP] Torino U20 vs Cagliari U20
-http://sharing.gotdns.ch:8091/socolive.php?id=586938
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-04/03: [MR BÍCH] Torino U20 vs Cagliari U20
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -897,9 +851,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h30-04/03: [KÉP] Krylya Sovetov vs Gazovik Orenburg
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h30-04/03: [SON HÍP] Krylya Sovetov vs Gazovik Orenburg
-http://sharing.gotdns.ch:8091/socolive.php?id=586938
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h30-04/03: [Đình Bắc] Arges vs A.C.F. Gloria Bistrita
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
