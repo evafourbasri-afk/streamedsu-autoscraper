@@ -1,13 +1,10 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-02/03 Daejeon Citizen Vs FC Anyang BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-02/03 New Zealand (W) Vs Solomon Islands (W) BLV GIÁO SƯ XOAY
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-02/03 Busan I Park Vs Seongnam FC BLV TRƯƠNG THANH
 https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h30-03/03 Pharco Vs Kahraba Ismailia BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",14h30: [BLV DECO] Busan I Park vs Seongnam FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",14h30: [RICKHANTER] Busan I Park vs Seongnam FC
@@ -44,9 +41,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=291277
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV CÒ] SC Poltava vs Kudrivka
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",18h00: [GOAT] Gandzasar Kapan vs FC Noah
+#EXTINF:-1 group-title="Socolive_2",18h00: [GOAT] SC Poltava vs Kudrivka
 http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",18h00: [MR BÍCH] Gandzasar Kapan vs FC Noah
+#EXTINF:-1 group-title="Socolive_2",18h00: [MR BÍCH] SC Poltava vs Kudrivka
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV ROBBEN] Farense U23 vs Vizela U23
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
@@ -64,6 +61,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",20h30: [LÃO LÂM] Persebaya Surabaya vs Persib Bandung
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
+#EXTINF:-1 group-title="Socolive_2",20h30: [BLV VITAMIN] Persebaya Surabaya vs Persib Bandung
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV XO] PSM Makassar vs Persita Tangerang
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV KINH TẾ] PSM Makassar vs Persita Tangerang
