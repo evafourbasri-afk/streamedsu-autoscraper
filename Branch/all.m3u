@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h45-03/03 Melbourne City Vs Buriram United BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-03/03 China (W) Vs Bangladesh (W) BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-03/03 Dynamo Kyiv Vs FC Inhulets Petrove BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",14h45: [THẠCH TÚ] Melbourne City vs Buriram United
@@ -16,8 +22,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=327159
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2",15h00: [SAO LA] China Women vs Bangladesh Women
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",15h00: [CÔNG CHẤT] China Women vs Bangladesh Women
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTINF:-1 group-title="Socolive_2",15h00: [RICKHANTER] China Women vs Bangladesh Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV XO] China Women vs Bangladesh Women
@@ -26,6 +30,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=472241
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV TOMMY] China Women vs Bangladesh Women
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTINF:-1 group-title="Socolive_2",15h00: [BLV A WIN] China Women vs Bangladesh Women
+http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV ANH TÀI] Bula FC(N) vs South Island United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV EDRIC] Bula FC(N) vs South Island United FC
@@ -914,6 +920,8 @@ https://rumble.com/hls-vod/73txdq/playlist.m3u8
 https://rumble.com/hls-vod/73vrdu/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thế Hệ Kỳ Tích
 https://rumble.com/hls-vod/745t9a/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Tay Anh Giữ Một Vì Sao
+https://vip.opstream90.com/20260102/21538_3a9ba451/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
@@ -940,8 +948,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Âu Mỹ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
