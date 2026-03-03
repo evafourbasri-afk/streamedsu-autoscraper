@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",11h00: [CÔNG LÝ] Tahiti United FC(N) vs PNG Hekari United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",11h00: [GOAT] Tahiti United FC(N) vs PNG Hekari United
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV GÔN] Tahiti United FC(N) vs PNG Hekari United
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",14h45: [THẠCH TÚ] Melbourne City vs Buriram United
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",14h45: [BLV TAP] Melbourne City vs Buriram United
@@ -694,6 +688,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",20h00-04/03: [BLV A WIN] Torino U20 vs Cagliari U20
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",20h00-04/03: [BLV ADAM] Torino U20 vs Cagliari U20
+http://sharing.gotdns.ch:8091/socolive.php?id=336303
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",21h00-04/03: [BLV ENZO] Semen Padang vs PSIM Yogyakarta
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
