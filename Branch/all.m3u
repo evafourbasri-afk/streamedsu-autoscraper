@@ -1,46 +1,19 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-04/03 Johor Darul Takzim Vs Hiroshima Sanfrecce BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-04/03 Frosinone U20 Vs AS Roma U20 BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-04/03 Torino U20 Vs Cagliari U20 BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-04/03 Arba Minch Vs Ethio Electric FC BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-04/03 Semen Padang Vs PSIM Yogyakarta BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-04/03 Parma U20 Vs Inter Milan U20 BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-04/03 JENNIE Vs OK9 TV MEGA LIVE
 https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-04/03 Arba Minch Vs Ethio Electric FC BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV BÉO] Johor Darul Ta'zim FC vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV 7UP] Johor Darul Ta'zim FC vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",19h15: [TAM MAO] Johor Darul Ta'zim FC vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",19h15: [SAO LA] Johor Darul Ta'zim FC vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV MESSI] Johor Darul Ta'zim FC vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV  TYPN] Johor Darul Ta'zim FC vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A TÚ] Frosinone U20 vs AS Roma U20
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",20h00: [Đình Bắc] Frosinone U20 vs AS Roma U20
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV LONG] Frosinone U20 vs AS Roma U20
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",20h00: [MR BÍCH] Torino U20 vs Cagliari U20
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A WIN] Torino U20 vs Cagliari U20
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ADAM] Torino U20 vs Cagliari U20
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-04/03 Arges Vs FC Gloria Bistrita BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ENZO] Semen Padang vs PSIM Yogyakarta
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV MIXI] Semen Padang vs PSIM Yogyakarta
