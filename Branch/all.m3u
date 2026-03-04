@@ -1,73 +1,28 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-04/03 Vietnam (W) Vs India (W) BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-04/03 Torino U20 Vs Cagliari U20 BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-04/03 Khonkaen United Vs Trat FC BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-04/03 FC Seoul Vs Vissel Kobe BLV KEVILL
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-04/03 Johor Darul Takzim Vs Hiroshima Sanfrecce BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-04/03 Lazio U20 Vs Lecce U20 BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-04/03 Frosinone U20 Vs AS Roma U20 BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-04/03 Erzurum BB Vs Keciorengucu BLV KHỔNG MINH
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-04/03 Gamba Osaka Vs Ratchaburi FC BLV DƯƠNG QUÁ
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-04/03 Ethiopia Bunna Vs Bahir Dar Kenema FC BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-04/03 Khonkaen United Vs Trat FC BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-04/03 Kasetsart FC Vs Songkhla FC BLV CHUNN
 https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-04/03 Ethiopia Bunna Vs Bahir Dar Kenema FC BLV TRƯƠNG THANH
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-04/03 Arba Minch Vs Ethio Electric FC BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Socolive_2",17h00: [CR Bưởi] FC Seoul vs Vissel Kobe
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV PIRLO] FC Seoul vs Vissel Kobe
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV A BỆU] FC Seoul vs Vissel Kobe
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV TOMIA] FC Seoul vs Vissel Kobe
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV 7UP] FC Seoul vs Vissel Kobe
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",17h00: [THẠCH TÚ] FC Seoul vs Vissel Kobe
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",17h00: [SÙNG A MÚP] Gamba Osaka vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV ALEX] Gamba Osaka vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV XO] Gamba Osaka vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",17h00: [VƯƠNG ANH] Gamba Osaka vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",17h00: [RED BULL] Gamba Osaka vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",17h00: [LOGAN] Gamba Osaka vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ĐỐM] Vietnam Women vs India Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV KEM] Vietnam Women vs India Women
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",18h00: [TẠ BIÊN GIỚI] Vietnam Women vs India Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV TOMMY] Vietnam Women vs India Women
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV TAP] Vietnam Women vs India Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",18h00: [LÃO LÂM] Vietnam Women vs India Women
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV VOI] Lazio U20 vs Lecce U20
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV CÒ] Lazio U20 vs Lecce U20
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",18h00: [CHAN SENA] New Taipei Kings vs Taiwan Beer Leopards
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV LIO] Erzurum BB vs Keciorengucu
 http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2",18h30: [GOAT] Erzurum BB vs Keciorengucu
