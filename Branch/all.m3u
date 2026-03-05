@@ -1,24 +1,88 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",03h00: [CR Bưởi] Tottenham Hotspur vs Crystal Palace
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV MESSI] Tottenham Hotspur vs Crystal Palace
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV VODKA] Tottenham Hotspur vs Crystal Palace
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV TOMIA] Tottenham Hotspur vs Crystal Palace
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV 7UP] Tottenham Hotspur vs Crystal Palace
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",03h00: [THẠCH TÚ] Tottenham Hotspur vs Crystal Palace
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",03h10: [KÉP] Lyon vs RC Lens
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",03h10: [NGƯỜI THÉP] Lyon vs RC Lens
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",03h10: [BÚA TẠ] Lyon vs RC Lens
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTINF:-1 group-title="Socolive_2",03h10: [LÃO LÂM] Lyon vs RC Lens
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h45-26/11 Barnsley Vs Cardiff City NHÀ ĐÀI
+rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MuT7sYEWuFARm4cSx/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h00-06/03 Real Soacha Cundinamarca Vs Inter Palmira NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVcemQrzWSDX6MCG/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-06/03 Antigua Barbuda (W) Vs Guyana (W) NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYbdsu74gvF2r62Y/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-06/03 FC Nacional Asuncion Vs Deportivo Recoleta NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6Hdm538G4rNARS/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-06/03 Boston River Vs Racing Club Montevideo NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6Hdm55KjwLC5aL/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-06/03 Managua FC Vs Rancho Santana FC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5hYCRuZ15Em6np/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h10-06/03 Llaneros FC Vs Internacional de Bogota NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqrGKpQHqLAMw5v/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-06/03 CA Juventud Vs Dep.Independiente Medellin NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5vbg3sks3ztdBi/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-06/03 Real Esteli Vs ART Municipal Jalapa NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5hYCS29SggErFW/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 Cəbrayıl FK Vs Sabail NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5yrg96uivSaZHE/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 FK MOIK Baku Vs Difai Agsu FK NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5yrg8cLUcCqeHa/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 BG Green Farmers FC Vs Royal Vision NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgUbkYcC2WmcWx/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 Perth SC Vs Perth Glory (Youth) NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNc6HxYifyQUhEC/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 Bayswater City Vs Armadale SC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNc6J7ucMwuY47e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h35-06/03 Chengdu Rongcheng FC Vs Shenzhen Xinpengcheng NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNtSxxPxz7ketKE/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-06/03 Romania (W) U23 Vs Sweden (W) U23 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5sKxAMnVsoCRM6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-06/03 Musongati FC Vs Olympique Star NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgUcG6zztjASAG/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/03 Kuruvchi Bunyodkor Vs Dinamo Samarqand NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVcsrKxE9ZqCnYUL/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/03 US Chaouia Vs NRB Teleghma NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYM98oPzS8czdoLp/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/03 WA Mostaganem Vs ESM Kolea NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYM9AJhUbBwEiThN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/03 MO Constantine Vs AS Khroub NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYM98oPoSjGbWDaL/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/03 IB Khemis El Khechna Vs JS Bordj Menaiel NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYM98oPj3mXdrPGY/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/03 JS Jijel Vs MO Bejaia NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYM98oPqeD95L8jE/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h15-06/03 Sogdiana Jizak Vs Nasaf Qarshi NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVcsrKxLk1SeGHw2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-06/03 Xorazm Urganch Vs OTMK Olmaliq NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVcsrKxJYXaASNn8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-06/03 Aizawl FC Vs Rajasthan Club NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5haS4E4sBvigX6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-07/03 Macau University Vs Macau Chiba FC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVcsprz2dydi3ZiU/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-07/03 Dundee FC Vs Motherwell NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuSrvnrw7tqMcwU4k/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",05h00: [VỊT BẠC] Boston River vs Racing Club Montevideo
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",05h00: [THE KOP] Boston River vs Racing Club Montevideo
