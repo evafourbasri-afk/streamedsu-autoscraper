@@ -1,36 +1,16 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-05/03 Yadanabon FC Vs Ayeyawady united BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-05/03 Iran (W) Vs Australia (W) BLV KEVILL
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-05/03 East Bengal Vs FC Goa BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h15-05/03 Lokomotiv Sofia Vs FC Dobrudzha BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-05/03 FC Pyunik Vs FC Noah BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-05/03 Phrae United FC Vs Nakhon Si United FC BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV COCA] Iran Women vs Australia Women
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",16h00: [TẠ BIÊN GIỚI] Iran Women vs Australia Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV TOMMY] Iran Women vs Australia Women
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV TAP] Iran Women vs Australia Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV ĐỐM] Iran Women vs Australia Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV PIRLO] Iran Women vs Australia Women
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV COZY] Yadanarbon FC vs Ayeyawady united
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",16h00: [GOAT] Yadanarbon FC vs Ayeyawady united
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",16h00: [CÔNG CHẤT] Yadanarbon FC vs Ayeyawady united
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",16h00: [CR Bưởi] Yadanarbon FC vs Ayeyawady united
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV BÉO] FK Kapaz Ganca vs Turan Tovuz
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV ENZO] FK Kapaz Ganca vs Turan Tovuz
