@@ -1,37 +1,10 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-06/03 Deportivo Saprissa Vs Sporting San Jose BLV TÂY MÔN KHÁNH
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h20-06/03 Atletico Junior Barranquilla Vs Alianza Petrolera BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-06/03 Orense SC Vs Macara BLV GIÁO SƯ XOAY
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-06/03 Bangladesh (W) Vs North Korea (W) BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-06/03 Houston Rockets Vs Golden State Warriors BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-06/03 America de Cali Vs Atletico Bucaramanga BLV KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h45-26/11 Barnsley Vs Cardiff City NHÀ ĐÀI
-rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MuT7sYEWuFARm4cSx/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-06/03 CA Juventud Vs Dep.Independiente Medellin NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6Mwd5vbg3sks3ztdBi/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-06/03 Real Esteli Vs ART Municipal Jalapa NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6Mwd5hYCS29SggErFW/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h00-06/03 Denver Nuggets Vs Los Angeles Lakers BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-06/03 Adelaide United FC (Youth) Vs White City Woodville NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvZ6Hiw93fkMPR7EU/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h45-26/11 Barnsley Vs Cardiff City NHÀ ĐÀI
+rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MuT7sYEWuFARm4cSx/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-06/03 Lake Macquarie (W) Vs Broadmeadow Magic (W) NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6Mwd6G8BQ7mhB1jXAt/playlist.m3u8
@@ -54,26 +27,26 @@ https://auto.cdnok9.com/live/sd-6Mwd6G8AQ2L3wYFd2U/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/03 West Adelaide (W) Vs Adelaide Comets (W) NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6Mwd6G89j4r5ELyXLp/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/03 Epitsentr U21 Vs Kolos Kovalivka U21 NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MuQ9LXB3sBVi2mvAx/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/03 Mitchelton FC Vs Pine Hills NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6Mwd633ywxrJNWHuN4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 FK MOIK Baku Vs Difai Agsu FK NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6Mwd5yrg8cLUcCqeHa/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/03 Epitsentr U21 Vs Kolos Kovalivka U21 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuQ9LXB3sBVi2mvAx/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 Cəbrayıl FK Vs Sabail NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6Mwd5yrg96uivSaZHE/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 BG Green Farmers FC Vs Royal Vision NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYqgUbkYcC2WmcWx/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 FK MOIK Baku Vs Difai Agsu FK NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5yrg8cLUcCqeHa/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 Perth SC Vs Perth Glory (Youth) NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNc6HxYifyQUhEC/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 Bayswater City Vs Armadale SC NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNc6J7ucMwuY47e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 BG Green Farmers FC Vs Royal Vision NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgUbkYcC2WmcWx/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h35-06/03 Chengdu Rongcheng FC Vs Shenzhen Xinpengcheng NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNtSxxPxz7ketKE/playlist.m3u8
@@ -116,81 +89,15 @@ https://auto.cdnok9.com/live/sd-6MvVcsprz2dydi3ZiU/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-07/03 Dundee FC Vs Motherwell NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MuSrvnrw7tqMcwU4k/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",07h30: [VƯƠNG ANH] CA Juventud vs Dep.Independiente Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV FIREMAN] CA Juventud vs Dep.Independiente Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV PEWPEW] CA Juventud vs Dep.Independiente Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV Củ Cải] CA Juventud vs Dep.Independiente Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV SÓI] America de Cali vs Atletico Bucaramanga
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV A BỆU] America de Cali vs Atletico Bucaramanga
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",07h30: [VỊT BẠC] Cienciano vs FBC Melgar
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV XAVI] Cienciano vs FBC Melgar
-http://sharing.gotdns.ch:8091/socolive.php?id=525090
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV CÒ] Juventude vs Guapore
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",07h35: [HUNTER] Washington Wizards vs Utah Jazz
+#EXTINF:-1 group-title="Socolive_2",10h35: [HUNTER] Denver Nuggets vs Los Angeles Lakers
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",07h35: [CHAN SENA] Washington Wizards vs Utah Jazz
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",08h05: [BRIAN] Houston Rockets vs Golden State Warriors
+#EXTINF:-1 group-title="Socolive_2",10h35: [BRIAN] Denver Nuggets vs Los Angeles Lakers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",08h05: [A CHÈ] Houston Rockets vs Golden State Warriors
+#EXTINF:-1 group-title="Socolive_2",10h35: [A CHÈ] Denver Nuggets vs Los Angeles Lakers
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",08h05: [BLV HENRY] Miami Heat vs Brooklyn Nets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",08h20: [THE KOP] Atletico Junior Barranquilla vs Alianza
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTINF:-1 group-title="Socolive_2",08h20: [A PÁO] Atletico Junior Barranquilla vs Alianza
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",08h20: [BLV  TYPN] Atletico Junior Barranquilla vs Alianza
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",09h00: [CÔNG CHẤT] Bangladesh Women vs North Korea Women
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV BÉO] Bangladesh Women vs North Korea Women
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV TOMMY] Bangladesh Women vs North Korea Women
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",09h00: [SAO LA] Bangladesh Women vs North Korea Women
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",09h00: [KÉP] Bangladesh Women vs North Korea Women
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",09h00: [TẠ BIÊN GIỚI] Bangladesh Women vs North Korea Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV NIBO] Orense SC vs Macara
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV COZY] Orense SC vs Macara
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV CHIVAS] Orense SC vs Macara
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV SATIVA] Orense SC vs Macara
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV ĐỐM] Deportivo Saprissa vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV COCA] Deportivo Saprissa vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV 7UP] Deportivo Saprissa vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",09h00: [GOAT] Deportivo Saprissa vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV PIRLO] Deportivo Saprissa vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",09h00: [CR Bưởi] Deportivo Saprissa vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",10h00: [HUNTER] Denver Nuggets vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",10h00: [BRIAN] Denver Nuggets vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",10h00: [A CHÈ] Denver Nuggets vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",10h00: [CHAN SENA] Sacramento Kings vs New Orleans Pelicans
+#EXTINF:-1 group-title="Socolive_2",10h35: [CHAN SENA] Sacramento Kings vs New Orleans Pelicans
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV HENRY] Sacramento Kings vs New Orleans Pelicans
+#EXTINF:-1 group-title="Socolive_2",10h35: [BLV HENRY] Sacramento Kings vs New Orleans Pelicans
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",12h30: [BLV KEM] Adelaide United FC Youth vs White City Woodville
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
@@ -218,8 +125,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",15h35: [BLV TOMMY] Adelaide United vs Wellington Phoenix
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV ĐỐM] Adelaide United vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",15h35: [BLV KEM] Adelaide United vs Wellington Phoenix
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTINF:-1 group-title="Socolive_2",15h35: [TẠ BIÊN GIỚI] Adelaide United vs Wellington Phoenix
@@ -278,8 +183,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",18h00: [SAO LA] Thanh Hoa vs Hong Linh Ha Tinh
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ĐỐM] Thanh Hoa vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV COCA] Thanh Hoa vs Hong Linh Ha Tinh
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",18h00: [VƯƠNG ANH] Thanh Hoa vs Hong Linh Ha Tinh
@@ -288,6 +191,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=548860
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTINF:-1 group-title="Socolive_2",18h00: [SÙNG A MÚP] Thanh Hoa vs Hong Linh Ha Tinh
 http://sharing.gotdns.ch:8091/socolive.php?id=9912097
+#EXTINF:-1 group-title="Socolive_2",18h00: [KÉP] Thanh Hoa vs Hong Linh Ha Tinh
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV ADAM] Odisha FC vs Mohun Bagan Super Giant
 http://sharing.gotdns.ch:8091/socolive.php?id=336303
 #EXTINF:-1 group-title="Socolive_2",18h30: [MR BÍCH] Odisha FC vs Mohun Bagan Super Giant
@@ -1129,7 +1034,7 @@ https://1.org.vn/oni3/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi4
 https://d.org.vn/oni2-mbnlife/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
-http://myxpanel.pro:80/Martin/Martin/662488
+https://7pal.short.gy/ssportsf1
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Tennis
 http://myxpanel.pro:80/Martin/Martin/662483
 #EXTINF:-1 group-title="TruyenHinh_2",Canal+ Sport
