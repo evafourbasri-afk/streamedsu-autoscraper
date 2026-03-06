@@ -1,31 +1,16 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-07/03 Wolves Vs Liverpool BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h45-07/03 Napoli Vs Torino BLV VƯƠNG LUÂN
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-07/03 Celta Vigo Vs Real Madrid BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h45-07/03 Paris Saint Germain (PSG) Vs Monaco BLV LƯU BỊ
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h30-07/03 Bayern Munchen Vs Borussia Monchengladbach BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-07/03 Wolves Vs Liverpool BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-07/03 Al-Khaleej Vs Al-Hazm BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-07/03 Al-Ahli SFC Vs Al-Ittihad BLV ĐOÀN DỰ
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-07/03 Al Hilal Vs Al Najma(KSA) BLV QUAN VŨ
-https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-07/03 Al-Taawoun Vs Al-Fateh BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-07/03 Celta Vigo Vs Real Madrid BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h45-07/03 LaLouviere Vs Royal Antwerp BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -68,22 +53,6 @@ https://auto.cdnok9.com/live/sd-6MuTNFkZjQhfw2tJxc/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-07/03 Persita Tangerang Vs Madura United BLV MÃ SIÊU
 https://auto.cdnok9.com/live/sd-6MuTNFkaF1Hxfj73kp/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",02h00: [NGƯỜI THÉP] Al-Ahli SFC vs Al Ittihad Club
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",02h00: [KÉP] Al Hilal vs Al Najma(KSA)
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",02h30: [CR Bưởi] FC Bayern Munich vs Borussia Monchengladbach
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",02h30: [LÃO LÂM] FC Bayern Munich vs Borussia Monchengladbach
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV A BỆU] FC Bayern Munich vs Borussia Monchengladbach
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV KEM] FC Bayern Munich vs Borussia Monchengladbach
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",02h30: [CÚ ĐÊM] FC Bayern Munich vs Borussia Monchengladbach
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",02h30: [Giàng A Thổ] FC Bayern Munich vs Borussia Monchengladbach
-http://sharing.gotdns.ch:8091/socolive.php?id=592799
 #EXTINF:-1 group-title="Socolive_2",02h45: [MR BÍCH] Napoli vs Torino
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",02h45: [BLV A WIN] Napoli vs Torino
