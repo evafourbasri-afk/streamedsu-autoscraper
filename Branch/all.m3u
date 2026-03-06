@@ -1,64 +1,25 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/03 Suwon KT Vs Seoul Knights BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 Thanh Hoa Vs Hong Linh Ha Tinh BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/03 Osaka FC Vs Nara Club BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 PFC Oleksandria Vs FC Shakhtar Donetsk BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/03 Than Quang Ninh Vs Truong Tuoi Dong Nai BLV TÂY MÔN KHÁNH
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-06/03 Tanjong Pagar Utd Vs Albirex Niigata FC BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-06/03 ATK Mohun Bagan Vs Odisha FC BLV KHỔNG MINH
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 Thanh Hoa Vs Hong Linh Ha Tinh BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="Socolive_2",17h00: [LOGAN] FC Osaka vs Nara Club
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV XO] FC Osaka vs Nara Club
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV MIXI] FC Osaka vs Nara Club
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV ENZO] FC Osaka vs Nara Club
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV KAN] Quang Ninh vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",17h00: [LÃO LÂM] Quang Ninh vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV WUKONG] Quang Ninh vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] LG Sakers vs Mobis Phoebus
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] LG Sakers vs Mobis Phoebus
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Suwon KT vs Seoul Knights
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",17h00: [A CHÈ] Suwon KT vs Seoul Knights
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV CÒ] FK Oleksandria vs FC Shakhtar Donetsk
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ALEX] FK Oleksandria vs FC Shakhtar Donetsk
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV Củ Cải] FK Oleksandria vs FC Shakhtar Donetsk
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",18h00: [A PÁO] FK Oleksandria vs FC Shakhtar Donetsk
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",18h00: [SAO LA] Thanh Hoa vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV COCA] Thanh Hoa vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",18h00: [VƯƠNG ANH] Thanh Hoa vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",18h00: [TAM MAO] Thanh Hoa vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",18h00: [SÙNG A MÚP] Thanh Hoa vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",18h00: [KÉP] Thanh Hoa vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-06/03 Port FC Vs Lamphun Warrior BLV KAKA
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-06/03 Gandzasar Kapan Vs Urartu BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-06/03 Sariyer Vs Umraniyespor BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-06/03 Arema FC Vs Bali United BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 group-title="Socolive_2",18h30: [MR BÍCH] Odisha FC vs Mohun Bagan Super Giant
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV VOI] Odisha FC vs Mohun Bagan Super Giant
@@ -139,8 +100,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV XO] Jamshedpur FC vs Inter Kashi
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",21h15: [BLV Hổ Lùn] Sogdiana Jizak vs Nasaf Qarshi
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
 #EXTINF:-1 group-title="Socolive_2",21h15: [BLV KAN] Sogdiana Jizak vs Nasaf Qarshi
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2",21h30: [XUÂN SON] Xorazm Urganch vs FC OKMK Olmaliq
@@ -241,14 +200,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-07/03: [CÚ ĐÊM] FC Bayern Munich vs Borussia Monchengladbach
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-07/03: [BLV Hổ Lùn] Napoli vs Torino
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-07/03: [MR BÍCH] Napoli vs Torino
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-07/03: [BLV A WIN] Napoli vs Torino
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-07/03: [BLV FIREMAN] Napoli vs Torino
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-07/03: [A PÁO] Paris Saint Germain vs AS Monaco
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
@@ -433,8 +392,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-07/03: [BLV SÓI] FC Tokyo vs Yokohama F. Marinos
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-07/03: [BLV Hổ Lùn] FC Tokyo vs Yokohama F. Marinos
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-07/03: [GOAT] FC Tokyo vs Yokohama F. Marinos
+http://sharing.gotdns.ch:8091/socolive.php?id=585206
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-07/03: [BLV ĐỐM] Chinese Taipei Women vs Vietnam Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
@@ -570,6 +529,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h35-07/03: [TẠ BIÊN GIỚI] Sydney FC vs Melbourne Victory
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h35-07/03: [CR Bưởi] Sydney FC vs Melbourne Victory
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-07/03: [BLV PEWPEW] Shanghai Shenhua vs Dalian Yingbo
 http://sharing.gotdns.ch:8091/socolive.php?id=9912015
