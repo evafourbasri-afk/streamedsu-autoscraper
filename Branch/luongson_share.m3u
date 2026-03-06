@@ -1,19 +1,34 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",00h00-06/03 Arsenal Vs Sunderland NHÀ ĐÀI
-https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTINF:-1 group-title="LuongSon_2",15h00-06/03 Uzbekistan (W) Vs China (W) BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",15h35-06/03 Adelaide United Vs Wellington Phoenix BLV DƯƠNG CHÍ
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",15h30-06/03 Green Gully Cavaliers Vs Hume City BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",15h45-06/03 Dandenong City SC Vs Caroline Springs George Cross BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",02h45-26/11 Barnsley Vs Cardiff City NHÀ ĐÀI
 rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MuT7sYEWuFARm4cSx/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",15h00-06/03 Uzbekistan (W) Vs China (W) BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",14h00-06/03 Valentine Phoenix Reserves Vs Cooks Hill United Reserves NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd6CuPSU3nD5xShS/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",14h50-06/03 Modbury Vista (W) Vs FFSA NTC Girls (W) NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwcqRpNtNYWb3BAL4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",15h30-06/03 Box Hill (W) Vs Heidelberg United (W) NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNVZZeZ3Lo3R1Nc/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",16h00-06/03 Lake Macquarie (W) Vs Broadmeadow Magic (W) NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6Mwd6G8BQ7mhB1jXAt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",16h00-06/03 Dong Tam Long An Vs Xuan Thien Phu Tho BLV MAYBACH
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",16h00-06/03 Kahibah FC Vs Edgeworth Eagles FC NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNtQ1qwSnb7R1KJ/playlist.m3u8
