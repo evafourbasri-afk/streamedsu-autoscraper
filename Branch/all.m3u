@@ -1,51 +1,25 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/03 Thanh Hoa Vs Hong Linh Ha Tinh BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/03 Kelantan United Vs Terengganu BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-06/03 Tanjong Pagar Utd Vs Albirex Niigata FC BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-06/03 ATK Mohun Bagan Vs Odisha FC BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-06/03 Port FC Vs Lamphun Warrior BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-06/03 Gandzasar Kapan Vs Urartu BLV GIÁO SƯ XOAY
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-06/03 Arema FC Vs Bali United BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-06/03 Sariyer Vs Umraniyespor BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-06/03 Arema FC Vs Bali United BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="Socolive_2",18h30: [MR BÍCH] Odisha FC vs Mohun Bagan Super Giant
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV VOI] Odisha FC vs Mohun Bagan Super Giant
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",18h30: [Lửng Mật] Odisha FC vs Mohun Bagan Super Giant
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
-#EXTINF:-1 group-title="Socolive_2",18h30: [VỊT BẠC] Odisha FC vs Mohun Bagan Super Giant
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",18h35: [BLV PIRLO] Chengdu Rongcheng vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",18h35: [BLV KEM] Chengdu Rongcheng vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",18h35: [BLV KINH TẾ] Chengdu Rongcheng vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",18h35: [THẠCH TÚ] Chengdu Rongcheng vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",18h35: [BLV GÔN] Chengdu Rongcheng vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",19h00: [GOAT] Port FC vs Lamphun Warriors
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",19h00: [LOKA] Port FC vs Lamphun Warriors
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ANH TÀI] Port FC vs Lamphun Warriors
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",19h00: [HUNTER] CBK Mersin W vs Besiktas W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-06/03 Tanjong Pagar Utd Vs Albirex Niigata FC BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/03 Jamshedpur FC Vs Inter Kashi BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-06/03 Gandzasar Kapan Vs Urartu BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-06/03 MIN Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV ROBBEN] Tanjong Pagar Utd vs Albirex Niigata FC
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV VIP] Tanjong Pagar Utd vs Albirex Niigata FC
@@ -60,8 +34,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV WUKONG] Sariyer vs Umraniyespor
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A WIN] Sariyer vs Umraniyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV ENZO] Sariyer vs Umraniyespor
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV COCA] Arema FC vs Bali United
