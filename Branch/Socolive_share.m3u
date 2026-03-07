@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",19h30: [A PÁO] Blackburn Rovers vs Portsmouth
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",19h30: [KÉP] Blackburn Rovers vs Portsmouth
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",19h30: [MR BÍCH] Hull City vs Millwall
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV TOMMY] CA Osasuna vs RCD Mallorca
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",20h00: [CR Bưởi] CA Osasuna vs RCD Mallorca
@@ -362,9 +356,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",10h00-08/03: [BLV ĐỐM] Tigres UANL vs Monterrey
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",10h00-08/03: [BLV XO] Tigres UANL vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",10h00-08/03: [BLV VITAMIN] Tigres UANL vs Monterrey
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
