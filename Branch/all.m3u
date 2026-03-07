@@ -95,31 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-07/03 Nantes Vs Angers BLV CHUNN
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-08/03 Atalanta Vs Udinese BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-08/03 Besiktas JK Vs Galatasaray BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-08/03 FC Koln Vs Borussia Dortmund BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-08/03 Atletico Madrid Vs Real Sociedad BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h45-08/03 Wrexham Vs Chelsea BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-08/03 AJ Auxerre Vs Strasbourg BLV VƯƠNG LUÂN
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="Socolive_2",23h00: [MR BÍCH] FC Nantes vs Angers SCO
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV A WIN] FC Nantes vs Angers SCO
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",00h00: [THẠCH TÚ] Atalanta vs Udinese
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",00h00: [BLV VIP] Atalanta vs Udinese
