@@ -1,13 +1,19 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-07/03 Hoang Anh Gia Lai Vs Cong An TP Ho Chi Minh BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-07/03 Shanghai Shenhua Vs Dalian Zhixing BLV DƯƠNG QUÁ
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h35-07/03 Sydney FC Vs Melbourne Victory BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-07/03 Perth Vs Melbourne United BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-07/03 Shanghai Shenhua Vs Dalian Zhixing BLV DƯƠNG QUÁ
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-07/03 Napoli Youth Vs Sassuolo U20 BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-07/03 Sukhothai Vs Rayong FC BLV KHỔNG MINH
 https://auto.cdnok9.com/live/sd-6MvZ61ShZK3QuoryRn/playlist.m3u8
@@ -21,11 +27,11 @@ https://auto.cdnok9.com/live/sd-6MvVNYr2XL5mJAhQ84/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h35-07/03 Yunnan Yukun Vs Qingdao Manatee BLV CHUNN
 https://auto.cdnok9.com/live/hd-en-6MvVNtSxxWZRjC8dmv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-07/03 Malut United Vs PSM Makassar BLV ĐOÀN DỰ
-https://auto.cdnok9.com/live/sd-6MuTNFmKjNP4R7B4UC/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-07/03 Prachuap Khiri Khan Vs Muang Thong United BLV VĂN VỸ
 https://auto.cdnok9.com/live/sd-6MvZ61ShZPSNemWoja/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-07/03 Malut United Vs PSM Makassar BLV ĐOÀN DỰ
+https://auto.cdnok9.com/live/sd-6MuTNFmKjNP4R7B4UC/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-07/03 Mansfield Town Vs Arsenal BLV LƯU BỊ
 https://auto.cdnok9.com/live/hd-en-6MvVNq91bEoo8jBxse/playlist.m3u8
@@ -115,8 +121,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=406865
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV SÓI] SV Darmstadt 98 vs Holstein Kiel
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV LIO] SV Darmstadt 98 vs Holstein Kiel
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV WUKONG] 1. FC Nürnberg vs Fortuna Dusseldorf
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTINF:-1 group-title="Socolive_2",19h00: [THE KOP] 1. FC Nürnberg vs Fortuna Dusseldorf
@@ -805,9 +809,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h30-08/03: [BLV A BỆU] Port Vale vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-08/03: [BÚA TẠ] Bologna vs Hellas Verona
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-08/03: [BLV FIREMAN] Bologna vs Hellas Verona
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -1063,6 +1064,10 @@ https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 1
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
