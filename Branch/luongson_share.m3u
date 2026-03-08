@@ -1,19 +1,22 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",14h30-08/03 Zhejiang Professional FC Vs Qingdao Youth Island BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",14h30-08/03 FC Anyang Vs Jeju SK FC BLV PHONG VÂN
 https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",13h00-08/03 Gamba Osaka Vs V-Varen Nagasaki BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",14h30-08/03 Zhejiang Professional FC Vs Qingdao Youth Island BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",15h00-08/03 Yenisey Krasnoyarsk Vs KAMAZ Naberezhnye Chelny BLV VƯƠNG LUÂN
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",16h00-08/03 Gazovik Orenburg Vs Zenit St. Petersburg BLV LEO
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",16h00-08/03 Dong Thap Vs TDTT Bac Ninh BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",16h00-08/03 Iran (W) Vs Philippines (W) BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",16h00-08/03 Australia (W) Vs South Korea (W) BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
