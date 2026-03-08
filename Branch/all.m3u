@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-08/03 Villarreal Vs Elche BLV KEVILL
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-08/03 Getafe Vs Real Betis BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-08/03 St. Pauli Vs Eintracht Frankfurt BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-08/03 Bologna Vs Verona BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -15,32 +12,17 @@ https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7c
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-08/03 Fiorentina Vs Parma BLV CHUNN
 https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-08/03 Konyaspor Vs Kasimpasa BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-08/03 Estrela da Amadora Vs Gil Vicente BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-08/03 Selangor Vs Imigresen FC BLV MÃ SIÊU
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-08/03 Port Vale Vs Sunderland A.F.C BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-08/03 St. Pauli Vs Eintracht Frankfurt BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-08/03 SAM Vs OK9 TV MEGA LIVE
 https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-08/03 Getafe Vs Real Betis BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV  TYPN] Villarreal CF vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV COCA] Villarreal CF vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",20h00: [VƯƠNG ANH] Villarreal CF vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",20h00: [THẠCH TÚ] Villarreal CF vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",20h00: [CR Bưởi] Villarreal CF vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV MESSI] Villarreal CF vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV TOMIA] Port Vale vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV SATIVA] Port Vale vs Sunderland
