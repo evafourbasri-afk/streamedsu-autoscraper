@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-09/03 Arsenal Vs Sunderland NHÀ ĐÀI
+https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-09/03 North Korea (W) Vs China (W) BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-09/03 Bangladesh (W) Vs Uzbekistan (W) BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-09/03 Melbourne Victory FC (Youth) Vs FC Bulleen Lions BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h45-26/11 Barnsley Vs Cardiff City NHÀ ĐÀI
+rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MuT7sYEWuFARm4cSx/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-09/03 Addis Ketema Vs Dessie Ketema NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwcqNg11ud7Xxwmkx/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",16h00: [RICKHANTER] Bangladesh Women vs Uzbekistan Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV BÉO] Bangladesh Women vs Uzbekistan Women
@@ -207,8 +225,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-10/03: [BLV WUKONG] CFR Cluj vs FC Dinamo 1948
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-10/03: [RABBIT] CFR Cluj vs FC Dinamo 1948
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-10/03: [THE KOP] CFR Cluj vs FC Dinamo 1948
+http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-10/03: [BLV A BỆU] West Ham United vs Brentford
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
@@ -282,8 +300,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-10/03: [THE KOP] Cienciano vs Sport Boys
 http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-10/03: [BLV SÓI] Cienciano vs Sport Boys
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-10/03: [BLV ROBBEN] Cienciano vs Sport Boys
+http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-10/03: [BLV A TÚ] Universidad de Chile vs Universidad de Concepcion
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
@@ -787,6 +805,8 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Event 1
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 2
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
