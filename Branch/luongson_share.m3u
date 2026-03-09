@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",10h05-09/03 Club Tijuana Vs Santos Laguna BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",09h00-09/03 Phoenix Suns Vs Charlotte Hornets BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",00h00-09/03 Arsenal Vs Sunderland NHÀ ĐÀI
+https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",02h45-26/11 Barnsley Vs Cardiff City NHÀ ĐÀI
 rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MuT7sYEWuFARm4cSx/playlist.m3u8
