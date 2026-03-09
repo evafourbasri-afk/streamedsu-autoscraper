@@ -1,74 +1,31 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-09/03 Eyupspor Vs Kocaelispor BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-09/03 Gil Vicente U23 Vs Vizela U23 BLV MAYBACH
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-09/03 Persib Bandung Vs Persik Kediri BLV KEVILL
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-09/03 Estrela FC U23 Vs Uniao Leiria U23 BLV LEO
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-09/03 Levski Sofia Vs Lokomotiv Plovdiv BLV QUAN VŨ
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-09/03 Veres Vs LNZ Cherkasy BLV KAKA
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-09/03 Spartak Moscow Vs Akron Togliatti BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-09/03 PSBS Biak Vs Semen Padang BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-09/03 Rukh Vynnyky Vs Metalist 1925 Kharkiv BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-09/03 PFK Montana Vs Ludogorets Razgrad BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-09/03 Lokomotiv Moscow Vs Terek Grozny BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-09/03 Cesena U20 Vs AC Milan U20 BLV SHIN
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-09/03 Panaitolikos Agrinio Vs AE Kifisias BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-10/03 Alanyaspor Vs Genclerbirligi BLV VƯƠNG LUÂN
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV 7UP] Eyupspor vs Kocaelispor
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV TOMMY] Eyupspor vs Kocaelispor
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",20h00: [SAO LA] Eyupspor vs Kocaelispor
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV MESSI] Eyupspor vs Kocaelispor
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV TOMIA] Eyupspor vs Kocaelispor
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",20h30: [A PÁO] Lokomotiv Moscow vs Akhmat Grozny
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV A TÚ] Lokomotiv Moscow vs Akhmat Grozny
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV CHIVAS] Lokomotiv Moscow vs Akhmat Grozny
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV CÒ] Lokomotiv Moscow vs Akhmat Grozny
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",20h30: [RABBIT] PFK Montana vs Ludogorets Razgrad
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
-#EXTINF:-1 group-title="Socolive_2",20h30: [NGƯỜI THÉP] PFK Montana vs Ludogorets Razgrad
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV VITAMIN] PFK Montana vs Ludogorets Razgrad
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV FIREMAN] PFK Montana vs Ludogorets Razgrad
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",20h30: [CÚ ĐÊM] Persib Bandung vs Persik Kediri
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",20h30: [CÔNG CHẤT] Persib Bandung vs Persik Kediri
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV ĐỐM] Persib Bandung vs Persik Kediri
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV Củ Cải] Persib Bandung vs Persik Kediri
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",20h30: [VƯƠNG ANH] Persib Bandung vs Persik Kediri
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",20h30: [LOKA] Persib Bandung vs Persik Kediri
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",20h30: [ZIDANE] PSBS Biak Numfor vs Semen Padang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",20h30: [RICKHANTER] PSBS Biak Numfor vs Semen Padang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",20h30: [GOAT] PSBS Biak Numfor vs Semen Padang
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",20h30: [LOGAN] PSBS Biak Numfor vs Semen Padang
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-10/03 AIK Solna Vs Hacken BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-10/03 RCD Espanyol Vs Real Oviedo BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV  TYPN] Minerva Punjab vs Northeast United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",21h00: [XUÂN SON] Minerva Punjab vs Northeast United
@@ -80,6 +37,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV RAMBO] Zira FK vs FK Kapaz Ganca
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV GÔN] Zira FK vs FK Kapaz Ganca
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-09/03: [BLV RAMBO] Zira FK vs FK Kapaz Ganca
+http://sharing.gotdns.ch:8091/socolive.php?id=534055
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-09/03: [BLV GÔN] Zira FK vs FK Kapaz Ganca
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-09/03: [CR Bưởi] Spartak Moscow vs Akron Togliatti
@@ -178,22 +141,22 @@ http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-10/03: [THE KOP] CFR Cluj vs FC Dinamo 1948
 http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-10/03: [BLV A BỆU] West Ham United vs Brentford
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-10/03: [BLV A BỆU] West Ham United vs Brentford
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-10/03: [BLV TOMIA] West Ham United vs Brentford
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-10/03: [BLV TOMIA] West Ham United vs Brentford
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-10/03: [THẠCH TÚ] West Ham United vs Brentford
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-10/03: [THẠCH TÚ] West Ham United vs Brentford
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-10/03: [SAO LA] West Ham United vs Brentford
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-10/03: [SAO LA] West Ham United vs Brentford
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-10/03: [BLV MESSI] West Ham United vs Brentford
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-10/03: [BLV MESSI] West Ham United vs Brentford
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-10/03: [BLV VITAMIN] West Ham United vs Brentford
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-10/03: [BLV VITAMIN] West Ham United vs Brentford
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-10/03: [BLV ANH TÀI] Almeria vs Cultural Leonesa
