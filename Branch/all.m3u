@@ -1,42 +1,25 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h20-10/03 Millonarios Vs Cucuta BLV LÝ QUỲ
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-10/03 Municipal Liberia Vs Guadalupe FC BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-10/03 Cleveland Cavaliers Vs Philadelphia 76ers BLV SHIN
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-10/03 Sporting San Jose Vs Perez Zeledon BLV TÂY MÔN KHÁNH
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-10/03 Los Angeles Clippers Vs New York Knicks BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h30-10/03 Deportivo Pasto Vs America de Cali BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-10/03 Utah Jazz Vs Golden State Warriors BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h30-10/03 Oklahoma City Thunder Vs Denver Nuggets BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-10/03 Waterhouse FC Vs Montego Bay Utd BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-10/03 KCC Egis Vs Mobis Phoebus BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Socolive_2",05h30: [VỊT BẠC] Cienciano vs Sport Boys
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",05h30: [THE KOP] Cienciano vs Sport Boys
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTINF:-1 group-title="Socolive_2",05h30: [BLV ROBBEN] Cienciano vs Sport Boys
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV A TÚ] Universidad de Chile vs Universidad de Concepcion
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV VOI] Universidad de Chile vs Universidad de Concepcion
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",06h00: [TẠ BIÊN GIỚI] Universidad de Chile vs Universidad de Concepcion
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",06h00: [A CHÈ] Cleveland Cavaliers vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",06h00: [BRIAN] Cleveland Cavaliers vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",06h20: [BLV  TYPN] Millonarios vs Cucuta Deportivo
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",06h20: [BLV TOMIA] Millonarios vs Cucuta Deportivo
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",06h20: [BLV CÒ] Millonarios vs Cucuta Deportivo
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV HENRY] Oklahoma City Thunder vs Denver Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",06h30: [CHAN SENA] Oklahoma City Thunder vs Denver Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",07h30: [LOGAN] Orense SC vs Manta FC
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2",07h30: [BLV Củ Cải] Orense SC vs Manta FC
