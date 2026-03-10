@@ -181,8 +181,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 2
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Event 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -449,8 +447,8 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=150391&extens
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Love Nature
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1165908&extension=ts&play_token=jTMIxWqS7a
-#EXTINF:-1 group-title="TruyenHinh_2",BBC Lifestyle
-https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
+#EXTINF:-1 group-title="TruyenHinh_2",BBC Earth
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",BBC Cbeebies
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",BBC World News
