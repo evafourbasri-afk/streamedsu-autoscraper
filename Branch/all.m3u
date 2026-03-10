@@ -1,57 +1,28 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-10/03 Buriram United Vs Melbourne City BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-10/03 Serik Belediyespor Vs Pendikspor BLV KHỔNG MINH
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-10/03 Pakhtakor Vs Navbahor Namangan BLV KHỔNG MINH
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-10/03 Adama City Vs Arba Minch BLV NGŨ CA
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-10/03 Sabah FK Baku Vs Qabala BLV MAYBACH
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-10/03 Maritimo U23 Vs Portimonense U23 BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-10/03 Bhayangkara Solo FC Vs Arema FC BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-10/03 Hawassa City FC Vs Mekelle 70 Enderta FC BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-10/03 Neftchi Fargona Vs FK Andijon BLV PHONG VÂN
 https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-10/03 Maritimo U23 Vs Portimonense U23 BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV KEM] Buriram United vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",19h15: [VƯƠNG ANH] Buriram United vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TOMMY] Buriram United vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TAP] Buriram United vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",19h15: [ZIDANE] Buriram United vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",19h15: [RICKHANTER] Buriram United vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV COZY] Serik Belediyespor vs Pendikspor
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",20h00: [XUÂN SON] Serik Belediyespor vs Pendikspor
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV CÒ] Serik Belediyespor vs Pendikspor
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A WIN] Serik Belediyespor vs Pendikspor
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV ENZO] Bhayangkara FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV RÔSI] Bhayangkara FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",20h30: [LOKA] Bhayangkara FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",20h30: [LÃO LÂM] Bhayangkara FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV  TYPN] Bhayangkara FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV BÉO] Bhayangkara FC vs Arema FC
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-10/03 Slaven Belupo Vs NK Lokomotiva Zagreb BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-10/03 Academico Viseu U23 Vs Sporting Lisbon Sad U23 BLV LỮ BỐ
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h45-10/03 Mashal Muborak Vs Qizilqum Zarafshon BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 group-title="Socolive_2",21h00: [GOAT] Neftchi Fergana vs FK Andijon
 http://sharing.gotdns.ch:8091/socolive.php?id=585206
 #EXTINF:-1 group-title="Socolive_2",21h00: [RABBIT] Neftchi Fergana vs FK Andijon
@@ -64,12 +35,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=592799
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",21h45: [BLV XO] Mashal Muborak vs Qizilqum Zarafshon
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",22h00: [CÚ ĐÊM] Pakhtakor vs Navbahor Namangan
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",22h00: [BLV PEWPEW] Pakhtakor vs Navbahor Namangan
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",22h00: [SÙNG A MÚP] Pakhtakor vs Navbahor Namangan
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV ALEX] Academico Viseu U23 vs Sporting CP U23
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",22h00: [Đình Bắc] Academico Viseu U23 vs Sporting CP U23
@@ -88,6 +53,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=564362
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",22h15: [BLV VITAMIN] Sabah Baku vs Gabala SC
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTINF:-1 group-title="Socolive_2",22h30: [CÚ ĐÊM] Pakhtakor vs Navbahor Namangan
+http://sharing.gotdns.ch:8091/socolive.php?id=547345
+#EXTINF:-1 group-title="Socolive_2",22h30: [BLV PEWPEW] Pakhtakor vs Navbahor Namangan
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
+#EXTINF:-1 group-title="Socolive_2",22h30: [SÙNG A MÚP] Pakhtakor vs Navbahor Namangan
+http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-10/03: [KING] MBA Moscow vs Unics Kazan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
