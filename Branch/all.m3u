@@ -3,8 +3,17 @@
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-10/03 Arsenal Vs Sunderland MEGA LIVE
 https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-10/03 Dynamo Ceske Budejovice U19 Vs Slavia Praha U19 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5vXE936eda3udn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-10/03 KCC Egis Vs Mobis Phoebus BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h45-11/03 Ayr United Vs Queen's Park NHÀ ĐÀI
+rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MuSsGL7RsGyAcxAPW/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h45-11/03 Barnsley Vs Cardiff City NHÀ ĐÀI
+rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MuT7sYEWuFARm4cSx/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",15h30: [BRIAN] Adelaide vs South East Melbourne
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",15h30: [A CHÈ] Adelaide vs South East Melbourne
@@ -119,12 +128,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=585206
 http://sharing.gotdns.ch:8091/socolive.php?id=596191
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ANH TÀI] Neftchi Fergana vs FK Andijon
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",21h45: [BLV A TÚ] Mashal Muborak vs Qizilqum Zarafshon
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",21h45: [NGƯỜI THÉP] Mashal Muborak vs Qizilqum Zarafshon
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",21h45: [Giàng A Thổ] Mashal Muborak vs Qizilqum Zarafshon
 http://sharing.gotdns.ch:8091/socolive.php?id=592799
+#EXTINF:-1 group-title="Socolive_2",21h45: [BLV A BỆU] Mashal Muborak vs Qizilqum Zarafshon
+http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",22h00: [CÚ ĐÊM] Pakhtakor vs Navbahor Namangan
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV PEWPEW] Pakhtakor vs Navbahor Namangan
@@ -171,8 +180,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-11/03: [BLV VIP] Manisa Futbol Kulübü vs Sariyer
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-11/03: [Đình Bắc] Al Bataeh vs Ajman
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-11/03: [NGƯỜI THÉP] Al Bataeh vs Ajman
+http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-11/03: [BLV VITAMIN] Al-Dhafra vs Al-Jazira(UAE)
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
@@ -483,11 +492,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-11/03: [TẠ BIÊN GIỚI] Sanfrecce Hiroshima vs Johor Darul Ta'zim FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-11/03: [THẠCH TÚ] Sanfrecce Hiroshima vs Johor Darul Ta'zim FC
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-11/03: [BLV TAP] Sanfrecce Hiroshima vs Johor Darul Ta'zim FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-11/03: [BLV MIXI] Sanfrecce Hiroshima vs Johor Darul Ta'zim FC
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-11/03: [KING] LG Sakers vs Goyang Sono
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
@@ -504,11 +513,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-11/03: [BLV A TÚ] Istanbulspor vs Amedspor
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-11/03: [NGƯỜI THÉP] Istanbulspor vs Amedspor
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-11/03: [BÚA TẠ] Istanbulspor vs Amedspor
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-11/03: [Đình Bắc] Istanbulspor vs Amedspor
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-11/03: [BLV RAMBO] Simal FK vs Safa Baku
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
@@ -833,6 +842,8 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 2
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
