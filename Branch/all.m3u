@@ -9,21 +9,17 @@ https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-10/03 Adama City Vs Arba Minch BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-10/03 Hawassa City FC Vs Mekelle 70 Enderta FC BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-10/03 Santa Clara U23 Vs Braga U23 BLV CHUNN
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-10/03 Bhayangkara Solo FC Vs Arema FC BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-10/03 Hawassa City FC Vs Mekelle 70 Enderta FC BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-10/03 Neftchi Fargona Vs FK Andijon BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-10/03 Maritimo U23 Vs Portimonense U23 BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV RAMBO] Santa Clara U23 vs Braga U23
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",19h00: [MR BÍCH] Santa Clara U23 vs Braga U23
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV KEM] Buriram United vs Melbourne City
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTINF:-1 group-title="Socolive_2",19h15: [VƯƠNG ANH] Buriram United vs Melbourne City
@@ -165,14 +161,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-11/03: [BLV TOMIA] Atletico Madrid vs Tottenham Hotspur
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-11/03: [BLV 7UP] Atletico Madrid vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-11/03: [LOKA] Atletico Madrid vs Tottenham Hotspur
 http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-11/03: [BLV FIREMAN] Atletico Madrid vs Tottenham Hotspur
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-11/03: [BLV CÒ] Atletico Madrid vs Tottenham Hotspur
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-11/03: [BLV ĐỐM] Newcastle United vs FC Barcelona
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
@@ -345,8 +341,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-11/03: [BLV COCA] Los Angeles FC vs LD Alajuelense
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-11/03: [BLV 7UP] Los Angeles FC vs LD Alajuelense
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-11/03: [BLV ENZO] Los Angeles FC vs LD Alajuelense
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-11/03: [CHAN SENA] Los Angeles Lakers vs Minnesota Timberwolves
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
