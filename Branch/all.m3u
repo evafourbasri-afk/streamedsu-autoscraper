@@ -1,13 +1,16 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-11/03 PSIM Yogyakarta Vs Persijap Jepara BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-11/03 Torpedo Kutaisi Vs FC Iberia 1999 Tbilisi BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-11/03 Gagra Tbilisi Vs Spaeri FC BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h45-11/03 Buxoro FK Vs Xorazm Urganch BLV MAYBACH
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-11/03 Dinamo Tbilisi Vs FC Metalurgi Rustavi BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-11/03 Paris FC (W) Vs Strasbourg W BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-11/03 Lokomotiv Tashkent Vs Kuruvchi Kokand Qoqon BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
@@ -15,31 +18,14 @@ https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7c
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-11/03 Paris Saint Germain (W) Vs Marseille (W) BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-11/03 NK Fuzinar Vs NK Aluminij BLV TÂY MÔN KHÁNH
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-11/03 JENNIE Vs OK9 TV MEGA LIVE
-https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=3b4a78bac99610b4491fddd97a4d91
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h45-11/03 Buxoro FK Vs Xorazm Urganch BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-11/03 Paris FC (W) Vs Strasbourg W BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-11/03 Birmingham Legion Vs Hartford Athletic BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV XO] PSIM Yogyakarta vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",20h30: [VƯƠNG ANH] PSIM Yogyakarta vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV RÔSI] PSIM Yogyakarta vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV TAP] PSIM Yogyakarta vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV MESSI] PSIM Yogyakarta vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV  TYPN] PSIM Yogyakarta vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",20h30: [BRIAN] Israel W vs Bosnia & Herzegovina W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-11/03 JENNIE Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=3b4a78bac99610b4491fddd97a4d91
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV FIREMAN] Penang FC vs Kelantan The Real Warriors
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ANH TÀI] Penang FC vs Kelantan The Real Warriors
@@ -79,6 +65,57 @@ http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",22h15: [Đình Bắc] Paris Saint Germain Women vs Marseillaises Women
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",22h15: [CHANH MUỐI] Paris Saint Germain Women vs Marseillaises Women
+http://sharing.gotdns.ch:8091/socolive.php?id=598549
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-11/03: [BLV TOMIA] Lokomotiv Tashkent vs FK Kokand 1912
+http://sharing.gotdns.ch:8091/socolive.php?id=9912008
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-11/03: [Giàng A Thổ] Lokomotiv Tashkent vs FK Kokand 1912
+http://sharing.gotdns.ch:8091/socolive.php?id=592799
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-11/03: [BLV ALEX] Lokomotiv Tashkent vs FK Kokand 1912
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h45-11/03: [BLV MIXI] Buxoro FK vs Xorazm Urganch
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h45-11/03: [SAO LA] Buxoro FK vs Xorazm Urganch
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h45-11/03: [SÙNG A MÚP] Buxoro FK vs Xorazm Urganch
+http://sharing.gotdns.ch:8091/socolive.php?id=9912097
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-11/03: [BLV A TÚ] Dinamo Tbilisi vs FC Metalurgi Rustavi
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-11/03: [BLV CHIVAS] Dinamo Tbilisi vs FC Metalurgi Rustavi
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-11/03: [BLV VITAMIN] Dinamo Tbilisi vs FC Metalurgi Rustavi
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-11/03: [A CHÈ] Samara vs Saratov
+http://sharing.gotdns.ch:8091/socolive.php?id=356042
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-11/03: [KING] Samara vs Saratov
+http://sharing.gotdns.ch:8091/socolive.php?id=9912099
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-11/03: [BLV RAMBO] Paris FC Women vs Strasbourg Women
+http://sharing.gotdns.ch:8091/socolive.php?id=534055
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-11/03: [RABBIT] Paris FC Women vs Strasbourg Women
+http://sharing.gotdns.ch:8091/socolive.php?id=596191
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-11/03: [A PÁO] Paris FC Women vs Strasbourg Women
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-11/03: [BLV COZY] Paris Saint Germain Women vs Marseillaises Women
+http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-11/03: [Đình Bắc] Paris Saint Germain Women vs Marseillaises Women
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-11/03: [CHANH MUỐI] Paris Saint Germain Women vs Marseillaises Women
 http://sharing.gotdns.ch:8091/socolive.php?id=598549
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-11/03: [BLV WUKONG] Gagra FC vs Spaeri FC
