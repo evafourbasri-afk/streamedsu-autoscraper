@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",15h00-11/03 Philippine Army Vs Garelli United BLV LỮ BỐ
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",13h00-11/03 Persipuja Puncak Jaya Vs Persemi Mimika NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MwcqG4qnkYvbNSBoz/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",14h00-11/03 Philippine Army Vs Garelli United BLV LỮ BỐ
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="LuongSon_2",13h30-11/03 Dong Nai University of Technology Vs Dong Thap University NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwcqG4qnDnCQesMfS/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",14h00-11/03 Sheger Ketema (w) Vs Addis Ababa Ketema (W) NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwcqKQHxX31h4TSix/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",15h30-11/03 Sydney Vs Perth BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
