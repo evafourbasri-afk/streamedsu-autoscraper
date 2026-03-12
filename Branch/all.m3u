@@ -1,55 +1,13 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-12/03 Boluspor Vs Corum Belediyespor BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-12/03 OTMK Olmaliq Vs Sogdiana Jizak BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-12/03 Persis Solo FC Vs Bali United BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-12/03 Chanmari FC Vs Dempo BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-12/03 Samgurali Tskh Vs Dinamo Batumi BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-12/03 Dinamo Samarqand Vs Nasaf Qarshi BLV KHỔNG MINH
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV LIO] Boluspor vs Corum Belediyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV CÁO] Boluspor vs Corum Belediyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",20h00: [Giàng A Thổ] Boluspor vs Corum Belediyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=592799
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV WUKONG] Boluspor vs Corum Belediyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",20h00: [MR BÍCH] Boluspor vs Corum Belediyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",20h00: [CÔNG CHẤT] Boluspor vs Corum Belediyespor
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV TOMIA] Persis Solo FC vs Bali United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV ENZO] Persis Solo FC vs Bali United
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV RÔSI] Persis Solo FC vs Bali United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",20h30: [CR Bưởi] Persis Solo FC vs Bali United
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV PIRLO] Persis Solo FC vs Bali United
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV  TYPN] Persis Solo FC vs Bali United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV VITAMIN] Dewa United FC vs Manila Digger FC
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV RAMBO] Dewa United FC vs Manila Digger FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",20h30: [BON BON] Dewa United FC vs Manila Digger FC
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",20h30: [LÃO LÂM] Dewa United FC vs Manila Digger FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV COZY] Dewa United FC vs Manila Digger FC
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",20h30: [Đình Bắc] Dewa United FC vs Manila Digger FC
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-12/03 OTMK Olmaliq Vs Sogdiana Jizak BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 group-title="Socolive_2",21h30: [RABBIT] FC OKMK Olmaliq vs Sogdiana Jizak
 http://sharing.gotdns.ch:8091/socolive.php?id=596191
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV ROBBEN] FC OKMK Olmaliq vs Sogdiana Jizak
@@ -78,6 +36,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=568233
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTINF:-1 group-title="Socolive_2",22h00: [MR BÍCH] Dinamo Samarqand vs Nasaf Qarshi
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
+#EXTINF:-1 group-title="Socolive_2",22h00: [VƯƠNG ANH] Dinamo Samarqand vs Nasaf Qarshi
+http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-12/03: [Giàng A Thổ] Dila Gori vs Fc Meshakhte Tkibuli
 http://sharing.gotdns.ch:8091/socolive.php?id=592799
@@ -807,8 +767,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 4
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Event 6
-https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 5
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1081,6 +1041,8 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",BBC Cbeebies
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",BBC World News
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Bloomberg
