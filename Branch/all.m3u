@@ -1,4 +1,37 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-12/03 Shan United Vs Mahar United BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-12/03 Finland (W) U17 Vs Romania (W) U17 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5hYwF1aH9awgbN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-12/03 SC Poltava U21 Vs Karpaty U21 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuQ8zyx3u5kygds7J/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-12/03 Dinamo KyivU21 Vs Obolon Kiev U21 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuQ8iiSnmdM7g19kx/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-12/03 E Nel G Tick Vs Sabail NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd6CuPwcGJW2GBet/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-12/03 Shahdagh Qusar Vs FK MOIK Baku BLV PHONG VÂN
+https://auto.cdnok9.com/live/sd-6Mwd6Ctdctc4CU2oDW/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-12/03 Difai Agsu FK Vs Baku Sporting NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd6CuPmwnmZgbVYG/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-12/03 Faroe Islands (W) U17 Vs Slovenia (W) U17 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5hZhjxgGSgEWSp/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-12/03 Olympique Star Vs Aigle Noir NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgUc6SXTxPVk3e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-12/03 Dewa United FC Vs Manila Digger FC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYboeu1iHop6QGBW/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h45-12/03 Bumamuru Vs BS Dynamic NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgUc6HjYUUC5S4/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",15h30: [BRIAN] Mali W vs Czech Republic W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",15h30: [HUNTER] Mali W vs Czech Republic W
@@ -7,8 +40,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=558264
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV CÒ] Shan United vs Mahar United
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",16h00: [CÚ ĐÊM] Shan United vs Mahar United
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV PEWPEW] Shan United vs Mahar United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTINF:-1 group-title="Socolive_2",16h00: [CÔNG CHẤT] Shan United vs Mahar United
@@ -273,9 +304,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-13/03: [BLV 7UP] Nottingham Forest vs Midtjylland
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-13/03: [CÚ ĐÊM] Nottingham Forest vs Midtjylland
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-13/03: [CR Bưởi] Nottingham Forest vs Midtjylland
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -284,6 +312,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-13/03: [RICKHANTER] Nottingham Forest vs Midtjylland
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-13/03: [CÚ ĐÊM] Nottingham Forest vs Midtjylland
+http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-13/03: [BLV CÁO] Crystal Palace vs AEK Larnaca
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
@@ -866,8 +897,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Event 6
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 1
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 2
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
