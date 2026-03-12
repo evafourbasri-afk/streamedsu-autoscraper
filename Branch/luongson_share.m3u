@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",17h00-12/03 Seoul Knights Vs Wonju DB BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",16h00-12/03 Shan United Vs Mahar United BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -8,6 +11,9 @@ https://auto.cdnok9.com/live/sd-6Mwd5hYwF1aH9awgbN/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",17h00-12/03 SC Poltava U21 Vs Karpaty U21 NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MuQ8zyx3u5kygds7J/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",17h30-12/03 76 Igdir Belediye spor Vs Bodrumspor BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-12/03 Dinamo KyivU21 Vs Obolon Kiev U21 NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MuQ8iiSnmdM7g19kx/playlist.m3u8
