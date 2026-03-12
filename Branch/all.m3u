@@ -441,11 +441,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-13/03: [BLV RÔSI] Gangneung Citizen vs Pocheon FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-13/03: [THE KOP] Gangneung Citizen vs Pocheon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-13/03: [BLV COCA] Gangneung Citizen vs Pocheon FC
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-13/03: [BON BON] Gangneung Citizen vs Pocheon FC
+http://sharing.gotdns.ch:8091/socolive.php?id=597924
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h00-13/03: [THẠCH TÚ] Brisbane Roar vs Western Sydney
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
@@ -876,8 +876,10 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 3
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 6
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
