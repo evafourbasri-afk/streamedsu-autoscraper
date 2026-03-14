@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",12h40: [NGƯỜI CÁ] China Women vs Chinese Taipei Women
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",12h40: [BLV KAN] China Women vs Chinese Taipei Women
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",12h40: [XUÂN SON] China Women vs Chinese Taipei Women
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV WUKONG] Kashima Antlers vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",13h00: [BON BON] Kashima Antlers vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV ROBBEN] Kashima Antlers vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV COZY] Sanfrecce Hiroshima vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",13h00: [NGƯỜI THÉP] Sanfrecce Hiroshima vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",13h00: [CHANH MUỐI] Sanfrecce Hiroshima vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",13h00: [CR Bưởi] Newcastle Jets vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",13h00: [ZIDANE] Newcastle Jets vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV  TYPN] Newcastle Jets vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV COCA] Newcastle Jets vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",13h00: [VƯƠNG ANH] Newcastle Jets vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV RÔSI] Newcastle Jets vs Auckland FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",13h30: [BRIAN] South East Melbourne vs Adelaide
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",13h30: [HUNTER] South East Melbourne vs Adelaide
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",14h00: [BLV GÔN] Tokyo Verdy vs Urawa Red Diamonds
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",14h00: [BLV LIO] Tokyo Verdy vs Urawa Red Diamonds
@@ -1166,10 +1132,10 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
 https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 2
 https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 4
-https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 1 4K
 https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 5
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
