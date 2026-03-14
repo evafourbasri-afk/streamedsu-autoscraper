@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV WUKONG] Kocaelispor vs Konyaspor
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",17h30: [RABBIT] Kocaelispor vs Konyaspor
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
-#EXTINF:-1 group-title="Socolive_2",17h45: [BLV ANH TÀI] FC Sochi vs FK Krasnodar
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",17h45: [BLV VIP] FC Sochi vs FK Krasnodar
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",18h00: [TẠ BIÊN GIỚI] Becamex Ho Chi Minh City vs Hong Linh Ha Tinh
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2",18h00: [VỊT BẠC] Becamex Ho Chi Minh City vs Hong Linh Ha Tinh
@@ -369,6 +361,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",11h40-01/12: [BLV SATIVA] Club Deportivo Guadalajara vs Santos Laguna
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",11h40-01/12: [KÉP] Club Deportivo Guadalajara vs Santos Laguna
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",06h30-15/03: [CÔNG CHẤT] Charlotte FC vs Inter Miami CF
 http://sharing.gotdns.ch:8091/socolive.php?id=291277
