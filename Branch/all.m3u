@@ -1,37 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-15/03 Arsenal Vs Everton BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-15/03 Chelsea Vs Newcastle United BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-15/03 Napoli Vs Lecce BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-15/03 Real Oviedo Vs Valencia BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-14/03 Lorient Vs Lens BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-15/03 Goztepe Vs Alanyaspor BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-15/03 Galatasaray Vs Istanbul Basaksehir BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-15/03 Hamburger SV Vs FC Koln BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-15/03 Atletico San Luis Vs Pachuca BLV LÝ QUỲ
-https://auto.cdnok9.com/live/sd-6MvZ6Lwim4rkUoFUFW/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h05-15/03 Chivas Guadalajara Vs Santos Laguna BLV MÃ SIÊU
-https://auto.cdnok9.com/live/sd-6MvZ6LwjGD5GmjZDCx/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h30-15/03 Charlotte FC Vs Inter Miami CF BLV NGŨ CA
-https://auto.cdnok9.com/live/sd-6MvZ6B7nQzcbqFPM64/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",23h00: [BLV A TÚ] Lorient vs RC Lens
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",23h00: [NGƯỜI CÁ] Lorient vs RC Lens
