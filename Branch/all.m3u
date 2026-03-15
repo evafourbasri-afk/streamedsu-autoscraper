@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",08h00: [VỊT BẠC] Club Leon vs Club Tijuana
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",08h00: [THE KOP] Club Leon vs Club Tijuana
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV ANH TÀI] Club Leon vs Club Tijuana
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV  TYPN] Toluca vs Atlas
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV VOI] Toluca vs Atlas
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",08h00: [Giàng A Thổ] Toluca vs Atlas
-http://sharing.gotdns.ch:8091/socolive.php?id=592799
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV NIBO] Los Angeles Galaxy vs Sporting Kansas City
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV LIO] Los Angeles Galaxy vs Sporting Kansas City
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV RAMBO] Real Salt Lake vs Austin FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV KAN] Real Salt Lake vs Austin FC
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",09h30: [RICKHANTER] Los Angeles FC vs St. Louis City SC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV COCA] Los Angeles FC vs St. Louis City SC
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV TOMMY] Los Angeles FC vs St. Louis City SC
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV PEWPEW] Los Angeles FC vs St. Louis City SC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",09h30: [CÔNG CHẤT] Los Angeles FC vs St. Louis City SC
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",09h30: [CHAN SENA] Los Angeles Clippers vs Sacramento Kings
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",09h30: [BRIAN] Los Angeles Clippers vs Sacramento Kings
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",09h30: [A CHÈ] Los Angeles Clippers vs Sacramento Kings
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",10h10: [BLV BÉO] Pumas U.N.A.M. vs Cruz Azul
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",10h10: [BLV CÒ] Pumas U.N.A.M. vs Cruz Azul
@@ -1106,10 +1070,10 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 8
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
