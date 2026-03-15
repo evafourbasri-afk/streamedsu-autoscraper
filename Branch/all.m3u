@@ -1,89 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h30-15/03 Liverpool Vs Tottenham Hotspur BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-16/03 Como Vs AS Roma BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-16/03 Real Betis Vs Celta Vigo BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-15/03 Rubin Kazan Vs Lokomotiv Moscow BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-15/03 FC Shakhtar Donetsk Vs Metalist 1925 Kharkiv BLV CHUNN
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h15-15/03 Le Havre Vs Lyon BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h15-15/03 Metz Vs Toulouse BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h30-15/03 SC Freiburg Vs Union Berlin BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-16/03 Brondby IF Vs Viborg BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-16/03 Samsunspor Vs Kayserispor BLV QUAN VŨ
-https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-16/03 Genclerbirligi Vs Besiktas JK BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="Socolive_2",23h00: [KING] Real Madrid vs Forca Lleida
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV HENRY] Real Madrid vs Forca Lleida
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV VIP] Havre Athletic Club vs Lyon
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",23h15: [NGƯỜI CÁ] Havre Athletic Club vs Lyon
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",23h15: [BON BON] Havre Athletic Club vs Lyon
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV A WIN] Havre Athletic Club vs Lyon
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",23h15: [Đình Bắc] Metz vs Toulouse FC
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",23h15: [BÚA TẠ] Metz vs Toulouse FC
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTINF:-1 group-title="Socolive_2",23h30: [SÙNG A MÚP] SC Freiburg vs 1. FC Union Berlin
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV A TÚ] SC Freiburg vs 1. FC Union Berlin
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",23h30: [NGƯỜI THÉP] SC Freiburg vs 1. FC Union Berlin
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",23h30: [CHANH MUỐI] SC Freiburg vs 1. FC Union Berlin
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV MIXI] SC Freiburg vs 1. FC Union Berlin
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",23h30: [MR BÍCH] SC Freiburg vs 1. FC Union Berlin
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",23h30: [TẠ BIÊN GIỚI] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",23h30: [THẠCH TÚ] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",23h30: [CR Bưởi] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",23h30: [ZIDANE] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV ĐỐM] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV COCA] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV 7UP] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV TOMMY] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",23h30: [SAO LA] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV PIRLO] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",23h30: [RICKHANTER] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV KEM] Liverpool vs Tottenham Hotspur
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTINF:-1 group-title="Socolive_2",00h00: [BLV A BỆU] Como vs AS Roma
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",00h00: [BLV XO] Como vs AS Roma
@@ -254,8 +169,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV PIRLO] Tigres Women vs Queretaro Women
 http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV ĐỐM] Tigres Women vs Queretaro Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV COCA] Tigres Women vs Queretaro Women
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",09h00: [TẠ BIÊN GIỚI] Tigres Women vs Queretaro Women
@@ -264,6 +177,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV FIREMAN] Tigres Women vs Queretaro Women
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTINF:-1 group-title="Socolive_2",09h00: [BLV A BỆU] Tigres Women vs Queretaro Women
+http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",09h00: [HUNTER] Sacramento Kings vs Utah Jazz
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",09h00: [CHAN SENA] Sacramento Kings vs Utah Jazz
