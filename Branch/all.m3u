@@ -1,44 +1,60 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",05h45: [BLV CHIVAS] River Plate vs Sarmiento Junin
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",05h45: [HẢI THANH] River Plate vs Sarmiento Junin
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV RAMBO] San Jose Earthquakes vs Seattle Sounders
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV KAN] San Jose Earthquakes vs Seattle Sounders
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",06h00: [CÔNG CHẤT] Tigres UANL vs Queretaro FC
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",06h00: [VENDETTA] Tigres UANL vs Queretaro FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV KEM] Tigres UANL vs Queretaro FC
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",06h00: [VƯƠNG ANH] Tigres UANL vs Queretaro FC
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV LIO] Red Bull Bragantino vs Sao Paulo
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV RÔSI] Red Bull Bragantino vs Sao Paulo
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",06h30: [THE KOP] Red Bull Bragantino vs Sao Paulo
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV NIBO] Red Bull Bragantino vs Sao Paulo
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",06h30: [XUÂN SON] Cruzeiro Esporte Clube vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",07h00: [BRIAN] New York Knicks vs Golden State Warriors
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",07h00: [HUNTER] Puerto Rico W vs Senegal W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",07h00: [CHAN SENA] Puerto Rico W vs Senegal W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h30-16/03 Atletico Junior Barranquilla Vs Fortaleza F.C BLV KAKA
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-16/03 New York Knicks Vs Golden State Warriors BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-16/03 Club Atletico Tigre Vs Argentinos Juniors BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-16/03 Club Atlético Unión Vs Boca Juniors BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-16/03 Club America Vs Mazatlan FC BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-16/03 Tigres (W) Vs Queretaro (W) BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h30-16/03 Vancouver Whitecaps Reserve Vs MINNESOTA United B NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwcqKN5qAnx1RW62G/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-16/03 FC Bulleen Lions Vs Brunswick Juventus BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-16/03 Bandirmaspor Vs 76 Igdir Belediye spor NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuTce18vmxVH2SJLU/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-16/03 Fc Meshakhte Tkibuli Vs Dinamo Batumi NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYrBn4fjQA2ZjvNY/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-16/03 Sassuolo (W) Vs Inter Milan (W) NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuQ9HGAy21SYPM9cQ/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-16/03 Dinamo Kyiv U21 Vs Rukh Vynnyky U21 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuQ8iiSxtUeVmaqiL/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-16/03 FC Ararat Armenia Vs FC Van NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwcqRrbX3zVv1Zqkg/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-16/03 Garage FC Vs Bumamuru NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgUc6WvRhM9aMS/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-16/03 BG Green Farmers FC Vs Romania Inter Star NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgUc6QKz5ufptk/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-16/03 S.S.D. Monza 1912 U20 Vs Cesena U20 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuSrz2NCiNpcSmKYg/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",08h00: [VỊT BẠC] Club Atletico Tigre vs Argentinos Juniors
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",08h00: [BLV KAN] Club Atletico Tigre vs Argentinos Juniors
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV SÓI] Club Atletico Tigre vs Argentinos Juniors
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2",08h00: [BLV VIP] Club Atletico Tigre vs Argentinos Juniors
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
+#EXTINF:-1 group-title="Socolive_2",08h00: [BLV MESSI] Club Atletico Tigre vs Argentinos Juniors
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTINF:-1 group-title="Socolive_2",08h00: [TAM MAO] Club Atlético Unión vs Boca Juniors
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTINF:-1 group-title="Socolive_2",08h00: [BLV GÔN] Club Atlético Unión vs Boca Juniors
