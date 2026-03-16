@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",01h30: [BLV ROBBEN] Aldosivi Mar del Plata vs CA Huracan
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",01h30: [KÉP] Aldosivi Mar del Plata vs CA Huracan
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",01h30: [BLV FIREMAN] Barracas Central vs Atletico Tucuman
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",01h30: [BON BON] Barracas Central vs Atletico Tucuman
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
 #EXTINF:-1 group-title="Socolive_2",02h30: [NGƯỜI THÉP] Albacete Balompié SAD vs UD Las Palmas
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",02h30: [CHANH MUỐI] Albacete Balompié SAD vs UD Las Palmas
@@ -31,8 +23,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=536185
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV ALEX] Rayo Vallecano vs Levante
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",03h00: [Đình Bắc] Rayo Vallecano vs Levante
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",03h00: [BÚA TẠ] Rayo Vallecano vs Levante
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV WUKONG] Rayo Vallecano vs Levante
@@ -41,6 +31,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=511367
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV ANH TÀI] Rayo Vallecano vs Levante
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
+#EXTINF:-1 group-title="Socolive_2",03h00: [Đình Bắc] Rayo Vallecano vs Levante
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV TOMIA] Brentford vs Wolverhampton Wanderers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV 7UP] Brentford vs Wolverhampton Wanderers
