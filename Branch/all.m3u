@@ -1,48 +1,22 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-16/03 FK Yelimay Semey Vs Altay FK BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-16/03 Bandirmaspor Vs 76 Igdir Belediye spor BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-16/03 Dagon Port Vs Yadanabon FC BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-16/03 Laconi Lian Vs Ispe FC BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-16/03 Parma U20 Vs Lecce U20 BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-16/03 KoGas Vs Anyang JungKwanJang BLV YẾN THANH
+#EXTINF:-1 group-title="LuongSon_2",Unknown
+Các liên kết được tổng hợp từ Internet. Chúng tôi chỉ sưu tầm và rút gọn link, không chịu trách nhiệm về nội dung hoặc tính pháp lý của các nguồn này
+#EXTINF:-1 group-title="LuongSon_2",17h00-16/03 KoGas Vs Anyang JungKwanJang BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV CÒ] Ulytau Zhezkazgan vs Kyzylzhar Petropavlovsk
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV MIXI] Ulytau Zhezkazgan vs Kyzylzhar Petropavlovsk
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",16h00: [SAO LA] Ulytau Zhezkazgan vs Kyzylzhar Petropavlovsk
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV COCA] Ulytau Zhezkazgan vs Kyzylzhar Petropavlovsk
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",16h30: [RICKHANTER] Dagon Port vs Yadanarbon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV TOMIA] Dagon Port vs Yadanarbon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",16h30: [TẠ BIÊN GIỚI] Dagon Port vs Yadanarbon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",16h30: [TAM MAO] Dagon Port vs Yadanarbon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",16h30: [CR Bưởi] Dagon Port vs Yadanarbon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",16h30: [ZIDANE] Dagon Port vs Yadanarbon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",16h30: [SÙNG A MÚP] Rakhine United FC vs ISPE FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV COZY] Rakhine United FC vs ISPE FC
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV LIO] Irtysh Pavlodar vs FK Atyrau
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
+#EXTINF:-1 group-title="LuongSon_2",18h00-16/03 Parma U20 Vs Lecce U20 BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",17h00-16/03 FK Yelimay Semey Vs Altay FK
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",17h30-16/03 Bandirmaspor Vs 76 Igdir Belediye spor
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2",19h00-16/03 Al Shouleh Vs Al-Karamah BLV URA
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",19h00-16/03 Tobol Kostanai Vs FC Zhetysu Taldykorgan BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",19h00-16/03 Al-Shorta Damascus Vs Omayya Ldlib BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="Socolive_2",LƯU Ý
+Các liên kết được tổng hợp từ Internet. Chúng tôi chỉ sưu tầm và rút gọn link, không chịu trách nhiệm về nội dung hoặc tính pháp lý của các nguồn này
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV RAMBO] FK Yelimay Semey vs Altay FK
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV GÔN] FK Yelimay Semey vs Altay FK
@@ -81,6 +55,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=513394
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
 #EXTINF:-1 group-title="Socolive_2",18h00: [CÚ ĐÊM] Parma U20 vs Lecce U20
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
+#EXTINF:-1 group-title="Socolive_2",18h00: [LOKA] Parma U20 vs Lecce U20
+http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",18h35: [A CHÈ] Beijing vs Tianjin
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV HENRY] Beijing vs Tianjin
@@ -119,14 +95,16 @@ http://sharing.gotdns.ch:8091/socolive.php?id=327159
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",20h00: [BON BON] Monza U20 vs Cesena U20
 http://sharing.gotdns.ch:8091/socolive.php?id=597924
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV LIO] Irtysh Pavlodar vs FK Atyrau
+http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV VOI] Kaisar Kyzylorda vs FC Astana
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV SATIVA] Kaisar Kyzylorda vs FC Astana
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",21h00: [BLV ROBBEN] Kaisar Kyzylorda vs FC Astana
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",21h00: [KÉP] Kaisar Kyzylorda vs FC Astana
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
+#EXTINF:-1 group-title="Socolive_2",21h00: [A PÁO] Kaisar Kyzylorda vs FC Astana
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",21h00: [BÚA TẠ] FC Kairat Almaty vs FK Aktobe Lento
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV MIXI] FC Kairat Almaty vs FK Aktobe Lento
