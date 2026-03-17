@@ -1,28 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",17h00-17/03 China (W) Vs Australia (W) BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 group-title="LuongSon_2",15h30-17/03 Adelaide Vs South East Melbourne BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",17h30-17/03 Gimcheon Sangmu FC Vs Gwangju Football Club BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="LuongSon_2",16h30-17/03 Mahar United Vs Ayeyawady united BLV PHONG VÂN
 https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",15h00-17/03 Sydney FC Vs Melbourne City
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",16h00-17/03 Yarmanya United FC Vs Thitsar Arman FC BLV MÃ SIÊU
+#EXTINF:-1 group-title="LuongSon_2",16h00-17/03 Yarmanya United FC Vs Thitsar Arman FC
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h00: [ZIDANE] Sydney FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV ĐỐM] Sydney FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV COCA] Sydney FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",15h00: [TẠ BIÊN GIỚI] Sydney FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",15h00: [THẠCH TÚ] Sydney FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV TAP] Sydney FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",15h30: [CHAN SENA] Adelaide vs South East Melbourne
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",15h30: [A CHÈ] Adelaide vs South East Melbourne
@@ -853,6 +843,8 @@ https://vip.opstream90.com/20260102/21538_3a9ba451/3000k/hls/mixed.m3u8
 https://rumble.com/hls-vod/74h9mw/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Út Lan: Oán Linh Giữ Của
 https://vip.opstream90.com/20260213/24963_b4f6926d/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Khế Ước Bán Dâu
+https://s6.kkphimplayer6.com/20260118/tdyKqxYZ/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
@@ -907,8 +899,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 9
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Event 4
-https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 5
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
