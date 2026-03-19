@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",15h00-19/03 Solomon Kings FC Vs South Melbourne BLV URA
+#EXTINF:-1 group-title="LuongSon_2",15h00-19/03 Solomon Kings FC Vs South Melbourne
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:-1 group-title="LuongSon_2",16h00-19/03 Chinese Taipei (W) Vs North Korea (W) BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
@@ -11,16 +11,6 @@ https://auto.cdnok9.com/live/sd-6Mwd5haSZQUsMLrLdS/playlist.m3u8
 https://auto.cdnok9.com/live/sd-6MuPtWHnTTHtkAxyMN/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",14h00: [HUNTER] Taiyuan W vs Chunghua Telecom W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",14h00: [KING] Taiyuan W vs Chunghua Telecom W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",14h00: [CHAN SENA] Taiyuan W vs Chunghua Telecom W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",14h00: [BRIAN] Taiyuan W vs Chunghua Telecom W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",14h00: [A CHÈ] Taiyuan W vs Chunghua Telecom W
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",15h00: [TẠ BIÊN GIỚI] Solomon Kings FC vs South Melbourne
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2",15h00: [GOAT] Solomon Kings FC vs South Melbourne
@@ -49,20 +39,22 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",17h30: [NGƯỜI CÁ] Chanmari FC vs Shillong Lajong FC
 http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",17h30: [THE KOP] Chanmari FC vs Shillong Lajong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV KEM] Karvan Evlakh vs Zira FK
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV A TINH] Karvan Evlakh vs Zira FK
 http://sharing.gotdns.ch:8091/socolive.php?id=598119
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV ROBBEN] Karvan Evlakh vs Zira FK
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
+#EXTINF:-1 group-title="Socolive_2",18h00: [HỘI GYM] Karvan Evlakh vs Zira FK
+http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV FIREMAN] FK Andijon vs Mashal Muborak
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",18h00: [MR BÍCH] FK Andijon vs Mashal Muborak
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",18h00: [A PÁO] Difai Agsu FK vs Cebrayil
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV A TÚ] Difai Agsu FK vs Cebrayil
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",18h00: [NGƯỜI THÉP] Simal FK vs PFK Zaqatala
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV VITAMIN] Simal FK vs PFK Zaqatala
@@ -355,6 +347,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-20/03: [Giàng A Thổ] Chapecoense SC vs Sport Club Corinthians Paulista
 http://sharing.gotdns.ch:8091/socolive.php?id=592799
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-20/03: [BLV ROBBEN] Chapecoense SC vs Sport Club Corinthians Paulista
+http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-20/03: [VƯƠNG ANH] Tigres UANL vs FC Cincinnati
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
