@@ -1,48 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",10h00-19/03 Seattle Sounders Vs Vancouver Whitecaps
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",10h00-19/03 Toluca Vs San Diego FC
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",11h00-19/03 South Island United FC Vs Bula FC BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",23h00-19/03 Turbine Potsdam (W) Vs SC Sand (W) NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MuPtWHnTTHtkAxyMN/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",08h00: [RICKHANTER] Club America vs Philadelphia Union
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV VOI] Club America vs Philadelphia Union
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",08h00: [CHANH MUỐI] Club America vs Philadelphia Union
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",08h00: [TAM MAO] Club America vs Philadelphia Union
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",08h00: [CR Bưởi] Club America vs Philadelphia Union
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV NIBO] Club America vs Philadelphia Union
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",08h05: [CHAN SENA] Memphis Grizzlies vs Denver Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV ANH TÀI] Deportivo Cali vs Independiente Santa Fe
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV LIO] Deportivo Cali vs Independiente Santa Fe
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",08h30: [HUNTER] Houston Rockets vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV HENRY] Houston Rockets vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",08h30: [BRIAN] Houston Rockets vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",08h30: [A CHÈ] Houston Rockets vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",09h00: [XUÂN SON] Club Jaiba Brava vs Correcaminos de la U.A.T.
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV A TINH] Club Jaiba Brava vs Correcaminos de la U.A.T.
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",11h40: [BLV TOMIA] Club Deportivo Guadalajara vs Club Leon
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",11h40: [BLV ENZO] Club Deportivo Guadalajara vs Club Leon
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",11h40: [BLV GÔN] Club Deportivo Guadalajara vs Club Leon
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",11h40: [CÔNG CHẤT] Club Deportivo Guadalajara vs Club Leon
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",11h40: [BLV VIP] Club Deportivo Guadalajara vs Club Leon
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",11h40: [CÚ ĐÊM] Club Deportivo Guadalajara vs Club Leon
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",10h00: [BLV 7UP] Toluca vs San Diego FC
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTINF:-1 group-title="Socolive_2",10h00: [TAM MAO] Toluca vs San Diego FC
@@ -258,7 +226,7 @@ http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-20/03: [BLV MESSI] Lyon vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-20/03: [BLV A BỆU] Lyon vs RC Celta
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-20/03: [HỘI GYM] Lyon vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-20/03: [BLV TOMIA] Lyon vs RC Celta
@@ -573,7 +541,7 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-20/03: [CÔNG CHẤT] Brisbane Roar Women vs Newcastle Jets Women
 http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-20/03: [BLV A BỆU] Brisbane Roar Women vs Newcastle Jets Women
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-20/03: [HỘI GYM] Brisbane Roar Women vs Newcastle Jets Women
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h15-20/03: [BLV GÔN] Oakleigh Cannons vs Caroline Springs George Cross
@@ -690,7 +658,7 @@ http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-20/03: [LÃO LÂM] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-20/03: [BLV A BỆU] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-20/03: [HỘI GYM] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-20/03: [BLV BÉO] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
@@ -959,6 +927,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 9
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1635,8 +1605,8 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Hu_Nan_Wei_Shi_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-FM96-Thoi_su_Ha_Noi
 #EXTINF:-1 group-title="TruyenHinh_3",FM 93.7 • THP CHÍNH TRỊ - TỔNG HỢP
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM93.7-THP_Radio-Phat_thanh_Hai_Phong
-#EXTINF:-1 group-title="TruyenHinh_3",CHƯƠNG TRÌNH PHÁT THANH ĐẶC BIỆT CHÚC MỪNG NGÀY VU QUY VÀ THÀNH HÔN TỪ DÒNG HỌ NINH VÀ HOÀNG NGỌC | Đợt 1 - Năm 2026
-https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
+#EXTINF:-1 group-title="TruyenHinh_3",FM 92.7 • TIN TỨC HƯNG YÊN & VĂN HÓA - DÂN SINH
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-HYTV-Phat_thanh_Hung_Yen
 #EXTINF:-1 group-title="TruyenHinh_3",FM 102.2 • THP GIAO THÔNG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM102.2-THP_Giao_thong
 #EXTINF:-1 group-title="TruyenHinh_3",SCTV 4K
