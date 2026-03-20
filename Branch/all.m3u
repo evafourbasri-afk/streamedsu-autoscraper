@@ -1,50 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",00h00-21/03 Piast Gliwice Vs Radomiak Radom BLV FALCON
-https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",00h00-21/03 Istra 1961 Pula Vs NK Varteks Varazdin BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",23h00-20/03 FK Spartak Zlatibor Voda Vs Radnik Surdulica
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="LuongSon_2",00h00-21/03 Znicz Pruszkow Vs Stal Rzeszow BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 group-title="LuongSon_2",23h00-20/03 Slavia Sofia Vs Botev Plovdiv
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",23h30-20/03 NK Aluminij Vs Maribor BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",00h30-21/03 Hannover 96 Vs Eintracht Braunschweig BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="LuongSon_2",00h30-21/03 Karlsruher SC Vs Greuther Furth BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",00h30-21/03 Cagliari Vs Napoli BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",22h15: [NGƯỜI THÉP] FC Neftci Baku vs İmişli FK
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",22h15: [BLV A TINH] FC Neftci Baku vs İmişli FK
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV MIXI] Slavia Sofia vs Botev Plovdiv
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",23h00: [LOKA] Slavia Sofia vs Botev Plovdiv
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",23h00: [A PÁO] Slavia Sofia vs Botev Plovdiv
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV ALEX] Slavia Sofia vs Botev Plovdiv
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV BÉO] FK Spartak Subotica vs Radnik Surdulica
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV VITAMIN] FK Spartak Subotica vs Radnik Surdulica
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",23h00: [NGƯỜI CÁ] FK Auda Riga vs Riga FC
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",23h00: [RABBIT] FK Auda Riga vs Riga FC
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV A WIN] Sheriff Tiraspol vs Dacia-Buiucani
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",23h00: [KÉP] Sheriff Tiraspol vs Dacia-Buiucani
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",23h30: [BLV CÁO] Rotor Volgograd vs Fakel Voronezh
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTINF:-1 group-title="Socolive_2",23h30: [BLV CÒ] Rotor Volgograd vs Fakel Voronezh
