@@ -1,34 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",20h00-20/03 Ordabasy Vs Kaisar Kyzylorda
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",21h00-20/03 FC Minsk Vs Arsenal Dzyarzhynsk BLV KHỔNG MINH
+#EXTINF:-1 group-title="LuongSon_2",22h15-20/03 FC Neftci Baku Vs Mil Mugan BLV TÂY MÔN KHÁNH
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="LuongSon_2",22h00-20/03 Verona U20 Vs Torino U20 BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",22h00-20/03 BKMA Vs Urartu BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",22h00-20/03 Haras El Hedoud Vs Ismaily BLV FALCON
+https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",21h00-20/03 FC Minsk Vs Arsenal Dzyarzhynsk
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",21h00-20/03 FK Vitebsk Vs FC Gomel BLV TỐNG GIANG
+#EXTINF:-1 group-title="LuongSon_2",21h00-20/03 FK Vitebsk Vs FC Gomel
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",21h00-20/03 ATK Mohun Bagan Vs Mumbai City BLV KAKA
+#EXTINF:-1 group-title="LuongSon_2",21h00-20/03 ATK Mohun Bagan Vs Mumbai City
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 group-title="LuongSon_2",20h00-20/03 SOHEE Vs OK9 TV MEGA LIVE
 https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV SATIVA] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV MIXI] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",19h15: [LOGAN] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",19h15: [LÃO LÂM] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV BÉO] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h15: [KÉP] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",20h00: [Đình Bắc] Ordabasy vs Kaisar Kyzylorda
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A TINH] Ordabasy vs Kaisar Kyzylorda
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
 #EXTINF:-1 group-title="Socolive_2",20h15: [BLV A TÚ] Sogdiana Jizak vs Pakhtakor
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",20h15: [A PÁO] Sogdiana Jizak vs Pakhtakor
@@ -107,9 +97,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-21/03: [BON BON] FCSB vs UTA Arad
 http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-21/03: [SAO LA] Cagliari vs Napoli
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-21/03: [BLV MESSI] Cagliari vs Napoli
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
