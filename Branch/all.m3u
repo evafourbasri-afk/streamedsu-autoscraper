@@ -1,30 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",16h00-20/03 Brisbane Roar (W) Vs Newcastle Jets (W) BLV VƯƠNG LUÂN
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="LuongSon_2",16h15-20/03 Oakleigh Cannons Vs Caroline Springs George Cross BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="LuongSon_2",15h35-20/03 Western Sydney Vs Adelaide United BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",15h45-20/03 Dandenong City SC Vs Hume City BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="LuongSon_2",15h30-20/03 Sydney FC (Youth) Vs University NSW BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 group-title="LuongSon_2",15h30-20/03 Bentleigh greens Vs Green Gully Cavaliers BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 group-title="LuongSon_2",17h00-20/03 Suwon KT  Vs KoGas BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",16h00-20/03 Brisbane Roar (W) Vs Newcastle Jets (W)
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 group-title="LuongSon_2",15h30-20/03 Bentleigh greens Vs Green Gully Cavaliers
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",15h45-20/03 Dandenong City SC Vs Hume City
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",15h30-20/03 Sydney FC (Youth) Vs University NSW
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",16h15-20/03 Oakleigh Cannons Vs Caroline Springs George Cross BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 group-title="LuongSon_2",16h30-20/03 Preston Lions Vs Avondale FC BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2",15h35-20/03 Western Sydney Vs Adelaide United
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV KEM] Sydney FC Women vs Wellington Phoenix Women
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV CÒ] Sydney FC Women vs Wellington Phoenix Women
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",15h00: [LOKA] Sydney FC Women vs Wellington Phoenix Women
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",15h35: [DECO] Western Sydney vs Adelaide United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",15h35: [BLV ĐỐM] Western Sydney vs Adelaide United
@@ -97,10 +91,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV MESSI] Qingdao Hainiu vs Zhejiang Professional FC
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",18h35: [RICKHANTER] Qingdao Hainiu vs Zhejiang Professional FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV CÒ] Qingdao Hainiu vs Zhejiang Professional FC
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTINF:-1 group-title="Socolive_2",18h35: [HỘI GYM] Qingdao Hainiu vs Zhejiang Professional FC
+http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV ROBBEN] Guangxi Hengchen vs Ningbo Professional
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV VIP] Guangxi Hengchen vs Ningbo Professional
@@ -117,10 +111,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=290928
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2",19h15: [LÃO LÂM] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",19h15: [HỘI GYM] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV BÉO] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTINF:-1 group-title="Socolive_2",19h15: [KÉP] Cong An Ho Chi Minh City vs Truong Tuoi Dong Nai
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",20h00: [Đình Bắc] Ordabasy vs Kaisar Kyzylorda
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV A TINH] Ordabasy vs Kaisar Kyzylorda
@@ -585,6 +579,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h00-21/03: [BLV HENRY] Sydney vs Adelaide
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h15-21/03: [BLV LUCAS] St George City FA vs Wollongong Wolves
+http://sharing.gotdns.ch:8091/socolive.php?id=304148
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h30-21/03: [NGƯỜI THÉP] Metrostars SC vs Adelaide City FC
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -702,8 +699,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-21/03: [Đình Bắc] The Cong Viettel vs Bac Ninh
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-21/03: [BÚA TẠ] The Cong Viettel vs Bac Ninh
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-21/03: [BLV CÒ] The Cong Viettel vs Bac Ninh
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h30-21/03: [BLV TAP] Brighton Hove Albion vs Liverpool
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
