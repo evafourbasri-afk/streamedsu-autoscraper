@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV ROBBEN] Vejle vs Odense BK
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",01h00: [HUNTER] Zalgiris Kaunas vs Real Madrid
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",01h00: [CHAN SENA] Zalgiris Kaunas vs Real Madrid
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",01h30: [PINKMAN] Sturm Graz vs Red Bull Salzburg
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTINF:-1 group-title="Socolive_2",02h00: [NGƯỜI THÉP] Heracles Almelo vs Excelsior SBV
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",02h00: [BLV A TINH] Heracles Almelo vs Excelsior SBV
@@ -446,8 +438,152 @@ http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-21/03: [BLV VITAMIN] Toulouse FC vs Lorient
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-22/03: [BLV MIXI] AC Milan vs Torino
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-22/03: [RABBIT] AC Milan vs Torino
+http://sharing.gotdns.ch:8091/socolive.php?id=596191
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-22/03: [BLV MESSI] AC Milan vs Torino
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-22/03: [BLV LIO] AC Milan vs Torino
+http://sharing.gotdns.ch:8091/socolive.php?id=564362
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-22/03: [BLV VOI] AC Milan vs Torino
+http://sharing.gotdns.ch:8091/socolive.php?id=9912114
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-22/03: [BLV ENZO] AC Milan vs Torino
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-22/03: [HUNTER] Manresa vs Murcia
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [THẠCH TÚ] Borussia Dortmund vs Hamburger SV
+http://sharing.gotdns.ch:8091/socolive.php?id=344370
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [CR Bưởi] Borussia Dortmund vs Hamburger SV
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BLV PIRLO] Borussia Dortmund vs Hamburger SV
+http://sharing.gotdns.ch:8091/socolive.php?id=351530
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BLV ALEX] Borussia Dortmund vs Hamburger SV
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BLV TOMIA] Borussia Dortmund vs Hamburger SV
+http://sharing.gotdns.ch:8091/socolive.php?id=9912008
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BLV LONG] Borussia Dortmund vs Hamburger SV
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BLV FIREMAN] Levante vs Real Oviedo
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BON BON] Levante vs Real Oviedo
+http://sharing.gotdns.ch:8091/socolive.php?id=597924
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BLV ANH TÀI] CA Osasuna vs Girona FC
+http://sharing.gotdns.ch:8091/socolive.php?id=406865
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BLV A TÚ] CA Osasuna vs Girona FC
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BLV TOMMY] Everton vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [SAO LA] Everton vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [DECO] Everton vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BLV ĐỐM] Everton vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [BLV Củ Cải] Everton vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=9912091
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-22/03: [TẠ BIÊN GIỚI] Everton vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-22/03: [BLV XO] Benfica vs Vitoria Guimaraes
+http://sharing.gotdns.ch:8091/socolive.php?id=472241
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-22/03: [BÚA TẠ] Benfica vs Vitoria Guimaraes
+http://sharing.gotdns.ch:8091/socolive.php?id=570313
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-22/03: [BLV WUKONG] AJ Auxerre vs Stade Brestois 29
+http://sharing.gotdns.ch:8091/socolive.php?id=511367
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-22/03: [BLV GÔN] AJ Auxerre vs Stade Brestois 29
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-22/03: [NGƯỜI CÁ] Juventus vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=595335
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-22/03: [RABBIT] Juventus vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=596191
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-22/03: [BLV A WIN] Juventus vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=536185
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-22/03: [KÉP] Juventus vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-22/03: [NGƯỜI THÉP] Juventus vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=568233
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h45-22/03: [CHANH MUỐI] Juventus vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=598549
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV ANH TÀI] Sevilla FC vs Valencia CF
+http://sharing.gotdns.ch:8091/socolive.php?id=406865
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV A TÚ] Sevilla FC vs Valencia CF
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [Đình Bắc] Sevilla FC vs Valencia CF
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV VITAMIN] Sevilla FC vs Valencia CF
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [CÚ ĐÊM] Leeds United vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=547345
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV PEWPEW] Leeds United vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV MESSI] Leeds United vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV COZY] Leeds United vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV TOMIA] Leeds United vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=9912008
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV SATIVA] Leeds United vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV MIXI] OGC Nice vs Paris Saint Germain
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [LOKA] OGC Nice vs Paris Saint Germain
+http://sharing.gotdns.ch:8091/socolive.php?id=589848
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [LÃO LÂM] OGC Nice vs Paris Saint Germain
+http://sharing.gotdns.ch:8091/socolive.php?id=527384
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV ALEX] OGC Nice vs Paris Saint Germain
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV CÁO] OGC Nice vs Paris Saint Germain
+http://sharing.gotdns.ch:8091/socolive.php?id=597929
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-22/03: [BLV LONG] OGC Nice vs Paris Saint Germain
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-22/03: [CHAN SENA] Charlotte Hornets vs Memphis Grizzlies
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
