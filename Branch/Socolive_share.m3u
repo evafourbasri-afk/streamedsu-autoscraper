@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV NIBO] Brisbane City vs Brisbane Olympic United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",15h00: [BRIAN] Sydney vs Adelaide
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV HENRY] Sydney vs Adelaide
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",15h15: [BLV LUCAS] St George City FA vs Wollongong Wolves
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",15h30: [NGƯỜI THÉP] Metrostars SC vs Adelaide City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",16h00: [VƯƠNG ANH] Moreton City Excelsior FC vs Rochedale Rovers
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",16h00: [TẠ BIÊN GIỚI] Australia Women vs Japan Women
@@ -49,8 +39,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534055
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",18h30: [HUNTER] Phoenix Fuel Masters vs Meralco Bolts
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",18h35: [GOAT] Chongqing Tonglianglong vs Chengdu Rongcheng
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
 #EXTINF:-1 group-title="Socolive_2",18h35: [LOKA] Chongqing Tonglianglong vs Chengdu Rongcheng
 http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",18h35: [CÔNG CHẤT] Chongqing Tonglianglong vs Chengdu Rongcheng
@@ -686,9 +674,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=595335
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",16h00-22/03: [A CHÈ] Taipei Taishin Mars vs Formosa Dreamers
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",16h00-22/03: [HUNTER] Taipei Taishin Mars vs Formosa Dreamers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",16h00-22/03: [KING] Changhua vs Yulon Luxgen Dinos
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
