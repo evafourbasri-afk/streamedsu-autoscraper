@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV XO] Tokyo Verdy vs FC Tokyo
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",12h00: [HẢI THANH] Tokyo Verdy vs FC Tokyo
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV FIREMAN] Kyoto Sanga vs Nagoya Grampus
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",12h00: [MR BÍCH] Kyoto Sanga vs Nagoya Grampus
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",12h00: [HỘI GYM] FC Seoul vs Gwangju FC
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV ROBBEN] FC Seoul vs Gwangju FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV CÒ] Ulsan HD FC vs Gimcheon Sangmu FC
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",12h00: [CHAN SENA] Anyang JungKwanJang vs Suwon KT
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",12h00: [BRIAN] Anyang JungKwanJang vs Suwon KT
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",13h00: [TAM MAO] Kashima Antlers vs JEF United Ichihara Chiba
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTINF:-1 group-title="Socolive_2",13h00: [LOGAN] Kashima Antlers vs JEF United Ichihara Chiba
@@ -462,8 +444,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",03h30-23/03: [BLV CÁO] Sporting Braga vs FC Porto
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",03h30-23/03: [BÚA TẠ] Sporting Braga vs FC Porto
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
+#EXTINF:-1 group-title="Socolive_2",03h30-23/03: [BLV LONG] Sporting Braga vs FC Porto
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",03h45-23/03: [VỊT BẠC] Portland Timbers vs Los Angeles Galaxy
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
