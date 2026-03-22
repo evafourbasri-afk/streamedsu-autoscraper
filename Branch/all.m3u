@@ -1,34 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",02h45-23/03 Fiorentina Vs Inter Milan
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 group-title="LuongSon_2",03h00-23/03 Real Madrid Vs Atletico Madrid
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",02h45-23/03 Nantes Vs Strasbourg
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:-1 group-title="LuongSon_2",03h30-23/03 Sporting Braga Vs FC Porto BLV FALCON
 https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV VITAMIN] Fiorentina vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",02h45: [CÚ ĐÊM] Fiorentina vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",02h45: [LOKA] Fiorentina vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",02h45: [CÔNG CHẤT] Fiorentina vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV ALEX] Fiorentina vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV BÉO] Fiorentina vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV WUKONG] FC Nantes vs RC Strasbourg Alsace
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV ANH TÀI] FC Nantes vs RC Strasbourg Alsace
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV VIP] FC Nantes vs RC Strasbourg Alsace
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",03h00: [THẠCH TÚ] Real Madrid vs Atletico Madrid
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",03h00: [LOGAN] Real Madrid vs Atletico Madrid
