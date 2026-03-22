@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",11h00: [GOAT] Shimizu S-Pulse vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",11h00: [THE KOP] Shimizu S-Pulse vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV A TÚ] Shimizu S-Pulse vs Sanfrecce Hiroshima
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV RÔSI] Sydney FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",11h00: [SAO LA] Sydney FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",11h00: [A PÁO] Sydney FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",11h00: [VENDETTA] Sydney FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV BÉO] Sydney FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV 7UP] Sydney FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV XO] Tokyo Verdy vs FC Tokyo
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2",12h00: [HẢI THANH] Tokyo Verdy vs FC Tokyo
@@ -37,10 +19,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=582342
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",12h00: [BRIAN] Anyang JungKwanJang vs Suwon KT
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",12h00: [A CHÈ] Chunghua Telecom W vs Taipower W
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",12h00: [HUNTER] Chunghua Telecom W vs Taipower W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",13h00: [TAM MAO] Kashima Antlers vs JEF United Ichihara Chiba
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTINF:-1 group-title="Socolive_2",13h00: [LOGAN] Kashima Antlers vs JEF United Ichihara Chiba
@@ -57,8 +35,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=445260
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",13h00: [BLV SATIVA] Kawasaki Frontale vs Yokohama F. Marinos
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",13h00: [CÔNG CHẤT] Cerezo Osaka vs Vissel Kobe
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTINF:-1 group-title="Socolive_2",13h00: [BLV LUCAS] Cerezo Osaka vs Vissel Kobe
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",13h00: [BLV TOMIA] Cerezo Osaka vs Vissel Kobe
@@ -420,8 +396,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h30-23/03: [BLV ROBBEN] FC Augsburg vs VfB Stuttgart
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h30-23/03: [BLV LUCAS] FC Augsburg vs VfB Stuttgart
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h30-23/03: [HỘI GYM] FC Augsburg vs VfB Stuttgart
+http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h30-23/03: [BLV A WIN] Minnesota United FC vs Seattle Sounders
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
@@ -510,14 +486,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=592799
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/03: [LÃO LÂM] San Diego FC vs Real Salt Lake
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/03: [HỘI GYM] San Diego FC vs Real Salt Lake
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/03: [BLV CHIVAS] San Diego FC vs Real Salt Lake
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/03: [CHANH MUỐI] San Diego FC vs Real Salt Lake
 http://sharing.gotdns.ch:8091/socolive.php?id=598549
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/03: [BLV LUCAS] San Diego FC vs Real Salt Lake
+http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/03: [VỊT BẠC] Boca Juniors vs Instituto de Córdoba
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
