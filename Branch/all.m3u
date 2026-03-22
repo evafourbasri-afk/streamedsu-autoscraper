@@ -1,8 +1,22 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",18h00-22/03 Chiangrai United Vs Port FC BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",18h00-22/03 Da Nang Vs Cong An Ha Noi BLV URA
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",18h30-22/03 Como Vs Pisa BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",18h30-22/03 BG Pathum United Vs Ratchaburi FC BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",18h30-22/03 Prachuap Khiri Khan Vs Bangkok United FC BLV ĐOÀN DỰ
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:-1 group-title="LuongSon_2",19h00-22/03 Buriram United Vs Muang Thong United BLV CHUNN
+https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+#EXTINF:-1 group-title="LuongSon_2",19h00-22/03 Newcastle United Vs Sunderland A.F.C BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h30: [BON BON] Kapfenberg SV 1919 vs SKU Ertl Glas Amstetten
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
 #EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Zenit Petersburg vs Lokomotiv Kuban
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] Zenit Petersburg vs Lokomotiv Kuban
@@ -377,9 +391,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h45-23/03: [THE KOP] Portland Timbers vs Los Angeles Galaxy
 http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h45-23/03: [BLV NIBO] Estudiantes Rio Cuarto vs River Plate
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h30-23/03: [KÉP] Internacional RS vs Chapecoense SC
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -433,9 +444,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-23/03: [HẢI THANH] Sport Club Corinthians Paulista vs CR Flamengo
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-23/03: [BLV NIBO] Sport Club Corinthians Paulista vs CR Flamengo
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-23/03: [BLV LIO] Sport Club Corinthians Paulista vs CR Flamengo
 http://sharing.gotdns.ch:8091/socolive.php?id=564362
