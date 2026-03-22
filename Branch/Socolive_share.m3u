@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Zenit Petersburg vs Lokomotiv Kuban
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] Zenit Petersburg vs Lokomotiv Kuban
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",17h45: [BLV ANH TÀI] Gazovik Orenburg vs Spartak Moscow
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",17h45: [BLV VIP] Gazovik Orenburg vs Spartak Moscow
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",18h00: [CÚ ĐÊM] SHB Da Nang vs Cong An Ha Noi FC
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",18h00: [LOKA] SHB Da Nang vs Cong An Ha Noi FC
@@ -375,6 +367,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",03h45-23/03: [THE KOP] Portland Timbers vs Los Angeles Galaxy
 http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",03h45-23/03: [A PÁO] Estudiantes Rio Cuarto vs River Plate
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",04h30-23/03: [KÉP] Internacional RS vs Chapecoense SC
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -434,6 +429,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",06h30-23/03: [BLV XO] Sport Club Corinthians Paulista vs CR Flamengo
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",06h30-23/03: [BLV A WIN] Sport Club Corinthians Paulista vs CR Flamengo
+http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",07h00-23/03: [A CHÈ] Boston Celtics vs Minnesota Timberwolves
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
