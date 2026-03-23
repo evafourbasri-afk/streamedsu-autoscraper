@@ -1,44 +1,32 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",02h40-24/03 Salernitana Vs Team Altamura
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 group-title="LuongSon_2",02h30-24/03 Catania Vs Casarano
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",02h30-24/03 Castellon Vs Cultural Leonesa
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",02h30-24/03 AC Monopoli Vs Benevento
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",04h10-24/03 Independiente Santa Fe Vs Dep.Independiente Medellin NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqrGKKG5K3E4C8U/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",04h30-24/03 Sportivo Trinidense Vs Deportivo Recoleta NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVd3XRyZ3VK1ykvx/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",04h30-24/03 Guayaquil City Vs Leones del Norte NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNKpoMvNUNqD5ik/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",05h00-24/03 Spanish Town Police Vs Treasure Beach NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwcqbdZ5qyiK8Pb1W/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",05h00-24/03 Carabobo FC Vs Academia Puerto Cabello NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVd3YuHLtWUYqXzL/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",05h00-24/03 Estudiantes La Plata Vs Central Cordoba SDE BLV SHIN
-https://auto.cdnok9.com/live/sd-6MvZ6LtmKUNtRsonnp/playlist.m3u8
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",06h00-24/03 Comunicaciones BsAs Vs Liniers NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVdDKtWhE6W6gN5a/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-24/03 Metropolitanos FC Vs Academia Anzoategui NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVd3YuGp7nHqGhqn/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",06h20-24/03 Jaguares de Cordoba Vs Aguilas Doradas BLV LÝ QUỲ
 https://auto.cdnok9.com/live/sd-6MvYqrGKKDsqAkEGya/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h30-24/03 Rubio nu Vs Sportivo Ameliano NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVd3XRyWr1SY9qn4/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",07h00-24/03 Sociedad Deportiva Aucas Vs Orense SC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNKpoNQwih4wziQ/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",07h30-24/03 Mount Pleasant FA Vs Portmore United NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwcqbdZ5onESeZfrc/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",02h30: [A PÁO] Castellon vs Cultural Leonesa
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV ALEX] Castellon vs Cultural Leonesa
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV VOI] Castellon vs Cultural Leonesa
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV SATIVA] Castellon vs Cultural Leonesa
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",02h30: [NGƯỜI CÁ] Castellon vs Cultural Leonesa
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",02h30: [LOKA] Castellon vs Cultural Leonesa
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV WUKONG] Catania FC vs Casarano
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",02h30: [LOGAN] Catania FC vs Casarano
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",02h30: [CÔNG CHẤT] AC Monopoli vs Benevento
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",02h30: [PINKMAN] AC Monopoli vs Benevento
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV XO] Salernitana vs Altamura
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV A TINH] Salernitana vs Altamura
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
 #EXTINF:-1 group-title="Socolive_2",04h00: [THẠCH TÚ] Union San Felipe vs San Marcos de Arica
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",04h00: [BLV KAN] Union San Felipe vs San Marcos de Arica
