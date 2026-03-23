@@ -1,56 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",02h00-24/03 Nueva Chicago Vs Gimnasia yTiro BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LuongSon_2",02h30-24/03 Castellon Vs Cultural Leonesa BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",02h40-24/03 Salernitana Vs Team Altamura BLV TẦN CA
+#EXTINF:-1 group-title="LuongSon_2",02h40-24/03 Salernitana Vs Team Altamura
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 group-title="LuongSon_2",02h30-24/03 Catania Vs Casarano BLV LÝ ỨNG
+#EXTINF:-1 group-title="LuongSon_2",02h30-24/03 Catania Vs Casarano
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",02h00-24/03 Boyaca Chico Vs Deportes Tolima BLV FALCON
-https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",02h30-24/03 AC Monopoli Vs Benevento BLV TỐNG GIANG
+#EXTINF:-1 group-title="LuongSon_2",02h30-24/03 Castellon Vs Cultural Leonesa
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",02h30-24/03 AC Monopoli Vs Benevento
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",01h30-24/03 CA Fenix Pilar Vs Puerto Nuevo
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTINF:-1 group-title="LuongSon_2",01h30-24/03 FC Unirea 2004 Slobozia Vs FC Otelul Galati
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",01h30-24/03 Granada CF(W) Vs Deportivo La Coruna W
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 group-title="LuongSon_2",05h00-24/03 Estudiantes La Plata Vs Central Cordoba SDE BLV SHIN
 https://auto.cdnok9.com/live/sd-6MvZ6LtmKUNtRsonnp/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",06h20-24/03 Jaguares de Cordoba Vs Aguilas Doradas BLV LÝ QUỲ
 https://auto.cdnok9.com/live/sd-6MvYqrGKKDsqAkEGya/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",01h30: [MR BÍCH] FC Unirea 2004 Slobozia vs FC Otelul Galati
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",01h30: [BLV ROBBEN] FC Unirea 2004 Slobozia vs FC Otelul Galati
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",01h30: [BLV COZY] FC Unirea 2004 Slobozia vs FC Otelul Galati
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",01h30: [BLV KEM] FC Unirea 2004 Slobozia vs FC Otelul Galati
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",01h30: [BLV LONG] FC Unirea 2004 Slobozia vs FC Otelul Galati
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",01h30: [THẠCH TÚ] FC Unirea 2004 Slobozia vs FC Otelul Galati
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",02h00: [RABBIT] Boyaca Chico vs Deportes Tolima
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV FIREMAN] Boyaca Chico vs Deportes Tolima
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",02h00: [LÃO LÂM] Boyaca Chico vs Deportes Tolima
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV LUCAS] Boyaca Chico vs Deportes Tolima
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",02h00: [NGƯỜI THÉP] Nueva Chicago vs Gimnasia y Tiro
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV VITAMIN] Nueva Chicago vs Gimnasia y Tiro
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",02h00: [KING] Ulm vs Bonn
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",02h30: [A PÁO] Castellon vs Cultural Leonesa
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",02h30: [BLV ALEX] Castellon vs Cultural Leonesa
