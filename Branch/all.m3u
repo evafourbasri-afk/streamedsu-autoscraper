@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",21h00-24/03 Xem Live Nhận Quà  Vs Cùng OK9 MEGA LIVE
-https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=3b4a78bac99610b4491fddd97a4d91
-#EXTINF:-1 group-title="LuongSon_2",22h00-24/03 Uniao Leiria U23 Vs Farense U23 BLV FALCON
-https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",21h00-24/03 Al Sahel Vs Jubbah BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LuongSon_2",22h15-24/03 Al Rayyan Vs Al Shahaniya BLV LÝ ỨNG
+#EXTINF:-1 group-title="LuongSon_2",23h00-24/03 Bursaspor Vs Belediye Derincespor BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",22h15-24/03 Al Rayyan Vs Al Shahaniya
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",22h00-24/03 Uniao Leiria U23 Vs Farense U23
+https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
 #EXTINF:-1 group-title="Socolive_2",22h00: [SAO LA] Uniao Leiria U23 vs Farense U23
@@ -34,6 +32,42 @@ http://sharing.gotdns.ch:8091/socolive.php?id=597924
 #EXTINF:-1 group-title="Socolive_2",22h15: [HẢI THANH] Al Rayyan vs Al Shahaniya
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
 #EXTINF:-1 group-title="Socolive_2",22h15: [NGƯỜI THÉP] Al Rayyan vs Al Shahaniya
+http://sharing.gotdns.ch:8091/socolive.php?id=568233
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/03: [SAO LA] Uniao Leiria U23 vs Farense U23
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/03: [DECO] Uniao Leiria U23 vs Farense U23
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/03: [RICKHANTER] Uniao Leiria U23 vs Farense U23
+http://sharing.gotdns.ch:8091/socolive.php?id=9912101
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/03: [BLV Củ Cải] Uniao Leiria U23 vs Farense U23
+http://sharing.gotdns.ch:8091/socolive.php?id=9912091
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/03: [CHANH MUỐI] Uniao Leiria U23 vs Farense U23
+http://sharing.gotdns.ch:8091/socolive.php?id=598549
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/03: [BLV FIREMAN] Uniao Leiria U23 vs Farense U23
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-24/03: [BLV A WIN] Al Rayyan vs Al Shahaniya
+http://sharing.gotdns.ch:8091/socolive.php?id=536185
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-24/03: [BLV A TÚ] Al Rayyan vs Al Shahaniya
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-24/03: [CÚ ĐÊM] Al Rayyan vs Al Shahaniya
+http://sharing.gotdns.ch:8091/socolive.php?id=547345
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-24/03: [BON BON] Al Rayyan vs Al Shahaniya
+http://sharing.gotdns.ch:8091/socolive.php?id=597924
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-24/03: [HẢI THANH] Al Rayyan vs Al Shahaniya
+http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-24/03: [NGƯỜI THÉP] Al Rayyan vs Al Shahaniya
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-24/03: [KING] Galatasaray W vs Emlak Konut W
@@ -78,11 +112,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-25/03: [SAO LA] VfL Wolfsburg Women vs OL Lyonnes Women
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-25/03: [A PÁO] VfL Wolfsburg Women vs OL Lyonnes Women
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-25/03: [BLV COZY] VfL Wolfsburg Women vs OL Lyonnes Women
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-25/03: [BLV ANH TÀI] VfL Wolfsburg Women vs OL Lyonnes Women
+http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-25/03: [BLV NIBO] AGF Kvindefodbold APS Women vs Fortuna Hjorring Women
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
@@ -129,8 +163,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h30-25/03: [NGƯỜI THÉP] Deportivo Pereira vs Cucuta Deportivo
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h30-25/03: [CHANH MUỐI] Deportivo Pereira vs Cucuta Deportivo
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h30-25/03: [VƯƠNG ANH] Deportivo Pereira vs Cucuta Deportivo
+http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-25/03: [VỊT BẠC] Imperatriz(MA) vs Retro FC Brasil
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
