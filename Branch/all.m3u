@@ -1,36 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",00h15-25/03 Umm Salal Vs Al Bidda SC BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",00h45-25/03 VfL Wolfsburg (W) Vs Lyon (W) BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",23h00-24/03 Bursaspor Vs Belediye Derincespor
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",06h00-25/03 Atletico Junior Barranquilla Vs Atletico Bucaramanga BLV SHIN
-https://auto.cdnok9.com/live/sd-6MvYqrGKKLUGnBi2SG/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",23h00: [KING] Galatasaray W vs Emlak Konut W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",23h00: [HUNTER] Galatasaray W vs Emlak Konut W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV WUKONG] Deportivo Maldonado vs Montevideo City Torque
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",00h00: [MR BÍCH] Deportivo Maldonado vs Montevideo City Torque
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",00h15: [BLV ALEX] Umm Salal vs Al Bidda SC
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",00h15: [BLV VOI] Umm Salal vs Al Bidda SC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",00h15: [BLV MIXI] Umm Salal vs Al Bidda SC
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",00h15: [CR Bưởi] Umm Salal vs Al Bidda SC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",00h15: [LÃO LÂM] Umm Salal vs Al Bidda SC
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",00h15: [BLV VITAMIN] Umm Salal vs Al Bidda SC
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",00h45: [BLV BÉO] VfL Wolfsburg Women vs OL Lyonnes Women
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",00h45: [BLV ENZO] VfL Wolfsburg Women vs OL Lyonnes Women
