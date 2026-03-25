@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",00h15-25/03 Umm Salal Vs Al Bidda SC BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",00h45-25/03 VfL Wolfsburg (W) Vs Lyon (W) BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",23h00-24/03 Bursaspor Vs Belediye Derincespor
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",06h00-25/03 Atletico Junior Barranquilla Vs Atletico Bucaramanga BLV SHIN
-https://auto.cdnok9.com/live/sd-6MvYqrGKKLUGnBi2SG/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",10h00-25/03 Phoenix Suns Vs Denver Nuggets
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",16h15-25/03 Terrafirma Dyip Vs Phoenix Fuelmasters BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",18h30-25/03 San Miguel Beermen Vs Converge FiberXers BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
