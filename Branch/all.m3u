@@ -323,9 +323,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-26/03: [BLV LIO] Boston River vs CA Penarol
 http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-26/03: [BLV CHIVAS] Sporting Jax vs Miami FC
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-26/03: [CHANH MUỐI] Sporting Jax vs Miami FC
 http://sharing.gotdns.ch:8091/socolive.php?id=598549
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -388,9 +385,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-26/03: [BLV SÓI] Seattle Reign Women vs Kansas City Current Women
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-26/03: [KÉP] Seattle Reign Women vs Kansas City Current Women
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-26/03: [XUÂN SON] Tigres Women vs Club America Women
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
@@ -580,6 +574,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=595335
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-26/03: [MR BÍCH] Gokulam Kerala FC vs Shillong Lajong FC
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-26/03: [KÉP] Seychelles vs Lesotho
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-26/03: [BLV CHIVAS] Seychelles vs Lesotho
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-26/03: [BLV VIP] Famalicao U23 vs Sporting CP U23
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
