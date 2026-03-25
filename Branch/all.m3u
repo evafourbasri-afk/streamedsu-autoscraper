@@ -1,56 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",23h00-25/03 Italy U19 Vs Hungary U19
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LuongSon_2",00h00-26/03 Spain U19 Vs Slovenia U19 BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",00h00-26/03 Albion FC Vs Wanderers FC BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",23h00-25/03 Poland U19 Vs Portugal U19
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="LuongSon_2",00h00-26/03 Germany U19 Vs Sweden U19 BLV VƯƠNG LUÂN
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="LuongSon_2",00h30-26/03 Eintracht Frankfurt (W) Vs BK Hacken (W) BLV DƯƠNG CHÍ
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 group-title="LuongSon_2",00h45-26/03 Real Madrid (W) Vs Barcelona (W) BLV KEVILL
+#EXTINF:-1 group-title="LuongSon_2",00h45-26/03 Real Madrid (W) Vs Barcelona (W)
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="LuongSon_2",01h00-26/03 Enppi Vs Petrojet BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",02h00-26/03 USM Alger Vs JS kabylie BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV KEM] Poland U19 vs Portugal U19
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV A TINH] Poland U19 vs Portugal U19
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV FIREMAN] Poland U19 vs Portugal U19
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",23h00: [LOKA] Poland U19 vs Portugal U19
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV SATIVA] Italy U19 vs Hungary U19
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",23h00: [PINKMAN] Italy U19 vs Hungary U19
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV CÁO] Italy U19 vs Hungary U19
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV A WIN] Italy U19 vs Hungary U19
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV MIXI] Albion FC vs Montevideo Wanderers FC
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",00h00: [BON BON] Albion FC vs Montevideo Wanderers FC
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",00h00: [LÃO LÂM] Germany U19 vs Sweden U19
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV ALEX] Germany U19 vs Sweden U19
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV VOI] Germany U19 vs Sweden U19
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV LONG] Germany U19 vs Sweden U19
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",00h00: [NGƯỜI CÁ] Sparta Praha Women vs Hammarby Women
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",00h00: [RABBIT] Sparta Praha Women vs Hammarby Women
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
 #EXTINF:-1 group-title="Socolive_2",00h30: [BLV ROBBEN] Eintracht Frankfurt Women vs BK Hacken Women
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",00h30: [BLV VIP] Eintracht Frankfurt Women vs BK Hacken Women
