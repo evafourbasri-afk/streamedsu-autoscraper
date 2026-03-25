@@ -1,30 +1,28 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/03 Kasetsart FC Vs Sisaket United BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/03 Slovakia U19 Vs Turkey U19 BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="LuongSon_2",17h45-25/03 Sri Lanka U20 Vs NepalU20 BLV KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/03 Greece U19 Vs Austria U19 BLV ĐOÀN DỰ
 https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/03 Slovakia U19 Vs Turkey U19 BLV KAKA
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",17h30-25/03 Real Kashmir Vs Namdhari FC
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 group-title="LuongSon_2",17h00-25/03 Seoul Knights Vs Goyang Sono BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",16h15-25/03 Terrafirma Dyip Vs Phoenix Fuelmasters BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",17h30-25/03 Real Kashmir Vs Namdhari FC BLV QUAN VŨ
-https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",18h35-25/03 China U23 Vs Thailand U23 BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/03 Kasetsart FC Vs Sisaket United BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",17h45-25/03 Sri Lanka U20 Vs NepalU20 BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="LuongSon_2",18h30-25/03 San Miguel Beermen Vs Converge FiberXers BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",18h35-25/03 Beijing Vs Zhejiang Chouzhou BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",19h00-25/03 Kazakhstan Vs Namibia BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV FIREMAN] Philippine Army FC vs One Taguig
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV GÔN] Philippine Army FC vs One Taguig
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",16h15: [BRIAN] Terrafirma Dyip vs Phoenix Fuelmasters
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] Seoul Knights vs Goyang Sono
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] Seoul Knights vs Goyang Sono
@@ -51,8 +49,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=564362
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV LUCAS] Greece U19 vs Austria U19
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",18h00: [NGƯỜI CÁ] Croatia U19 vs Switzerland U19
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
 #EXTINF:-1 group-title="Socolive_2",18h00: [KÉP] Croatia U19 vs Switzerland U19
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",18h00: [NGƯỜI THÉP] Slovakia U19 vs Turkiye U19
@@ -71,10 +67,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=291277
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV TOMIA] China U23 vs Thailand U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV CÁO] Tuloy FC vs Manila Digger FC
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV VITAMIN] Tuloy FC vs Manila Digger FC
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTINF:-1 group-title="Socolive_2",19h00: [BLV CHIVAS] Tuloy FC vs Manila Digger FC
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV Củ Cải] Kazakhstan vs Namibia
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTINF:-1 group-title="Socolive_2",19h00: [VƯƠNG ANH] Kazakhstan vs Namibia
@@ -1161,6 +1157,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Discovery Asia
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",AXN HD
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Rock Entertainment
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extension=ts&play_token=K4JiFEWv19
 #EXTINF:-1 group-title="TruyenHinh_2",Rock Action
