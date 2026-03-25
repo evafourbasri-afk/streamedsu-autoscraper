@@ -1,26 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",05h00-26/03 Atletico Tucuman Vs Sportivo Barracas BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",05h30-26/03 Guarani CA Vs 2 de Mayo PJC BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2",05h30-26/03 Itabaiana(SE) Vs CRB AL BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",05h30-26/03 Fluminense PI Vs Juazeirense BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV A WIN] Cerro Montevideo vs CA Juventud
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV A TÚ] Cerro Montevideo vs CA Juventud
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV ALEX] Manchester United Women vs Bayern Munchen Women
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV KEM] Manchester United Women vs Bayern Munchen Women
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV SATIVA] Manchester United Women vs Bayern Munchen Women
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",03h00: [CÚ ĐÊM] Manchester United Women vs Bayern Munchen Women
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",03h00: [LOKA] Manchester United Women vs Bayern Munchen Women
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",03h00: [CÔNG CHẤT] Manchester United Women vs Bayern Munchen Women
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV CÁO] Envigado FC vs Bogota FC
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV VITAMIN] Envigado FC vs Bogota FC
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV LUCAS] Deportivo Riestra vs San Lorenzo
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV RAMBO] Deportivo Riestra vs San Lorenzo
