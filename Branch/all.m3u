@@ -1,34 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",19h00-26/03 Vietnam Vs Bangladesh
+#EXTINF:-1 group-title="LuongSon_2",21h00-26/03 Kyrgyzstan U23 Vs Serbia U21 BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",21h30-26/03 Tanzania Vs Liechtenstein BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",18h30-26/03 Aruba Vs Macau of China
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",21h00-26/03 Famalicao U23 Vs Sporting Lisbon Sad U23 BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",21h00-26/03 Malmo FF Vs Landskrona BoIS BLV KAKA
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",21h00-26/03 MIN Vs OK9 TV MEGA LIVE
+https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV PEWPEW] Aruba vs Macau
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV XO] Aruba vs Macau
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV MIXI] Aruba vs Macau
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",18h30: [VƯƠNG ANH] Aruba vs Macau
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",19h00: [DECO] Vietnam vs Bangladesh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ĐỐM] Vietnam vs Bangladesh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV Củ Cải] Vietnam vs Bangladesh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",19h00: [TẠ BIÊN GIỚI] Vietnam vs Bangladesh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV TOMMY] Vietnam vs Bangladesh
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV TAP] Vietnam vs Bangladesh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ANH TÀI] Djibouti vs South Sudan
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",20h00: [VENDETTA] Djibouti vs South Sudan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV A TINH] Djibouti vs South Sudan
@@ -340,22 +324,22 @@ http://sharing.gotdns.ch:8091/socolive.php?id=598549
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-27/03: [BLV ANH TÀI] Argentinos Juniors vs Club Atlético Lanús
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-27/03: [BLV TOMMY] New Caledonia vs Jamaica
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-27/03: [BLV TOMMY] New Caledonia vs Jamaica
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-27/03: [BLV TAP] New Caledonia vs Jamaica
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-27/03: [BLV TAP] New Caledonia vs Jamaica
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-27/03: [LÃO LÂM] New Caledonia vs Jamaica
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-27/03: [LÃO LÂM] New Caledonia vs Jamaica
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-27/03: [BLV ĐỐM] New Caledonia vs Jamaica
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-27/03: [BLV ĐỐM] New Caledonia vs Jamaica
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-27/03: [BLV COCA] New Caledonia vs Jamaica
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-27/03: [BLV COCA] New Caledonia vs Jamaica
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-27/03: [BLV ENZO] New Caledonia vs Jamaica
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-27/03: [BLV ENZO] New Caledonia vs Jamaica
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-27/03: [LOGAN] Chile vs Cape Verde
