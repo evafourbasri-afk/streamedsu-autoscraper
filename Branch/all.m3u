@@ -1,82 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",00h00-27/03 Turkey Vs Romania BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",00h00-27/03 Georgia Vs Israel BLV FALCON
-https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",00h00-27/03 Cyprus Vs Belarus BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",00h00-27/03 Malta Vs Luxembourg BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 group-title="LuongSon_2",22h45-26/03 Germany U20 Vs Czech Republic U20
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",23h00-26/03 Racing Club Montevideo Vs Club Atletico Progreso
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="LuongSon_2",23h30-26/03 Iceland U21 Vs Estonia U21 BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LuongSon_2",00h00-27/03 Schweinfurt 05 FC Vs Schalke 04 BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",00h00-27/03 San Marino U21 Vs Finland U21 BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="LuongSon_2",00h15-27/03 Italy U21 Vs North Macedonia U21 BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",00h15-27/03 Ireland U21 Vs Moldova U21 BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon_2",01h30-27/03 Luxembourg U21 Vs France U21 BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",02h45-27/03 Poland Vs Albania BLV DƯƠNG CHÍ
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 group-title="LuongSon_2",02h45-27/03 Wales Vs Bosnia and Herzegovina BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",23h00: [Đình Bắc] Racing Club Montevideo vs Club Atletico Progreso
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV LONG] Racing Club Montevideo vs Club Atletico Progreso
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV ENZO] Iceland U21 vs Estonia U21
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",23h30: [CÚ ĐÊM] Iceland U21 vs Estonia U21
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",23h30: [LOKA] Iceland U21 vs Estonia U21
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",23h30: [CÔNG CHẤT] Iceland U21 vs Estonia U21
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV COZY] Iceland U21 vs Estonia U21
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV VOI] Iceland U21 vs Estonia U21
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",00h00: [THẠCH TÚ] Turkiye vs Romania
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",00h00: [CR Bưởi] Turkiye vs Romania
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV PIRLO] Turkiye vs Romania
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",00h00: [HỘI GYM] Turkiye vs Romania
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV TOMIA] Turkiye vs Romania
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV SATIVA] Turkiye vs Romania
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV A TÚ] Gibraltar vs Latvia
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",00h00: [NGƯỜI THÉP] Gibraltar vs Latvia
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV VITAMIN] Gibraltar vs Latvia
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV FIREMAN] Malta vs Luxembourg
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",00h00: [MR BÍCH] Malta vs Luxembourg
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV A WIN] Malta vs Luxembourg
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV XO] Cyprus vs Belarus
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",00h00: [HẢI THANH] Cyprus vs Belarus
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV MIXI] Georgia vs Israel
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",00h00: [BON BON] Georgia vs Israel
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV MESSI] Georgia vs Israel
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV VIP] Georgia vs Israel
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",02h45: [BLV A TÚ] Czechia vs Ireland
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",02h45: [Đình Bắc] Czechia vs Ireland
