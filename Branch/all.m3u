@@ -1,16 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",03h00-28/03 Spain Vs Serbia
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="LuongSon_2",02h45-28/03 England Vs Uruguay
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",19h00-28/03 Everton FC (W) Vs Liverpool (W) BLV FERNANDO
+https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV CÁO] Greece vs Paraguay
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV VITAMIN] Greece vs Paraguay
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",02h00: [BON BON] Greece vs Paraguay
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV ROBBEN] Algeria vs Guatemala
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",02h30: [PINKMAN] Algeria vs Guatemala
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTINF:-1 group-title="Socolive_2",02h45: [BLV COZY] England vs Uruguay
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",02h45: [BLV TOMIA] England vs Uruguay
