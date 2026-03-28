@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV LIO] Persipura Jayapura vs Deltras Sidoarjo
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV ANH TÀI] Persipura Jayapura vs Deltras Sidoarjo
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ENZO] Austria U19 vs Sweden U19
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",18h00: [LOKA] Austria U19 vs Sweden U19
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV COZY] Austria U19 vs Sweden U19
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV BÉO] Austria U19 vs Sweden U19
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ROBBEN] Austria U19 vs Sweden U19
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",18h00: [GOAT] Austria U19 vs Sweden U19
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
 #EXTINF:-1 group-title="Socolive_2",18h30: [QUỐC KHÁNH] Nongbua Pitchaya FC vs BEC Tero Sasana
 http://sharing.gotdns.ch:8091/socolive.php?id=602153
 #EXTINF:-1 group-title="Socolive_2",18h30: [HẢI THANH] Nongbua Pitchaya FC vs BEC Tero Sasana
@@ -590,6 +574,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",14h30-29/03: [BLV TOMIA] Daegu FC vs Seoul E-Land FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",14h30-29/03: [BLV SATIVA] Daegu FC vs Seoul E-Land FC
+http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",14h30-29/03: [BLV HENRY] Seoul Thunders vs Suwon KT
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112

@@ -173,6 +173,8 @@ https://vip.opstream90.com/20260305/26504_404d52bf/3000k/hls/mixed.m3u8
 https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 10
 https://rumble.com/hls-vod/757w6u/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",TV360+1
+https://vietanhtv.id.vn/tv360/2554/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus9/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
@@ -225,12 +227,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1 4K
-https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 8
-https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -555,8 +551,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9856
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",ABC Australia
 https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Fashion TV
-https://ace.hoiquan.click/module/IPTV/?id=fashiontv&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",KIX HD
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TLC
