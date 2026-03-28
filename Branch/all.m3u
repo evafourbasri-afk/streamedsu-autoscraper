@@ -1,36 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",02h30-29/03 USA Vs Belgium
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",03h00-29/03 Sporting Gijon Vs Deportivo La Coruna
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",03h00-29/03 Nantes (W) Vs Paris Saint Germain (W)
-https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="LuongSon_2",05h30-29/03 Montevideo City Torque Vs Nacional Montevideo BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 group-title="LuongSon_2",04h30-29/03 Timberwolves Vs Pistons BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",06h10-29/03 Deportes Tolima Vs Jaguares de Cordoba BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",03h00: [RABBIT] Albacete Balompié SAD vs Castellon
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV ALEX] Albacete Balompié SAD vs Castellon
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",03h00: [NGƯỜI CÁ] Albacete Balompié SAD vs Castellon
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",03h00: [A PÁO] Albacete Balompié SAD vs Castellon
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV WUKONG] Sporting Gijon vs Deportivo La Coruna
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV GÔN] Sporting Gijon vs Deportivo La Coruna
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",03h00: [Đình Bắc] Sporting Gijon vs Deportivo La Coruna
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV SATIVA] Sporting Gijon vs Deportivo La Coruna
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV A WIN] FC Eindhoven vs Emmen
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV A TÚ] FC Eindhoven vs Emmen
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",04h00: [BLV CHIVAS] Cucuta Deportivo vs Boyaca Chico
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",04h00: [CHANH MUỐI] Cucuta Deportivo vs Boyaca Chico
@@ -47,8 +25,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=304148
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",05h30: [XUÂN SON] Montevideo City Torque vs Nacional Montevideo
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",05h30: [HẢI THANH] Montevideo City Torque vs Nacional Montevideo
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTINF:-1 group-title="Socolive_2",05h30: [BLV VITAMIN] Montevideo City Torque vs Nacional Montevideo
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",06h00: [GOAT] Colegiales vs CA San Miguel
 http://sharing.gotdns.ch:8091/socolive.php?id=585206
 #EXTINF:-1 group-title="Socolive_2",06h00: [BLV KAN] Colegiales vs CA San Miguel
