@@ -1,46 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",06h30-28/03 Cleveland Cavaliers Vs Miami Heat BLV YẾN THANH
+#EXTINF:-1 group-title="LuongSon_2",09h00-28/03 Golden State Warriors Vs Washington Wizards BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",06h30-28/03 Sportivo Ameliano Vs Club Libertad BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",06h30-28/03 Boston Celtics Vs Atlanta Hawks BLV SHIN
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="LuongSon_2",06h15-28/03 Argentina Vs Mauritania BLV LƯU BỊ
+#EXTINF:-1 group-title="LuongSon_2",08h10-28/03 Atletico Bucaramanga Vs Independiente Santa Fe
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",09h30-28/03 Los Angeles Lakers Vs Brooklyn Nets BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",10h00-28/03 Hume City Vs Preston Lions BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 group-title="LuongSon_2",19h00-28/03 Everton FC (W) Vs Liverpool (W) BLV FERNANDO
 https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",06h15: [TAM MAO] Argentina vs Mauritania
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",06h15: [BLV PEWPEW] Argentina vs Mauritania
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",06h15: [BLV MESSI] Argentina vs Mauritania
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",06h15: [HỘI GYM] Argentina vs Mauritania
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",06h15: [VƯƠNG ANH] Argentina vs Mauritania
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",06h15: [BLV VOI] Argentina vs Mauritania
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",06h30: [HUNTER] Boston Celtics vs Atlanta Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV HENRY] Boston Celtics vs Atlanta Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",06h30: [CHAN SENA] Cleveland Cavaliers vs Miami Heat
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",06h30: [A CHÈ] Cleveland Cavaliers vs Miami Heat
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV CHIVAS] Unam Pumas Women vs Leon Women
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",07h00: [Giàng A Thổ] Unam Pumas Women vs Leon Women
-http://sharing.gotdns.ch:8091/socolive.php?id=592799
-#EXTINF:-1 group-title="Socolive_2",07h00: [BRIAN] Oklahoma City Thunder vs Chicago Bulls
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",08h00: [THE KOP] Alebrijes de Oaxaca vs Leones Negros de la U. de G.
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTINF:-1 group-title="Socolive_2",08h00: [BLV A WIN] Alebrijes de Oaxaca vs Leones Negros de la U. de G.
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",08h00: [VỊT BẠC] Venados FC Yucatán vs Atlante FC
@@ -75,11 +47,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=304148
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV 7UP] Mazatlan FC Women vs Toluca Women
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",09h00: [A CHÈ] Golden State Warriors vs Washington Wizards
+#EXTINF:-1 group-title="Socolive_2",09h25: [A CHÈ] Golden State Warriors vs Washington Wizards
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV HENRY] Golden State Warriors vs Washington Wizards
+#EXTINF:-1 group-title="Socolive_2",09h25: [BLV HENRY] Golden State Warriors vs Washington Wizards
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",09h00: [CHAN SENA] Portland Trail Blazers vs Dallas Mavericks
+#EXTINF:-1 group-title="Socolive_2",09h25: [CHAN SENA] Portland Trail Blazers vs Dallas Mavericks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",09h30: [HUNTER] Los Angeles Lakers vs Brooklyn Nets
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
@@ -87,8 +59,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=558264
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",10h00: [VỊT BẠC] Hume City vs Preston Lions
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",10h00: [THE KOP] Hume City vs Preston Lions
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTINF:-1 group-title="Socolive_2",10h00: [BLV TAP] Club Atletico La Paz vs Club Jaiba Brava
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",10h00: [DECO] Club Atletico La Paz vs Club Jaiba Brava
@@ -375,6 +345,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=595715
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTINF:-1 group-title="Socolive_2",22h00: [HẢI THANH] Fakel Voronezh vs KAMAZ Naberezhnye Chelny
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTINF:-1 group-title="Socolive_2",22h00: [A PÁO] Fakel Voronezh vs KAMAZ Naberezhnye Chelny
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",22h15: [Đình Bắc] Granada CF vs SD Huesca
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",22h15: [VƯƠNG ANH] Granada CF vs SD Huesca
@@ -399,13 +371,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",22h15: [BLV MESSI] Real Valladolid CF vs Burgos CF
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",22h15: [A PÁO] Al Rayyan vs Umm Salal
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",22h15: [BLV A TÚ] Al Rayyan vs Umm Salal
+#EXTINF:-1 group-title="Socolive_2",22h30: [BLV A TÚ] Al Rayyan vs Umm Salal
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",22h15: [NGƯỜI THÉP] Al Rayyan vs Umm Salal
+#EXTINF:-1 group-title="Socolive_2",22h30: [NGƯỜI THÉP] Al Rayyan vs Umm Salal
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",22h15: [BLV A TINH] Al Rayyan vs Umm Salal
+#EXTINF:-1 group-title="Socolive_2",22h30: [BLV A TINH] Al Rayyan vs Umm Salal
 http://sharing.gotdns.ch:8091/socolive.php?id=598119
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-28/03: [RABBIT] Italy U19 vs Slovakia U19
