@@ -1,62 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",12h00-28/03 Mobis Phoebus Vs Seoul Knights BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",12h00-28/03 Yokohama FC Vs Shonan Bellmare BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",12h00-28/03 Machida Zelvia Vs Kawasaki Frontale BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",13h00-28/03 Pohang Steelers Vs Gangwon FC BLV LƯU BỊ
+#EXTINF:-1 group-title="LuongSon_2",14h00-28/03 Thailand U23 Vs Vietnam U23 BLV DƯƠNG QUÁ
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 group-title="LuongSon_2",13h00-28/03 Pohang Steelers Vs Gangwon FC
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",13h00-28/03 Sydney FC (W) Vs Melbourne Victory (W) BLV NHỊ KA
+#EXTINF:-1 group-title="LuongSon_2",13h00-28/03 Sydney FC (W) Vs Melbourne Victory (W)
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",15h00-28/03 Naegohyang (W) Vs Ho Chi Minh City (W) BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",16h30-28/03 Queensland Lions SC Vs Brisbane City BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="LuongSon_2",19h00-28/03 Everton FC (W) Vs Liverpool (W) BLV FERNANDO
 https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",11h30: [BLV NIBO] Sturt Lions vs West Torrens Birkalla
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",11h30: [BLV LUCAS] Sturt Lions vs West Torrens Birkalla
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV PIRLO] Machida Zelvia vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",12h00: [RICKHANTER] Machida Zelvia vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV COCA] Machida Zelvia vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",12h00: [TẠ BIÊN GIỚI] Machida Zelvia vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",12h00: [THẠCH TÚ] Machida Zelvia vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",12h00: [SAO LA] Machida Zelvia vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",12h00: [VENDETTA] Yokohama FC vs Shonan Bellmare
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV RAMBO] Fujieda MYFC vs Hokkaido Consadole Sapporo
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV GÔN] Fujieda MYFC vs Hokkaido Consadole Sapporo
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",12h00: [XUÂN SON] Ventforet Kofu vs RB Omiya Ardija
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",12h00: [DECO] Ventforet Kofu vs RB Omiya Ardija
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV XO] Chungnam Asan vs Hwaseong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV ENZO] Chungnam Asan vs Hwaseong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV FIREMAN] Yongin FC vs Suwon Samsung Bluewings
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",12h00: [BON BON] Yongin FC vs Suwon Samsung Bluewings
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",12h00: [HUNTER] Goyang Sono vs Wonju DB
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV HENRY] Goyang Sono vs Wonju DB
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",12h00: [CHAN SENA] Mobis Phoebus vs Seoul Knights
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",12h00: [KING] Cathay Life W vs Taipower W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",13h00: [HỘI GYM] Pohang Steelers vs Gangwon FC
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",13h00: [BLV BÉO] Pohang Steelers vs Gangwon FC
@@ -705,8 +663,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-29/03: [BLV RAMBO] Chungbuk Cheongju FC vs Busan I Park
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-29/03: [MR BÍCH] Chungbuk Cheongju FC vs Busan I Park
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-29/03: [BLV PEWPEW] Chungbuk Cheongju FC vs Busan I Park
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-29/03: [A PÁO] Suwon FC vs Paju Frontier FC
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
@@ -1232,6 +1190,12 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 7
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1 4K
+https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 8
+https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
