@@ -1,40 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",14h00-28/03 Thailand U23 Vs Vietnam U23 BLV DƯƠNG QUÁ
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 group-title="LuongSon_2",15h00-28/03 Yenisey Krasnoyarsk Vs FC Ufa
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",15h00-28/03 Moreton City Excelsior FC Vs Eastern Suburbs Brisbane
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 group-title="LuongSon_2",15h00-28/03 Naegohyang (W) Vs Ho Chi Minh City (W) BLV A TỦA
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",15h00-28/03 Moreton City Excelsior FC Vs Eastern Suburbs Brisbane BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="LuongSon_2",15h00-28/03 Yenisey Krasnoyarsk Vs FC Ufa BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:-1 group-title="LuongSon_2",16h30-28/03 Queensland Lions SC Vs Brisbane City BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV WUKONG] Sutherland Sharks vs Manly United
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV KAN] Sutherland Sharks vs Manly United
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",13h45: [BLV ROBBEN] Metrostars SC vs Para Hills Knlghts SC
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",13h45: [PINKMAN] Metrostars SC vs Para Hills Knlghts SC
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV Củ Cải] Thailand U23 vs Vietnam U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",14h00: [TẠ BIÊN GIỚI] Thailand U23 vs Vietnam U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV TOMMY] Thailand U23 vs Vietnam U23
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV TAP] Thailand U23 vs Vietnam U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",14h00: [HUNTER] Woori WON W vs S-Birds W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",14h00: [BRIAN] Woori WON W vs S-Birds W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",14h00: [KING] Chunghua Telecom W vs Taiyuan W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",14h30: [NGƯỜI THÉP] Ansan Greeners FC vs Gyeongnam FC
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",14h30: [BLV ENZO] Ansan Greeners FC vs Gyeongnam FC
@@ -346,9 +322,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-29/03: [BLV PEWPEW] USA vs Belgium
 http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-29/03: [LÃO LÂM] USA vs Belgium
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-29/03: [BLV COZY] USA vs Belgium
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -358,17 +331,17 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-29/03: [BLV CÒ] USA vs Belgium
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-29/03: [BLV FIREMAN] Albacete Balompié SAD vs Castellon
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-29/03: [CÔNG CHẤT] USA vs Belgium
+http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-29/03: [RABBIT] Albacete Balompié SAD vs Castellon
 http://sharing.gotdns.ch:8091/socolive.php?id=596191
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-29/03: [CÔNG CHẤT] Albacete Balompié SAD vs Castellon
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-29/03: [BLV ALEX] Albacete Balompié SAD vs Castellon
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-29/03: [NGƯỜI CÁ] Albacete Balompié SAD vs Castellon
+http://sharing.gotdns.ch:8091/socolive.php?id=595335
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-29/03: [BLV WUKONG] Sporting Gijon vs Deportivo La Coruna
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
