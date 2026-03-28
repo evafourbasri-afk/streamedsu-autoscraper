@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h05: [BLV HENRY] Sun Rockers Shibuya vs Ryukyu
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",15h30: [Đình Bắc] West Adelaide SC vs Campbelltown City SC
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV VITAMIN] West Adelaide SC vs Campbelltown City SC
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",16h00: [BRIAN] Enisey vs Parma Perm
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",16h00: [KING] Enisey vs Parma Perm
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV ĐỐM] Queensland Lions SC vs Brisbane City
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV TOMMY] Queensland Lions SC vs Brisbane City
@@ -608,9 +598,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",14h30-29/03: [BLV TOMIA] Daegu FC vs Seoul E-Land FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",14h30-29/03: [TẠ BIÊN GIỚI] Daegu FC vs Seoul E-Land FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",14h30-29/03: [BLV HENRY] Seoul Thunders vs Suwon KT
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
