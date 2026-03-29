@@ -1,46 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",23h00-29/03 Juventus (W) Vs Fiorentina (W)
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 group-title="LuongSon_2",00h00-30/03 Club Aurora Vs CD Achuapa BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",23h30-29/03 Real Zaragoza Vs Racing Santander BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",23h00-29/03 Aruba Vs Liechtenstein
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="LuongSon_2",23h00-29/03 Rodina Moscow Vs Ural Sverdlovsk Oblast
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",23h00: [LOKA] Rodina Moscow vs Ural Yekaterinburg
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",23h00: [LÃO LÂM] Rodina Moscow vs Ural Yekaterinburg
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV A TÚ] Rodina Moscow vs Ural Yekaterinburg
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",23h00: [CÚ ĐÊM] Rodina Moscow vs Ural Yekaterinburg
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",23h00: [HUNTER] San Pablo Burgos vs Valencia
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV TOMMY] Real Zaragoza vs Racing Santander
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",23h30: [SAO LA] Real Zaragoza vs Racing Santander
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV PIRLO] Real Zaragoza vs Racing Santander
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV ĐỐM] Real Zaragoza vs Racing Santander
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV Củ Cải] Real Zaragoza vs Racing Santander
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV 7UP] Real Zaragoza vs Racing Santander
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",23h30: [QUỐC KHÁNH] SC Freiburg Women vs Hoffenheim Women
-http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV CÒ] SC Freiburg Women vs Hoffenheim Women
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV FIREMAN] SC Freiburg Women vs Hoffenheim Women
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",00h00: [KING] Barcelona vs Unicaja
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",00h00: [BRIAN] Barcelona vs Unicaja
