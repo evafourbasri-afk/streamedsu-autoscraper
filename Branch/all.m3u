@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",13h00-30/03 New Zealand Vs Chile BLV KEVILL
+#EXTINF:-1 group-title="LuongSon_2",13h15-30/03 New Zealand Vs Chile BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="LuongSon_2",18h35-30/03 Zhejiang Chouzhou Vs Guangzhou BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -41,6 +41,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",17h00: [THẠCH TÚ] Trinidad Tobago vs Gabon
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
+#EXTINF:-1 group-title="Socolive_2",17h00: [DECO] Trinidad Tobago vs Gabon
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] Mobis Phoebus vs Wonju DB
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",17h00: [HUNTER] Mobis Phoebus vs Wonju DB
@@ -261,9 +263,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h10-31/03: [Giàng A Thổ] Dep.Independiente Medellin vs America de Cali
 http://sharing.gotdns.ch:8091/socolive.php?id=592799
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-31/03: [BLV FIREMAN] Club Libertad Asunción vs Deportivo Recoleta
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-31/03: [BLV GÔN] Club Libertad Asunción vs Deportivo Recoleta
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
