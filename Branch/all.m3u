@@ -1,30 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",08h20: [BLV COCA] Millonarios vs Fortaleza F.C
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",08h20: [VƯƠNG ANH] Millonarios vs Fortaleza F.C
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",08h20: [BLV TOMMY] Millonarios vs Fortaleza F.C
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",08h20: [BLV TAP] Millonarios vs Fortaleza F.C
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",08h20: [BLV ĐỐM] Millonarios vs Fortaleza F.C
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",08h20: [BLV MESSI] Millonarios vs Fortaleza F.C
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",09h05: [CHAN SENA] Oklahoma City Thunder vs Detroit Pistons
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",09h35: [BLV HENRY] Los Angeles Lakers vs Washington Wizards
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",09h35: [KING] Los Angeles Lakers vs Washington Wizards
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",09h35: [BRIAN] Los Angeles Lakers vs Washington Wizards
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",09h35: [HUNTER] Los Angeles Lakers vs Washington Wizards
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",09h35: [A CHÈ] Los Angeles Lakers vs Washington Wizards
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",13h00: [TẠ BIÊN GIỚI] Cameroon vs China
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2",13h00: [THẠCH TÚ] Cameroon vs China
@@ -1000,6 +976,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1544,16 +1522,16 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV4_HD
 #EXTINF:-1 group-title="TruyenHinh_3",VTV5 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD
-#EXTINF:-1 group-title="TruyenHinh_3",VTV CẦN THƠ HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV_Can_Tho
-#EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI | Series phim "Vì tình yêu Hà Nội" | Phần 1 - Mật lệnh Hoa sữa | Bắt đầu từ tập 21 sẽ có những diễn biến ác liệt khi xô xát Hưng "Cầu chì"
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Kenh_7-Ha_Noi_Studio
 #EXTINF:-1 group-title="TruyenHinh_3",VTV7 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV7_HD
+#EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI | Series phim "Vì tình yêu Hà Nội" | Phần 1 - Mật lệnh Hoa sữa | Bắt đầu từ tập 21 sẽ có những diễn biến ác liệt khi xô xát Hưng "Cầu chì"
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Kenh_7-Ha_Noi_Studio
 #EXTINF:-1 group-title="TruyenHinh_3",VTV8 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV8_HD
 #EXTINF:-1 group-title="TruyenHinh_3",VTV9 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV9_HD
+#EXTINF:-1 group-title="TruyenHinh_3",VTV10 - CẦN THƠ
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV_Can_Tho
 #EXTINF:-1 group-title="TruyenHinh_3",VIETNAM TODAY HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Vietnam_Today_HD
 #EXTINF:-1 group-title="TruyenHinh_3",H²M Số 1 HD thử nghiệm
