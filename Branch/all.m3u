@@ -1,38 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 Machida Zelvia Vs FC Tokyo BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 Vissel Kobe Vs Shimizu S-Pulse BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",16h00-01/04 China (W) U20 Vs Vietnam (W) U20
+#EXTINF:-1 group-title="LuongSon_2",19h00-01/04 FC Noah Vs FC Pyunik BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",17h30-01/04 Rajasthan Club Vs Chanmari FC BLV TRIỆU TỬ LONG
+#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 Machida Zelvia Vs FC Tokyo
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",17h30-01/04 Rajasthan Club Vs Chanmari FC
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 Vissel Kobe Vs Shimizu S-Pulse
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="LuongSon_2",17h00-01/04 KCC Egis Vs Seoul Knights BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="LuongSon_2",16h00-01/04 Newcastle Olympic Vs Adamstown Rosebuds FC
-https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h00: [GOAT] Newcastle Olympic vs Adamstown Rosebuds FC
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV GÔN] Newcastle Olympic vs Adamstown Rosebuds FC
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV ANH TÀI] Newcastle Olympic vs Adamstown Rosebuds FC
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",16h00: [XUÂN SON] China Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",16h00: [TẠ BIÊN GIỚI] China Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",16h00: [VỊT BẠC] China Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",16h00: [RABBIT] China Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV ROBBEN] China Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV VIP] China Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",17h00: [VƯƠNG ANH] Machida Zelvia vs FC Tokyo
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV RÔSI] Machida Zelvia vs FC Tokyo
@@ -1561,7 +1541,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-FM96-Thoi_su_Ha_Noi
 #EXTINF:-1 group-title="TruyenHinh_3",FM 93.7 • THP CHÍNH TRỊ - TỔNG HỢP
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM93.7-THP_Radio-Phat_thanh_Hai_Phong
 #EXTINF:-1 group-title="TruyenHinh_3",FM 92.7 • TIN TỨC HƯNG YÊN & VĂN HÓA - DÂN SINH
-https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-HYTV-Phat_thanh_Hung_Yen
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
 #EXTINF:-1 group-title="TruyenHinh_3",FM 102.2 • THP GIAO THÔNG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM102.2-THP_Giao_thong
 #EXTINF:-1 group-title="TruyenHinh_3",SCTV 4K

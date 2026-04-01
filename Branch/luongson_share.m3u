@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 Machida Zelvia Vs FC Tokyo BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 Vissel Kobe Vs Shimizu S-Pulse BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",16h00-01/04 China (W) U20 Vs Vietnam (W) U20
+#EXTINF:-1 group-title="LuongSon_2",19h00-01/04 FC Noah Vs FC Pyunik BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",17h30-01/04 Rajasthan Club Vs Chanmari FC BLV TRIỆU TỬ LONG
+#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 Machida Zelvia Vs FC Tokyo
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",17h30-01/04 Rajasthan Club Vs Chanmari FC
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 Vissel Kobe Vs Shimizu S-Pulse
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="LuongSon_2",17h00-01/04 KCC Egis Vs Seoul Knights BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="LuongSon_2",16h00-01/04 Newcastle Olympic Vs Adamstown Rosebuds FC
-https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
