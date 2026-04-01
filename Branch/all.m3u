@@ -1,46 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",19h00-01/04 FC Noah Vs FC Pyunik
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",20h00-01/04 Sreenidi Deccan Vs Shillong Lajong FC BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",20h00-01/04 Thailand (W) U20 Vs Bangladesh (W) U20 BLV SHIN
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="LuongSon_2",21h00-01/04 Paradou AC Vs CR Belouizdad BLV FALCON
-https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",21h00-01/04 Maritimo U23 Vs Vizela U23 BLV A TỦA
+#EXTINF:-1 group-title="LuongSon_2",22h00-01/04 MC Alger Vs USM Alger BLV MAYBACH
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",21h00-01/04 Maritimo U23 Vs Vizela U23
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 group-title="LuongSon_2",22h00-01/04 Urartu Vs Ararat Yerevan BLV TRIỆU TỬ LONG
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",22h00-01/04 JS kabylie Vs ES Ben Aknoun BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",21h00-01/04 SOHEE Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",19h30: [KING] Samara W vs Neftyanik Omsk W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",20h00: [BON BON] Sreenidi Deccan vs Shillong Lajong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",20h00: [HỘI GYM] Sreenidi Deccan vs Shillong Lajong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV CÁO] Sreenidi Deccan vs Shillong Lajong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",20h00: [HẢI THANH] Sreenidi Deccan vs Shillong Lajong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV RAMBO] Sreenidi Deccan vs Shillong Lajong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ROBBEN] Sreenidi Deccan vs Shillong Lajong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",20h00: [LÃO LÂM] Thailand Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",20h00: [KÉP] Thailand Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV BÉO] Thailand Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",20h00: [CHANH MUỐI] Thailand Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",20h00: [NGƯỜI CÁ] Thailand Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",20h00: [LOGAN] Thailand Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2",21h00: [Đình Bắc] Maritimo U23 vs Vizela U23
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV FIREMAN] Maritimo U23 vs Vizela U23
@@ -51,14 +23,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=589848
 http://sharing.gotdns.ch:8091/socolive.php?id=602019
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV HENRY] Uralmash Ekaterinburg vs Nizhny Novgorod
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",22h30: [BLV LONG] KTP Kotka vs FC Haka
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",22h30: [BLV WUKONG] KTP Kotka vs FC Haka
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",22h30: [MR BÍCH] KTP Kotka vs FC Haka
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",22h30: [VENDETTA] KTP Kotka vs FC Haka
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-01/04: [A CHÈ] Unics Kazan vs Samara
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
