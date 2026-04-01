@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",15h30-01/04 Adelaide Vs Sydney BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",16h00-01/04 China (W) U20 Vs Vietnam (W) U20 BLV TỐNG GIANG
+#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 Machida Zelvia Vs FC Tokyo BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 Vissel Kobe Vs Shimizu S-Pulse BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2",16h00-01/04 China (W) U20 Vs Vietnam (W) U20
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",16h00-01/04 Newcastle Olympic Vs Adamstown Rosebuds FC BLV FERNANDO
+#EXTINF:-1 group-title="LuongSon_2",17h30-01/04 Rajasthan Club Vs Chanmari FC BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",17h00-01/04 KCC Egis Vs Seoul Knights BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",16h00-01/04 Newcastle Olympic Vs Adamstown Rosebuds FC
 https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h30: [CHAN SENA] Adelaide vs Sydney
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV HENRY] Adelaide vs Sydney
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",15h30: [HUNTER] Adelaide vs Sydney
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",16h00: [GOAT] Newcastle Olympic vs Adamstown Rosebuds FC
 http://sharing.gotdns.ch:8091/socolive.php?id=585206
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV GÔN] Newcastle Olympic vs Adamstown Rosebuds FC
@@ -872,18 +872,16 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 4
-https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 5
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 7
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
