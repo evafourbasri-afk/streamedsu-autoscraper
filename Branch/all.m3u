@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",10h00-01/04 Los Angeles Clippers Vs Portland Trail Blazers BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="LuongSon_2",12h00-01/04 Yushu Yak Vs Taishan Urban Construction NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MwdakBVD7N5E6cMqn/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",14h00-01/04 Addis Ababa Ketema Vs Menge Belashangul NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MwdakGeSgwTDVr6d2/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",14h00-01/04 Newcastle Olympic FC Reserves Vs Adamstown Rosebud Reserves NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MwdakGeGusUfihf3i/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",15h30-01/04 Canberra Juventus Vs Canberra Olympic NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNtQkAKRpwoNvrG/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",18h00-01/04 PFK Kuban Vs Dinamo Briansk NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6Mwd637g48pKfq2y7a/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",18h00-01/04 Alania Vladikavkaz Vs Stavropolye-2009 NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6Mwd637g46cqoMD3xg/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",20h00-01/04 Nifas Silk Lafto Sub City Vs Halaba City NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MwdakCxqxmoAx2748/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",20h00-01/04 Sreenidi Deccan Vs Shillong Lajong FC NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6Mwd5haSPk1LR1BeWp/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",21h00-01/04 ESM Kolea Vs US Bechar Djedid NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYM9AHhJkaxoajFA/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",21h00-01/04 Tyumen Vs Dynamo Kirov NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6Mwd637g3Zr7cdeDp8/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",22h00-01/04 Velke Hamry Vs Sokol Brozany NHÀ ĐÀI
-rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MuSsD3cCfefSMYbSU/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",00h00-02/04 Eintracht Norderstedt Vs Phonix Lubeck NHÀ ĐÀI
-rtmp://entrypoint-vankhanh.cdnfastest.com/live/sd-6MuQ8mwxPvFHU47tPW/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
 #EXTINF:-1 group-title="Socolive_2",13h05: [HUNTER] Hokkaido vs Ibaraki Robots
@@ -898,12 +870,14 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 3
-https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 4
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
