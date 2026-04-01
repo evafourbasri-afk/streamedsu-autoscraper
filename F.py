@@ -16,7 +16,6 @@ def generate_m3u():
         print(f"Error fetching data: {e}")
         return
 
-    # Pisahkan blok pertandingan
     matches = content.split("======================================================================")
     
     m3u_content = "#EXTM3U\n"
@@ -33,7 +32,7 @@ def generate_m3u():
         drm_match = re.search(r"DRM  : (.*)", block)
         license_url = drm_match.group(1).strip() if drm_match else ""
 
-        # Ekstrak URL MPD versi HD saja
+        # Ekstrak URL MPD khusus versi HD saja
         mpd_hd_match = re.search(r"\[\+\] MPD \(HD\) \[N\/A\]: (.*)", block)
         
         if mpd_hd_match:
@@ -44,10 +43,10 @@ def generate_m3u():
             m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={license_url}\n'
             m3u_content += f'{stream_url}\n'
 
-    # Simpan ke file
-    with open("playlist.m3u", "w") as f:
+    # Simpan ke file f.m3u
+    with open("f.m3u", "w") as f:
         f.write(m3u_content)
-    print("Playlist updated successfully!")
+    print("File f.m3u berhasil diperbarui!")
 
 if __name__ == "__main__":
     generate_m3u()
