@@ -176,11 +176,11 @@ https://rumble.com/hls-vod/757w6u/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+1
 https://vietanhtv.id.vn/tv360/2554/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+9
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus9/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus10/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+11
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus11/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+12
 https://vietanhtv.id.vn/tv360/10001/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
@@ -235,6 +235,10 @@ https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 8
 https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 9
+https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -456,7 +460,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hung-yen/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",LTV - Báo Lai Châu
 https://freem3u.xyz/api/live/play.m3u8?vid=68
 #EXTINF:-1 group-title="TruyenHinh_2",KTV1 HD - Báo và PTTH Khánh Hòa
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/ninh-thuan/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/76/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV1 - Báo và PTTH Quảng Ngãi
 https://freem3u.xyz/api/live/play.m3u8?vid=81
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV2 - Báo và PTTH Quảng Ngãi

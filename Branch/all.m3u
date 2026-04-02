@@ -1,26 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",16h00-02/04 Korea Rep (W) U20 Vs Uzbekistan (W) U20 BLV A TỦA
+#EXTINF:-1 group-title="LuongSon_2",16h00-02/04 Korea Rep (W) U20 Vs Uzbekistan (W) U20
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",15h35-02/04 FC Macarthur Vs Newcastle Jets BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",16h00-02/04 Australia (W) U20 Vs Chinese Taiwan (W) U20 BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",17h00-02/04 Brisbane Roar Vs Sydney FC BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",17h30-02/04 Real Kashmir Vs Diamond Harbour FC BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",18h00-02/04 FK MOIK Baku Vs Cəbrayıl FK BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",18h00-02/04 Bayswater City Vs Fremantle City BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",18h15-02/04 Perth SC Vs Dianella White Eagles BLV FERNANDO
+https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV COCA] Macarthur FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",15h35: [TẠ BIÊN GIỚI] Macarthur FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV TOMMY] Macarthur FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV TAP] Macarthur FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",15h35: [DECO] Macarthur FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV ALEX] Macarthur FC vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV KEM] South Korea Women U20 vs Uzbekistan Women U20
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV ENZO] South Korea Women U20 vs Uzbekistan Women U20
@@ -101,10 +95,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 http://sharing.gotdns.ch:8091/socolive.php?id=595335
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV GÔN] Sogdiana Jizak vs FK Kokand 1912
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ANH TÀI] Dempo vs Namdhari FC
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",20h00: [PINKMAN] Dempo vs Namdhari FC
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV RYO] Sabail FC vs Baku Sporting FK
 http://sharing.gotdns.ch:8091/socolive.php?id=602019
 #EXTINF:-1 group-title="Socolive_2",20h00: [HỘI GYM] Sabail FC vs Baku Sporting FK
@@ -894,11 +884,11 @@ https://rumble.com/hls-vod/757w6u/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+1
 https://vietanhtv.id.vn/tv360/2554/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+9
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus9/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus10/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+11
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus11/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+12
 https://vietanhtv.id.vn/tv360/10001/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
@@ -953,6 +943,10 @@ https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 8
 https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 9
+https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1174,7 +1168,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hung-yen/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",LTV - Báo Lai Châu
 https://freem3u.xyz/api/live/play.m3u8?vid=68
 #EXTINF:-1 group-title="TruyenHinh_2",KTV1 HD - Báo và PTTH Khánh Hòa
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/ninh-thuan/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/76/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV1 - Báo và PTTH Quảng Ngãi
 https://freem3u.xyz/api/live/play.m3u8?vid=81
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV2 - Báo và PTTH Quảng Ngãi
