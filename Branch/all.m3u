@@ -1,62 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",23h00-03/04 Al Kholood Vs Al-Khaleej
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 group-title="LuongSon_2",23h15-03/04 Al-Ittihad Vs Al-Hazm
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",23h00-03/04 Qarabag Vs Sabah FK Baku
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 group-title="LuongSon_2",23h15-03/04 NK Varteks Varazdin Vs HNK Gorica
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="LuongSon_2",00h00-04/04 Corum Belediyespor Vs Bandirmaspor BLV VƯƠNG LUÂN
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="LuongSon_2",00h00-04/04 Vitoria Guimaraes Vs CD Tondela BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",00h30-04/04 FC Botosani Vs FCSB BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",00h30-04/04 Al-Ahli Doha Vs Al-Sailiya BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",23h45-03/04 Lokomotiv Plovdiv Vs Lokomotiv Sofia BLV FERNANDO
-https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 group-title="LuongSon_2",23h00-03/04 FK Napredak Krusevac Vs Backa Topola
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",00h00-04/04 Bodrumspor Vs Umraniyespor BLV FALCON
-https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",01h00-04/04 Al-Nassr Vs Al Najma(KSA) BLV DƯƠNG CHÍ
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV WUKONG] FK Napredak Krusevac vs Backa Topola
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",23h00: [MR BÍCH] FK Napredak Krusevac vs Backa Topola
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",23h00: [QUỐC KHÁNH] Al Kholood vs Al Khaleej Club
-http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV LONG] Al Kholood vs Al Khaleej Club
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV FIREMAN] Qarabag vs Sabah Baku
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",23h00: [BON BON] Qarabag vs Sabah Baku
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV A WIN] Qarabag vs Sabah Baku
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",23h00: [PINKMAN] Qarabag vs Sabah Baku
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",23h00: [HUNTER] Bahcesehir Kol. vs Besiktas
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV 7UP] Al Ittihad Club vs Al Hazem
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV MIXI] Al Ittihad Club vs Al Hazem
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",23h15: [LOGAN] Al Ittihad Club vs Al Hazem
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",23h15: [LÃO LÂM] Al Ittihad Club vs Al Hazem
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",23h15: [HỘI GYM] Al Ittihad Club vs Al Hazem
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV BÉO] Al Ittihad Club vs Al Hazem
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",00h00: [Đình Bắc] Vitoria Guimaraes vs CD Tondela
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",00h00: [CHANH MUỐI] Vitoria Guimaraes vs CD Tondela
