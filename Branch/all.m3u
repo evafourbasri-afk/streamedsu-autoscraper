@@ -83,8 +83,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=552832
 http://sharing.gotdns.ch:8091/socolive.php?id=603255
 #EXTINF:-1 group-title="Socolive_2",19h00: [HUNTER] Samara vs CSKA Moscow
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV CHIVAS] Cong An Ha Noi FC vs SHB Da Nang
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",19h15: [HẢI THANH] Cong An Ha Noi FC vs SHB Da Nang
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
 #EXTINF:-1 group-title="Socolive_2",19h15: [VỊT BẠC] Cong An Ha Noi FC vs SHB Da Nang
@@ -877,9 +875,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h30-05/04: [BLV LONG] 1. FC Union Berlin vs FC St. Pauli
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h15-05/04: [BLV TAP] Valencia CF vs RC Celta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h15-05/04: [DECO] Valencia CF vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -894,6 +889,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h15-05/04: [BLV TOMMY] Valencia CF vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h15-05/04: [BLV PEWPEW] Valencia CF vs RC Celta
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h45-05/04: [NGƯỜI THÉP] NAC Breda vs Sparta Rotterdam
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
