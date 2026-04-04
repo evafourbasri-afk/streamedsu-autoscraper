@@ -1,36 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",14h30: [GOAT] Qingdao Hainiu vs Henan FC
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV KAN] Qingdao Hainiu vs Henan FC
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",14h30: [XUÂN SON] Qingdao Hainiu vs Henan FC
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV VITAMIN] Qingdao Hainiu vs Henan FC
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV MIXI] Liaoning Tieren vs Beijing Guoan
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",14h30: [RABBIT] Liaoning Tieren vs Beijing Guoan
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV PIRLO] Liaoning Tieren vs Beijing Guoan
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",14h30: [RICKHANTER] Liaoning Tieren vs Beijing Guoan
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV ENZO] Liaoning Tieren vs Beijing Guoan
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV KEM] Liaoning Tieren vs Beijing Guoan
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV GÔN] Gangwon FC vs Gwangju FC
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV NIBO] Pohang Steelers vs Daejeon Citizen
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",14h30: [PINKMAN] Pohang Steelers vs Daejeon Citizen
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",14h30: [CHAN SENA] Seoul Knights vs KoGas
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",14h30: [BRIAN] Seoul Knights vs KoGas
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",15h30: [NGƯỜI THÉP] PSM Makassar vs Persis Solo FC
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",15h30: [HẢI THANH] PSM Makassar vs Persis Solo FC
@@ -929,6 +899,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h30-05/04: [BLV BÉO] 1. FC Union Berlin vs FC St. Pauli
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h30-05/04: [BLV LONG] 1. FC Union Berlin vs FC St. Pauli
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h15-05/04: [BLV TAP] Valencia CF vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
