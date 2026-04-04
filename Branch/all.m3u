@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",13h05: [KING] Utsunomiya Brex vs Kyoto
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",14h00: [Giàng A Thổ] Gamba Osaka vs Kyoto Sanga
-http://sharing.gotdns.ch:8091/socolive.php?id=592799
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV LION] Gamba Osaka vs Kyoto Sanga
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV CHIVAS] Gamba Osaka vs Kyoto Sanga
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV VIP] Gamba Osaka vs Kyoto Sanga
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",14h30: [GOAT] Qingdao Hainiu vs Henan FC
 http://sharing.gotdns.ch:8091/socolive.php?id=585206
 #EXTINF:-1 group-title="Socolive_2",14h30: [BLV KAN] Qingdao Hainiu vs Henan FC
@@ -712,14 +702,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-05/04: [Đình Bắc] Incheon United Club vs Gimcheon Sangmu FC
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-05/04: [Giàng A Thổ] Incheon United Club vs Gimcheon Sangmu FC
-http://sharing.gotdns.ch:8091/socolive.php?id=592799
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-05/04: [RABBIT] Incheon United Club vs Gimcheon Sangmu FC
 http://sharing.gotdns.ch:8091/socolive.php?id=596191
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-05/04: [BLV LION] Incheon United Club vs Gimcheon Sangmu FC
 http://sharing.gotdns.ch:8091/socolive.php?id=603255
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-05/04: [BLV ENZO] Incheon United Club vs Gimcheon Sangmu FC
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-05/04: [BLV HENRY] Suwon KT vs Mobis Phoebus
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
@@ -939,9 +929,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h30-05/04: [BLV BÉO] 1. FC Union Berlin vs FC St. Pauli
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h30-05/04: [BLV ENZO] 1. FC Union Berlin vs FC St. Pauli
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h15-05/04: [BLV TAP] Valencia CF vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
@@ -1265,6 +1252,10 @@ https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 6
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 7
+https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
