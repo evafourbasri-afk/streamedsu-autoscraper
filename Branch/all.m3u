@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",11h00: [HỘI GYM] V-Varen Nagasaki vs Shimizu S-Pulse
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV VOI] V-Varen Nagasaki vs Shimizu S-Pulse
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV ENZO] V-Varen Nagasaki vs Shimizu S-Pulse
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",11h00: [LÃO LÂM] V-Varen Nagasaki vs Shimizu S-Pulse
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",11h30: [BLV HENRY] Sydney vs Adelaide
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",11h30: [CHAN SENA] Sydney vs Adelaide
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",11h30: [BRIAN] Sydney vs Adelaide
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",11h30: [HUNTER] Sydney vs Adelaide
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",12h00: [GOAT] Kashiwa Reysol vs Yokohama F. Marinos
 http://sharing.gotdns.ch:8091/socolive.php?id=585206
 #EXTINF:-1 group-title="Socolive_2",12h00: [LOGAN] Kashiwa Reysol vs Yokohama F. Marinos
@@ -1056,6 +1040,16 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 12
+https://live.fptplay53.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 4
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
