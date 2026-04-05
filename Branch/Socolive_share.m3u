@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h00: [HUNTER] Taoyuan Pauian Pilots vs Fubon Braves
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",15h00: [CHAN SENA] Keelung Black Kites vs Bank of Taiwan
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",15h30: [TẠ BIÊN GIỚI] Bhayangkara FC vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV RÔSI] Bhayangkara FC vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",15h30: [VENDETTA] Bhayangkara FC vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV BÉO] Bhayangkara FC vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV ROBBEN] Jordan Women U20 vs South Korea Women U20
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",16h00: [PINKMAN] Jordan Women U20 vs South Korea Women U20
@@ -43,6 +31,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV RYO] Shenzhen Peng City vs Wuhan Three Towns
 http://sharing.gotdns.ch:8091/socolive.php?id=602019
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV GÔN] Shenzhen Peng City vs Wuhan Three Towns
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV ALEX] Hong Linh Ha Tinh vs Thep Xanh Nam Dinh FC
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV KEM] Hong Linh Ha Tinh vs Thep Xanh Nam Dinh FC
@@ -327,6 +317,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=592799
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",05h30-06/04: [BLV FIREMAN] Bahia vs Palmeiras
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",05h30-06/04: [LOGAN] Bahia vs Palmeiras
+http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",05h30-06/04: [BLV NIBO] Sport Club Corinthians Paulista vs Internacional RS
 http://sharing.gotdns.ch:8091/socolive.php?id=372746

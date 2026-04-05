@@ -1,18 +1,22 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",16h00-05/04 India (W) U20 Vs Australia (W) U20
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",16h00-05/04 Jordan (W) U20 Vs Korea Rep (W) U20
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 group-title="LuongSon_2",16h00-05/04 Ho Chi Minh City Vs Khatoco Khanh Hoa
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2",17h00-05/04 Hoang Anh Gia Lai Vs Ninh Binh FC BLV URA
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",18h00-05/04 Hong Linh Ha Tinh Vs Nam Dinh FC BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",18h00-05/04 Shenzhen Xinpengcheng Vs Wuhan Three Towns BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",18h35-05/04 Zhejiang Chouzhou Vs Fujian BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h00: [HUNTER] Taoyuan Pauian Pilots vs Fubon Braves
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",15h00: [CHAN SENA] Keelung Black Kites vs Bank of Taiwan
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",15h30: [TẠ BIÊN GIỚI] Bhayangkara FC vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV RÔSI] Bhayangkara FC vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",15h30: [VENDETTA] Bhayangkara FC vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV BÉO] Bhayangkara FC vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV ROBBEN] Jordan Women U20 vs South Korea Women U20
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",16h00: [PINKMAN] Jordan Women U20 vs South Korea Women U20
@@ -43,6 +47,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV RYO] Shenzhen Peng City vs Wuhan Three Towns
 http://sharing.gotdns.ch:8091/socolive.php?id=602019
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV GÔN] Shenzhen Peng City vs Wuhan Three Towns
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV ALEX] Hong Linh Ha Tinh vs Thep Xanh Nam Dinh FC
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV KEM] Hong Linh Ha Tinh vs Thep Xanh Nam Dinh FC
@@ -327,6 +333,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=592799
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-06/04: [BLV FIREMAN] Bahia vs Palmeiras
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-06/04: [LOGAN] Bahia vs Palmeiras
+http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-06/04: [BLV NIBO] Sport Club Corinthians Paulista vs Internacional RS
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
@@ -952,8 +961,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 12
-https://live.fptplay53.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
@@ -966,6 +973,18 @@ https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/02/slider_1775125672125.jpg
 https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 5
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 11
+https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 10
+https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 2
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
