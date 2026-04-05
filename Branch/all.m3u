@@ -1,28 +1,34 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",16h00-05/04 India (W) U20 Vs Australia (W) U20
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",16h00-05/04 Jordan (W) U20 Vs Korea Rep (W) U20
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 group-title="LuongSon_2",16h00-05/04 Ho Chi Minh City Vs Khatoco Khanh Hoa
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",17h00-05/04 Hoang Anh Gia Lai Vs Ninh Binh FC BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LuongSon_2",18h00-05/04 Hong Linh Ha Tinh Vs Nam Dinh FC BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",18h00-05/04 Shenzhen Xinpengcheng Vs Wuhan Three Towns BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",18h30-05/04 Karagumruk Vs Caykur Rizespor BLV QUAN VŨ
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 group-title="LuongSon_2",18h35-05/04 Zhejiang Chouzhou Vs Fujian BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",18h30-05/04 Schalke 04 Vs Karlsruher SC BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",18h00-05/04 Shenzhen Xinpengcheng Vs Wuhan Three Towns BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",18h30-05/04 Hannover 96 Vs SV Elversberg BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",17h00-05/04 Hoang Anh Gia Lai Vs Ninh Binh FC
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",18h30-05/04 Greuther Furth Vs SC Paderborn 07 BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 group-title="LuongSon_2",18h35-05/04 Shanghai Vs Jilin BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",18h00-05/04 Thanh Hoa Vs Cong An TP Ho Chi Minh BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",18h00-05/04 Song Lam Nghe An Vs Viettel FC BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",18h00-05/04 Hong Linh Ha Tinh Vs Nam Dinh FC BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",18h35-05/04 Tianjin Tigers Vs Shanghai Shenhua BLV FALCON
+https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",19h00-05/04 Getafe Vs Athletic Bilbao BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV ROBBEN] Jordan Women U20 vs South Korea Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",16h00: [PINKMAN] Jordan Women U20 vs South Korea Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",16h00: [BON BON] India Women U20 vs Australia Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV PIRLO] Hoang Anh Gia Lai vs Ninh Binh FC
 http://sharing.gotdns.ch:8091/socolive.php?id=351530
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV COZY] Hoang Anh Gia Lai vs Ninh Binh FC
@@ -39,8 +45,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=387694
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",17h15: [BLV XO] Go Ahead Eagles vs PEC Zwolle
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",17h15: [BLV SATIVA] Go Ahead Eagles vs PEC Zwolle
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",17h15: [BRIAN] Manresa vs Baskonia
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",18h00: [THẠCH TÚ] Shenzhen Peng City vs Wuhan Three Towns
@@ -85,8 +89,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=557845
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2",18h35: [A PÁO] Tianjin Jinmen Tiger vs Shanghai Shenhua
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",18h35: [RICKHANTER] Tianjin Jinmen Tiger vs Shanghai Shenhua
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV VOI] Tianjin Jinmen Tiger vs Shanghai Shenhua
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV VITAMIN] Tianjin Jinmen Tiger vs Shanghai Shenhua
@@ -119,8 +121,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",20h00: [SAO LA] Cremonese vs Bologna
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",20h00: [LÃO LÂM] Cremonese vs Bologna
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV LIO] Cremonese vs Bologna
 http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV Củ Cải] Cremonese vs Bologna
@@ -149,8 +149,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=459401
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",21h15: [DECO] Valencia CF vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",21h15: [RICKHANTER] Valencia CF vs RC Celta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",21h15: [BLV COCA] Valencia CF vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",21h15: [BLV VITAMIN] Valencia CF vs RC Celta
@@ -159,6 +157,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=400722
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",21h15: [RABBIT] Valencia CF vs RC Celta
 http://sharing.gotdns.ch:8091/socolive.php?id=596191
+#EXTINF:-1 group-title="Socolive_2",21h15: [BLV ALEX] Valencia CF vs RC Celta
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",21h45: [NGƯỜI THÉP] NAC Breda vs Sparta Rotterdam
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",21h45: [CHANH MUỐI] NAC Breda vs Sparta Rotterdam
