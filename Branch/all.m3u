@@ -1,22 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",17h30-06/04 Udinese Vs Como BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2",18h30-06/04 Club Brugge Vs Anderlecht BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",18h30-06/04 Portsmouth Vs Oxford United BLV URA
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",17h00-06/04 Seoul Knights Vs Seoul Thunders BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",17h30-06/04 Cesena Vs SudTirol BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",18h30-06/04 Tanjong Pagar Utd Vs Lion City Sailors BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",18h35-06/04 Beijing Vs Nanjing Tongxi BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",19h00-06/04 Bali United Vs PSBS Biak BLV FALCON
+https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",19h00-06/04 Grasshopper Vs FC Sion BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV COCA] Persik Kediri vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",15h30: [VƯƠNG ANH] Persik Kediri vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",15h30: [TAM MAO] Persik Kediri vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV TAP] Persik Kediri vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV ĐỐM] Persik Kediri vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",15h30: [DECO] Persik Kediri vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",16h00: [Đình Bắc] Lazio U20 vs Napoli U20
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV CÒ] Lazio U20 vs Napoli U20
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV ANH TÀI] Wisla Krakow vs Gornik Leczna
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV LIO] Wisla Krakow vs Gornik Leczna
@@ -47,8 +51,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=351530
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV Củ Cải] Udinese vs Como
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",17h30: [A PÁO] Cesena vs SudTirol
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",17h30: [PINKMAN] Cesena vs SudTirol
 http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTINF:-1 group-title="Socolive_2",18h30: [TAM MAO] Club Brugge vs Anderlecht
@@ -75,10 +77,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=380460
 http://sharing.gotdns.ch:8091/socolive.php?id=602019
 #EXTINF:-1 group-title="Socolive_2",19h00: [KÉP] Elfsborg vs IFK Goteborg
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV RÔSI] Hacken vs Brommapojkarna
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",19h00: [LOKA] Hacken vs Brommapojkarna
 http://sharing.gotdns.ch:8091/socolive.php?id=589848
+#EXTINF:-1 group-title="Socolive_2",19h00: [BLV FIREMAN] Hacken vs Brommapojkarna
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV CÁO] Vejle vs Randers FC
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTINF:-1 group-title="Socolive_2",19h00: [CHANH MUỐI] Vejle vs Randers FC
@@ -535,6 +537,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-07/04: [HỘI GYM] Bandirmaspor vs Sariyer
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-07/04: [Đình Bắc] Bandirmaspor vs Sariyer
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-07/04: [VƯƠNG ANH] Atakas Hatayspor vs Adana Demirspor
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -640,14 +645,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-07/04: [BLV VOI] Manisa Futbol Kulübü vs Pendikspor
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-07/04: [BLV ENZO] Manisa Futbol Kulübü vs Pendikspor
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-07/04: [BLV RÔSI] Manisa Futbol Kulübü vs Pendikspor
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-07/04: [LOGAN] Manisa Futbol Kulübü vs Pendikspor
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-07/04: [BLV CÒ] Manisa Futbol Kulübü vs Pendikspor
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-07/04: [RICKHANTER] Chennaiyin FC vs Inter Kashi
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
@@ -961,8 +966,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
