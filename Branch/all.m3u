@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV ĐỐM] Sydney United 58 FC vs Marconi Stallions
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV KEM] Sydney United 58 FC vs Marconi Stallions
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV ENZO] Sydney United 58 FC vs Marconi Stallions
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV RAMBO] Sydney United 58 FC vs Marconi Stallions
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV PEWPEW] Sydney United 58 FC vs Marconi Stallions
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV PIRLO] Sydney United 58 FC vs Marconi Stallions
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV COCA] Persik Kediri vs Persijap Jepara
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",15h30: [VƯƠNG ANH] Persik Kediri vs Persijap Jepara
@@ -926,7 +914,7 @@ https://rumble.com/hls-vod/75uhgc/playlist.m3u8
 https://vietanhtv.id.vn/tv360/2554/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",360 Thể Thao
 https://vietanhtv.id.vn/tv360/1/index.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",TV360+9
+#EXTINF:-1 group-title="TruyenHinh_2",360 Goal
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
