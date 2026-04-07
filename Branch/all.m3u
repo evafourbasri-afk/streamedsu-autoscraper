@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h15: [BRIAN] Terrafirma Dyip vs Magnolia Hotshots
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV COZY] Magic United TFA vs Moreton City Excelsior FC
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV BÉO] Magic United TFA vs Moreton City Excelsior FC
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV SATIVA] Magic United TFA vs Moreton City Excelsior FC
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",16h30: [TAM MAO] Brisbane Wolves vs Gold Coast United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV PEWPEW] Brisbane Wolves vs Gold Coast United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",16h30: [TRÀ ĐÁ] Brisbane Wolves vs Gold Coast United
-http://sharing.gotdns.ch:8091/socolive.php?id=603914
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV ANH TÀI] Rajasthan United FC vs Gokulam Kerala FC
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",17h30: [RICKHANTER] Rajasthan United FC vs Gokulam Kerala FC
@@ -73,8 +59,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV COCA] Johor Darul Ta'zim FC vs Kuala Lumpur City FC
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV 7UP] Johor Darul Ta'zim FC vs Kuala Lumpur City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV VITAMIN] Johor Darul Ta'zim FC vs Kuala Lumpur City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV FIREMAN] Mashal Muborak vs Bunyodkor
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV KAN] Mashal Muborak vs Bunyodkor
@@ -920,7 +906,7 @@ https://vietanhtv.id.vn/tv360/1/index.mpd
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",360 Score
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",TV360+11
+#EXTINF:-1 group-title="TruyenHinh_2",360 Nhịp Đập
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+12
 https://vietanhtv.id.vn/tv360/10001/index.mpd
