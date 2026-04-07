@@ -187,7 +187,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",360 Nhịp Đập
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",TV360+12
+#EXTINF:-1 group-title="TruyenHinh_2",360 Tốc Độ
 https://vietanhtv.id.vn/tv360/10001/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
@@ -571,6 +571,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164000&extension=ts&play_token=HqvKowEeO4
 #EXTINF:-1 group-title="TruyenHinh_2",Filmbox
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=88618&extension=ts&play_token=SmJehiM1EA
+#EXTINF:-1 group-title="TruyenHinh_2",HGTV
+https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 group-title="TruyenHinh_2",VOV2
