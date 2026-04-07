@@ -1,72 +1,28 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",20h00-07/04 Vietnam (W) U20 Vs Bangladesh (W) U20 BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 group-title="LuongSon_2",20h15-07/04 Zira FK Vs Samaxı FC BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LuongSon_2",20h00-07/04 Thailand (W) U20 Vs China (W) U20 BLV FERNANDO
-https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 group-title="LuongSon_2",20h45-07/04 HNK Vukovar 91 Vs NK Lokomotiva Zagreb BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="LuongSon_2",19h00-07/04 Lokomotiv Tashkent Vs Xorazm Urganch
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 group-title="LuongSon_2",20h00-07/04 Mashal Muborak Vs Kuruvchi Bunyodkor BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",21h00-07/04 Manisa BB Spor Vs Pendikspor BLV FALCON
-https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",20h00-07/04 Dempo Vs Shillong Lajong FC BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",21h00-07/04 Chennai Titans Vs Inter Kashi BLV DƯƠNG QUÁ
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 group-title="LuongSon_2",19h15-07/04 Johor Darul Takzim Vs Kuala Lumpur City F.C.
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2",22h00-07/04 Shabab Al Ordon Vs Ramtha Club BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 group-title="LuongSon_2",21h15-07/04 FK Andijon Vs Navbahor Namangan BLV PHONG VÂN
 https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",21h00-07/04 Manisa BB Spor Vs Pendikspor
+https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",21h00-07/04 Chennai Titans Vs Inter Kashi
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 group-title="LuongSon_2",22h00-07/04 Smouha SC Vs Enppi BLV QUAN VŨ
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",20h45-07/04 HNK Vukovar 91 Vs NK Lokomotiva Zagreb
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",22h00-07/04 Krylya Sovetov Vs CSKA Moscow BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",22h00-07/04 BFC Daugavpils Vs Ogre United BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",21h00-07/04 SOHEE Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
+#EXTINF:-1 group-title="LuongSon_2",22h30-07/04 Araz Nakhchivan Vs Sabah FK Baku BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV CHIVAS] Lokomotiv Tashkent vs Xorazm Urganch
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",19h00: [CHANH MUỐI] Lokomotiv Tashkent vs Xorazm Urganch
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV HENRY] South China vs New Taipei Kings
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV RAMBO] Johor Darul Ta'zim FC vs Kuala Lumpur City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",19h15: [SAO LA] Johor Darul Ta'zim FC vs Kuala Lumpur City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",19h15: [DECO] Johor Darul Ta'zim FC vs Kuala Lumpur City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV COZY] Johor Darul Ta'zim FC vs Kuala Lumpur City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV COCA] Johor Darul Ta'zim FC vs Kuala Lumpur City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV VITAMIN] Johor Darul Ta'zim FC vs Kuala Lumpur City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV FIREMAN] Mashal Muborak vs Bunyodkor
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV KAN] Mashal Muborak vs Bunyodkor
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV RYO] Thailand Women U20 vs China Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
-#EXTINF:-1 group-title="Socolive_2",20h00: [VENDETTA] Thailand Women U20 vs China Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",20h00: [XUÂN SON] Thailand Women U20 vs China Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV SATIVA] Thailand Women U20 vs China Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV TAP] Vietnam Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV PIRLO] Vietnam Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ĐỐM] Vietnam Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV Củ Cải] Vietnam Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",20h00: [TẠ BIÊN GIỚI] Vietnam Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",20h00: [THẠCH TÚ] Vietnam Women U20 vs Bangladesh Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",20h15: [BLV WUKONG] Zira FK vs Shamakhi FK
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTINF:-1 group-title="Socolive_2",20h15: [MR BÍCH] Zira FK vs Shamakhi FK
@@ -154,8 +110,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=602153
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-07/04: [BLV SATIVA] FC Flora Tallinn vs FC Kuressaare
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-07/04: [KÉP] Trans Narva vs Tartu JK Maag Tammeka
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-07/04: [TRÀ ĐÁ] Trans Narva vs Tartu JK Maag Tammeka
+http://sharing.gotdns.ch:8091/socolive.php?id=603914
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-07/04: [BLV LIO] Trans Narva vs Tartu JK Maag Tammeka
+http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-07/04: [GOAT] Al-Arabi SC(KSA) vs Al Zulfi
 http://sharing.gotdns.ch:8091/socolive.php?id=585206
