@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",14h00-09/04 Manawatu Jets Vs Taranaki Airs BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",18h35-09/04 Jiangsu Dragons Vs Zhejiang Chouzhou BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
 #EXTINF:-1 group-title="Socolive_2",14h00: [BLV HENRY] Manawatu Jets vs Taranaki Airs
@@ -371,8 +365,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-10/04: [BLV ENZO] CA Platense vs Sport Club Corinthians Paulista
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-10/04: [DECO] CA Platense vs Sport Club Corinthians Paulista
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-10/04: [BLV RYO] CA Platense vs Sport Club Corinthians Paulista
+http://sharing.gotdns.ch:8091/socolive.php?id=602019
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-10/04: [BLV RÔSI] Macara vs America de Cali
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
@@ -620,11 +614,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-10/04: [BLV BÉO] The Cong Viettel vs Thanh Hoa
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h30-10/04: [BLV RYO] CSKA 1948 Sofia vs Botev Vratsa
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h30-10/04: [BLV LIO] CSKA 1948 Sofia vs Botev Vratsa
 http://sharing.gotdns.ch:8091/socolive.php?id=564362
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h30-10/04: [DECO] CSKA 1948 Sofia vs Botev Vratsa
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-10/04: [BLV RAMBO] Kelantan The Real Warriors vs Kuala Lumpur City FC
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
@@ -923,6 +917,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 5
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
