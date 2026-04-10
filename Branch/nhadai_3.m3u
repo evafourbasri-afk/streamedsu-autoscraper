@@ -31,8 +31,8 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD
 #EXTINF:-1 group-title="TruyenHinh_3",HYTV HD - TH HƯNG YÊN
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HYTV_HD-Truyen_hinh_Hung_Yen
-#EXTINF:-1 group-title="TruyenHinh_3",BHTTV HD - TH BÁO HÀ TĨNH
-https://HaNoiIPTV.short.gy/HaNoiIPTV-BHTTV_HD-Truyen_hinh_Bao_Ha_Tinh
+#EXTINF:-1 group-title="TruyenHinh_3",NBTV - TH NINH BÌNH HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-NBTV-Truyen_hinh_Ninh_Binh_HD_du_phong
 #EXTINF:-1 group-title="TruyenHinh_3",TTV - TH THANH HÓA HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV-Truyen_hinh_Thanh_Hoa_HD
 #EXTINF:-1 group-title="TruyenHinh_3",THP3 HD - TH HẢI PHÒNG MỚI
@@ -93,7 +93,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_News_du_phong
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Golf_du_phong
 #EXTINF:-1 group-title="TruyenHinh_3",On Sports+
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_Plus_HD_du_phong
-#EXTINF:-1 group-title="TruyenHinh_3",BTV9 - B CHANNEL HD
+#EXTINF:-1 group-title="TruyenHinh_3",HTV5 HD - BChannel (KÊNH TH AN VIÊN)
 https://HaNoiIPTV.short.gy/HaNoiIPTV-BTV9-B_Channel_HD
 #EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI PHIM TRUYỀN HÌNH | Phù sa Ngọt • Dự kiến Phát hành: Thứ 4 hàng tuần tại đây!
 https://HaNoiIPTV.short.gy/Ha_Noi_S-Phu_sa_Ngot
@@ -127,8 +127,6 @@ https://HaNoiIPTV.short.gy/Ha_Noi_IPTV_10-JTBC_Golf_and_Sports-The_thao_danh_cho
 https://HaNoiIPTV.short.gy/Ha_Noi_IPTV_9-JTBC4-Giai_tri_Danh_cho_Gioi_tre
 #EXTINF:-1 group-title="TruyenHinh_3",北京卫视高清 | TH BẮC KINH HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Bei_Jing_Wei_Shi_HD
-#EXTINF:-1 group-title="TruyenHinh_3",天津卫视 | TH THIÊN TÂN
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Tian_Jin_Wei_Shi_HD
 #EXTINF:-1 group-title="TruyenHinh_3",河南卫视高清 | TH HÀ NAM HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-He_Nan_Wei_Shi_HD
 #EXTINF:-1 group-title="TruyenHinh_3",东方卫视 | TH THƯỢNG HẢI
@@ -177,6 +175,8 @@ http://vncdn.mediatech.vn/qtvlive/tv1live.m3u8
 http://vncdn.mediatech.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="TruyenHinh_3",NTV - TH NGHỆ AN HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-NTV-Truyen_hinh_Nghe_An_HD
+#EXTINF:-1 group-title="TruyenHinh_3",BHTTV HD - TH BÁO HÀ TĨNH
+https://HaNoiIPTV.short.gy/HaNoiIPTV-BHTTV_HD-Truyen_hinh_Bao_Ha_Tinh
 #EXTINF:-1 group-title="TruyenHinh_3",SCTV15 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV15_HD_du_phong
 #EXTINF:-1 group-title="TruyenHinh_3",BOX MOVIE 1 HD
@@ -353,7 +353,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-NTV_HD
 https://www.youtube.com/watch?v=h3MuIUNCCzI
 #EXTINF:-1 group-title="TruyenHinh_3",BTV - TH BẮC NINH HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-BTV-Truyen_hinh_Bac_Ninh_HD
-#EXTINF:-1 group-title="TruyenHinh_3",CRTV - TH BÁO CAO BẰNG HD
+#EXTINF:-1 group-title="TruyenHinh_3",CRTV - TH CAO BẰNG HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-CRTV-Truyen_hinh_Cao_Bang_HD
 #EXTINF:-1 group-title="TruyenHinh_3",BIS HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Bis_HD
@@ -363,16 +363,14 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Multi_Show_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Viva_HD
 #EXTINF:-1 group-title="TruyenHinh_3",PTV - TH PHÚ THỌ HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-PTV-Truyen_hinh_Phu_Tho_HD_du_phong
-#EXTINF:-1 group-title="TruyenHinh_3",NBTV - TH NINH BÌNH HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-NBTV-Truyen_hinh_Ninh_Binh_HD_du_phong
+#EXTINF:-1 group-title="TruyenHinh_3",LTV - TH LAI CHÂU HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-LTV-Truyen_hinh_Lai_Chau_HD
 #EXTINF:-1 group-title="TruyenHinh_3",CANAL OFF HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Canal_Off_HD
 #EXTINF:-1 group-title="TruyenHinh_3",SPORTV HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-SporTV_HD
 #EXTINF:-1 group-title="TruyenHinh_3",THLC - TH LÀO CAI
 https://HaNoiIPTV.short.gy/HaNoiIPTV-THLC-Truyen_hinh_Lao_Cai
-#EXTINF:-1 group-title="TruyenHinh_3",LTV - TH LAI CHÂU HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-LTV-Truyen_hinh_Lai_Chau_HD
 #EXTINF:-1 group-title="TruyenHinh_3",ĐTV - TH ĐIỆN BIÊN HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-DTV-Truyen_hinh_Dien_Bien_HD
 #EXTINF:-1 group-title="TruyenHinh_3",STV - TH SƠN LA HD
@@ -491,16 +489,18 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_Tay_Nguyen
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_Tay_Nam_Bo_HD
 #EXTINF:-1 group-title="TruyenHinh_3",东方购物 • MUA SẮM HÀNG ĐẦU
 https://HaNoiIPTV.short.gy/HeNeiIPTV-Dong_Fang_Gou_Wu_Pin_Dao_Gao_Qing
-#EXTINF:-1 group-title="TruyenHinh_3",吉林卫视高清 | TH CÁT LÂM HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Ji_Lin_Wei_Shi_HD
 #EXTINF:-1 group-title="TruyenHinh_3",黑龙江卫视 | TH LONG GIANG
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Hei_Long_Jiang_Wei_Shi_HD
 #EXTINF:-1 group-title="TruyenHinh_3",辽宁卫视 | TH LIÊU NINH
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Liao_Ning_Wei_Shi_HD
+#EXTINF:-1 group-title="TruyenHinh_3",天津卫视 | TH THIÊN TÂN
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Tian_Jin_Wei_Shi_HD
 #EXTINF:-1 group-title="TruyenHinh_3",河北卫视高清 | TH HÀ BẮC HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-He_Bei_Wei_Shi_HD
 #EXTINF:-1 group-title="TruyenHinh_3",山东卫视 | TH SƠN ĐÔNG
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Shan_Dong_Wei_Shi_HD
+#EXTINF:-1 group-title="TruyenHinh_3",吉林卫视高清 | TH CÁT LÂM HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Ji_Lin_Wei_Shi_HD
 #EXTINF:-1 group-title="TruyenHinh_3",山西卫视高清 | TH SƠN TÂY HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Shan_Xi_Wei_Shi_HD
 #EXTINF:-1 group-title="TruyenHinh_3",陕西卫视 | TH THIỂM TÂY
