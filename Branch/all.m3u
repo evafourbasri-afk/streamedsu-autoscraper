@@ -1,26 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h00: [GOAT] Japan Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV NIBO] Japan Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV BÉO] Japan Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV SATIVA] Japan Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",16h00: [LOGAN] Japan Women U20 vs Vietnam Women U20
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",16h00: [BRIAN] Yulon Luxgen Dinos vs Taiwan Beer
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",16h00: [KING] Yulon Luxgen Dinos vs Taiwan Beer
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",16h30: [NGƯỜI CÁ] Johor Darul Ta'zim FC vs Terengganu FC
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",16h30: [LOKA] Johor Darul Ta'zim FC vs Terengganu FC
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV LION] Johor Darul Ta'zim FC vs Terengganu FC
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
 #EXTINF:-1 group-title="Socolive_2",16h35: [BLV RÔSI] Western Sydney vs Sydney FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",16h35: [CR Bưởi] Western Sydney vs Sydney FC
@@ -1185,7 +1165,7 @@ https://vietanhtv.id.vn/tv360/10001/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Livestream
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/9888/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Âu Mỹ
@@ -1228,18 +1208,20 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 5
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 6
-https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 7
+https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 8
+https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 9
+https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 6
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 3
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
