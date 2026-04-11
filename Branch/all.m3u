@@ -1,56 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV MIXI] AC Milan vs Udinese
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",23h00: [RABBIT] AC Milan vs Udinese
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV ROBBEN] AC Milan vs Udinese
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV COZY] AC Milan vs Udinese
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV XO] AC Milan vs Udinese
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV VITAMIN] AC Milan vs Udinese
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",23h30: [LOGAN] FC St. Pauli vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",23h30: [LÃO LÂM] FC St. Pauli vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",23h30: [VENDETTA] FC St. Pauli vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV VOI] FC St. Pauli vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV 7UP] FC St. Pauli vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",23h30: [DECO] FC Barcelona vs RCD Espanyol
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV ĐỐM] FC Barcelona vs RCD Espanyol
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV Củ Cải] FC Barcelona vs RCD Espanyol
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",23h30: [VƯƠNG ANH] FC Barcelona vs RCD Espanyol
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",23h30: [THẠCH TÚ] FC Barcelona vs RCD Espanyol
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",23h30: [SAO LA] FC Barcelona vs RCD Espanyol
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",23h30: [RICKHANTER] Liverpool vs Fulham
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV BÉO] Liverpool vs Fulham
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",23h30: [TẠ BIÊN GIỚI] Liverpool vs Fulham
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV TOMMY] Liverpool vs Fulham
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",23h30: [CR Bưởi] Liverpool vs Fulham
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV MESSI] Liverpool vs Fulham
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",23h45: [Đình Bắc] Sparta Rotterdam vs PSV Eindhoven
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",23h45: [BLV LONG] Sparta Rotterdam vs PSV Eindhoven
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",00h00: [BLV WUKONG] AJ Auxerre vs FC Nantes
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTINF:-1 group-title="Socolive_2",00h00: [MR BÍCH] AJ Auxerre vs FC Nantes
@@ -578,7 +528,7 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-13/04: [BRIAN] New York Knicks vs Charlotte Hornets
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-13/04: [HUNTER] Dallas Mavericks vs Chicago Bulls
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-13/04: [HUNTER] Boston Celtics vs Orlando Magic
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-13/04: [BLV HENRY] Los Angeles Clippers vs Golden State Warriors
