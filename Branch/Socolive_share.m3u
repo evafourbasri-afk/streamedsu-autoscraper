@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV COZY] Yokohama F. Marinos vs FC Tokyo
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",13h00: [Đình Bắc] Yokohama F. Marinos vs FC Tokyo
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV VITAMIN] Yokohama F. Marinos vs FC Tokyo
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV MIXI] Vissel Kobe vs Nagoya Grampus
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV PEWPEW] Vissel Kobe vs Nagoya Grampus
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",13h00: [CÔNG CHẤT] Vissel Kobe vs Nagoya Grampus
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTINF:-1 group-title="Socolive_2",14h00: [BLV A TÚ] Gamba Osaka vs Cerezo Osaka
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",14h00: [BLV CÁO] Gamba Osaka vs Cerezo Osaka
@@ -527,6 +515,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",07h30-12/04: [BLV RYO] FC Dallas vs St. Louis City SC
 http://sharing.gotdns.ch:8091/socolive.php?id=602019
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",07h30-12/04: [KÉP] FC Dallas vs St. Louis City SC
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",07h30-12/04: [BLV CHIVAS] Sporting Kansas City vs San Jose Earthquakes
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
