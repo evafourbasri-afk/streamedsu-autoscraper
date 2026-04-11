@@ -5,42 +5,26 @@ http://sharing.gotdns.ch:8091/NOTE.mp4?ts
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="LuongSon_2",21h00-11/04 Burnley Vs Brighton Hove Albion BLV MÃ SIÊU
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 group-title="LuongSon_2",20h30-11/04 Borussia Dortmund Vs Bayer Leverkusen BLV KAKA
+#EXTINF:-1 group-title="LuongSon_2",20h30-11/04 Borussia Dortmund Vs Bayer Leverkusen
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="LuongSon_2",20h00-11/04 Cagliari Vs Cremonese BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LuongSon_2",20h00-11/04 Torino Vs Verona BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="LuongSon_2",21h00-11/04 Leicester City Vs Swansea City BLV MAYBACH
+#EXTINF:-1 group-title="LuongSon_2",21h00-11/04 Leicester City Vs Swansea City
 https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",20h30-11/04 RB Leipzig Vs Borussia Monchengladbach BLV KENCHU
+#EXTINF:-1 group-title="LuongSon_2",20h30-11/04 RB Leipzig Vs Borussia Monchengladbach
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 group-title="LuongSon_2",20h30-11/04 VfL Wolfsburg Vs Eintracht Frankfurt
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",21h15-11/04 Elche Vs Valencia BLV FALCON
+https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",21h00-11/04 CHANG Vs OK9 TV MEGA LIVE
+https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
+#EXTINF:-1 group-title="LuongSon_2",20h30-11/04 Heidenheimer Vs Union Berlin
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 group-title="LuongSon_2",21h00-11/04 Oxford United Vs Watford BLV A TỦA
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 group-title="LuongSon_2",21h00-11/04 Southampton Vs Derby County BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",20h30-11/04 Heidenheimer Vs Union Berlin BLV QUAN VŨ
-https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 group-title="LuongSon_2",20h30-11/04 VfL Wolfsburg Vs Eintracht Frankfurt BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",21h00-11/04 CHANG Vs OK9 TV MEGA LIVE
-https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTINF:-1 group-title="LuongSon_2",21h15-11/04 Elche Vs Valencia BLV FALCON
-https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ANH TÀI] Cagliari vs Cremonese
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV VIP] Cagliari vs Cremonese
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV BÉO] Cagliari vs Cremonese
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",20h00: [LOKA] Torino vs Hellas Verona
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV RYO] Torino vs Hellas Verona
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A TÚ] Torino vs Hellas Verona
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",20h30: [VENDETTA] Borussia Dortmund vs Bayer 04 Leverkusen
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV KEM] Borussia Dortmund vs Bayer 04 Leverkusen
@@ -286,17 +270,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h45-12/04: [BLV GÔN] Portland Timbers vs Los Angeles FC
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h30-12/04: [BLV A WIN] Fluminense RJ vs CR Flamengo
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h30-12/04: [BLV CHIVAS] Fluminense RJ vs CR Flamengo
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h30-12/04: [BLV A TÚ] Fluminense RJ vs CR Flamengo
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h30-12/04: [BLV SATIVA] Mirassol vs Bahia
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h30-12/04: [BLV A TÚ] Mirassol vs Bahia
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-12/04: [HUNTER] Toros del Valle vs Sabios de Manizales
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
