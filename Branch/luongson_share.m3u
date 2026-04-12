@@ -1,25 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",22h30-12/04 Chelsea Vs Manchester City
-https://hls-ls.cdnok9.site/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",23h00-12/04 Bologna Vs Lecce BLV PELE
-https://hls-ls.cdnok9.site/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LuongSon_2",22h30-12/04 VfB Stuttgart Vs Hamburger SV
-https://hls-ls.cdnok9.site/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="LuongSon_2",22h15-12/04 Nice Vs Le Havre
-https://hls-ls.cdnok9.site/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",22h15-12/04 Toulouse Vs Lille
-https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",23h30-12/04 Celta Vigo Vs Real Oviedo BLV NHỊ KA
-https://hls-ls.cdnok9.site/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="LuongSon_2",23h30-12/04 Cadiz Vs Andorra FC BLV VƯƠNG LUÂN
-https://hls-ls.cdnok9.site/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="LuongSon_2",00h00-13/04 Galatasaray Vs Kocaelispor BLV TRIỆU TỬ LONG
-https://hls-ls.cdnok9.site/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 group-title="LuongSon_2",00h00-13/04 Sporting Braga Vs FC Arouca BLV FALCON
 https://hls-ls.cdnok9.site/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",00h00-13/04 Benfica Vs Nacional da Madeira BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 group-title="LuongSon_2",00h00-13/04 Galatasaray Vs Kocaelispor BLV TRIỆU TỬ LONG
+https://hls-ls.cdnok9.site/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",23h30-12/04 Cadiz Vs Andorra FC
+https://hls-ls.cdnok9.site/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 group-title="LuongSon_2",01h00-13/04 Pumas U.N.A.M. Vs Mazatlan FC BLV DƯƠNG QUÁ
+https://hls-ls.cdnok9.site/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:-1 group-title="LuongSon_2",00h30-13/04 FSV Mainz 05 Vs SC Freiburg BLV LÝ ỨNG
 https://hls-ls.cdnok9.site/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",23h30-12/04 Celta Vigo Vs Real Oviedo
+https://hls-ls.cdnok9.site/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
