@@ -1,44 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV ALEX] Urawa Red Diamonds vs Tokyo Verdy
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV BÉO] Urawa Red Diamonds vs Tokyo Verdy
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV 7UP] Urawa Red Diamonds vs Tokyo Verdy
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",12h00: [LÃO LÂM] Urawa Red Diamonds vs Tokyo Verdy
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV CÁO] Daejeon Citizen vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV RAMBO] Daejeon Citizen vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",12h00: [RABBIT] Daejeon Citizen vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV VITAMIN] Daejeon Citizen vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV COCA] Melbourne City vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",12h00: [VƯƠNG ANH] Melbourne City vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",12h00: [THẠCH TÚ] Melbourne City vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",12h00: [SAO LA] Melbourne City vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",12h00: [DECO] Melbourne City vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",12h00: [HỘI GYM] Melbourne City vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV RYO] Blaublitz Akita vs Shonan Bellmare
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV VIP] Montedio Yamagata vs Yokohama FC
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",12h00: [BRIAN] Seoul Knights vs Goyang Sono
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",12h00: [CHAN SENA] Seoul Knights vs Goyang Sono
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV HENRY] Nelson Giants vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",14h00: [BLV CÒ] Kawasaki Frontale vs Kashima Antlers
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",14h00: [THẠCH TÚ] Kawasaki Frontale vs Kashima Antlers
@@ -1084,6 +1046,10 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 6
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
