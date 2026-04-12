@@ -1,18 +1,22 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",15h30-12/04 Persis Solo FC Vs Semen Padang
+https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",16h00-12/04 Perth Glory Vs FC Macarthur BLV LÝ QUỲ
+https://hls-ls.cdnok9.site/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",16h15-12/04 San Miguel Beermen Vs Magnolia Hotshots BLV YẾN THANH
+https://hls-ls.cdnok9.site/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",16h00-12/04 North Korea (W) U20 Vs Australia (W) U20 BLV TÔN LẬP
+https://hls-ls.cdnok9.site/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon_2",17h15-12/04 Fortuna Sittard Vs NAC Breda BLV A TỦA
+hls-ls.cdnok9.site
+#EXTINF:-1 group-title="LuongSon_2",17h30-12/04 Genoa Vs Sassuolo BLV KEVILL
+https://hls-ls.cdnok9.site/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2",18h35-12/04 Beijing Vs Shanghai BLV VÕ TÒNG
+https://hls-ls.cdnok9.site/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV VITAMIN] Gimcheon Sangmu FC vs FC Anyang
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV LION] Gimcheon Sangmu FC vs FC Anyang
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV A TÚ] Gimcheon Sangmu FC vs FC Anyang
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV XO] Gimcheon Sangmu FC vs FC Anyang
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",14h30: [LOKA] Chungnam Asan vs Gimhae City
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV FIREMAN] Seongnam FC vs Ansan Greeners FC
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV KAN] Persis Solo FC vs Semen Padang
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2",15h30: [QUỐC KHÁNH] Persis Solo FC vs Semen Padang
@@ -21,18 +25,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=602153
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",15h30: [TAM MAO] Persis Solo FC vs Semen Padang
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV PEWPEW] Thailand U17 vs Philippines U17
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV ROBBEN] Thailand U17 vs Philippines U17
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV COZY] Thailand U17 vs Philippines U17
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV VOI] Thailand U17 vs Philippines U17
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV 7UP] Thailand U17 vs Philippines U17
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",15h30: [VỊT BẠC] Thailand U17 vs Philippines U17
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",16h00: [SAO LA] Perth Glory vs Macarthur FC
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTINF:-1 group-title="Socolive_2",16h00: [DECO] Perth Glory vs Macarthur FC
@@ -1030,8 +1022,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 6
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 9
@@ -1044,6 +1034,8 @@ https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 2
 https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
