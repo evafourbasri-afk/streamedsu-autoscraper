@@ -5,24 +5,16 @@ http://sharing.gotdns.ch:8091/NOTE.mp4?ts
 https://hls-ls.cdnok9.site/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="LuongSon_2",05h00-13/04 Miami Heat Vs Atlanta Hawks BLV VÕ TÒNG
 https://hls-ls.cdnok9.site/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",06h20-13/04 Atletico Bucaramanga Vs Boyaca Chico BLV KENCHU
+https://hls-ls.cdnok9.site/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 group-title="LuongSon_2",06h10-13/04 Columbus Crew Vs Orlando City BLV LÝ QUỲ
+https://hls-ls.cdnok9.site/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="LuongSon_2",06h00-13/04 Racing Club Vs River Plate BLV TỐNG GIANG
 https://hls-ls.cdnok9.site/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",06h00-13/04 Columbus Crew Vs Orlando City BLV LÝ QUỲ
-https://hls-ls.cdnok9.site/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",07h00-13/04 Universidad de Concepcion Vs Cobresal BLV KHỔNG MINH
+https://hls-ls.cdnok9.site/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",04h10: [VỊT BẠC] Deportivo Cali vs Llaneros FC
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",04h10: [MR BÍCH] Deportivo Cali vs Llaneros FC
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",04h30: [BLV NIBO] Sport Club Corinthians Paulista vs Palmeiras
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",04h30: [BLV LIO] Sport Club Corinthians Paulista vs Palmeiras
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",04h30: [BLV CHIVAS] Cruzeiro Esporte Clube vs Red Bull Bragantino
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",04h30: [Giàng A Thổ] Cruzeiro Esporte Clube vs Red Bull Bragantino
-http://sharing.gotdns.ch:8091/socolive.php?id=592799
 #EXTINF:-1 group-title="Socolive_2",05h00: [A CHÈ] Cleveland Cavaliers vs Washington Wizards
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",05h00: [CHAN SENA] Miami Heat vs Atlanta Hawks
@@ -49,8 +41,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=474421
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",06h30: [BLV NIBO] Club Libertad Asunción vs Club Sportivo Trinidense
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV LIO] Club Libertad Asunción vs Club Sportivo Trinidense
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV CHIVAS] Universidad de Concepcion vs Cobresal
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",07h00: [Giàng A Thổ] Universidad de Concepcion vs Cobresal
