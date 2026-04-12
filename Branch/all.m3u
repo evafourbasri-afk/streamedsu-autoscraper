@@ -1,30 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",02h00-13/04 Athletic Bilbao Vs Villarreal
-https://hls-ls.cdnok9.site/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 group-title="LuongSon_2",03h30-13/04 Atletico Tucuman Vs Club Atletico Tigre BLV MAYBACH
 https://hls-ls.cdnok9.site/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",02h30-13/04 Estoril Vs FC Porto
-https://hls-ls.cdnok9.site/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",05h00-13/04 New York Knicks Vs Charlotte Hornets BLV YẾN THANH
+https://hls-ls.cdnok9.site/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",05h00-13/04 Miami Heat Vs Atlanta Hawks BLV VÕ TÒNG
+https://hls-ls.cdnok9.site/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV VITAMIN] Athletic Club vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV MIXI] Athletic Club vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",02h00: [LOGAN] Athletic Club vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV ROBBEN] Athletic Club vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV ALEX] Athletic Club vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV KEM] Athletic Club vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",02h30: [THE KOP] Estoril vs FC Porto
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV WUKONG] Estoril vs FC Porto
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTINF:-1 group-title="Socolive_2",03h30: [BLV A WIN] Atletico Tucuman vs Club Atletico Tigre
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",03h30: [BLV A TÚ] Atletico Tucuman vs Club Atletico Tigre
