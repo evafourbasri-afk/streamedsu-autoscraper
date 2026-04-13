@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",04h00: [VỊT BẠC] Union Magdalena vs Inter Palmira
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",04h00: [BLV GÔN] Union Magdalena vs Inter Palmira
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV LION] Club Atlético Lanús vs Banfield
 http://sharing.gotdns.ch:8091/socolive.php?id=603255
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV LUCAS] Club Atlético Lanús vs Banfield
@@ -29,8 +25,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=445260
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV SATIVA] Union La Calera vs D. Concepcion
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV LION] Real Tomayapo vs Real Potosi
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
 #EXTINF:-1 group-title="Socolive_2",07h00: [PINKMAN] Real Tomayapo vs Real Potosi
 http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV HENRY] Mets de Guaynabo vs Criollos de Caguas
