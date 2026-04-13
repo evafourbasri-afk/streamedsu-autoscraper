@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",15h00-13/04 Meycauayan Vs Zamboanga Sikat BLV YẾN THANH
-https://hls-ls.cdnok9.site/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",15h30-13/04 Vietnam U17 Vs Malaysia U17 BLV KEVILL
-https://hls-ls.cdnok9.site/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="LuongSon_2",17h00-13/04 Wonju DB Vs KCC Egis BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",16h45-13/04 Etar Vs FC Dunav Ruse BLV FERNANDO
-https://auto.cdnok9.com/live/sd-6MvY6Uc18DkuUkxztC/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",17h00-13/04 LNZ Cherkasy Vs FC Shakhtar Donetsk BLV TỐNG GIANG
+https://hls-ls.cdnok9.site/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",15h30-13/04 Vietnam U17 Vs Malaysia U17
+https://hls-ls.cdnok9.site/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2",16h45-13/04 Etar Vs FC Dunav Ruse BLV FALCON
+https://hls-ls.cdnok9.site/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",17h00-13/04 Sheger Ketema Vs Negelle Arsi BLV PHONG VÂN
+https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d

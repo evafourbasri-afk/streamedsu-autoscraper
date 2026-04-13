@@ -1,34 +1,26 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",15h00-13/04 Meycauayan Vs Zamboanga Sikat BLV YẾN THANH
-https://hls-ls.cdnok9.site/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",15h30-13/04 Vietnam U17 Vs Malaysia U17 BLV KEVILL
-https://hls-ls.cdnok9.site/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="LuongSon_2",17h00-13/04 Wonju DB Vs KCC Egis BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",16h45-13/04 Etar Vs FC Dunav Ruse BLV FERNANDO
-https://auto.cdnok9.com/live/sd-6MvY6Uc18DkuUkxztC/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",17h00-13/04 LNZ Cherkasy Vs FC Shakhtar Donetsk BLV TỐNG GIANG
+https://hls-ls.cdnok9.site/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",15h30-13/04 Vietnam U17 Vs Malaysia U17
+https://hls-ls.cdnok9.site/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2",16h45-13/04 Etar Vs FC Dunav Ruse BLV FALCON
+https://hls-ls.cdnok9.site/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",17h00-13/04 Sheger Ketema Vs Negelle Arsi BLV PHONG VÂN
+https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h00: [BRIAN] Meycauayan vs Zamboanga Sikat
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",15h00: [A CHÈ] Meycauayan vs Zamboanga Sikat
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",15h00: [CHAN SENA] Meycauayan vs Zamboanga Sikat
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",15h30: [DECO] Vietnam U17 vs Malaysia U17
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV ĐỐM] Vietnam U17 vs Malaysia U17
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV Củ Cải] Vietnam U17 vs Malaysia U17
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTINF:-1 group-title="Socolive_2",15h30: [TẠ BIÊN GIỚI] Vietnam U17 vs Malaysia U17
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV TOMMY] Vietnam U17 vs Malaysia U17
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",15h30: [SAO LA] Vietnam U17 vs Malaysia U17
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTINF:-1 group-title="Socolive_2",17h00: [RICKHANTER] LNZ Cherkasy vs FC Shakhtar Donetsk
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV COCA] LNZ Cherkasy vs FC Shakhtar Donetsk
@@ -55,6 +47,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=596191
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTINF:-1 group-title="Socolive_2",18h00: [THẠCH TÚ] Verona U20 vs Lazio U20
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
+#EXTINF:-1 group-title="Socolive_2",18h00: [LÃO LÂM] Verona U20 vs Lazio U20
+http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTINF:-1 group-title="Socolive_2",18h30: [BON BON] Balestier Khalsa FC vs Albirex Niigata FC
 http://sharing.gotdns.ch:8091/socolive.php?id=597924
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV RYO] Balestier Khalsa FC vs Albirex Niigata FC
@@ -63,6 +57,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=602019
 http://sharing.gotdns.ch:8091/socolive.php?id=585206
 #EXTINF:-1 group-title="Socolive_2",18h30: [VENDETTA] Balestier Khalsa FC vs Albirex Niigata FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
+#EXTINF:-1 group-title="Socolive_2",18h30: [BLV CÒ] Balestier Khalsa FC vs Albirex Niigata FC
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",19h00: [HUNTER] Marikina Shoemasters vs Sarangani Marlins
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",19h00: [KING] Marikina Shoemasters vs Sarangani Marlins
@@ -77,12 +73,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=484845
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV MIXI] Metaloglobus vs FK Csikszereda Miercurea Ciuc
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTINF:-1 group-title="Socolive_2",19h30: [CR Bưởi] Metaloglobus vs FK Csikszereda Miercurea Ciuc
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV CÒ] Indonesia U17 vs Timor Leste U17
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV RÔSI] Indonesia U17 vs Timor Leste U17
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",19h30: [CR Bưởi] Indonesia U17 vs Timor Leste U17
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTINF:-1 group-title="Socolive_2",19h30: [LÃO LÂM] Indonesia U17 vs Timor Leste U17
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV COCA] Indonesia U17 vs Timor Leste U17
@@ -97,6 +93,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=532081
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",20h00: [CHANH MUỐI] CSKA Sofia vs Levski Sofia
 http://sharing.gotdns.ch:8091/socolive.php?id=598549
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV RÔSI] CSKA Sofia vs Levski Sofia
+http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",20h00: [THE KOP] Sivasspor vs Istanbulspor
 http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV KEM] Sivasspor vs Istanbulspor
@@ -105,6 +103,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=513394
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",20h00: [NGƯỜI CÁ] Sivasspor vs Istanbulspor
 http://sharing.gotdns.ch:8091/socolive.php?id=595335
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV LUCAS] Sivasspor vs Istanbulspor
+http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV COZY] Erzurum BB vs Boluspor
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",21h00: [GOAT] Erzurum BB vs Boluspor
@@ -113,6 +113,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=585206
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2",21h00: [TRÀ ĐÁ] Erzurum BB vs Boluspor
 http://sharing.gotdns.ch:8091/socolive.php?id=603914
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV COCA] Erzurum BB vs Boluspor
+http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",21h15: [THẠCH TÚ] Akron Togliatti vs Dynamo Moscow
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",21h15: [SAO LA] Akron Togliatti vs Dynamo Moscow
