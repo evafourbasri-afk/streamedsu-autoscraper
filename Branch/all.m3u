@@ -1,18 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",17h00-14/04 PVF Vietnam Vs Ha Tinh BLV URA
+https://hls-ls.cdnok9.site/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",17h30-14/04 Santa Clara U23 Vs Academico Viseu U23 BLV KAKA
+https://hls-ls.cdnok9.site/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",17h00-14/04 Maritimo U23 Vs Farense U23 BLV NHỊ KA
+https://hls-ls.cdnok9.site/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",16h15-14/04 NLEX Road Warriors Vs Macau Black Bears BLV YẾN THANH
+https://hls-ls.cdnok9.site/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",18h00-14/04 Alashkert Vs Ararat Yerevan BLV MÃ SIÊU
+https://hls-ls.cdnok9.site/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",18h35-14/04 Guangdong Vs Ningbo Rockets BLV VÕ TÒNG
+https://hls-ls.cdnok9.site/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV RÔSI] Jiangxi Lushan vs Guizhou Guiyang Athletic
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",14h30: [RABBIT] Jiangxi Lushan vs Guizhou Guiyang Athletic
-http://sharing.gotdns.ch:8091/socolive.php?id=596191
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV 7UP] Hubei Istar vs Ganzhou Ruishi
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",15h30: [CÔNG CHẤT] Hubei Istar vs Ganzhou Ruishi
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV ĐỐM] Hubei Istar vs Ganzhou Ruishi
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV BÉO] Hubei Istar vs Ganzhou Ruishi
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",17h00: [DECO] Maritimo U23 vs Farense U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV TOMMY] Maritimo U23 vs Farense U23
@@ -33,8 +35,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=462413
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV VITAMIN] Santa Clara U23 vs Academico Viseu U23
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",17h30: [THẠCH TÚ] Santa Clara U23 vs Academico Viseu U23
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
+#EXTINF:-1 group-title="Socolive_2",17h30: [BLV FIREMAN] Santa Clara U23 vs Academico Viseu U23
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",18h00: [Đình Bắc] Alashkert vs Ararat Yerevan
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",18h00: [CHANH MUỐI] Alashkert vs Ararat Yerevan
@@ -944,6 +946,10 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
