@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",04h00-15/04 Barcelona Vs Newcastle United BLV LỮ BỐ REPLAY
-https://hls-ls.cdnok9.site/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
 #EXTINF:-1 group-title="Socolive_2",04h00: [VỊT BẠC] Bolivia Women vs Uruguay Women
@@ -347,6 +345,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-16/04: [BLV MESSI] Sarpsborg 08 vs Bodo Glimt
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-16/04: [BLV VOI] Sarpsborg 08 vs Bodo Glimt
+http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-16/04: [BLV WUKONG] Tromso IL vs Lillestrom
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
