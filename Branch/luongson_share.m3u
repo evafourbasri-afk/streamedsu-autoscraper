@@ -1,19 +1,17 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",18h30-15/04 Wuhan Three Towns B Vs Chengdu Rongcheng B BLV LƯU BỊ
-https://hls-ls.cdnok9.site/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",18h35-15/04  Guangzhou Vs Shanghai BLV SHIN
-https://hls-ls.cdnok9.site/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="LuongSon_2",18h35-15/04  Shanxi Zhongyu Vs Zhejiang Guangsha BLV VÕ TÒNG
-https://hls-ls.cdnok9.site/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",19h00-15/04 Ethiopian Insurance FC Vs Bahir Dar Kenema FC BLV PHONG VÂN
-https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",17h30-15/04 Ulsan HD FC Vs FC Seoul
-https://hls-ls.cdnok9.site/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="LuongSon_2",17h00-15/04 Wonju DB Vs KCC Egis BLV YẾN THANH
-https://hls-ls.cdnok9.site/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",19h15-15/04 Bangkok United FC Vs Gamba Osaka BLV TỐNG GIANG
+#EXTINF:-1 group-title="LuongSon_2",19h15-15/04 Bangkok United FC Vs Gamba Osaka
 https://hls-ls.cdnok9.site/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",19h30-15/04 Thailand U17 Vs Myanmar U17 BLV KHỔNG MINH
+#EXTINF:-1 group-title="LuongSon_2",20h00-15/04 China (W) U20 Vs Japan (W) U20
+https://hls-ls.cdnok9.site/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",20h00-15/04 Shurtan Guzor Vs Fergana University
+https://hls-ls.cdnok9.site/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",19h30-15/04 Thailand U17 Vs Myanmar U17
 https://hls-ls.cdnok9.site/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2",19h50-15/04 Abha Vs AL-Rbeea Jeddah
+https://hls-ls.cdnok9.site/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="LuongSon_2",21h00-15/04 Kerala Blasters FC Vs Northeast United BLV LƯU BỊ
+https://hls-ls.cdnok9.site/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",21h30-15/04 NK Bravo Vs NK Primorje BLV PHONG VÂN
+https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
