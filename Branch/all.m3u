@@ -1,60 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",01h00-16/04 Al-Nassr Vs Al-Ettifaq BLV LÝ ỨNG
-https://hls-ls.cdnok9.site/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",00h10-16/04 Gimnasia Mendoza Vs Gimnasia yTiro
-https://hls-ls.cdnok9.site/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",00h00-16/04 Tromso IL Vs Lillestrom
-https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",00h30-16/04 FC Arda Kardzhali Vs Ludogorets Razgrad
-https://hls-ls.cdnok9.site/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 group-title="LuongSon_2",01h45-16/04 Luton Town Vs Northampton Town BLV MÃ SIÊU
-https://hls-ls.cdnok9.site/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 group-title="LuongSon_2",00h00-16/04 Sarpsborg 08 Vs Bodo Glimt
-https://hls-ls.cdnok9.site/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 group-title="LuongSon_2",02h00-16/04 Arsenal Vs Sporting CP BLV PHONG VÂN
-https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTINF:-1 group-title="LuongSon_2",02h00-16/04 Bayern Munchen Vs Real Madrid BLV KEVILL
 https://hls-ls.cdnok9.site/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2",02h00-16/04 Arsenal Vs Sporting CP
+https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",01h45-16/04 Luton Town Vs Northampton Town
+https://hls-ls.cdnok9.site/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",03h00-16/04 UTC Cajamarca Vs Sport Huancayo BLV FALCON
+https://hls-ls.cdnok9.site/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",00h00: [RICKHANTER] Sarpsborg 08 vs Bodo Glimt
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV 7UP] Sarpsborg 08 vs Bodo Glimt
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",00h00: [TAM MAO] Sarpsborg 08 vs Bodo Glimt
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",00h00: [SAO LA] Sarpsborg 08 vs Bodo Glimt
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV MESSI] Sarpsborg 08 vs Bodo Glimt
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV VOI] Sarpsborg 08 vs Bodo Glimt
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV WUKONG] Tromso IL vs Lillestrom
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",00h00: [BON BON] Tromso IL vs Lillestrom
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV XO] Tromso IL vs Lillestrom
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV LONG] Tromso IL vs Lillestrom
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",00h10: [TRÀ ĐÁ] Gimnasia y Esgrima de Mendoza vs Gimnasia y Tiro
-http://sharing.gotdns.ch:8091/socolive.php?id=603914
-#EXTINF:-1 group-title="Socolive_2",00h10: [BLV A TÚ] Gimnasia y Esgrima de Mendoza vs Gimnasia y Tiro
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV KEM] Al Nassr FC vs Al Ettifaq FC
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV CÒ] Al Nassr FC vs Al Ettifaq FC
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV RAMBO] Al Nassr FC vs Al Ettifaq FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",01h00: [LOGAN] Al Nassr FC vs Al Ettifaq FC
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV ROBBEN] Al Nassr FC vs Al Ettifaq FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV COZY] Al Nassr FC vs Al Ettifaq FC
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",02h00: [BLV MESSI] Arsenal vs Sporting CP
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTINF:-1 group-title="Socolive_2",02h00: [HỘI GYM] Arsenal vs Sporting CP
@@ -1073,11 +1029,11 @@ https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8
 https://rumble.com/hls-vod/757w6u/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 11
 https://rumble.com/hls-vod/75uhgc/playlist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",360 C1 Châu Âu
+#EXTINF:-1 group-title="TruyenHinh_2",TV360+1
 https://vietanhtv.id.vn/tv360/2554/index.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",360 Thể Thao
+#EXTINF:-1 group-title="TruyenHinh_2",TV360+2
 https://vietanhtv.id.vn/tv360/1/index.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",360 Bóng Đá
+#EXTINF:-1 group-title="TruyenHinh_2",TV360+3
 https://vietanhtv.id.vn/tv360/148/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",360 Goal
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
