@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",20h00: [KÉP] Sabail FC vs Simal FK
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",20h00: [QUỐC KHÁNH] Sabail FC vs Simal FK
-http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A TINH] Sabail FC vs Simal FK
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",20h55: [BLV WUKONG] Dhofar SCSC vs Rustaq SC
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",20h55: [BON BON] Dhofar SCSC vs Rustaq SC
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ROBBEN] Septemvri Sofia vs Spartak Varna
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",21h00: [TYPN] Septemvri Sofia vs Spartak Varna
@@ -42,6 +32,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",22h00: [Đình Bắc] Al-Jazeera vs Al-Baq's
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",22h00: [HẢI THANH] Al-Jazeera vs Al-Baq's
+http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",22h00-16/04: [BLV NIBO] BFC Daugavpils vs Jelgava
+http://sharing.gotdns.ch:8091/socolive.php?id=372746
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",22h00-16/04: [BLV A TÚ] BFC Daugavpils vs Jelgava
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",22h00-16/04: [Đình Bắc] Al-Jazeera vs Al-Baq's
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",22h00-16/04: [HẢI THANH] Al-Jazeera vs Al-Baq's
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",23h15-16/04: [BLV FIREMAN] Al-Sadd vs Vissel Kobe

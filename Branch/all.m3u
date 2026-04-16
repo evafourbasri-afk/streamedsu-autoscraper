@@ -1,34 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",22h00-16/04 BFC Daugavpils Vs Jelgava BLV FALCON
-https://hls-ls.cdnok9.site/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",21h00-16/04 Septemvri Sofia Vs Spartak Varna BLV MAYBACH
-https://hls-ls.cdnok9.site/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",21h00-16/04 East Bengal Vs Bengaluru BLV KEVILL
-https://hls-ls.cdnok9.site/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 group-title="LuongSon_2",22h00-16/04 Al-Jazeera Vs Al-Baq's BLV TÂY MÔN KHÁNH
+#EXTINF:-1 group-title="LuongSon_2",22h00-16/04 Al-Jazeera Vs Al-Baq's
 https://hls-ls.cdnok9.site/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 group-title="LuongSon_2",20h55-16/04 Dhufar Vs Al Rustaq BLV KHỔNG MINH
-https://hls-ls.cdnok9.site/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",22h00-16/04 NK Aluminij Vs NK Mura 05 BLV FERNANDO
+#EXTINF:-1 group-title="LuongSon_2",22h30-16/04 Germany (W) U23 Vs Italy (W) U23 BLV PHONG VÂN
+https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",22h00-16/04 BFC Daugavpils Vs Jelgava
+https://hls-ls.cdnok9.site/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",22h00-16/04 NK Aluminij Vs NK Mura 05
 https://hls-ls.cdnok9.site/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 group-title="LuongSon_2",21h30-16/04 FC Ararat Armenia Vs FC Noah BLV PELE
+#EXTINF:-1 group-title="LuongSon_2",21h30-16/04 FC Ararat Armenia Vs FC Noah
 https://hls-ls.cdnok9.site/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LuongSon_2",21h00-16/04 SOHEE Vs OK9 TV MEGA LIVE
-https://hls-ls.cdnok9.site/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTINF:-1 group-title="LuongSon_2",23h45-16/04 AZ Alkmaar Vs FC Shakhtar Donetsk BLV LƯU BỊ
+https://hls-ls.cdnok9.site/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",23h45-16/04 Celta Vigo Vs SC Freiburg BLV KEVILL
+https://hls-ls.cdnok9.site/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",20h00: [KÉP] Sabail FC vs Simal FK
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",20h00: [QUỐC KHÁNH] Sabail FC vs Simal FK
-http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A TINH] Sabail FC vs Simal FK
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",20h55: [BLV WUKONG] Dhofar SCSC vs Rustaq SC
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",20h55: [BON BON] Dhofar SCSC vs Rustaq SC
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ROBBEN] Septemvri Sofia vs Spartak Varna
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",21h00: [TYPN] Septemvri Sofia vs Spartak Varna
@@ -60,6 +48,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",22h00: [Đình Bắc] Al-Jazeera vs Al-Baq's
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",22h00: [HẢI THANH] Al-Jazeera vs Al-Baq's
+http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-16/04: [BLV NIBO] BFC Daugavpils vs Jelgava
+http://sharing.gotdns.ch:8091/socolive.php?id=372746
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-16/04: [BLV A TÚ] BFC Daugavpils vs Jelgava
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-16/04: [Đình Bắc] Al-Jazeera vs Al-Baq's
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-16/04: [HẢI THANH] Al-Jazeera vs Al-Baq's
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h15-16/04: [BLV FIREMAN] Al-Sadd vs Vissel Kobe
