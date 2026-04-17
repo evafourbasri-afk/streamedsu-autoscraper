@@ -1,21 +1,27 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",20h30-17/04 HNK Gorica Vs NK Lokomotiva Zagreb
-https://hls-ls.cdnok9.site/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",21h30-17/04 FC Otelul Galati Vs UTA Arad
+https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 group-title="LuongSon_2",20h00-17/04 Araz Nakhchivan Vs Turan Tovuz BLV TẦN CA
 https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 group-title="LuongSon_2",21h30-17/04 FC Otelul Galati Vs UTA Arad BLV FERNANDO
-https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="LuongSon_2",23h00-17/04 Ogre United Vs FK Auda Riga BLV QUAN VŨ
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",21h30-17/04 Tukums-2000 Vs FK Liepaja
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",21h25-17/04 Bahrain SC Vs Al-Ahli(BHR)
+https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",21h45-17/04 Al-Ahli SFC Vs Johor Darul Takzim
+https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTINF:-1 group-title="LuongSon_2",22h00-17/04 Torpedo Moscow Vs KAMAZ Naberezhnye Chelny BLV TRIỆU TỬ LONG
 https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",21h45-17/04 Al-Ahli SFC Vs Johor Darul Takzim BLV PHONG VÂN
-https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",21h25-17/04 Bahrain SC Vs Al-Ahli(BHR) BLV LÝ ỨNG
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",21h00-17/04 Odisha FC Vs Mohammedan SC BLV KAKA
-https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="LuongSon_2",21h30-17/04 Tukums-2000 Vs FK Liepaja BLV A TỦA
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",22h45-17/04 Slaven Belupo Vs Hajduk Split BLV TÂY MÔN KHÁNH
+https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="LuongSon_2",22h30-17/04 Zira FK Vs FC Neftci Baku BLV MỘT CHÂN
+https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="LuongSon_2",20h00-17/04 SODA Vs OK9 TV MEGA LIVE
-https://hls-ls.cdnok9.site/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+https://hls-ls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTINF:-1 group-title="LuongSon_2",23h30-17/04 Sassuolo Vs Como BLV KEVILL
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",23h30-17/04 Rostov FK Vs FK Sochi BLV LỮ BỐ
+https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
