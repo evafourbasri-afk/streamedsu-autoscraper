@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",20h00: [KÉP] Udinese vs Parma
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV FIREMAN] Udinese vs Parma
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",20h00: [A PÁO] Udinese vs Parma
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV PEWPEW] Udinese vs Parma
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV BÉO] Bayer 04 Leverkusen vs FC Augsburg
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV CÒ] Bayer 04 Leverkusen vs FC Augsburg
@@ -691,12 +683,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTINF:-1 group-title="Socolive_2",18h30-19/04: [HẢI THANH] SpVgg Greuther Fürth vs SV Darmstadt 98
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",18h30-19/04: [NGƯỜI CÁ] Schalke 04 vs Preuben Munster
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",18h30-19/04: [THE KOP] Schalke 04 vs Preuben Munster
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",18h35-19/04: [CHAN SENA] Zhejiang Guangsha vs Beijing Royal Fighters
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -711,6 +697,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",19h30-19/04: [BLV CHIVAS] Indonesia U17 vs Vietnam U17
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",19h30-19/04: [BLV VIP] Indonesia U17 vs Vietnam U17
+http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",20h00-19/04: [BLV CÒ] Hellas Verona vs AC Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
