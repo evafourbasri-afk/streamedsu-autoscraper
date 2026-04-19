@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h00: [Đình Bắc] Al-Shabab SC (Seeb) vs Al Kuwait SC
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV SATIVA] Al-Shabab SC (Seeb) vs Al Kuwait SC
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",16h00: [CHAN SENA] New Taipei Kings vs Xac Broncos
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Forca Lleida vs Barcelona
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV COZY] Cremonese vs Torino
@@ -59,8 +53,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=372746
 http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV CÁO] SpVgg Greuther Fürth vs SV Darmstadt 98
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",18h30: [HẢI THANH] SpVgg Greuther Fürth vs SV Darmstadt 98
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
 #EXTINF:-1 group-title="Socolive_2",18h35: [CHAN SENA] Zhejiang Guangsha vs Beijing Royal Fighters
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV ANH TÀI] The Cong Viettel vs Hoang Anh Gia Lai
@@ -406,6 +398,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",06h30-20/04: [TAM MAO] Rosario Central vs Sarmiento Junin
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",06h30-20/04: [BLV PEWPEW] Rosario Central vs Sarmiento Junin
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",06h30-20/04: [A PÁO] Talleres Cordoba vs Deportivo Riestra
 http://sharing.gotdns.ch:8091/socolive.php?id=235232

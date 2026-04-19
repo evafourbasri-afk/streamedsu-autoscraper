@@ -1,22 +1,28 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",17h30-19/04 Cremonese Vs Torino BLV KEVILL
+#EXTINF:-1 group-title="LuongSon_2",17h30-19/04 Cremonese Vs Torino
 https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 group-title="LuongSon_2",18h00-19/04 Cong An TP Ho Chi Minh Vs Cong An Ha Noi BLV LÝ QUỲ
 https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="LuongSon_2",18h00-19/04 Da Nang Vs Nam Dinh FC BLV PHONG VÂN
 https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",18h30-19/04 Schalke 04 Vs Preuben Munster BLV FALCON
+https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",18h00-19/04 Thanh Hoa Vs Song Lam Nghe An BLV PELE
+https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2",18h35-19/04 Shenzhen Vs Shandong BLV YẾN THANH
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="LuongSon_2",18h00-19/04 Ipswich Town Vs Middlesbrough BLV LÝ ỨNG
 https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",18h30-19/04 Greuther Furth Vs Darmstadt BLV TRIỆU TỬ LONG
+https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",18h30-19/04 Eintracht Braunschweig Vs Hertha Berlin BLV TẦN CA
+https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 group-title="LuongSon_2",19h00-19/04 Bali United Vs Malut United BLV MÃ SIÊU
+https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h00: [Đình Bắc] Al-Shabab SC (Seeb) vs Al Kuwait SC
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV SATIVA] Al-Shabab SC (Seeb) vs Al Kuwait SC
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",16h00: [CHAN SENA] New Taipei Kings vs Xac Broncos
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Forca Lleida vs Barcelona
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV COZY] Cremonese vs Torino
@@ -69,8 +75,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=372746
 http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV CÁO] SpVgg Greuther Fürth vs SV Darmstadt 98
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",18h30: [HẢI THANH] SpVgg Greuther Fürth vs SV Darmstadt 98
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
 #EXTINF:-1 group-title="Socolive_2",18h35: [CHAN SENA] Zhejiang Guangsha vs Beijing Royal Fighters
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV ANH TÀI] The Cong Viettel vs Hoang Anh Gia Lai
@@ -416,6 +420,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-20/04: [TAM MAO] Rosario Central vs Sarmiento Junin
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-20/04: [BLV PEWPEW] Rosario Central vs Sarmiento Junin
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-20/04: [A PÁO] Talleres Cordoba vs Deportivo Riestra
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
