@@ -1,23 +1,67 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",22h30-19/04 Manchester City Vs Arsenal BLV KEVILL
-https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 group-title="LuongSon_2",22h30-19/04 Bayern Munchen Vs VfB Stuttgart BLV LƯU BỊ
-https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",21h30-19/04 FC Arouca Vs Estrela da Amadora
-https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",22h15-19/04 Strasbourg Vs Rennes BLV FERNANDO
-https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 group-title="LuongSon_2",22h15-19/04 Metz Vs Paris FC BLV MỘT CHÂN
-https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",22h15-19/04 Nantes Vs Stade Brestois BLV A TỦA
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",23h00-19/04 Vejle Vs FC Copenhagen BLV LÝ ỨNG
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",23h00-19/04 Pisa Vs Genoa BLV QUAN VŨ
-https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 group-title="LuongSon_2",23h30-19/04 Eibar Vs SD Huesca BLV MÃ SIÊU
-https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 group-title="LuongSon_2",23h30-19/04 Saint Gilloise Vs Club Brugge BLV FALCON
-https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",05h30-20/04 Colo Colo Vs Palestino BLV KENCHU
+https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 group-title="LuongSon_2",05h30-20/04 Detroit Pistons Vs Orlando Magic BLV YẾN THANH
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",04h00-20/04 New York Red Bulls B Vs Cincinnati II
+https://auto.cdnok9.com/live/sd-6MwdLCJn7VwuM89mJC/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",04h00-20/04 Birmingham Legion Vs Indy Eleven
+https://auto.cdnok9.com/live/sd-6MvYqgWoi3PKRQvhLY/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",04h00-20/04 Goias Vs Cuiaba
+https://auto.cdnok9.com/live/sd-6MvVNfPWKmF9xsUvzp/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",04h10-20/04 Alianza Petrolera Vs Dep.Independiente Medellin
+https://auto.cdnok9.com/live/sd-6MvYqrGJeXnDYujbNC/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",04h30-20/04 Palmeiras Vs Atletico Paranaense
+https://auto.cdnok9.com/live/sd-6MvZ6LxT574U1An9QQ/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",04h30-20/04 Bragantino Vs Remo Belem (PA)
+https://auto.cdnok9.com/live/sd-6MvZ6LxTuv1P16rWyA/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",04h30-20/04 Figueirense Vs Botafogo PB
+https://auto.cdnok9.com/live/sd-6Mwd5eHxApp5GcPZUg/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",04h30-20/04 Real Monarchs Vs Houston Dynamo B
+https://auto.cdnok9.com/live/sd-6MwdLCJn7cYLxZdWkt/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",05h00-20/04 San Martin Tucuman Vs Tristan Suarez NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqjfAFqscmvs8bv/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",05h00-20/04 Cibao FC Vs UniversidadO M NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwdL5n3JHf68s8WBN/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",05h00-20/04 Rancho Santana FC Vs ART Municipal Jalapa NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwdLCELrX2jPydZyv/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",05h15-20/04 FBC Melgar Vs Universitario De Deportes NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVd3dM2rrWnxSooi/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",05h30-20/04 Flamengo Vs Bahia NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6LwhRcGZWAcGix/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",05h30-20/04 Racing de Cordoba Vs Defensores de Belgrano NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqjfAFt56eQh3kp/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-20/04 Gremio Novorizontino Vs Athletic Club MG NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNfPWAN9z7tbexU/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-20/04 Alajuelense Vs Deportivo Saprissa NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ64cXEpiuvEuQx4/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-20/04 Tampico Madero Vs Atletico Morelia NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqnvuf65Pnn5tY4/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-20/04 Diriangen Vs Real Madriz FC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwdLCELhA93RUaD6U/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-20/04 Orlando City B Vs Carolina Core NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwdLCJn75mcmr4gcL/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-20/04 Sportvereniging Notch Vs SV Transvaal NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MwdL5mHp3ARzvYEvg/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-20/04 Los Angeles FC Vs San Jose Earthquakes BLV SHIN
+https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",06h00-20/04 Santos Laguna Vs Atlas BLV KHỔNG MINH
+https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2",06h00-20/04 Gimnasia yTiro Vs Club Atletico Guemes NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqjfAFetDRXjYqS/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h30-20/04 Rosario Central Vs Sarmiento Junin BLV VÕ TÒNG
+https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",05h30-21/04 San Lorenzo Vs Velez Sarsfield NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6LuWoa5d5u6PRv/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-21/04 Atletico Rafaela Vs Agropecuario de Carlos Casares NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqjfARPki6q45Fr/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-21/04 Floresta CE Vs Ferroviaria SP NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5eHxAncbQ8ZeKn/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h00-21/04 Maringa FC Vs Brusque FC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5eHxAybzkXhE6G/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h20-21/04 Deportiva Once Caldas Vs Internacional de Bogota NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqrGJeVajgRugDJ/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",06h30-21/04 Sportivo Ameliano Vs FC Nacional Asuncion NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVd3XSJccC6LXj5v/playlist.m3u8
