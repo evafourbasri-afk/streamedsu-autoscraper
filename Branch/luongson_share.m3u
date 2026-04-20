@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",17h00-20/04 FC Gomel B Vs FC Molodechno BLV KENCHU
-https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 group-title="LuongSon_2",17h00-20/04 PFC Oleksandria Vs Veres BLV LÝ QUỲ
+#EXTINF:-1 group-title="LuongSon_2",19h00-20/04 FC Noah Vs FC Van BLV LÝ QUỲ
 https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="LuongSon_2",18h00-20/04 Dnepr Mogilev Vs FC Torpedo Zhodino BLV LƯU BỊ
-https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",19h00-20/04 Genoa U20 Vs Torino U20 BLV FALCON
+https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",19h00-20/04 Dewa United FC Vs Persib Bandung BLV KEVILL
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",19h00-20/04 PSS Sleman Vs Persiku Kudus BLV TRIỆU TỬ LONG
+https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 group-title="LuongSon_2",18h35-20/04 Shanghai Vs Liaoning BLV YẾN THANH
 https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",18h00-20/04 Dnepr Mogilev Vs FC Torpedo Zhodino
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
