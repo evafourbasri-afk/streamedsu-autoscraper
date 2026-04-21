@@ -1,8 +1,32 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",17h30-21/04 Gimcheon Sangmu FC Vs Gangwon FC
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",17h30-21/04 FC Seoul Vs Bucheon FC 1995 BLV A TỦA
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/04 Farense U23 Vs Estoril U23
+https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="LuongSon_2",17h30-21/04 Jeonbuk Hyundai Motors Vs Incheon United
+https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",18h35-21/04 Chengdu Rongcheng FC Vs Yunnan Yukun BLV LÝ QUỲ
+https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",18h00-21/04 Shenzhen Xinpengcheng Vs Beijing Guoan BLV LÝ ỨNG
+https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",18h30-21/04 Rain or Shine Elasto Painters Vs Phoenix Fuelmasters BLV YẾN THANH
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",18h35-21/04 Wuhan Three Towns Vs Zhejiang Professional FC BLV PELE
+https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/04 Leixoes U23 Vs Santa Clara U23
+https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2",18h00-21/04 Taoyuan Pauian Pilots Vs Xac Broncos BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",19h00-21/04 Shanghai Port Vs Chongqing Tonglianglong BLV TỐNG GIANG
+https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",19h00-21/04 Tianjin Tigers Vs Shandong Taishan BLV LỮ BỐ
+https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h15: [HUNTER] Macau Black Bears vs Titan Ultra Giant Risers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV NIBO] Leixoes U23 vs Santa Clara U23
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV ĐỐM] Leixoes U23 vs Santa Clara U23
@@ -305,14 +329,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-22/04: [THẠCH TÚ] Real Madrid vs Deportivo Alavés
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-22/04: [SAO LA] Real Madrid vs Deportivo Alavés
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-22/04: [LÃO LÂM] Real Madrid vs Deportivo Alavés
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-22/04: [BLV COZY] Real Madrid vs Deportivo Alavés
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-22/04: [CR Bưởi] Real Madrid vs Deportivo Alavés
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-22/04: [Đình Bắc] GV San Jose vs Aurora
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
@@ -733,8 +757,6 @@ https://1.org.vn/oni2hd/?/index.m3u8
 https://1.org.vn/oni3/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi4
 https://d.org.vn/oni2-mbnlife/?/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
-http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=122888&extension=ts&play_token=LB2IN39AIF
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Tennis
 http://myxpanel.pro:80/Martin/Martin/662483
 #EXTINF:-1 group-title="TruyenHinh_2",Canal+ Sport
@@ -1193,8 +1215,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 group-title="TruyenHinh_2",HBO
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",HBO Hits
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776088&extension=ts&play_token=DDOOCF3plZ
 #EXTINF:-1 group-title="TruyenHinh_2",HBO Family
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&extension=ts&play_token=xf9Vl3Lrhl
 #EXTINF:-1 group-title="TruyenHinh_2",HBO Signature HD
