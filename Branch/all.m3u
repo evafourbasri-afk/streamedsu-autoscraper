@@ -1,26 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",02h30: [MR BÍCH] Girona FC vs Real Betis
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",02h30: [QUỐC KHÁNH] Girona FC vs Real Betis
-http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTINF:-1 group-title="Socolive_2",02h30: [CHANH MUỐI] Girona FC vs Real Betis
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV WUKONG] Girona FC vs Real Betis
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV BÉO] Real Madrid vs Deportivo Alavés
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV VITAMIN] Real Madrid vs Deportivo Alavés
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",02h30: [THẠCH TÚ] Real Madrid vs Deportivo Alavés
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",02h30: [LÃO LÂM] Real Madrid vs Deportivo Alavés
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV COZY] Real Madrid vs Deportivo Alavés
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",02h30: [CR Bưởi] Real Madrid vs Deportivo Alavés
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTINF:-1 group-title="Socolive_2",05h00: [Đình Bắc] GV San Jose vs Aurora
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV A TINH] GV San Jose vs Aurora
@@ -286,9 +266,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",22h00: [KÉP] Al Masry vs Enppi
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-22/04: [LOKA] FC Copenhagen vs Odense BK
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-22/04: [BLV PIRLO] FC Copenhagen vs Odense BK
 http://sharing.gotdns.ch:8091/socolive.php?id=351530
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -310,11 +287,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=595335
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-22/04: [MR BÍCH] Sabah Baku vs Qarabag
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-22/04: [LOKA] Al Nassr FC vs Al-Ahli Doha
+http://sharing.gotdns.ch:8091/socolive.php?id=589848
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-22/04: [BLV A TÚ] Al Nassr FC vs Al-Ahli Doha
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-22/04: [TRÀ ĐÁ] Red Bull Salzburg vs Austria Vienna
 http://sharing.gotdns.ch:8091/socolive.php?id=603914
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-22/04: [BLV A TÚ] Red Bull Salzburg vs Austria Vienna
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-22/04: [Đình Bắc] Red Bull Salzburg vs Austria Vienna
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
