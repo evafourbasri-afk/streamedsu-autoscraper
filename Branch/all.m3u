@@ -1,38 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",10h00-21/04 South Island United FC Vs Auckland FC Reserves BLV KHỔNG MINH
-https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",09h30-21/04 Denver Nuggets Vs Minnesota Timberwolves BLV YẾN THANH
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",18h00-21/04 Taoyuan Pauian Pilots Vs Xac Broncos BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",09h30: [BRIAN] Denver Nuggets vs Minnesota Timberwolves
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",09h30: [CHAN SENA] Denver Nuggets vs Minnesota Timberwolves
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV HENRY] Denver Nuggets vs Minnesota Timberwolves
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",09h30: [HUNTER] Denver Nuggets vs Minnesota Timberwolves
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",09h30: [A CHÈ] Denver Nuggets vs Minnesota Timberwolves
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV RÔSI] South Island United FC vs Auckland FC Reserves
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",10h00: [CR Bưởi] South Island United FC vs Auckland FC Reserves
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV ROBBEN] South Island United FC vs Auckland FC Reserves
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",10h00: [RICKHANTER] South Island United FC vs Auckland FC Reserves
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV VOI] South Island United FC vs Auckland FC Reserves
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",10h00: [TẠ BIÊN GIỚI] South Island United FC vs Auckland FC Reserves
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV TOMMY] South Melbourne vs Tahiti United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",14h00: [LOGAN] South Melbourne vs Tahiti United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2",14h00: [LÃO LÂM] South Melbourne vs Tahiti United FC
@@ -43,6 +11,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",14h00: [HẢI THANH] South Melbourne vs Tahiti United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTINF:-1 group-title="Socolive_2",14h00: [BLV CUỘI] South Melbourne vs Tahiti United FC
+http://sharing.gotdns.ch:8091/socolive.php?id=256080
 #EXTINF:-1 group-title="Socolive_2",15h00: [BRIAN] Binan Tatak Gel vs Quezon Huskers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",15h00: [KING] Binan Tatak Gel vs Quezon Huskers
@@ -63,8 +33,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV ANH TÀI] Gimcheon Sangmu FC vs Gangwon FC
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",17h30: [KÉP] Gimcheon Sangmu FC vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",17h30: [XUÂN SON] Gimcheon Sangmu FC vs Gangwon FC
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV A TINH] Gimcheon Sangmu FC vs Gangwon FC
@@ -385,6 +353,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-22/04: [BLV CHIVAS] Brooklyn FC vs Sacramento Republic FC
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-22/04: [HẢI THANH] Brooklyn FC vs Sacramento Republic FC
+http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-22/04: [BLV HENRY] Boston Celtics vs Philadelphia 76ers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -612,6 +583,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-22/04: [XUÂN SON] Daejeon Citizen vs Jeju SK FC
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-22/04: [BLV CÒ] Daejeon Citizen vs Jeju SK FC
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-22/04: [BON BON] Pohang Steelers vs Gwangju FC
 http://sharing.gotdns.ch:8091/socolive.php?id=597924
@@ -993,6 +967,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 6
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
