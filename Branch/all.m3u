@@ -37,6 +37,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=406865
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV A TINH] Gimcheon Sangmu FC vs Gangwon FC
 http://sharing.gotdns.ch:8091/socolive.php?id=598119
+#EXTINF:-1 group-title="Socolive_2",17h30: [MONEY MAN] Gimcheon Sangmu FC vs Gangwon FC
+http://sharing.gotdns.ch:8091/socolive.php?id=605412
 #EXTINF:-1 group-title="Socolive_2",17h30: [BLV RAMBO] Jeonbuk Hyundai Motors vs Incheon United Club
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",17h30: [LOKA] Jeonbuk Hyundai Motors vs Incheon United Club
@@ -599,11 +601,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-22/04: [BLV RAMBO] Pohang Steelers vs Gwangju FC
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-22/04: [BLV TOMMY] PKR Svay Rieng vs Bangkok United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-22/04: [BLV KAN] PKR Svay Rieng vs Bangkok United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-22/04: [BLV CUỘI] PKR Svay Rieng vs Bangkok United FC
+http://sharing.gotdns.ch:8091/socolive.php?id=256080
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-22/04: [BLV CHIVAS] Liaoning Tieren vs Dalian Yingbo
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
@@ -632,8 +634,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-22/04: [BLV 7UP] Qingdao West Coast vs Henan FC
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-22/04: [BLV MIXI] Qingdao West Coast vs Henan FC
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-22/04: [BLV TOMMY] Qingdao West Coast vs Henan FC
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-22/04: [DECO] Shanghai Shenhua vs Qingdao Hainiu
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
