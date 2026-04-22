@@ -1,56 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",09h30-22/04 Los Angeles Lakers Vs Houston Rockets BLV YẾN THANH
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",10h10-22/04 Club Leon Vs Club America BLV KHỔNG MINH
-https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",09h00-22/04 Cartagines Deportiva SA Vs AD San Carlos
-https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",10h00-22/04 Monterrey Vs Puebla BLV LÝ QUỲ
-https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",09h00: [VỊT BẠC] CS Cartagines vs AD San Carlos
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",09h00: [BON BON] CS Cartagines vs AD San Carlos
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",09h30: [CHAN SENA] Los Angeles Lakers vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",09h30: [A CHÈ] Los Angeles Lakers vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",09h30: [BRIAN] Los Angeles Lakers vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV HENRY] Los Angeles Lakers vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",09h30: [KING] Los Angeles Lakers vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",09h30: [HUNTER] Los Angeles Lakers vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",10h00: [CR Bưởi] Monterrey vs Puebla
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV PIRLO] Monterrey vs Puebla
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",10h00: [RICKHANTER] Monterrey vs Puebla
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV COCA] Monterrey vs Puebla
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV CÒ] Monterrey vs Puebla
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV TOMMY] Monterrey vs Puebla
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",11h00: [DECO] Club Leon vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV ĐỐM] Club Leon vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV Củ Cải] Club Leon vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",11h00: [TẠ BIÊN GIỚI] Club Leon vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",11h00: [TAM MAO] Club Leon vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV TAP] Club Leon vs Club America
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",15h00: [CHAN SENA] Quezon City vs Meycauayan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",15h00: [BRIAN] Quezon City vs Meycauayan
@@ -983,7 +933,7 @@ https://vietanhtv.id.vn/tv360/9957/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+11
 https://vietanhtv.id.vn/tv360/9958/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+12
-https://sgclient.duckdns.org/source/tv360.php?id=10001
+https://sgclient.duckdns.org/source/tv360.mpd?id=10001
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Livestream
