@@ -861,8 +861,6 @@ https://1.org.vn/oni3/?/index.m3u8
 https://d.org.vn/oni2-mbnlife/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47865.ts
-#EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Tennis
-http://myxpanel.pro:80/Martin/Martin/662483
 #EXTINF:-1 group-title="TruyenHinh_2",Canal+ Sport
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 1 4Mbps for 4G
@@ -1034,7 +1032,7 @@ https://vietanhtv.id.vn/tv360/9957/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+11
 https://vietanhtv.id.vn/tv360/9958/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+12
-https://vietanhtv.id.vn/tv360/10001/index.mpd
+https://sgclient.duckdns.org/source/tv360.php?id=10001
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Livestream
@@ -1321,8 +1319,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 group-title="TruyenHinh_2",HBO
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",HBO Signature HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
 #EXTINF:-1 group-title="TruyenHinh_2",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cinemax HD
