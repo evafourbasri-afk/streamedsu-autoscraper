@@ -1,48 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/04 Gamba Osaka Vs Avispa Fukuoka BLV PHONG VÂN
-https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",16h15-22/04 San Miguel Beermen Vs Blackwater Bossing BLV YẾN THANH
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",15h30-22/04 Persis Solo FC Vs Bhayangkara Solo FC
-https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 group-title="LuongSon_2",15h30-22/04 PSIM Yogyakarta Vs Persija Jakarta
-https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/04 KB Stars Nữ Vs Samsung Blue Minx Nữ BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",17h30-22/04 Pohang Steelers Vs Gwangju Football Club BLV LÝ ỨNG
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",17h30-22/04 FC Anyang Vs Ulsan HD FC BLV KEVILL
-https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV ĐỐM] Persis Solo FC vs Bhayangkara FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV COCA] Persis Solo FC vs Bhayangkara FC
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",15h30: [TẠ BIÊN GIỚI] Persis Solo FC vs Bhayangkara FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV TOMMY] Persis Solo FC vs Bhayangkara FC
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",15h30: [CR Bưởi] Persis Solo FC vs Bhayangkara FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV NIBO] Persis Solo FC vs Bhayangkara FC
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV Củ Cải] PSIM Yogyakarta vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV A TINH] PSIM Yogyakarta vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV TAP] PSIM Yogyakarta vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV PIRLO] PSIM Yogyakarta vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",15h30: [RICKHANTER] PSIM Yogyakarta vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV WUKONG] PSIM Yogyakarta vs Persija Jakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",16h30: [HUNTER] Sichuan W vs Shanxi Xing Rui W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",17h00: [VƯƠNG ANH] Gamba Osaka vs Avispa Fukuoka
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV RÔSI] Gamba Osaka vs Avispa Fukuoka
@@ -85,6 +43,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=445260
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV CUỘI] PKR Svay Rieng vs Bangkok United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=256080
+#EXTINF:-1 group-title="Socolive_2",18h30: [HUNTER] Sichuan W vs Shanxi Xing Rui W
+http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV CHIVAS] Liaoning Tieren vs Dalian Yingbo
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV VITAMIN] Liaoning Tieren vs Dalian Yingbo
@@ -97,14 +57,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=605412
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV MESSI] Qingdao West Coast vs Henan FC
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",18h35: [A BỆU] Qingdao West Coast vs Henan FC
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV TOMIA] Qingdao West Coast vs Henan FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV 7UP] Qingdao West Coast vs Henan FC
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV TOMMY] Qingdao West Coast vs Henan FC
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTINF:-1 group-title="Socolive_2",18h35: [KÉP] Qingdao West Coast vs Henan FC
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",19h00: [DECO] Shanghai Shenhua vs Qingdao Hainiu
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",19h00: [TYPN] Shanghai Shenhua vs Qingdao Hainiu
@@ -117,6 +77,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=548860
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV TAP] Shanghai Shenhua vs Qingdao Hainiu
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTINF:-1 group-title="Socolive_2",19h30: [BLV CÒ] Vietnam U17 vs Australia U17
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",20h00: [TRÀ ĐÁ] Panserraikos vs Atromitos Athens
 http://sharing.gotdns.ch:8091/socolive.php?id=603914
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV A TÚ] Panserraikos vs Atromitos Athens
