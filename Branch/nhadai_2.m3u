@@ -29,6 +29,8 @@ http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47865.ts
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149433&extension=ts&play_token=Y1kv3yxPS8
 #EXTINF:-1 group-title="TruyenHinh_2",Canal+ Sport
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn
+#EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 1 4Mbps for 4G
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47850.ts
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 2 4Mbps for 4G
 http://myxpanel.pro:80/Martin/Martin/709376
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 3 4Mbps for 4G
@@ -239,16 +241,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 6
-https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 5
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
