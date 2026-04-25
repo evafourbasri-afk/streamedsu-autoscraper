@@ -1,46 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV A WIN] Union La Calera vs Coquimbo Unido
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",05h00: [MONEY MAN] Union La Calera vs Coquimbo Unido
-http://sharing.gotdns.ch:8091/socolive.php?id=605412
-#EXTINF:-1 group-title="Socolive_2",05h15: [BLV CHIVAS] Estudiantes Rio Cuarto vs Rosario Central
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",05h15: [CHANH MUỐI] Estudiantes Rio Cuarto vs Rosario Central
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",05h15: [VỊT BẠC] Estudiantes Rio Cuarto vs Rosario Central
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",05h15: [BLV KAN] Estudiantes Rio Cuarto vs Rosario Central
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",05h15: [BLV ANH TÀI] Club Atlético Lanús vs Central Cordoba SDE
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",05h15: [BLV LUCAS] Club Atlético Lanús vs Central Cordoba SDE
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",06h00: [XUÂN SON] Leon Women vs Saint Louis Athletica Women
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV SATIVA] Leon Women vs Saint Louis Athletica Women
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",06h35: [BLV HENRY] Philadelphia 76ers vs Boston Celtics
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",06h35: [A CHÈ] Philadelphia 76ers vs Boston Celtics
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",07h00: [CHAN SENA] Houston Rockets vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",07h00: [BRIAN] Houston Rockets vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",07h00: [HUNTER] Houston Rockets vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV CHIVAS] Racing Club de Avellaneda vs Barracas Central
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV A TINH] Racing Club de Avellaneda vs Barracas Central
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",07h30: [LOGAN] Racing Club de Avellaneda vs Barracas Central
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV PIRLO] Audax Italiano vs Deportes Limache
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",07h30: [TYPN] Audax Italiano vs Deportes Limache
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",08h00: [MONEY MAN] Club America Women vs Pachuca Women
 http://sharing.gotdns.ch:8091/socolive.php?id=605412
 #EXTINF:-1 group-title="Socolive_2",08h00: [XUÂN SON] Club America Women vs Pachuca Women
@@ -1449,6 +1409,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1703,6 +1665,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=10589
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Cartoon Network HD
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",BabyTV
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47741.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Dreamworks
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Love Nature
