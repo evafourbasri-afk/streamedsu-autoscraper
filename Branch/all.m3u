@@ -1,92 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",23h15-25/04 Manchester City Vs Southampton
-https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",23h30-25/04 Arsenal Vs Newcastle United
-https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 group-title="LuongSon_2",23h00-25/04 Bologna Vs AS Roma
-https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",23h15-25/04 Al-Ahli SFC Vs Machida Zelvia
-https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",00h00-26/04 Angers Vs Paris Saint Germain (PSG) BLV LÝ ỨNG
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",23h30-25/04 Valencia Vs Girona
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",00h00-26/04 Goztepe Vs Antalyaspor BLV URA
-https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LuongSon_2",01h45-26/04 Verona Vs Lecce BLV FALCON
-https://auto.cdnok9.com/live/hd-en-6MuSNj3HLxa5QMp5At/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",02h00-26/04 Atletico Madrid Vs Athletic Bilbao BLV MÃ SIÊU
-https://auto.cdnok9.com/live/hd-en-6MuSsYdookxZAZKRJU/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon_2",02h05-26/04 Toulouse Vs Monaco BLV FERNANDO
-https://auto.cdnok9.com/live/hd-en-6MuT7Y5RGc1UPC1HHv/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV MIXI] Bologna vs AS Roma
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",23h00: [LOKA] Bologna vs AS Roma
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV ROBBEN] Bologna vs AS Roma
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV ALEX] Bologna vs AS Roma
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV KEM] Bologna vs AS Roma
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV VITAMIN] Bologna vs AS Roma
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",23h15: [SAO LA] Manchester City vs Southampton
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV PIRLO] Manchester City vs Southampton
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",23h15: [RICKHANTER] Manchester City vs Southampton
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV COCA] Manchester City vs Southampton
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV 7UP] Manchester City vs Southampton
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",23h15: [THẠCH TÚ] Manchester City vs Southampton
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV A WIN] Al-Ahli SFC vs Machida Zelvia
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",23h15: [KÉP] Al-Ahli SFC vs Machida Zelvia
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",23h15: [Đình Bắc] Al-Ahli SFC vs Machida Zelvia
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV A TINH] Al-Ahli SFC vs Machida Zelvia
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",23h30: [NGƯỜI THÉP] Hamburger SV vs TSG Hoffenheim
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV LONG] Hamburger SV vs TSG Hoffenheim
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV FIREMAN] Hamburger SV vs TSG Hoffenheim
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",23h30: [MR BÍCH] Hamburger SV vs TSG Hoffenheim
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV VIP] Valencia CF vs Girona FC
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV WUKONG] Valencia CF vs Girona FC
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",23h30: [THE KOP] Valencia CF vs Girona FC
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTINF:-1 group-title="Socolive_2",23h30: [TRÀ ĐÁ] Valencia CF vs Girona FC
-http://sharing.gotdns.ch:8091/socolive.php?id=603914
-#EXTINF:-1 group-title="Socolive_2",23h30: [DECO] Arsenal vs Newcastle United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV ĐỐM] Arsenal vs Newcastle United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV Củ Cải] Arsenal vs Newcastle United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",23h30: [TẠ BIÊN GIỚI] Arsenal vs Newcastle United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV TOMMY] Arsenal vs Newcastle United
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",23h30: [CR Bưởi] Arsenal vs Newcastle United
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",23h30: [KING] Ulm vs Hamburg
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",23h30: [A CHÈ] Ulm vs Hamburg
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",00h00: [BLV RYO] Benfica vs Moreirense
 http://sharing.gotdns.ch:8091/socolive.php?id=602019
 #EXTINF:-1 group-title="Socolive_2",00h00: [BLV LIO] Benfica vs Moreirense
@@ -109,12 +23,16 @@ http://sharing.gotdns.ch:8091/socolive.php?id=380460
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",00h00: [BLV HENRY] Orlando Magic vs Detroit Pistons
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTINF:-1 group-title="Socolive_2",00h20: [KÉP] Al-Ahli SFC vs Machida Zelvia
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
+#EXTINF:-1 group-title="Socolive_2",00h20: [Đình Bắc] Al-Ahli SFC vs Machida Zelvia
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTINF:-1 group-title="Socolive_2",00h20: [BLV A TINH] Al-Ahli SFC vs Machida Zelvia
+http://sharing.gotdns.ch:8091/socolive.php?id=598119
 #EXTINF:-1 group-title="Socolive_2",01h00: [NGƯỜI CÁ] NAC Breda vs AFC Ajax
 http://sharing.gotdns.ch:8091/socolive.php?id=595335
 #EXTINF:-1 group-title="Socolive_2",01h00: [BON BON] NAC Breda vs AFC Ajax
 http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",01h45: [KÉP] Hellas Verona vs Lecce
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",01h45: [Đình Bắc] Hellas Verona vs Lecce
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",01h45: [BLV LONG] Hellas Verona vs Lecce
