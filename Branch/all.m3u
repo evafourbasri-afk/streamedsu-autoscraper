@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",18h30-25/04 Fulham Vs Aston Villa BLV KEVILL
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",19h00-25/04 Alaves Vs Mallorca BLV PELE
+https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/04 Becamex TP Ho Chi Minh Vs Nam Dinh FC
+https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/04 Thanh Hoa Vs PVF-CAND BLV TRIỆU TỬ LONG
 https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",16h30-25/04 V-Varen Nagasaki Vs Gamba Osaka
-https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 group-title="LuongSon_2",16h50-25/04 Western Sydney Vs Melbourne Victory
-https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/04 Becamex TP Ho Chi Minh Vs Nam Dinh FC BLV FALCON
-https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",17h00-25/04 Than Quang Ninh Vs Ho Chi Minh City
-https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/04 Chengdu Rongcheng FC Vs Zhejiang Professional FC BLV HÀN TÍN
 https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:-1 group-title="LuongSon_2",18h30-25/04 Middlesbrough Vs Watford BLV MỘT CHÂN
 https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",18h30-25/04 Fulham Vs Aston Villa BLV KEVILL
-https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 group-title="LuongSon_2",18h35-25/04 Beijing Guoan Vs Tianjin Tigers BLV TÔN LẬP
 https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon_2",18h45-25/04 Perth Glory Vs Brisbane Roar BLV MAYBACH
+https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",19h00-25/04 Shanghai Port Vs Wuhan Three Towns BLV PHONG VÂN
+https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTINF:-1 group-title="LuongSon_2",21h15-25/04 Getafe Vs FC Barcelona BLV PHONG VÂN
 https://auto.cdnok9.com/live/hd-en-6MuSsYdoooA3339LTN/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",23h00-25/04 Bologna Vs AS Roma BLV FALCON
@@ -39,30 +39,6 @@ https://auto.cdnok9.com/live/hd-en-6MuSsYdookxZAZKRJU/playlist.m3u8
 https://auto.cdnok9.com/live/hd-en-6MuT7Y5RGc1UPC1HHv/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV NIBO] V-Varen Nagasaki vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV LIO] V-Varen Nagasaki vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",16h30: [LOKA] V-Varen Nagasaki vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV CUỘI] V-Varen Nagasaki vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTINF:-1 group-title="Socolive_2",16h35: [RICKHANTER] Western Sydney vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",16h35: [BLV TOMIA] Western Sydney vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",16h35: [VƯƠNG ANH] Western Sydney vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",16h35: [TAM MAO] Western Sydney vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",16h35: [SAO LA] Western Sydney vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",16h35: [CÔNG CHẤT] Western Sydney vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Quezon Huskers vs Mindoro Tamaraws
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] Quezon Huskers vs Mindoro Tamaraws
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",18h00: [PINKMAN] Chengdu Rongcheng vs Zhejiang Professional FC
 http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTINF:-1 group-title="Socolive_2",18h00: [HẢI THANH] Chengdu Rongcheng vs Zhejiang Professional FC
