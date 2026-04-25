@@ -1,38 +1,26 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",21h00-25/04 West Ham United Vs Everton BLV YẾN THANH
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",21h00-25/04 Wolves Vs Tottenham Hotspur BLV TÔN LẬP
-https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="LuongSon_2",21h00-25/04 Liverpool Vs Crystal Palace BLV KEVILL
+#EXTINF:-1 group-title="LuongSon_2",21h00-25/04 Liverpool Vs Crystal Palace
 https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 group-title="LuongSon_2",21h15-25/04 Getafe Vs FC Barcelona BLV PHONG VÂN
+#EXTINF:-1 group-title="LuongSon_2",21h15-25/04 Getafe Vs FC Barcelona
 https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LuongSon_2",20h30-25/04 FSV Mainz 05 Vs Bayern Munchen
-https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",20h30-25/04 FC Koln Vs Bayer Leverkusen
-https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LuongSon_2",20h00-25/04 Parma Vs Pisa
-https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",20h00-25/04 Lyon Vs AJ Auxerre
-https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 group-title="LuongSon_2",20h30-25/04 Heidenheimer Vs St. Pauli
-https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 group-title="LuongSon_2",20h30-25/04 VfL Wolfsburg Vs Borussia Monchengladbach
-https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",20h30-25/04 Augsburg Vs Eintracht Frankfurt
-https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",21h00-25/04 West Ham United Vs Everton
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",21h00-25/04 Wolves Vs Tottenham Hotspur
+https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon_2",21h00-25/04 Kayserispor Vs Caykur Rizespor
+https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:-1 group-title="LuongSon_2",21h00-25/04 MELON Vs OK9 TV MEGA LIVE
 https://hls-ls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
-#EXTINF:-1 group-title="LuongSon_2",21h00-25/04 Kayserispor Vs Caykur Rizespor BLV TẦN CA
-https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 group-title="LuongSon_2",21h30-25/04 Feyenoord Vs Groningen BLV MAYBACH
+#EXTINF:-1 group-title="LuongSon_2",21h30-25/04 Feyenoord Vs Groningen
 https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",22h00-25/04 Wolfsberger AC Vs Grazer AK BLV FERNANDO
+https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 group-title="LuongSon_2",23h00-25/04 Bologna Vs AS Roma BLV FALCON
-https://auto.cdnok9.com/live/hd-en-6MuSNj3HWWTAjG11pp/playlist.m3u8
+https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
 #EXTINF:-1 group-title="LuongSon_2",23h15-25/04 Al-Ahli SFC Vs Machida Zelvia BLV TRIỆU TỬ LONG
-https://auto.cdnok9.com/live/sd-6MwdL2X43z3asnzh7J/playlist.m3u8
+https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 group-title="LuongSon_2",23h15-25/04 Manchester City Vs Southampton BLV PHONG VÂN
 https://auto.cdnok9.com/live/hd-en-6MwdadjBygAmewsr7v/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",23h30-25/04 Arsenal Vs Newcastle United BLV KEVILL
@@ -47,48 +35,6 @@ https://auto.cdnok9.com/live/hd-en-6MuSsYdookxZAZKRJU/playlist.m3u8
 https://auto.cdnok9.com/live/hd-en-6MuT7Y5RGc1UPC1HHv/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV CÁO] Parma vs Pisa
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV SATIVA] Parma vs Pisa
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV WUKONG] Lyon vs AJ Auxerre
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV GÔN] Lyon vs AJ Auxerre
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",20h00: [A PÁO] Lyon vs AJ Auxerre
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV VIP] Lyon vs AJ Auxerre
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",20h30: [QUỐC KHÁNH] FC Augsburg vs Eintracht Frankfurt
-http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV LONG] FC Augsburg vs Eintracht Frankfurt
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",20h30: [BON BON] FC Köln vs Bayer 04 Leverkusen
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV LION] FC Köln vs Bayer 04 Leverkusen
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV A TÚ] FC Köln vs Bayer 04 Leverkusen
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",20h30: [VỊT BẠC] FC Köln vs Bayer 04 Leverkusen
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",20h30: [HẢI THANH] 1. FC Heidenheim 1846 vs FC St. Pauli
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
-#EXTINF:-1 group-title="Socolive_2",20h30: [LOKA] 1. FSV Mainz 05 vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV ROBBEN] 1. FSV Mainz 05 vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV COZY] 1. FSV Mainz 05 vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV VOI] 1. FSV Mainz 05 vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV VITAMIN] 1. FSV Mainz 05 vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV RAMBO] 1. FSV Mainz 05 vs FC Bayern Munich
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV RYO] VfL Wolfsburg vs Borussia Monchengladbach
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV LIO] VfL Wolfsburg vs Borussia Monchengladbach
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2",21h00: [DECO] Liverpool vs Crystal Palace
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",21h00: [RICKHANTER] Liverpool vs Crystal Palace
@@ -997,6 +943,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=11494
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 1 4Mbps for 4G
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47850.ts
+#EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 2 4Mbps for 4G
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47851.ts
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 3 4Mbps for 4G
 http://myxpanel.pro:80/Martin/Martin/709374
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 4 4Mbps for 4G
@@ -1125,6 +1073,8 @@ https://s6.kkphimplayer6.com/20260118/tdyKqxYZ/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20260320/02bq9QLy/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cục Vàng Của Ngoại
 https://s6.kkphimplayer6.com/20260403/6UwV8LAv/3500kb/hls/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Huyền Tình Dạ Trạch
+https://rumble.com/hls-vod/76srew/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
@@ -1205,16 +1155,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 5
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 7
-https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1473,6 +1413,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47741.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Dreamworks
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",Love Nature
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1058958&extension=ts&play_token=Qdly9feHR2
 #EXTINF:-1 group-title="TruyenHinh_2",BBC Earth
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",BBC Lifestyle
