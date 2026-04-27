@@ -33,8 +33,6 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=95875
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47850.ts
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 2 4Mbps for 4G
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47851.ts
-#EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 3 4Mbps for 4G
-http://myxpanel.pro:80/Martin/Martin/709374
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 4 4Mbps for 4G
 http://myxpanel.pro:80/Martin/Martin/276893
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 5 4Mbps for 4G
@@ -243,20 +241,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 6
-https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 11
-https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 5
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 7
-https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -595,12 +579,6 @@ https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8
 https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VOV3
 https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",VOV4 Tây Bắc - Đông Bắc
-https://stream.vovmedia.vn/vov4tb
-#EXTINF:-1 group-title="TruyenHinh_2",VOV4 Tây Nguyên
-https://stream.vovmedia.vn/vov4tn
-#EXTINF:-1 group-title="TruyenHinh_2",VOV4 Miền Trung
-https://stream.vovmedia.vn/vov4mt
 #EXTINF:-1 group-title="TruyenHinh_2",VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VOV5 24/7
