@@ -1,38 +1,26 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",17h00-28/04 Williamstown Vs Old Scotch SC
-https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",17h00-28/04 KCC Egis Vs Anyang JungKwanJang BLV YẾN THANH
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",16h30-28/04 Goulburn Valley Suns Vs Murray United FC
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",16h45-28/04 Sydenham Park Vs Oakleigh Cannons
+#EXTINF:-1 group-title="LuongSon_2",19h00-28/04 Bentonit Idzhevan Vs FC Noah B
+https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="LuongSon_2",19h00-28/04 PSBS Biak Vs Malut United BLV PHONG VÂN
+https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",20h00-28/04 Melaka FC Vs Johor Darul Takzim BLV LƯU BỊ
 https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",17h00: [KING] KCC Egis vs Anyang JungKwanJang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",17h00: [HUNTER] KCC Egis vs Anyang JungKwanJang
+#EXTINF:-1 group-title="Socolive_2",19h35: [HUNTER] Pasay Voyagers vs Bataan Risers
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] KCC Egis vs Anyang JungKwanJang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] KCC Egis vs Anyang JungKwanJang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",19h00: [TAM MAO] PSBS Biak Numfor vs Malut United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",19h00: [CR Bưởi] PSBS Biak Numfor vs Malut United
+#EXTINF:-1 group-title="Socolive_2",20h00: [CR Bưởi] PSBS Biak Numfor vs Malut United
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",19h00: [DECO] PSBS Biak Numfor vs Malut United
+#EXTINF:-1 group-title="Socolive_2",20h00: [DECO] PSBS Biak Numfor vs Malut United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ĐỐM] PSBS Biak Numfor vs Malut United
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ĐỐM] PSBS Biak Numfor vs Malut United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV BÉO] PSBS Biak Numfor vs Malut United
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV BÉO] PSBS Biak Numfor vs Malut United
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h00: [TẠ BIÊN GIỚI] PSBS Biak Numfor vs Malut United
+#EXTINF:-1 group-title="Socolive_2",20h00: [TẠ BIÊN GIỚI] PSBS Biak Numfor vs Malut United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",19h00: [HUNTER] Pasay Voyagers vs Bataan Risers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV TAP] Melaka FC vs Johor Darul Ta'zim FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV MESSI] Melaka FC vs Johor Darul Ta'zim FC
@@ -41,10 +29,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=494201
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV TOMIA] Melaka FC vs Johor Darul Ta'zim FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV 7UP] Melaka FC vs Johor Darul Ta'zim FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV RÔSI] Melaka FC vs Johor Darul Ta'zim FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
+#EXTINF:-1 group-title="Socolive_2",20h00: [VƯƠNG ANH] Melaka FC vs Johor Darul Ta'zim FC
+http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV LIO] Petrojet vs Ismaily SC
 http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV CUỘI] Petrojet vs Ismaily SC
@@ -79,8 +67,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=595335
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2",21h00: [Đình Bắc] Sogdiana Jizak vs Termez Surkhon
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",21h00: [CHANH MUỐI] Sogdiana Jizak vs Termez Surkhon
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV CÒ] Sogdiana Jizak vs Termez Surkhon
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV WUKONG] FK Liepaja vs Grobina
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTINF:-1 group-title="Socolive_2",22h00: [MR BÍCH] FK Liepaja vs Grobina
@@ -709,6 +697,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=95875
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47850.ts
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 2 4Mbps for 4G
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47851.ts
+#EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 3 4Mbps for 4G
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47852.ts
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 4 4Mbps for 4G
 http://myxpanel.pro:80/Martin/Martin/276893
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 5 4Mbps for 4G
