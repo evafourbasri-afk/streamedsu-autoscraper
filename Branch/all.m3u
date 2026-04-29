@@ -1,54 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",14h00-29/04 Mito Hollyhock Vs Machida Zelvia
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",14h00-29/04 Kashiwa Reysol Vs FC Tokyo
-https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",15h30-29/04 Persik Kediri Vs Borneo FC Samarinda BLV LƯU BỊ
-https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",15h30-29/04 Semen Padang Vs Madura United BLV PHONG VÂN
-https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",16h15-29/04 Magnolia Hotshots Vs Titan Ultra Giant Risers BLV YẾN THANH
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",18h00-29/04 Chiangrai United Vs Ratchaburi FC BLV URA
+https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:-1 group-title="LuongSon_2",18h30-29/04 NLEX Road Warriors Vs Rain or Shine Elasto Painters BLV VÕ TÒNG
 https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",20h00-29/04 Aizawl FC Vs Namdhari FC BLV MỘT CHÂN
+https://auto.cdnok9.com/live/sd-6MwdLRLmS7dq7bWSdr/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV RAMBO] Kashiwa Reysol vs FC Tokyo
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV TAP] Kashiwa Reysol vs FC Tokyo
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV KEM] Kashiwa Reysol vs FC Tokyo
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV 7UP] Kashiwa Reysol vs FC Tokyo
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV CUỘI] Mito Hollyhock vs Machida Zelvia
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTINF:-1 group-title="Socolive_2",14h00: [MR BÍCH] Mito Hollyhock vs Machida Zelvia
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV ROBBEN] Mito Hollyhock vs Machida Zelvia
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV ALEX] Mito Hollyhock vs Machida Zelvia
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",15h00: [HUNTER] Iloilo United Royals vs Manila Batang Quiapo
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",15h00: [A CHÈ] Iloilo United Royals vs Manila Batang Quiapo
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",15h30: [LÃO LÂM] Persik Kediri vs Borneo FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",15h30: [RICKHANTER] Persik Kediri vs Borneo FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV Củ Cải] Persik Kediri vs Borneo FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",15h30: [VƯƠNG ANH] Persik Kediri vs Borneo FC
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV MIXI] Semen Padang vs Madura United
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV PEWPEW] Semen Padang vs Madura United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV ĐỐM] Semen Padang vs Madura United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV COCA] Semen Padang vs Madura United
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",16h00: [DECO] Matsumoto Yamaga FC vs Jubilo Iwata
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV VITAMIN] Matsumoto Yamaga FC vs Jubilo Iwata
@@ -61,22 +23,22 @@ http://sharing.gotdns.ch:8091/socolive.php?id=552832
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Ilagan Isabela Cowboys vs Sarangani Marlins
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV RYO] Chiangrai United vs Ratchaburi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV A TÚ] Chiangrai United vs Ratchaburi FC
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV CÁO] Chiangrai United vs Ratchaburi FC
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV SATIVA] Chiangrai United vs Ratchaburi FC
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ANH TÀI] Chiangrai United vs Ratchaburi FC
+http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV CUỘI] Uthai Thani Forest vs Bangkok United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTINF:-1 group-title="Socolive_2",18h30: [BON BON] Uthai Thani Forest vs Bangkok United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=597924
 #EXTINF:-1 group-title="Socolive_2",18h30: [TRÀ ĐÁ] Uthai Thani Forest vs Bangkok United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=603914
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV VITAMIN] Uthai Thani Forest vs Bangkok United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTINF:-1 group-title="Socolive_2",18h30: [THE KOP] Uthai Thani Forest vs Bangkok United FC
+http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTINF:-1 group-title="Socolive_2",18h35: [A CHÈ] Qingdao vs Shanxi Zhongyu
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV HENRY] Zhejiang Chouzhou vs Ningbo Rockets
@@ -867,6 +829,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 5
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
