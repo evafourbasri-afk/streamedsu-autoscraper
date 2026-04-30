@@ -7,10 +7,8 @@ https://global-media.onlive.vn/live/kubocast/index.m3u8
 https://hnlive.dramahay.xyz/live/TXBN/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SG Network
 https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/devonlynino/playlist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Nino Channel (server 1)
+#EXTINF:-1 group-title="TruyenHinh_2",Nino Channel
 http://livesv2.onnanetwork.xyz/hls/ninochannel/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Nino Channel (server 2)
-https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/ninochannel12/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",LVTT
 https://kubolive.ddns.net:8081/live/lvtt1/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ATV HD
@@ -21,8 +19,6 @@ https://1.org.vn/oni1/?/index.m3u8
 https://1.org.vn/oni2hd/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi3
 https://1.org.vn/oni3/?/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",ONi4
-https://d.org.vn/oni2-mbnlife/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Tennis
@@ -243,6 +239,10 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 5
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 3
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
