@@ -1,38 +1,28 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",20h00-30/04 Yaypan FK Vs FK Gazalkent
-https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LuongSon_2",20h00-30/04 Real Kashmir Vs Gokulam Kerala FC
-https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="LuongSon_2",20h55-30/04 Smail Vs Al-Nahda Muscat BLV FALCON
-https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 group-title="LuongSon_2",21h00-30/04 Metallurg Bekobod Vs Olympic MobiUZ BLV LÃO HẠC
-https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 group-title="LuongSon_2",21h00-30/04 MELON Vs OK9 TV MEGA LIVE
-https://hls-ls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
-#EXTINF:-1 group-title="LuongSon_2",21h00-30/04 FK Aktobe Lento Vs FK Yelimay Semey BLV QUAN VŨ
-https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 group-title="LuongSon_2",21h30-30/04 A.S.Marsa Vs Esperance Sportive Zarzis BLV LƯU BỊ
+#EXTINF:-1 group-title="LuongSon_2",23h00-30/04 Al-Okhdood Vs Al-Ettifaq BLV TÔN LẬP
+https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon_2",21h30-30/04 A.S.Marsa Vs Esperance Sportive Zarzis
 https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",22h00-30/04 Olympique Dcheira Vs UTS Union Touarga Sport Rabat BLV HÀN TÍN
+#EXTINF:-1 group-title="LuongSon_2",22h00-30/04 DHJ Difaa Hassani Jadidi Vs Renaissance Zmamra
+https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",22h00-30/04 Olympique Dcheira Vs UTS Union Touarga Sport Rabat
 https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 group-title="LuongSon_2",22h00-30/04 Ordabasy Vs FK Kaspyi Aktau BLV LÝ ỨNG
+#EXTINF:-1 group-title="LuongSon_2",22h00-30/04 Ordabasy Vs FK Kaspyi Aktau
 https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",23h00-30/04 Al Hussein Irbid Vs Al-Jazeera BLV A TỦA
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",23h00-30/04 FC Flora Tallinn Vs Harju JK Laagri BLV MÃ SIÊU
+https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",23h00-30/04 Lokomotiv Plovdiv Vs FC Arda Kardzhali BLV LỮ BỐ
+https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="LuongSon_2",23h30-30/04 Birkirkara FC Vs Mosta FC BLV DƯƠNG QUÁ
+https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 group-title="LuongSon_2",00h00-01/05 Bodo Glimt Vs Start Kristiansand BLV FALCON
+https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",20h00: [LOKA] Real Kashmir vs Gokulam Kerala FC
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV VITAMIN] Real Kashmir vs Gokulam Kerala FC
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV RAMBO] Real Kashmir vs Gokulam Kerala FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV VOI] Real Kashmir vs Gokulam Kerala FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",20h00: [TRÀ ĐÁ] Sabail FC vs Cebrayil
-http://sharing.gotdns.ch:8091/socolive.php?id=603914
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV COZY] Sabail FC vs Cebrayil
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-30/04: [Đình Bắc] Lokomotiv Plovdiv vs Arda
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
@@ -90,9 +80,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-01/05: [BLV CÒ] Bodo Glimt vs Start Kristiansand
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-01/05: [BLV RÔSI] Bodo Glimt vs Start Kristiansand
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-01/05: [CÔNG CHẤT] Sporting Braga vs SC Freiburg
 http://sharing.gotdns.ch:8091/socolive.php?id=291277
