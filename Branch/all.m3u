@@ -1,52 +1,26 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",19h00-30/04 Bhayangkara Solo FC Vs Persib Bandung BLV KEVILL
-https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 group-title="LuongSon_2",18h30-30/04 Lanzhou Longyuan Athletics Vs Haimen Codion BLV MÃ SIÊU
-https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 group-title="LuongSon_2",18h30-30/04 Guangdong Mingtu Vs Jiangxi Liansheng FC BLV DƯƠNG QUÁ
-https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 group-title="LuongSon_2",18h30-30/04 Jiangsu Changjin Vs Shanghai Zetian BLV VÕ TÒNG
-https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",19h00-30/04 Negelle Arsi Vs Fasil Kenema BLV PELE
-https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LuongSon_2",18h30-30/04 Albirex Niigata FC Vs Tampines Rovers FC BLV KHỔNG MINH
-https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",20h00-30/04 Real Kashmir Vs Gokulam Kerala FC BLV LÝ QUỲ
-https://auto.cdnok9.com/live/sd-6MwdLRLmGGAtpriAkk/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",20h00-30/04 Yaypan FK Vs FK Gazalkent
+https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",20h00-30/04 Real Kashmir Vs Gokulam Kerala FC
+https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",20h55-30/04 Smail Vs Al-Nahda Muscat BLV FALCON
+https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",21h00-30/04 Metallurg Bekobod Vs Olympic MobiUZ BLV LÃO HẠC
+https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="LuongSon_2",21h00-30/04 MELON Vs OK9 TV MEGA LIVE
+https://hls-ls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTINF:-1 group-title="LuongSon_2",21h00-30/04 FK Aktobe Lento Vs FK Yelimay Semey BLV QUAN VŨ
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",21h30-30/04 A.S.Marsa Vs Esperance Sportive Zarzis BLV LƯU BỊ
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",22h00-30/04 Olympique Dcheira Vs UTS Union Touarga Sport Rabat BLV HÀN TÍN
+https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="LuongSon_2",22h00-30/04 Ordabasy Vs FK Kaspyi Aktau BLV LÝ ỨNG
+https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",18h30: [LOGAN] Albirex Niigata FC vs Tampines Rovers FC
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",18h30: [CÔNG CHẤT] Albirex Niigata FC vs Tampines Rovers FC
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV LUCAS] Albirex Niigata FC vs Tampines Rovers FC
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV XO] Lanzhou Longyuan Athletic vs Haimen Codion
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV LONG] Lanzhou Longyuan Athletic vs Haimen Codion
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",18h30: [NGƯỜI CÁ] Guangdong Mingtu vs Jiangxi Lushan
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV CÒ] Bhayangkara FC vs Persib Bandung
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",19h00: [TAM MAO] Bhayangkara FC vs Persib Bandung
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV TAP] Bhayangkara FC vs Persib Bandung
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV MESSI] Bhayangkara FC vs Persib Bandung
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV BÉO] Bhayangkara FC vs Persib Bandung
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ALEX] Bhayangkara FC vs Persib Bandung
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",19h00: [A CHÈ] Batangas City vs Pasig City
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",19h30: [BLV RYO] Baku Sporting FK vs Difai Agsu FK
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
-#EXTINF:-1 group-title="Socolive_2",19h30: [MONEY MAN] Baku Sporting FK vs Difai Agsu FK
-http://sharing.gotdns.ch:8091/socolive.php?id=605412
 #EXTINF:-1 group-title="Socolive_2",20h00: [LOKA] Real Kashmir vs Gokulam Kerala FC
 http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV VITAMIN] Real Kashmir vs Gokulam Kerala FC
