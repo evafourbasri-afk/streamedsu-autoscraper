@@ -1,70 +1,34 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",19h00-01/05 Shanghai Shenhua Vs Chengdu Rongcheng FC BLV KEVILL
+#EXTINF:-1 group-title="LuongSon_2",20h00-01/05 Hamburger SV (W) Vs Union Berlin (W) BLV SHIN
+https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",19h00-01/05 Shanghai Shenhua Vs Chengdu Rongcheng FC
 https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 group-title="LuongSon_2",19h15-01/05 Hanoi FC Vs Da Nang BLV A TỦA
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",18h35-01/05 Shandong Taishan Vs Qingdao West Coast BLV FERNANDO
-https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="LuongSon_2",19h15-01/05 Kuching FA Vs Terengganu
+https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 #EXTINF:-1 group-title="LuongSon_2",18h30-01/05 Barangay Ginebra San Miguel Vs Meralco Bolts BLV VÕ TÒNG
 https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",18h00-01/05 Nam Dinh FC Vs Cong An TP Ho Chi Minh
-https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",18h35-01/05 Tianjin Tigers Vs Wuhan Three Towns BLV LỮ BỐ
-https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 group-title="LuongSon_2",19h00-01/05 Muang Thong United Vs BG Pathum United BLV LÝ ỨNG
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",18h00-01/05 Dalian Zhixing Vs Chongqing Tonglianglong
-https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 group-title="LuongSon_2",18h00-01/05 Henan Football Club Vs Liaoning Tieren
-https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",17h30-01/05 West Torrens Birkalla Vs Adelaide City FC
+#EXTINF:-1 group-title="LuongSon_2",19h15-01/05 Hanoi FC Vs Da Nang
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",20h00-01/05 SOHEE Vs OK9 TV MEGA LIVE
+https://hls-ls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTINF:-1 group-title="LuongSon_2",21h00-01/05 Caykur Rizespor Vs Konyaspor BLV KEVILL
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",21h00-01/05 Pyramids FC Vs Enppi BLV MAYBACH
 https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",19h15-01/05 Kuching FA Vs Terengganu BLV LÃO HẠC
-https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="LuongSon_2",21h00-01/05 Ceramica Cleopatra FC Vs Al Masry BLV QUAN VŨ
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",21h00-01/05 Krylya Sovetov Vs Spartak Moscow BLV KAKA
+https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",21h00-01/05 LASK Linz Vs Rheindorf Altach BLV HÀN TÍN
+https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="LuongSon_2",21h15-01/05 Al Rayyan Vs Al-Wakra BLV PELE
+https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2",21h15-01/05 Andorra FC Vs Albacete BLV LƯU BỊ
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV CUỘI] Henan FC vs Liaoning Tieren
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV KAN] Henan FC vs Liaoning Tieren
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",18h00: [LÃO LÂM] Henan FC vs Liaoning Tieren
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",18h00: [PINKMAN] Dalian Yingbo vs Chongqing Tonglianglong
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV CÁO] Dalian Yingbo vs Chongqing Tonglianglong
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV LONG] Dalian Yingbo vs Chongqing Tonglianglong
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ALEX] Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV TOMIA] Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV VITAMIN] Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",18h00: [TAM MAO] Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV PEWPEW] Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV PIRLO] Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",18h35: [RICKHANTER] Shandong Taishan vs Qingdao West Coast
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",18h35: [BLV RAMBO] Shandong Taishan vs Qingdao West Coast
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",18h35: [LOGAN] Shandong Taishan vs Qingdao West Coast
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",18h35: [BLV ANH TÀI] Shandong Taishan vs Qingdao West Coast
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",18h35: [NGƯỜI CÁ] Tianjin Jinmen Tiger vs Wuhan Three Towns
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",18h35: [XUÂN SON] Tianjin Jinmen Tiger vs Wuhan Three Towns
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",18h35: [HẢI THANH] Tianjin Jinmen Tiger vs Wuhan Three Towns
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
-#EXTINF:-1 group-title="Socolive_2",18h35: [A CHÈ] Guangzhou vs Guangdong
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV Củ Cải] Shanghai Shenhua vs Chengdu Rongcheng
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV 7UP] Shanghai Shenhua vs Chengdu Rongcheng
@@ -189,9 +153,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-01/05: [BLV MIXI] Deportivo La Coruna vs CD Leganes
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-01/05: [TYPN] Lokomotiv Moscow vs Dynamo Moscow
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-01/05: [BLV KEM] Lokomotiv Moscow vs Dynamo Moscow
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -200,6 +161,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=598549
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-01/05: [TRÀ ĐÁ] Lokomotiv Moscow vs Dynamo Moscow
 http://sharing.gotdns.ch:8091/socolive.php?id=603914
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-01/05: [A BỆU] Lokomotiv Moscow vs Dynamo Moscow
+http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h45-01/05: [Đình Bắc] Al-Ain FC vs Al Wahda(UAE)
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
@@ -1044,12 +1008,22 @@ https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8
 https://rumble.com/hls-vod/757w6u/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 11
 https://rumble.com/hls-vod/75uhgc/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",TV360+1
+https://vietanhtv.id.vn/tv360/2554/index.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",TV360+2
+https://vietanhtv.id.vn/tv360/1/index.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",TV360+3
+https://vietanhtv.id.vn/tv360/148/index.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",TV360+4
+https://vietanhtv.id.vn/tv360/2458/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+9
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/9887/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/9957/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+11
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/9958/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",TV360+12
+https://vietanhtv.id.vn/tv360/10001/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
 https://vietanhtv.id.vn/tv360/9904/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Livestream
@@ -1092,14 +1066,14 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
-https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 5
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 3
 https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://vietanhtv.id.vn/tv360/2/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
