@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="TruyenHinh_2",KuboLive #Server 1
-https://kubolive.ddns.net:8081/live/kubolive/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",KuboCast
-https://global-media.onlive.vn/live/kubocast/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",TXBN
-https://hnlive.dramahay.xyz/live/TXBN/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SG Network
 https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/devonlynino/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel
@@ -33,8 +27,6 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=10915
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894979&extension=ts&play_token=RLLwKaJKqY
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 4 4Mbps for 4G
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894980&extension=ts&play_token=4ofwEIdTU4
-#EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 5 4Mbps for 4G
-http://myxpanel.pro:80/Martin/Martin/276890
 #EXTINF:-1 group-title="TruyenHinh_2",Canal+ Foot
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 1
@@ -239,10 +231,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 5
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 3
-https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
