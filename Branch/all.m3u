@@ -1,28 +1,30 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",18h00-01/05 Nam Dinh FC Vs Cong An TP Ho Chi Minh BLV LƯU BỊ
-https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",16h15-01/05 TNT Tropang 5G Vs Phoenix Fuelmasters BLV YẾN THANH
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",18h00-01/05 Henan Football Club Vs Liaoning Tieren BLV TỐNG GIANG
-https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",18h00-01/05 Dalian Zhixing Vs Chongqing Tonglianglong BLV QUAN VŨ
-https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 group-title="LuongSon_2",17h30-01/05 West Torrens Birkalla Vs Adelaide City FC BLV MAYBACH
-https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",19h00-01/05 Shanghai Shenhua Vs Chengdu Rongcheng FC BLV KEVILL
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",19h15-01/05 Hanoi FC Vs Da Nang BLV A TỦA
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",18h35-01/05 Shandong Taishan Vs Qingdao West Coast BLV FERNANDO
+https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 group-title="LuongSon_2",18h30-01/05 Barangay Ginebra San Miguel Vs Meralco Bolts BLV VÕ TÒNG
 https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",18h00-01/05 Nam Dinh FC Vs Cong An TP Ho Chi Minh
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",18h35-01/05 Tianjin Tigers Vs Wuhan Three Towns BLV LỮ BỐ
+https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="LuongSon_2",19h00-01/05 Muang Thong United Vs BG Pathum United BLV LÝ ỨNG
+https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",18h00-01/05 Dalian Zhixing Vs Chongqing Tonglianglong
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",18h00-01/05 Henan Football Club Vs Liaoning Tieren
+https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",17h30-01/05 West Torrens Birkalla Vs Adelaide City FC
+https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",19h15-01/05 Kuching FA Vs Terengganu BLV LÃO HẠC
+https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV TAP] Green Gully Cavaliers vs Oakleigh Cannons
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV RÔSI] South Melbourne vs Melbourne City NPL
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",17h00: [A PÁO] Ulsan Citizens vs Daejeon Korail
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",17h00: [MONEY MAN] Campbelltown City SC vs Croydon Kings
-http://sharing.gotdns.ch:8091/socolive.php?id=605412
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV CUỘI] Henan FC vs Liaoning Tieren
 http://sharing.gotdns.ch:8091/socolive.php?id=256080
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV KAN] Henan FC vs Liaoning Tieren
@@ -57,8 +59,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=552832
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",18h35: [NGƯỜI CÁ] Tianjin Jinmen Tiger vs Wuhan Three Towns
 http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",18h35: [CHÈ XANH] Tianjin Jinmen Tiger vs Wuhan Three Towns
-http://sharing.gotdns.ch:8091/socolive.php?id=605223
 #EXTINF:-1 group-title="Socolive_2",18h35: [XUÂN SON] Tianjin Jinmen Tiger vs Wuhan Three Towns
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTINF:-1 group-title="Socolive_2",18h35: [HẢI THANH] Tianjin Jinmen Tiger vs Wuhan Three Towns
@@ -87,8 +87,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=579144
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV CÒ] Hanoi FC vs SHB Da Nang
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV MIXI] Hanoi FC vs SHB Da Nang
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTINF:-1 group-title="Socolive_2",19h15: [LOKA] Hanoi FC vs SHB Da Nang
 http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",19h15: [CÔNG CHẤT] Hanoi FC vs SHB Da Nang
@@ -97,6 +95,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=291277
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV KEM] Hanoi FC vs SHB Da Nang
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
+#EXTINF:-1 group-title="Socolive_2",19h15: [VỊT BẠC] Hanoi FC vs SHB Da Nang
+http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV FIREMAN] Juve Stabia vs Frosinone
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",20h00: [MR BÍCH] Juve Stabia vs Frosinone
@@ -161,8 +161,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=602153
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",22h30: [NGƯỜI CÁ] Korona Kielce vs Piast Gliwice
 http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",22h30: [CHÈ XANH] Korona Kielce vs Piast Gliwice
-http://sharing.gotdns.ch:8091/socolive.php?id=605223
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-01/05: [BLV PEWPEW] Viking vs Rosenborg
 http://sharing.gotdns.ch:8091/socolive.php?id=9912015
