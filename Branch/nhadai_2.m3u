@@ -25,8 +25,6 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=10915
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894979&extension=ts&play_token=RLLwKaJKqY
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 4 4Mbps for 4G
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894980&extension=ts&play_token=4ofwEIdTU4
-#EXTINF:-1 group-title="TruyenHinh_2",Canal+ Foot
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 1
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122056&extension=ts&play_token=223GgKAnFY
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 2
@@ -172,21 +170,21 @@ https://rumble.com/hls-vod/757w6u/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 11
 https://rumble.com/hls-vod/75uhgc/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+1
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-1/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/2554/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+2
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-2/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/1/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+3
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-3/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/148/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+4
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-4/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/2458/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+9
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/9887/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/9957/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+11
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/9958/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+12
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-12/KenhCoBan.m3u8
+https://vietanhtv.id.vn/tv360/10001/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
 https://vietanhtv.id.vn/tv360/9904/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Livestream
@@ -229,6 +227,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://vietanhtv.id.vn/tv360/2/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -535,8 +535,6 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",AXN HD
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Rock Entertainment
-http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extension=ts&play_token=K4JiFEWv19
 #EXTINF:-1 group-title="TruyenHinh_2",Rock Action
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1165919&extension=ts&play_token=d5UxVs4YM2
 #EXTINF:-1 group-title="TruyenHinh_2",Outdoor Channel
