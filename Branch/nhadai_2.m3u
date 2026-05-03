@@ -27,6 +27,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=89497
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894980&extension=ts&play_token=4ofwEIdTU4
 #EXTINF:-1 group-title="TruyenHinh_2",Canal+ Foot
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
+#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941442&extension=ts&play_token=6sw55uPREH
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 2
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 3
@@ -179,6 +181,8 @@ https://vietanhtv.id.vn/tv360/1/index.mpd
 https://vietanhtv.id.vn/tv360/148/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+4
 https://vietanhtv.id.vn/tv360/2458/index.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",TV360+5
+https://vietanhtv.id.vn/tv360/9867/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+9
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
@@ -229,6 +233,12 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://vietanhtv.id.vn/tv360/2/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -537,6 +547,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Rock Entertainment
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1058969&extension=ts&play_token=INCkwVMxIE
+#EXTINF:-1 group-title="TruyenHinh_2",Rock Action
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1058968&extension=ts&play_token=dNkfedDfsb
 #EXTINF:-1 group-title="TruyenHinh_2",Outdoor Channel
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",History HD
