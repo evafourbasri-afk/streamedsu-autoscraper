@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",15h30-04/05 Persib Bandung Vs PSIM Yogyakarta BLV KEVILL
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",15h30-04/05 PSM Makassar Vs Bhayangkara Solo FC BLV KAKA
+https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",14h30-04/05 Shanghai Second Vs Lanzhou Longyuan Athletics
+https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
 #EXTINF:-1 group-title="Socolive_2",14h30: [LOGAN] Myanmar U17 Women vs Thailand U17 Women
@@ -77,10 +85,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=589848
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV COZY] Vietnam U17 Women vs China U17 Women
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",18h30: [TRÀ ĐÁ] Haimen Codion vs Shanxi Chongde Ronghai
-http://sharing.gotdns.ch:8091/socolive.php?id=603914
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV VIP] Haimen Codion vs Shanxi Chongde Ronghai
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
+#EXTINF:-1 group-title="Socolive_2",18h30: [A PÁO] Haimen Codion vs Shanxi Chongde Ronghai
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV XO] Hangzhou Linping Wuyue vs Xiamen Feilu
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2",18h30: [CHANH MUỐI] Hangzhou Linping Wuyue vs Xiamen Feilu
