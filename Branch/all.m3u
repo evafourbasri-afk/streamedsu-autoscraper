@@ -1,10 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",05h15-05/05 Velez Sarsfield Vs Newells Old Boys
+https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",05h30-05/05 CA Penarol Vs Defensor Sporting Montevideo
+https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",07h00-05/05 Universitario De Vinto Vs Blooming BLV KHỔNG MINH
+https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2",07h00-05/05 New York Knicks Vs Philadelphia 76ers BLV YẾN THANH
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",07h30-05/05 D. Concepcion Vs Huachipato BLV VÕ TÒNG
+https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",04h00: [MONEY MAN] Union Magdalena vs Barranquilla FC
-http://sharing.gotdns.ch:8091/socolive.php?id=605412
-#EXTINF:-1 group-title="Socolive_2",04h00: [A PÁO] Union Magdalena vs Barranquilla FC
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV RAMBO] Vila Nova vs Athletic Club
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",05h00: [THE KOP] Vila Nova vs Athletic Club
