@@ -1,13 +1,19 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",18h30-04/05 Vietnam (W) U17 Vs China (W) U17 BLV A TỦA
+#EXTINF:-1 group-title="LuongSon_2",18h30-04/05 Vietnam (W) U17 Vs China (W) U17
 https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",18h00-04/05 Bei Li Gong Vs Qingdao Red Lions BLV URA
-https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LuongSon_2",18h30-04/05 Hangzhou Linping Wuyue Vs Xiamen1026 BLV TRIỆU TỬ LONG
-https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",18h30-04/05 Wuhan Three Towns B Vs Hubei Istar BLV TẦN CA
-https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 group-title="LuongSon_2",18h35-04/05 Chengdu Rongcheng B Vs Guangdong Mingtu BLV FALCON
+#EXTINF:-1 group-title="LuongSon_2",19h00-04/05 Aston Villa (W) Vs West Ham United (W)
+https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",20h00-04/05 Real Kashmir Vs Namdhari FC BLV NHỊ KA
+https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",20h00-04/05 Olympic MobiUZ Vs Kattaqurgon BLV FERNANDO
+https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="LuongSon_2",18h35-04/05 Chengdu Rongcheng B Vs Guangdong Mingtu
 https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",19h00-04/05 Persijap Jepara Vs Persija Jakarta
+https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",18h30-04/05 Hangzhou Linping Wuyue Vs Xiamen1026
+https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",18h30-04/05 Wuhan Three Towns B Vs Hubei Istar
+https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68

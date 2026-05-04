@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] GenSan Warriors vs Iloilo United Royals
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV LION] Beijing IT vs Qingdao Red Lions
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV LUCAS] Beijing IT vs Qingdao Red Lions
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV VOI] Albirex Niigata FC vs Young Lions
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTINF:-1 group-title="Socolive_2",18h30: [HẢI THANH] Albirex Niigata FC vs Young Lions
@@ -15,8 +9,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=599634
 http://sharing.gotdns.ch:8091/socolive.php?id=606448
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV KAN] Albirex Niigata FC vs Young Lions
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",18h30: [QUỐC KHÁNH] Vietnam U17 Women vs China U17 Women
-http://sharing.gotdns.ch:8091/socolive.php?id=602153
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV CÒ] Vietnam U17 Women vs China U17 Women
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",18h30: [TAM MAO] Vietnam U17 Women vs China U17 Women
@@ -87,10 +79,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534219
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",21h00: [CHÈ XANH] Ural Yekaterinburg vs Shinnik Yaroslavl
 http://sharing.gotdns.ch:8091/socolive.php?id=605223
-#EXTINF:-1 group-title="Socolive_2",21h00: [BLV LION] Pharco vs El Mokawloon El Arab
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV VIP] Pharco vs El Mokawloon El Arab
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV ROBBEN] Pharco vs El Mokawloon El Arab
+http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",21h00: [Đình Bắc] Odisha FC vs Bengaluru
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV LONG] Odisha FC vs Bengaluru
