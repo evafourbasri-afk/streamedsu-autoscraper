@@ -1,12 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",12h00-05/05 Bucheon FC 1995 Vs Jeju SK FC
+https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",12h00-05/05 Jeonbuk Hyundai Motors Vs Gwangju Football Club
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",12h00-05/05 Goyang Sono Vs KCC Egis BLV YẾN THANH
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",09h05: [CHAN SENA] San Antonio Spurs vs Minnesota Timberwolves
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",09h05: [KING] San Antonio Spurs vs Minnesota Timberwolves
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",09h05: [BRIAN] San Antonio Spurs vs Minnesota Timberwolves
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV MIXI] Bucheon FC 1995 vs Jeju SK FC
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV KAN] Bucheon FC 1995 vs Jeju SK FC
@@ -473,6 +475,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-06/05: [BLV CÒ] Deportivo Cuenca vs San Lorenzo
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-06/05: [BLV RAMBO] Bula FC vs South Island United FC
+http://sharing.gotdns.ch:8091/socolive.php?id=534055
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-06/05: [BLV PEWPEW] Bula FC vs South Island United FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",11h00-06/05: [A BỆU] Shimizu S-Pulse vs Cerezo Osaka
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -759,10 +767,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=579144
 http://sharing.gotdns.ch:8091/socolive.php?id=598119
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel
 http://livesv2.onnanetwork.xyz/hls/ninochannel/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",LVTT
-https://kubolive.ddns.net:8081/live/lvtt1/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",ATV HD
-https://hnlive.dramahay.xyz/live/atv/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",SGLive
+https://sgclient.duckdns.org/source/twitch.m3u8?channel=devonlynino
 #EXTINF:-1 group-title="TruyenHinh_2",ONi1
 https://1.org.vn/oni1/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi2
@@ -787,6 +793,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=89498
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941442&extension=ts&play_token=6sw55uPREH
+#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941443&extension=ts&play_token=BO2CiGVxUy
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 3
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122024&extension=ts&play_token=CybqwfSLOa
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 4
@@ -1315,8 +1323,6 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Warner TV
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",Celestial Movies
-http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164000&extension=ts&play_token=HqvKowEeO4
 #EXTINF:-1 group-title="TruyenHinh_2",Filmbox
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=88618&extension=ts&play_token=SmJehiM1EA
 #EXTINF:-1 group-title="TruyenHinh_2",HGTV
