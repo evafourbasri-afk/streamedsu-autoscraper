@@ -1,69 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",05h15-05/05 Velez Sarsfield Vs Newells Old Boys
-https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",05h30-05/05 CA Penarol Vs Defensor Sporting Montevideo
-https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LuongSon_2",07h00-05/05 Universitario De Vinto Vs Blooming BLV KHỔNG MINH
-https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",07h00-05/05 New York Knicks Vs Philadelphia 76ers BLV YẾN THANH
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",07h30-05/05 D. Concepcion Vs Huachipato BLV VÕ TÒNG
-https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV RAMBO] Vila Nova vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",05h00: [THE KOP] Vila Nova vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV CHIVAS] San Luis Quillota vs Union San Felipe
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV SATIVA] San Luis Quillota vs Union San Felipe
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",05h15: [BLV GÔN] Velez Sarsfield vs Club Atlético Newell's Old Boys
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",05h15: [BLV ANH TÀI] Velez Sarsfield vs Club Atlético Newell's Old Boys
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",05h15: [BLV LUCAS] Velez Sarsfield vs Club Atlético Newell's Old Boys
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",05h15: [VỊT BẠC] Velez Sarsfield vs Club Atlético Newell's Old Boys
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",07h00: [XUÂN SON] Universitario De Vinto vs Blooming
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV SATIVA] Universitario De Vinto vs Blooming
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV PIRLO] Deportes Quindio vs Tigres FC
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",07h00: [TYPN] Deportes Quindio vs Tigres FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV HENRY] New York Knicks vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",07h00: [A CHÈ] New York Knicks vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",07h00: [HUNTER] New York Knicks vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV KAN] Estudiantes Rio Cuarto vs Instituto de Córdoba
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV ĐỐM] Estudiantes Rio Cuarto vs Instituto de Córdoba
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV COCA] Estudiantes Rio Cuarto vs Instituto de Córdoba
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV CÒ] Estudiantes Rio Cuarto vs Instituto de Córdoba
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV RÔSI] Estudiantes Rio Cuarto vs Instituto de Córdoba
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV A WIN] Estudiantes Rio Cuarto vs Instituto de Córdoba
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",07h30: [VỊT BẠC] San Marcos de Arica vs Deportes Recoleta
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV GÔN] San Marcos de Arica vs Deportes Recoleta
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",08h30: [CHAN SENA] San Antonio Spurs vs Minnesota Timberwolves
+#EXTINF:-1 group-title="Socolive_2",09h05: [CHAN SENA] San Antonio Spurs vs Minnesota Timberwolves
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",08h30: [KING] San Antonio Spurs vs Minnesota Timberwolves
+#EXTINF:-1 group-title="Socolive_2",09h05: [KING] San Antonio Spurs vs Minnesota Timberwolves
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",08h30: [BRIAN] San Antonio Spurs vs Minnesota Timberwolves
+#EXTINF:-1 group-title="Socolive_2",09h05: [BRIAN] San Antonio Spurs vs Minnesota Timberwolves
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV MIXI] Bucheon FC 1995 vs Jeju SK FC
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
