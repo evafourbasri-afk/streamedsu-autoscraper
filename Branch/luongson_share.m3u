@@ -1,19 +1,29 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",23h00-05/05 Japan U17 Vs Qatar U17 BLV LÃO HẠC
-https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 group-title="LuongSon_2",22h00-05/05 FC POHU Vs EBK
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",23h30-05/05 Maccabi Tel Aviv Vs Hapoel Petah Tikva BLV PELE
+#EXTINF:-1 group-title="LuongSon_2",00h30-06/05 Tajikistan U17 Vs Thailand U17 BLV QUAN VŨ
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",00h00-06/05 Saudi Arabia U17 Vs Myanmar U17 BLV TRIỆU TỬ LONG
+https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",23h30-05/05 Maccabi Tel Aviv Vs Hapoel Petah Tikva
 https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LuongSon_2",23h30-05/05 Indonesia U17 Vs China U17 BLV LÝ ỨNG
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",00h00-06/05 Al Ahly SC Vs Enppi BLV MAYBACH
+https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 group-title="LuongSon_2",23h00-05/05 Hapoel Tel Aviv Vs Real Madrid BLV YẾN THANH
 https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",23h45-05/05 Dibba Al-Fujairah Vs Al Bataeh BLV MỘT CHÂN
-https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",23h45-05/05 Banni Yas Vs Al-Dhafra BLV HÀN TÍN
-https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 group-title="LuongSon_2",23h45-05/05 Ittihad Kalba Vs Khor Fakkan BLV FALCON
+#EXTINF:-1 group-title="LuongSon_2",23h00-05/05 Japan U17 Vs Qatar U17
+https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="LuongSon_2",23h45-05/05 Ittihad Kalba Vs Khor Fakkan
 https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",01h00-06/05 Al-Khaleej Vs Al Hilal BLV A TỦA
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",23h45-05/05 Banni Yas Vs Al-Dhafra
+https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="LuongSon_2",23h30-05/05 Indonesia U17 Vs China U17
+https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",00h30-06/05 Besiktas JK Vs Konyaspor BLV TẦN CA
+https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 group-title="LuongSon_2",23h45-05/05 Dibba Al-Fujairah Vs Al Bataeh
+https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",00h00-06/05 Al Duhail Vs Al-Sadd BLV FERNANDO
+https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
