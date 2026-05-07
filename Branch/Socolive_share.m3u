@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] Bacolod Masskara vs Batang Kankaloo
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] Goyang Sono vs KCC Egis
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",17h00: [HUNTER] Goyang Sono vs KCC Egis
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Goyang Sono vs KCC Egis
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",17h05: [A CHÈ] Nagasaki vs Alvark
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",18h00: [VƯƠNG ANH] Preah Khan Reach Svay Rieng FC vs Boeung Ket Angkor
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",18h00: [NGƯỜI CÁ] Preah Khan Reach Svay Rieng FC vs Boeung Ket Angkor
@@ -383,9 +373,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",16h00-08/05: [BLV TOMMY] Bac Ninh vs Truong Tuoi Dong Nai
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",16h00-08/05: [DECO] Bac Ninh vs Truong Tuoi Dong Nai
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",16h00-08/05: [QUỐC KHÁNH] Bac Ninh vs Truong Tuoi Dong Nai
 http://sharing.gotdns.ch:8091/socolive.php?id=602153
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -418,6 +405,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",17h00-08/05: [CHANH MUỐI] Thanh Niên TP. Hồ Chí Minh vs Quy Nhon United
 http://sharing.gotdns.ch:8091/socolive.php?id=598549
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",17h00-08/05: [DECO] Thanh Niên TP. Hồ Chí Minh vs Quy Nhon United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",17h00-08/05: [CHAN SENA] Sarangani Marlins vs Pasay Voyagers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
