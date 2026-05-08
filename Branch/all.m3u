@@ -1,34 +1,40 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",22h00-08/05 Ilves Tampere Vs AC Oulu BLV KAKA
+https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",21h00-08/05 Shabab Al Ordon Vs Sama Al Sarhan
+https://hls-ls.cdnok9.com/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="LuongSon_2",21h00-08/05 Petrojet Vs Wadi Degla SC
+https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",22h00-08/05 Olympique Akbou Vs CR Belouizdad BLV QUAN VŨ
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",21h00-08/05 El Mokawloon El Arab Vs El Gouna FC
+https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="LuongSon_2",22h00-08/05 FC Baranovichi Vs Arsenal Dzyarzhynsk BLV LỮ BỐ
+https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="LuongSon_2",22h00-08/05 FK Chayka Pesch Vs Chernomorets Novorossiysk BLV LÝ QUỲ
+https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2",21h30-08/05 Lokomotiv Plovdiv Vs FC Arda Kardzhali
+https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 group-title="LuongSon_2",21h00-08/05 Al Wehdat SC Vs Al-Ahly
+https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 group-title="LuongSon_2",21h30-08/05 BFC Daugavpils Vs Riga FC
+https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="LuongSon_2",22h00-08/05 TPS Turku Vs HJK Helsinki BLV KEVILL
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",22h00-08/05 Fakel Vs SKA Khabarovsk BLV TÔN LẬP
+https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon_2",22h30-08/05 Sabah FK Baku Vs FK Kapaz Ganca BLV MAYBACH
+https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",21h00-08/05 MELON Vs OK9 TV MEGA LIVE
+https://hls-ls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTINF:-1 group-title="LuongSon_2",23h00-08/05 Al Shahaniya Vs Al-Khuraitiat BLV NHỊ KA
+https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",23h00-08/05 Tartu JK Maag Tammeka Vs FC Kuressaare BLV A TỦA
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV TOMIA] PSBS Biak Numfor vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV 7UP] PSBS Biak Numfor vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",19h00: [THẠCH TÚ] PSBS Biak Numfor vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV TAP] PSBS Biak Numfor vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV MESSI] PSBS Biak Numfor vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ĐỐM] PSBS Biak Numfor vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",19h30: [BLV THÓC] İmişli FK vs Zira FK
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTINF:-1 group-title="Socolive_2",19h30: [MR BÍCH] İmişli FK vs Zira FK
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ALEX] PDRM FC vs Penang FC
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV KEM] PDRM FC vs Penang FC
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ENZO] PDRM FC vs Penang FC
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",20h00: [LOKA] Terengganu FC vs Imigresen FC
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV LION] Terengganu FC vs Imigresen FC
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTINF:-1 group-title="Socolive_2",20h00: [NGƯỜI CÁ] Terengganu FC vs Imigresen FC
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV XO] El Mokawloon El Arab vs El Gounah
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV CÒ] El Mokawloon El Arab vs El Gounah
@@ -126,9 +132,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-09/05: [CHANH MUỐI] Elfsborg vs Brommapojkarna
 http://sharing.gotdns.ch:8091/socolive.php?id=598549
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-09/05: [BLV ANH TÀI] Ham-Kam vs Vålerenga Fotball Elite
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-09/05: [BLV VIP] Ham-Kam vs Vålerenga Fotball Elite
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -216,10 +219,7 @@ http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-09/05: [BLV SATIVA] Barranquilla FC vs Bogota F.C.
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-09/05: [BLV NIBO] Nacional Potosi vs Aurora
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-09/05: [BLV LUCAS] Nacional Potosi vs Aurora
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-09/05: [BLV LUCAS] Barranquilla FC vs Bogota F.C.
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-09/05: [VỊT BẠC] International Miami B vs Chattanooga
@@ -227,6 +227,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-09/05: [BLV GÔN] International Miami B vs Chattanooga
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-09/05: [BLV NIBO] International Miami B vs Chattanooga
+http://sharing.gotdns.ch:8091/socolive.php?id=372746
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-09/05: [KING] Philadelphia 76ers vs New York Knicks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
