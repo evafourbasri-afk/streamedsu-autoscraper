@@ -25,6 +25,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=94144
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941444&extension=ts&play_token=lWRMv4h4G6
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 4
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941444&extension=ts&play_token=T8Adfmt7Vu
+#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 5
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941446&extension=ts&play_token=onKUvLJ1FX
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 6
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122030&extension=ts&play_token=JO8O3NwIu3
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 7
@@ -229,6 +231,10 @@ https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 1
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
