@@ -1,48 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",09h05: [KING] Minnesota Timberwolves vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",09h05: [BLV HENRY] Minnesota Timberwolves vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",09h05: [A CHÈ] Minnesota Timberwolves vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",09h05: [CHAN SENA] Minnesota Timberwolves vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",09h05: [BRIAN] Minnesota Timberwolves vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",09h05: [HUNTER] Minnesota Timberwolves vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",09h30: [A PÁO] Auckland FC Reserves vs Bula FC
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV ĐỐM] Auckland FC Reserves vs Bula FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV CHIVAS] Auckland FC Reserves vs Bula FC
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV 7UP] Auckland FC Reserves vs Bula FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV TOMMY] Auckland FC Reserves vs Bula FC
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV TAP] Auckland FC Reserves vs Bula FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV VOI] Weston Workers FC vs Valentine
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV SATIVA] Weston Workers FC vs Valentine
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",11h00: [RICKHANTER] Melbourne City Women vs Melbourne Victory Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912122
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV RÔSI] Melbourne City Women vs Melbourne Victory Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",11h00: [LOGAN] Melbourne City Women vs Melbourne Victory Women
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV MESSI] Melbourne City Women vs Melbourne Victory Women
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",11h30: [BLV HENRY] Bay Hawks vs Otago Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",11h30: [A CHÈ] Bay Hawks vs Otago Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",11h30: [CHAN SENA] Bay Hawks vs Otago Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",12h00: [MONEY MAN] Mito Hollyhock vs Urawa Red Diamonds
 http://sharing.gotdns.ch:8091/socolive.php?id=605412
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV COCA] Mito Hollyhock vs Urawa Red Diamonds
@@ -495,6 +453,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=602153
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h30-10/05: [BLV GÔN] Montreal Impact vs Orlando City
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h30-10/05: [BLV FIREMAN] Montreal Impact vs Orlando City
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h00-10/05: [BLV A WIN] Fluminense - RJ vs Vitória - BA
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
@@ -1107,6 +1068,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=94144
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941444&extension=ts&play_token=T8Adfmt7Vu
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 5
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941446&extension=ts&play_token=onKUvLJ1FX
+#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 6
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941447&extension=ts&play_token=VmOfMyrDfy
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 7
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 8
@@ -1221,6 +1184,8 @@ https://rumble.com/hls-vod/76srew/playlist.m3u8
 https://vip.opstream90.com/20260502/30774_da58e2e4/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cuốc Xe Âm Phủ - Tập 1
 https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Cuốc Xe Âm Phủ - Tập 2
+https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
@@ -1303,12 +1268,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 5
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
-https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1661,6 +1620,8 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",VOH FM 92 - 92.5 MHz
+https://strm.voh.com.vn/radio/channel6/chunklist_w1907970894.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Bắc Ninh
 http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cà Mau
