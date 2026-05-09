@@ -1,42 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV ENZO] Cerezo Osaka vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",14h00: [THẠCH TÚ] Cerezo Osaka vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV PEWPEW] Cerezo Osaka vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",14h00: [LÃO LÂM] Cerezo Osaka vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",14h00: [A BỆU] Cerezo Osaka vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV BÉO] Cerezo Osaka vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV VITAMIN] Gimcheon Sangmu FC vs Incheon United Club
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV CUỘI] Gimcheon Sangmu FC vs Incheon United Club
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV GÔN] Gimcheon Sangmu FC vs Incheon United Club
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV KEM] Gimcheon Sangmu FC vs Incheon United Club
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV FIREMAN] Gwangju FC vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",14h30: [THE KOP] Gwangju FC vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV ANH TÀI] Gwangju FC vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV ALEX] Gwangju FC vs Gangwon FC
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",14h30: [KING] Manawatu Jets vs Southland Sharks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV HENRY] Manawatu Jets vs Southland Sharks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",14h30: [A CHÈ] Manawatu Jets vs Southland Sharks
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",15h05: [HUNTER] Utsunomiya Brex vs Diamond Dolphins
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",15h30: [A PÁO] Arema FC vs Persatuan Sepakbola Makassar
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",15h30: [PINKMAN] Arema FC vs Persatuan Sepakbola Makassar
@@ -1226,6 +1190,20 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 5
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 4
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 6
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 2
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1247,7 +1225,7 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV9
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV10
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ON Vie Giải Trí
