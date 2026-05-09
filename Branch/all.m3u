@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",03h30: [BLV GÔN] Montreal Impact vs Orlando City
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",03h30: [BLV FIREMAN] Montreal Impact vs Orlando City
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",04h00: [BLV A WIN] Fluminense - RJ vs Vitória - BA
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",04h00: [MONEY MAN] Fluminense - RJ vs Vitória - BA
-http://sharing.gotdns.ch:8091/socolive.php?id=605412
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV CHIVAS] Boca Juniors vs CA Huracan
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",06h30: [BLV RAMBO] Atlanta United vs Los Angeles Galaxy
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",06h30: [BLV GÔN] Atlanta United vs Los Angeles Galaxy
@@ -666,6 +656,42 @@ http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h15-11/05: [BLV 7UP] Pumas U.N.A.M. vs Club America
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [BLV CÒ] Japan U17 W vs South Korea U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [NGƯỜI CÁ] Japan U17 W vs South Korea U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=595335
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [SAO LA] Japan U17 W vs South Korea U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [A PÁO] Japan U17 W vs South Korea U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [PINKMAN] Japan U17 W vs South Korea U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=595715
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [Đình Bắc] Japan U17 W vs South Korea U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [QUỐC KHÁNH] Vietnam U17 W vs Australia U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=602153
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [BLV ENZO] Vietnam U17 W vs Australia U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [TAM MAO] Vietnam U17 W vs Australia U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=9912100
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [LOKA] Vietnam U17 W vs Australia U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=589848
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [BLV MESSI] Vietnam U17 W vs Australia U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-11/05: [BLV COZY] Vietnam U17 W vs Australia U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h00-11/05: [HUNTER] Basilan Steel vs Bulacan Kuyas
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -713,6 +739,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-11/05: [CHÈ XANH] Ural Yekaterinburg vs KAMAZ Naberezhnye Chelny
 http://sharing.gotdns.ch:8091/socolive.php?id=605223
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-11/05: [BLV CHIVAS] China U17 W vs India U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-11/05: [BLV NẤM] China U17 W vs India U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=608899
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-11/05: [BLV RYO] North Korea U17 W vs Thailand U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=602019
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-11/05: [BLV VIP] North Korea U17 W vs Thailand U17 W
+http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-11/05: [LÃO LÂM] Bali United vs Borneo FC
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
