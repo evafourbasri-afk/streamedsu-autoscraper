@@ -1,17 +1,35 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",21h00-11/05 East Bengal Vs Minerva Punjab
-https://hls.cdnok9.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 group-title="LuongSon_2",21h10-11/05 Al Nasr Dubai Vs Ittihad Kalba BLV TỐNG GIANG
-https://hls.cdnok9.live/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="LuongSon_2",21h30-11/05 Spartak Moscow Vs Rubin Kazan BLV KAKA
-https://hls.cdnok9.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="LuongSon_2",21h30-11/05 AL Najaf Vs Arbil BLV PELE
-https://hls.cdnok9.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LuongSon_2",21h30-11/05 Al Karkh Vs Baghdad BLV MỘT CHÂN
+#EXTINF:-1 group-title="LuongSon_2",00h00-12/05 Dynamo Moscow Vs FC Krasnodar BLV MỘT CHÂN
 https://hls.cdnok9.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",22h00-11/05 Spaeri FC Vs Gagra Tbilisi BLV LÃO HẠC
-https://hls.cdnok9.live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 group-title="LuongSon_2",22h00-11/05 Metaloglobus Vs Hermannstadt BLV NGƯỜI THÉP
-https://hls.cdnok9.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 group-title="LuongSon_2",23h00-11/05 Al Khaldiya Vs Al-Muharraq
+https://hls.cdnok9.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",23h30-11/05 Slask Wroclaw Vs LKS Lodz BLV TRIỆU TỬ LONG
+https://hls.cdnok9.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",23h00-11/05 Malkia Vs Al-Riffa
+https://hls.cdnok9.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="LuongSon_2",23h00-11/05 Al-Ahli(BHR) Vs Al Hidd
+https://hls.cdnok9.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="LuongSon_2",23h50-11/05 Neom SC Vs Al-Shabab BLV MAYBACH
+https://hls.cdnok9.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",23h00-11/05 Olympique de Safi Vs Union Touarga Sport Rabat
+https://hls.cdnok9.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="LuongSon_2",23h45-11/05 Khor Fakkan Vs Al Wahda(UAE) BLV A TỦA
+https://hls.cdnok9.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",23h45-11/05 Al-Jazira(UAE) Vs Al-Wasl BLV QUAN VŨ
+https://hls.cdnok9.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",23h30-11/05 Odra Opole Vs Pogon Grodzisk Mazowiecki
+https://hls.cdnok9.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",23h00-11/05 RB Leipzig (W) Vs Bayer Leverkusen (W)
+https://hls.cdnok9.live/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 group-title="LuongSon_2",00h00-12/05 IK Sirius FK Vs Orgryte BLV KHỔNG MINH
+https://hls.cdnok9.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2",00h00-12/05 Randers FC Vs Odense BK BLV URA
+https://hls.cdnok9.live/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",22h00-11/05 Spaeri FC Vs Gagra Tbilisi
+https://hls.cdnok9.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="LuongSon_2",01h00-12/05 Al-Taawoun Vs Al-Ahli SFC BLV PELE
+https://hls.cdnok9.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2",04h00-12/05 Dep.Independiente Medellin Vs Fortaleza F.C BLV LÝ QUỲ
+https://auto.cdnfaster.live/live/sd-6MwdLb43jvajv7vfEt/playlist.m3u8
