@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",04h30: [BLV NIBO] Corinthians - SP vs São Paulo - SP
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",04h30: [BLV LIO] Corinthians - SP vs São Paulo - SP
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",04h30: [BLV CÁO] Santos Fc - SP vs Red Bull Bragantino
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",04h30: [BLV SATIVA] Santos Fc - SP vs Red Bull Bragantino
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",05h00: [VỊT BẠC] River Plate vs San Lorenzo
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV GÔN] River Plate vs San Lorenzo
@@ -35,15 +27,13 @@ http://sharing.gotdns.ch:8091/socolive.php?id=256080
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTINF:-1 group-title="Socolive_2",06h30: [CHANH MUỐI] Vasco da Gama Saf - RJ vs Athletico Paranaense - PR
 http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",06h30: [KING] Minnesota Timberwolves vs San Antonio Spurs
+#EXTINF:-1 group-title="Socolive_2",07h05: [KING] Minnesota Timberwolves vs San Antonio Spurs
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",06h30: [HUNTER] Minnesota Timberwolves vs San Antonio Spurs
+#EXTINF:-1 group-title="Socolive_2",07h05: [HUNTER] Minnesota Timberwolves vs San Antonio Spurs
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",06h30: [A CHÈ] Minnesota Timberwolves vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV HENRY] Minnesota Timberwolves vs San Antonio Spurs
+#EXTINF:-1 group-title="Socolive_2",07h05: [BLV HENRY] Minnesota Timberwolves vs San Antonio Spurs
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",06h30: [BRIAN] Minnesota Timberwolves vs San Antonio Spurs
+#EXTINF:-1 group-title="Socolive_2",07h05: [BRIAN] Minnesota Timberwolves vs San Antonio Spurs
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",07h15: [VỊT BẠC] Monterrey Women vs Pachuca Women
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
@@ -437,6 +427,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-12/05: [BLV GÔN] Cerro Porteno vs Club Guaraní
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-12/05: [BLV LION] Deportivo Cali vs Atletico Bucaramanga
+http://sharing.gotdns.ch:8091/socolive.php?id=603255
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-12/05: [BLV LUCAS] Deportivo Cali vs Atletico Bucaramanga
+http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h25-12/05: [BLV CÁO] Cerro Largo vs CA Penarol
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
