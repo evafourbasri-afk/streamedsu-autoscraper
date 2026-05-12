@@ -33,8 +33,6 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=94144
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941447&extension=ts&play_token=VmOfMyrDfy
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 7
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941449&extension=ts&play_token=uUpqkgtfue
-#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 8
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&extension=ts&play_token=x6iYHVWSH9
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 9
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 10
@@ -229,10 +227,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -588,7 +582,7 @@ https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VOH FM 92 - 92.5 MHz
 https://strm.voh.com.vn/radio/channel6/chunklist_w1907970894.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Bắc Ninh
-http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
+https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cà Mau
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ
