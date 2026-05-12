@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",14h00: [TẠ BIÊN GIỚI] Auckland FC Reserves vs South Island United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV CUỘI] Auckland FC Reserves vs South Island United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTINF:-1 group-title="Socolive_2",14h00: [CR Bưởi] Auckland FC Reserves vs South Island United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV PIRLO] Auckland FC Reserves vs South Island United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",14h00: [RICKHANTER] Auckland FC Reserves vs South Island United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912122
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV COCA] Auckland FC Reserves vs South Island United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",15h00: [BRIAN] Negros Hacienderos vs Marikina Shoemasters
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV HENRY] Negros Hacienderos vs Marikina Shoemasters
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",15h00: [HUNTER] Negros Hacienderos vs Marikina Shoemasters
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV LUCAS] Canberra White Eagles vs Queanbeyan City
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV CHIVAS] Canberra White Eagles vs Queanbeyan City
@@ -479,9 +461,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-13/05: [A CHÈ] Franklin Bulls vs Manawatu Jets
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-13/05: [RICKHANTER] Gainare Tottori vs Reilac Shiga FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912122
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-13/05: [BLV Củ Cải] Gainare Tottori vs Reilac Shiga FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -491,11 +470,17 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-13/05: [DECO] Gainare Tottori vs Reilac Shiga FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-13/05: [BLV ALEX] Gainare Tottori vs Reilac Shiga FC
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h15-13/05: [BRIAN] TNT Tropang 5G vs NLEX Road Warriors
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h30-13/05: [VỊT BẠC] Brindabella Blues FC vs Canberra Juventus
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h30-13/05: [CHÈ XANH] Brindabella Blues FC vs Canberra Juventus
+http://sharing.gotdns.ch:8091/socolive.php?id=605223
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h30-13/05: [ĐỖ TÚ TÀI] Canberra Olympic vs OConnor Knights
 http://sharing.gotdns.ch:8091/socolive.php?id=607552
@@ -677,8 +662,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h45-13/05: [BLV THÓC] CSKA Sofia vs CSKA 1948 Sofia
 http://sharing.gotdns.ch:8091/socolive.php?id=606448
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h45-13/05: [CHÈ XANH] CSKA Sofia vs CSKA 1948 Sofia
-http://sharing.gotdns.ch:8091/socolive.php?id=605223
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h45-13/05: [THE KOP] CSKA Sofia vs CSKA 1948 Sofia
+http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/05: [BLV 7UP] FC Shakhtar Donetsk vs Obolon Kyiv
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
@@ -692,11 +677,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/05: [LÃO LÂM] FC Shakhtar Donetsk vs Obolon Kyiv
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/05: [BLV ALEX] FC Shakhtar Donetsk vs Obolon Kyiv
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/05: [QUỐC KHÁNH] FC Shakhtar Donetsk vs Obolon Kyiv
 http://sharing.gotdns.ch:8091/socolive.php?id=602153
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/05: [RICKHANTER] FC Shakhtar Donetsk vs Obolon Kyiv
+http://sharing.gotdns.ch:8091/socolive.php?id=9912122
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/05: [BLV VOI] BFC Daugavpils vs Rigas Futbola Skola
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
@@ -737,6 +722,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=94144
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941447&extension=ts&play_token=VmOfMyrDfy
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 7
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941449&extension=ts&play_token=uUpqkgtfue
+#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941468&extension=ts&play_token=oLegwjYDD5
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 9
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 10
@@ -849,6 +836,8 @@ https://vip.opstream90.com/20260502/30774_da58e2e4/3000k/hls/mixed.m3u8
 https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cuốc Xe Âm Phủ - Tập 2
 https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Cuốc Xe Âm Phủ - Tập 3
+https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
@@ -872,23 +861,23 @@ https://rumble.com/hls-vod/757w6u/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 11
 https://rumble.com/hls-vod/75uhgc/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+1
-https://sgclient.duckdns.org/source/tv360.mpd?id=2554
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2554
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+2
-https://sgclient.duckdns.org/source/tv360.mpd?id=1
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=1
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+3
-https://sgclient.duckdns.org/source/tv360.mpd?id=148
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=148
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+4
-https://sgclient.duckdns.org/source/tv360.mpd?id=2458
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2458
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+5
-https://sgclient.duckdns.org/source/tv360.mpd?id=9867
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9867
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+9
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9887
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9957
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9957
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+11
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9958
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+12
-https://sgclient.duckdns.org/source/tv360.mpd?id=10001
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9904
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Livestream
@@ -931,8 +920,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 3
-https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -954,45 +943,45 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV9
-https://sgclient.duckdns.org/source/tv360.m3u8?id=8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV10
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ON Vie Giải Trí
-https://sgclient.duckdns.org/source/tv360.m3u8?id=180
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
 #EXTINF:-1 group-title="TruyenHinh_2",ON Phim Việt
-https://sgclient.duckdns.org/source/tv360.m3u8?id=175
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 #EXTINF:-1 group-title="TruyenHinh_2",On Movies - You TV
-https://sgclient.duckdns.org/source/tv360.m3u8?id=181
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
 #EXTINF:-1 group-title="TruyenHinh_2",ON E- Channel
-https://sgclient.duckdns.org/source/tv360.m3u8?id=182
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
 #EXTINF:-1 group-title="TruyenHinh_2",On O2TV
-https://sgclient.duckdns.org/source/tv360.m3u8?id=136
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
 #EXTINF:-1 group-title="TruyenHinh_2",On BiBi
-https://sgclient.duckdns.org/source/tv360.m3u8?id=178
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
 #EXTINF:-1 group-title="TruyenHinh_2",ON Info TV
-https://sgclient.duckdns.org/source/tv360.m3u8?id=189
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
 #EXTINF:-1 group-title="TruyenHinh_2",ON Cine
-https://sgclient.duckdns.org/source/tv360.m3u8?id=176
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
 #EXTINF:-1 group-title="TruyenHinh_2",ON Style TV
-https://sgclient.duckdns.org/source/tv360.m3u8?id=184
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
 #EXTINF:-1 group-title="TruyenHinh_2",On Music
-https://sgclient.duckdns.org/source/tv360.m3u8?id=185
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
 #EXTINF:-1 group-title="TruyenHinh_2",ON TRENDING TV
-https://sgclient.duckdns.org/source/tv360.m3u8?id=186
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
 #EXTINF:-1 group-title="TruyenHinh_2",ON Vie Dramas
-https://sgclient.duckdns.org/source/tv360.m3u8?id=177
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
 #EXTINF:-1 group-title="TruyenHinh_2",ON V Family
-https://sgclient.duckdns.org/source/tv360.m3u8?id=187
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
 #EXTINF:-1 group-title="TruyenHinh_2",On Kids
-https://sgclient.duckdns.org/source/tv360.m3u8?id=179
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
 #EXTINF:-1 group-title="TruyenHinh_2",On Life
-https://sgclient.duckdns.org/source/tv360.m3u8?id=188
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
 #EXTINF:-1 group-title="TruyenHinh_2",On Golf
-https://sgclient.duckdns.org/source/tv360.m3u8?id=169
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV1
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV2 - TODAY TV
-https://sgclient.duckdns.org/source/tv360.m3u8?id=201
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV3
 https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV4
@@ -1034,67 +1023,11 @@ https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Box Hits
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Music Box
-https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
+https://1.org.vn/musicbox
 #EXTINF:-1 group-title="TruyenHinh_2",Woman
 https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
-#EXTINF:-1 group-title="TruyenHinh_2",HTV1 - Đài PTTH Thành Phố Hồ Chí Minh
-https://sgclient.duckdns.org/source/tv360.m3u8?id=190
-#EXTINF:-1 group-title="TruyenHinh_2",HTV2 - Vie Channel
-https://sgclient.duckdns.org/source/tv360.m3u8?id=191
-#EXTINF:-1 group-title="TruyenHinh_2",HTV3 - Đài PTTH Thành Phố Hồ Chí Minh
-https://sgclient.duckdns.org/source/tv360.m3u8?id=192
-#EXTINF:-1 group-title="TruyenHinh_2",HTV4 - Đài PTTH Thành Phố Hồ Chí Minh
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9
-#EXTINF:-1 group-title="TruyenHinh_2",HTV5 - B Channel
-https://sgclient.duckdns.org/source/tv360.m3u8?id=151
-#EXTINF:-1 group-title="TruyenHinh_2",HTV7 - Đài PTTH Thành Phố Hồ Chí Minh
-https://vc.101vn.com/htv/htvcmb.php?id=256
-#EXTINF:-1 group-title="TruyenHinh_2",HTV9 - Đài PTTH Thành Phố Hồ Chí Minh
-https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",HTV Thể Thao
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",HTVC Thuần Việt
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",HTVC Gia đình HD
-https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",HTVC Phụ nữ HD
-https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",HTVC Du lịch Cuộc sống HD
-https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",HTVC Ca nhạc HD
-https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",ANTV HD
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",QPVN HD
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",DRT HD - Báo và PTTH Đắk Lắk
-https://sgclient.duckdns.org/source/tv360.m3u8?id=51
-#EXTINF:-1 group-title="TruyenHinh_2",THP HD - Báo và PTTH Hải Phòng
-https://sgclient.duckdns.org/source/tv360.m3u8?id=60
-#EXTINF:-1 group-title="TruyenHinh_2",THP3 - Báo và PTTH Hải Phòng
-https://sgclient.duckdns.org/source/tv360.m3u8?id=59
-#EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ 1 HD - Báo và PTTH Thành Phố Cần Thơ
-https://sgclient.duckdns.org/source/tv360.m3u8?id=47
-#EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ 2 HD - Báo và PTTH Thành Phố Cần Thơ
-https://sgclient.duckdns.org/source/tv360.m3u8?id=61
-#EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ 3 HD - Báo và PTTH Thành Phố Cần Thơ
-https://sgclient.duckdns.org/source/tv360.m3u8?id=84
-#EXTINF:-1 group-title="TruyenHinh_2",STV HD - Báo và PTTH Sơn La
-https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",PTV HD - Báo và PTTH Phú Thọ
-https://sgclient.duckdns.org/source/tv360.m3u8?id=77
-#EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV1 - Báo và PTTH Đồng Nai
-https://sgclient.duckdns.org/source/tv360.m3u8?id=53
-#EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV2 - Báo và PTTH Đồng Nai
-https://sgclient.duckdns.org/source/tv360.m3u8?id=255
-#EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV3 - Báo và PTTH Đồng Nai
-https://1.org.vn/dnrtv3
-#EXTINF:-1 group-title="TruyenHinh_2",H1 - Báo và PTTH Hà Nội
-https://sgclient.duckdns.org/source/tv360.m3u8?id=33
-#EXTINF:-1 group-title="TruyenHinh_2",H2 - Báo và PTTH Hà Nội
-https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TTV HD - Báo và PTTH Thanh Hóa
-https://sgclient.duckdns.org/source/tv360.m3u8?id=89
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=89
 #EXTINF:-1 group-title="TruyenHinh_2",QTV1 HD - Báo và PTTH Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QTV3 HD - Báo và PTTH Quảng Ninh
@@ -1108,33 +1041,33 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",THVL4 - Báo và PTTH Vĩnh Long
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",THVL5 - Báo và PTTH Vĩnh Long
-https://sgclient.duckdns.org/source/tv360.m3u8?id=91
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=91
 #EXTINF:-1 group-title="TruyenHinh_2",ATV2 | Báo và PTTH An Giang
-https://sgclient.duckdns.org/source/tv360.m3u8?id=35
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=35
 #EXTINF:-1 group-title="TruyenHinh_2",NBTV - Báo và PTTH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",NTV - Báo và PTTH Nghệ An
-https://sgclient.duckdns.org/source/tv360.m3u8?id=74
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=74
 #EXTINF:-1 group-title="TruyenHinh_2",CTV HD - Báo và PTTH Cà Mau
-https://sgclient.duckdns.org/source/tv360.m3u8?id=46
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=46
 #EXTINF:-1 group-title="TruyenHinh_2",GTV - Báo và PTTH Gia Lai
-https://sgclient.duckdns.org/source/tv360.m3u8?id=55
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=55
 #EXTINF:-1 group-title="TruyenHinh_2",KTV HD - Báo và PTTH Khánh Hòa
-https://sgclient.duckdns.org/source/tv360.m3u8?id=65
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=65
 #EXTINF:-1 group-title="TruyenHinh_2",Huế TV - Báo và PTTH Huế
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Tây Ninh TV - Báo và PTTH Tây Ninh
-https://sgclient.duckdns.org/source/tv360.m3u8?id=72
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=72
 #EXTINF:-1 group-title="TruyenHinh_2",THĐT1 HD - Báo và PTTH Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",THĐT2 - Báo và PTTH Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",LTV2 HD - Báo và PTTH Lâm Đồng
-https://sgclient.duckdns.org/source/tv360.m3u8?id=45
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=45
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNRT1 - Báo và PTTH Đà Nẵng
-https://sgclient.duckdns.org/source/tv360.m3u8?id=49
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=49
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNRT2 - Báo và PTTH Đà Nẵng
-https://sgclient.duckdns.org/source/tv360.m3u8?id=80
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=80
 #EXTINF:-1 group-title="TruyenHinh_2",ATV1 - Báo và PTTH An Giang
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ATV3 - Báo và PTTH An Giang
@@ -1142,37 +1075,37 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",LSTV HD - Báo và PTTH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QTTV - Báo và PTTH Quảng Trị
-https://sgclient.duckdns.org/source/tv360.m3u8?id=83
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=83
 #EXTINF:-1 group-title="TruyenHinh_2",BHTTV - Báo và PTTH Hà Tĩnh
-https://sgclient.duckdns.org/source/tv360.m3u8?id=58
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=58
 #EXTINF:-1 group-title="TruyenHinh_2",BTV - Báo và PTTH Bắc Ninh
-https://sgclient.duckdns.org/source/tv360.m3u8?id=39
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=39
 #EXTINF:-1 group-title="TruyenHinh_2",CRTV HD - Báo Cao Bằng
-https://sgclient.duckdns.org/source/tv360.m3u8?id=48
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=48
 #EXTINF:-1 group-title="TruyenHinh_2",HYTV HD - Báo và PTTH Hưng Yên
-https://sgclient.duckdns.org/source/tv360.m3u8?id=64
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=64
 #EXTINF:-1 group-title="TruyenHinh_2",LTV - Báo Lai Châu
-https://sgclient.duckdns.org/source/tv360.m3u8?id=68
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=68
 #EXTINF:-1 group-title="TruyenHinh_2",KTV1 HD - Báo và PTTH Khánh Hòa
-https://sgclient.duckdns.org/source/tv360.m3u8?id=76
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=76
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV1 - Báo và PTTH Quảng Ngãi
-https://sgclient.duckdns.org/source/tv360.m3u8?id=81
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=81
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV2 - Báo và PTTH Quảng Ngãi
-https://vietanhtv.id.vn/vieon.php?type=tivi&kenh=kon-tum-1
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
 #EXTINF:-1 group-title="TruyenHinh_2",TTV HD - Báo và PTTH Tuyên Quang
-https://sgclient.duckdns.org/source/tv360.m3u8?id=92
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=92
 #EXTINF:-1 group-title="TruyenHinh_2",TN - Báo và PTTH Thái Nguyên
-https://sgclient.duckdns.org/source/tv360.m3u8?id=88
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=88
 #EXTINF:-1 group-title="TruyenHinh_2",ĐTV HD - Báo Điện Biên Phủ
-https://sgclient.duckdns.org/source/tv360.m3u8?id=52
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=52
 #EXTINF:-1 group-title="TruyenHinh_2",THLC HD - Báo và PTTH Lào Cai
-https://sgclient.duckdns.org/source/tv360.m3u8?id=71
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=71
 #EXTINF:-1 group-title="TruyenHinh_2",LTV1 HD - Báo và PTTH Lâm Đồng
-https://sgclient.duckdns.org/source/tv360.m3u8?id=69
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=69
 #EXTINF:-1 group-title="TruyenHinh_2",HiTV
-https://sgclient.duckdns.org/source/tv360.m3u8?id=32
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=32
 #EXTINF:-1 group-title="TruyenHinh_2",YouTV
-https://sgclient.duckdns.org/source/tv360.m3u8?id=31
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=31
 #EXTINF:-1 group-title="TruyenHinh_2",HBO
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Asian Food Network
@@ -1216,7 +1149,7 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV5Monde
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9958
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9852
 #EXTINF:-1 group-title="TruyenHinh_2",DW
 https://ace.hoiquan.click/module/IPTV/?id=dw&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",Da Vinci HD
@@ -1246,7 +1179,7 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=10589
 #EXTINF:-1 group-title="TruyenHinh_2",Outdoor Channel
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",History HD
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9856
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9856
 #EXTINF:-1 group-title="TruyenHinh_2",DMAX
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",ABC Australia
