@@ -1,8 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",19h15-14/05 Septemvri Sofia Vs Spartak Varna BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",20h00-14/05 Mjallby AIF Vs Hammarby BLV TỐNG GIANG
+https://hls.cdnfaster-a.live/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",19h00-14/05 Turan Turkistan Vs FK Taraz BLV TÂY MÔN KHÁNH
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="LuongSon_2",20h00-14/05 Al-Jaish Damascus Vs Jableh SC BLV LEO
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="LuongSon_2",19h00-14/05 Shire Endaselassie FC Vs Ethiopia Bunna BLV FERNANDO
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="LuongSon_2",20h00-14/05 Saint Gilloise Vs Anderlecht BLV KAKA
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",19h00-14/05 Respublika FA Vs Olympic MobiUZ BLV URA
+https://hls.cdnfaster-a.live/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2",18h30-14/05 China (W) U17 Vs North Korea (W) U17
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] GenSan Warriors vs Ilagan Isabela Cowboys
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV XO] Hobro vs Aarhus Fremad
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV SATIVA] Hobro vs Aarhus Fremad
@@ -27,14 +43,16 @@ http://sharing.gotdns.ch:8091/socolive.php?id=605223
 http://sharing.gotdns.ch:8091/socolive.php?id=602019
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV VIP] China U17 Women vs North Korea U17 Women
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",19h15: [VƯƠNG ANH] Septemvri Sofia vs Spartak Varna
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",19h15: [LÃO LÂM] Septemvri Sofia vs Spartak Varna
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV ĐỐM] Septemvri Sofia vs Spartak Varna
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV BÉO] Septemvri Sofia vs Spartak Varna
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV MIXI] Septemvri Sofia vs Spartak Varna
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV LONG] Septemvri Sofia vs Spartak Varna
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV RÔSI] Mjallby AIF vs Hammarby
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",20h00: [LOGAN] Mjallby AIF vs Hammarby
