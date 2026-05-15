@@ -31,10 +31,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",16h15: [BLV RYO] Brisbane Roar Youth vs Queensland Lions SC
 http://sharing.gotdns.ch:8091/socolive.php?id=602019
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV CÁO] Green Gully Cavaliers vs Melbourne City NPL
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV NẤM] Green Gully Cavaliers vs Melbourne City NPL
 http://sharing.gotdns.ch:8091/socolive.php?id=608899
+#EXTINF:-1 group-title="Socolive_2",16h30: [BLV KEM] Green Gully Cavaliers vs Melbourne City NPL
+http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV RAMBO] Sydney FC Youth vs Sydney Olympic
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",16h30: [SAO LA] Sydney FC Youth vs Sydney Olympic
@@ -67,8 +67,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=605223
 http://sharing.gotdns.ch:8091/socolive.php?id=603255
 #EXTINF:-1 group-title="Socolive_2",17h00: [PINKMAN] Maitland vs Cooks Hill United
 http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] Nagasaki vs Chiba
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",17h00: [A CHÈ] Nagasaki vs Chiba
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Ryukyu vs Diamond Dolphins
@@ -117,8 +115,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=599634
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV TOMIA] Tianjin Jinmen Tiger vs Chengdu Rongcheng
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",18h35: [VƯƠNG ANH] Tianjin Jinmen Tiger vs Chengdu Rongcheng
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",18h35: [TAM MAO] Tianjin Jinmen Tiger vs Chengdu Rongcheng
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV KAN] Tianjin Jinmen Tiger vs Chengdu Rongcheng
@@ -348,11 +344,23 @@ http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h30-16/05: [MONEY MAN] Liga Dep Universitaria Quito vs Tecnico Universitario
 http://sharing.gotdns.ch:8091/socolive.php?id=605412
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-16/05: [BLV CHIVAS] Orsomarso vs Dep.Independiente Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-16/05: [LÃO LÂM] Patriotas FC vs Millonarios
+http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-16/05: [BLV NẤM] Orsomarso vs Dep.Independiente Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=608899
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-16/05: [BLV ĐỐM] Patriotas FC vs Millonarios
+http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-16/05: [BLV COCA] Patriotas FC vs Millonarios
+http://sharing.gotdns.ch:8091/socolive.php?id=327159
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-16/05: [BLV ENZO] Patriotas FC vs Millonarios
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-16/05: [BLV TOMMY] Patriotas FC vs Millonarios
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-16/05: [CR Bưởi] Patriotas FC vs Millonarios
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-16/05: [BLV HENRY] Cleveland Cavaliers vs Detroit Pistons
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
@@ -387,23 +395,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=602153
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-16/05: [BLV CÒ] Libertad FC vs Deportivo Cuenca
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-16/05: [LÃO LÂM] Patriotas FC vs Millonarios
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-16/05: [BLV CHIVAS] Orsomarso vs Dep.Independiente Medellin
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-16/05: [BLV ĐỐM] Patriotas FC vs Millonarios
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-16/05: [BLV COCA] Patriotas FC vs Millonarios
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-16/05: [BLV ENZO] Patriotas FC vs Millonarios
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-16/05: [BLV TOMMY] Patriotas FC vs Millonarios
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-16/05: [CR Bưởi] Patriotas FC vs Millonarios
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-16/05: [BLV NẤM] Orsomarso vs Dep.Independiente Medellin
+http://sharing.gotdns.ch:8091/socolive.php?id=608899
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-16/05: [BLV HENRY] Minnesota Timberwolves vs San Antonio Spurs
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
@@ -927,6 +923,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=94146
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85666585.ts
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 10
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941470&extension=ts&play_token=2SQs9dSZmM
+#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 11
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941471&extension=ts&play_token=ReuCTADsrG
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 12
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 13
@@ -1029,6 +1027,8 @@ https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8
 https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cuốc Xe Âm Phủ - Tập 4
 https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Cuốc Xe Âm Phủ - Tập Cuối
+https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
@@ -1113,12 +1113,10 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 3
-https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
