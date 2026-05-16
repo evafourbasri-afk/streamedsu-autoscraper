@@ -1,15 +1,23 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",21h00-16/05 Chelsea Vs Manchester City
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 group-title="LuongSon_2",20h30-16/05 Eintracht Frankfurt Vs VfB Stuttgart
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 group-title="LuongSon_2",21h00-16/05 Karagumruk Vs Alanyaspor
+#EXTINF:-1 group-title="LuongSon_2",00h00-17/05 Vietnam U17 Vs Australia U17 BLV PHI HỔ
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 group-title="LuongSon_2",21h30-16/05 FC Porto Vs Santa Clara BLV PELE
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2",00h00-17/05 Sporting Braga Vs Estrela da Amadora BLV TRIỆU TỬ LONG
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 group-title="LuongSon_2",23h00-16/05 Lyon (W) Vs Nantes (W) BLV LÃO HẠC
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 #EXTINF:-1 group-title="LuongSon_2",23h05-16/05 Al Hilal Vs Neom SC BLV SHIN
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",23h30-16/05 Racing Santander Vs Real Valladolid BLV A TỦA
+https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",23h30-16/05 Granada CF Vs Burgos BLV QUAN VŨ
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",23h30-16/05 Almeria Vs Las Palmas BLV HÀN TÍN
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="LuongSon_2",00h00-17/05 FC Arouca Vs CD Tondela BLV LỮ BỐ
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="LuongSon_2",00h00-17/05 Samsunspor Vs Goztepe BLV TÂY MÔN KHÁNH
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="LuongSon_2",23h05-16/05 Al-Okhdood Vs Al-Khaleej BLV FERNANDO
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
