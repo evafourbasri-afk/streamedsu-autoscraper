@@ -1,66 +1,28 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",18h30-17/05 Manchester United Vs Nottingham Forest BLV KEVILL
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",17h00-17/05 Kawasaki Frontale Vs Machida Zelvia BLV LỮ BỐ
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="LuongSon_2",18h00-17/05 Nam Dinh FC Vs Viettel FC
+https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",18h00-17/05 PVF-CAND Vs Hanoi FC
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 group-title="LuongSon_2",19h15-17/05 Cong An Ha Noi Vs Thanh Hoa BLV HÀN TÍN
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="LuongSon_2",19h30-17/05 SC Heerenveen Vs AFC Ajax BLV LÃO HẠC
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="LuongSon_2",19h30-17/05 PSV Eindhoven Vs FC Twente Enschede BLV PHI HỔ
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV FIREMAN] Kawasaki Frontale vs Machida Zelvia
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV VOI] Bucheon FC 1995 vs Pohang Steelers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV LONG] Gangwon FC vs Ulsan HD FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV LION] Hoang Anh Gia Lai vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV LUCAS] Hoang Anh Gia Lai vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",17h00: [CÔNG CHẤT] AS Roma vs Lazio
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV COZY] AS Roma vs Lazio
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV KEM] AS Roma vs Lazio
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",17h00: [VƯƠNG ANH] AS Roma vs Lazio
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV CUỘI] AS Roma vs Lazio
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV PEWPEW] AS Roma vs Lazio
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV THÓC] Como vs Parma
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV GÔN] Como vs Parma
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV VIP] Genoa vs AC Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV CHIVAS] Genoa vs AC Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV SATIVA] Genoa vs AC Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",17h00: [TRÀ ĐÁ] Genoa vs AC Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=603914
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV ALEX] Juventus vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",17h00: [QUỐC KHÁNH] Juventus vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV VITAMIN] Juventus vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV MIXI] Juventus vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",17h00: [LOKA] Juventus vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",17h00: [LÃO LÂM] Juventus vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV KAN] Pisa vs Napoli
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV RYO] Pisa vs Napoli
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV WUKONG] Pisa vs Napoli
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",17h00: [A BỆU] Pisa vs Napoli
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Zenit Petersburg vs Unics Kazan
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",18h00: [VỊT BẠC] Thep Xanh Nam Dinh FC vs The Cong Viettel
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV CÒ] Thep Xanh Nam Dinh FC vs The Cong Viettel
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTINF:-1 group-title="Socolive_2",18h00: [Đình Bắc] Thep Xanh Nam Dinh FC vs The Cong Viettel
+http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",18h00: [ĐỖ TÚ TÀI] PVF CAND vs Hanoi FC
 http://sharing.gotdns.ch:8091/socolive.php?id=607552
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV ANH TÀI] PVF CAND vs Hanoi FC
@@ -495,8 +457,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-18/05: [BLV NẤM] D. Concepcion vs Everton CD
 http://sharing.gotdns.ch:8091/socolive.php?id=608899
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-18/05: [BLV THÓC] Austin FC II vs Saint Louis City B
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-18/05: [HÀ DUY KIÊN] Austin FC II vs Saint Louis City B
+http://sharing.gotdns.ch:8091/socolive.php?id=607400
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-18/05: [BLV FIREMAN] Austin FC II vs Saint Louis City B
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-18/05: [TẠ BIÊN GIỚI] Pumas U.N.A.M. vs Pachuca
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
@@ -956,6 +921,10 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 http://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
