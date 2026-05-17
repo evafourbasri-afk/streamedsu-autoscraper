@@ -1,25 +1,19 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",21h00-17/05 Brentford Vs Crystal Palace BLV KEVILL
+#EXTINF:-1 group-title="LuongSon_2",21h00-17/05 Brentford Vs Crystal Palace
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 group-title="LuongSon_2",21h00-17/05 Everton Vs Sunderland A.F.C BLV KHỔNG MINH
+#EXTINF:-1 group-title="LuongSon_2",21h00-17/05 Everton Vs Sunderland A.F.C
 https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon_2",21h00-17/05 Wolves Vs Fulham BLV FERNANDO
+#EXTINF:-1 group-title="LuongSon_2",21h00-17/05 Wolves Vs Fulham
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 group-title="LuongSon_2",21h00-17/05 Leeds United Vs Brighton Hove Albion BLV YẾN THANH
+#EXTINF:-1 group-title="LuongSon_2",21h00-17/05 Leeds United Vs Brighton Hove Albion
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LuongSon_2",19h15-17/05 Cong An Ha Noi Vs Thanh Hoa
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 group-title="LuongSon_2",19h30-17/05 SC Heerenveen Vs AFC Ajax
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 group-title="LuongSon_2",19h30-17/05 PSV Eindhoven Vs FC Twente Enschede
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 group-title="LuongSon_2",20h00-17/05 Inter Milan Vs Verona BLV LÝ ỨNG
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",20h30-17/05 Darmstadt Vs SC Paderborn 07 BLV A TỦA
-https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",20h30-17/05 Hannover 96 Vs Nurnberg BLV NGƯỜI THÉP
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:-1 group-title="LuongSon_2",21h00-17/05 Kayserispor Vs Konyaspor BLV NHỊ KA
+#EXTINF:-1 group-title="LuongSon_2",21h00-17/05 Kayserispor Vs Konyaspor
 https://hls.cdnfaster-a.live/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",22h00-17/05 FC Krasnodar Vs Gazovik Orenburg BLV PHI HỔ
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="LuongSon_2",22h00-17/05 Rostov FK Vs Zenit St. Petersburg BLV LÃO HẠC
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="LuongSon_2",23h00-17/05 Atalanta Vs Bologna BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
