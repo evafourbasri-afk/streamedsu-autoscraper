@@ -1,11 +1,23 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",17h00-18/05 Zorya Vs Polissya Zhytomyr BLV SHIN
+#EXTINF:-1 group-title="LuongSon_2",20h00-18/05 Shirak Vs Urartu
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="LuongSon_2",16h30-18/05 South Melbourne Vs Caroline Springs George Cross BLV PHI HỔ
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 group-title="LuongSon_2",17h00-18/05 Kudrivka Vs LNZ Cherkasy BLV QUAN VŨ
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 group-title="LuongSon_2",19h00-18/05 Imus Braderhood Vs Pasig City BLV VÕ TÒNG
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",21h00-18/05 Talaea EI-Gaish Vs Pharco BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",21h00-18/05 Termez Surkhon Vs Pakhtakor BLV A TỦA
+https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",18h35-18/05 Zhejiang Guangsha Vs Shenzhen BLV YẾN THANH
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2",20h00-18/05 Yaypan FK Vs Kattaqurgon
+https://hls.cdnfaster-a.live/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
+#EXTINF:-1 group-title="LuongSon_2",21h00-18/05 Kahraba Ismailia Vs Haras El Hedoud BLV KHỔNG MINH
+https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2",20h00-18/05 Qoraqalpog FA Vs Fergana University BLV LÃO HẠC
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="LuongSon_2",21h00-18/05 Kerala Blasters FC Vs FC Goa BLV KEVILL
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",21h00-18/05 Xorazm Urganch Vs Navbahor Namangan BLV MỘT CHÂN
+https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",23h00-18/05 Puszcza Niepolomice Vs LKS Lodz BLV FERNANDO
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
