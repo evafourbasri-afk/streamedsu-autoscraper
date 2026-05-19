@@ -1,30 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",15h00-19/05 Benxi Qingfan Vs Ulanqab Qingnianren BLV NGƯỜI THÉP
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 group-title="LuongSon_2",15h00-19/05 Beijing Pengrui Vs Xingtai Wanshuai BLV SHIN
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",14h30-19/05 Turkmenistan U20 Vs Uzbekistan U20 BLV TỐNG GIANG
+https://hls.cdnfaster-a.live/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",08h55: [KING] Oklahoma City Thunder vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",08h55: [BLV HENRY] Oklahoma City Thunder vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",08h55: [BRIAN] Oklahoma City Thunder vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",08h55: [HUNTER] Oklahoma City Thunder vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",08h55: [A CHÈ] Oklahoma City Thunder vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",08h55: [CHAN SENA] Oklahoma City Thunder vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",09h15: [BLV TAP] Real Espana vs Marathon
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",09h15: [BLV ROBBEN] Real Espana vs Marathon
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",09h15: [BLV ĐỐM] Real Espana vs Marathon
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",09h15: [BLV Củ Cải] Real Espana vs Marathon
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",09h15: [TẠ BIÊN GIỚI] Real Espana vs Marathon
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",09h15: [BLV CUỘI] Real Espana vs Marathon
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
 #EXTINF:-1 group-title="Socolive_2",14h30: [BLV MESSI] Turkmenistan U20 vs Uzbekistan U20
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTINF:-1 group-title="Socolive_2",14h30: [RICKHANTER] Turkmenistan U20 vs Uzbekistan U20
@@ -723,6 +707,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=94147
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692651.ts
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 14
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692661.ts
+#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 15
+http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692650.ts
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 16
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 17
@@ -965,6 +951,8 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=169
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV2 - TODAY TV
 https://sgclient.duckdns.org/source/tv360.m3u8?id=201
+#EXTINF:-1 group-title="TruyenHinh_2",SCTV3
+http://minhghi.vietanhtv.top/VTVGo/tv.php?id=sctv3
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV4
 https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV6
