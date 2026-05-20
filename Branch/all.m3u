@@ -1,28 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",05h00: [VỊT BẠC] Coquimbo Unido vs Deportes Tolima
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",05h00: [HÀ DUY KIÊN] Coquimbo Unido vs Deportes Tolima
-http://sharing.gotdns.ch:8091/socolive.php?id=607400
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV YONE] Fluminense - RJ vs Bolivar
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV A TÚ] Fluminense - RJ vs Bolivar
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV CHIVAS] Fluminense - RJ vs Bolivar
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV NẤM] Fluminense - RJ vs Bolivar
-http://sharing.gotdns.ch:8091/socolive.php?id=608899
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV THÓC] Rosario Central vs Universidad Central de Venezuela
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV KAN] Rosario Central vs Universidad Central de Venezuela
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV LUCAS] Montevideo City Torque vs Deportivo Riestra
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",05h00: [XUÂN SON] Audax Italiano vs Barracas Central
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV SATIVA] Audax Italiano vs Barracas Central
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",06h30: [BLV RAMBO] Orlando City vs Atlanta United
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",06h30: [CR Bưởi] Orlando City vs Atlanta United
@@ -857,6 +835,8 @@ http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692651.ts
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692661.ts
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 15
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692650.ts
+#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 16
+http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692660.ts
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 17
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 18
@@ -1037,8 +1017,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
-https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1095,6 +1073,8 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=179
 https://sgclient.duckdns.org/source/tv360.m3u8?id=188
 #EXTINF:-1 group-title="TruyenHinh_2",On Golf
 https://sgclient.duckdns.org/source/tv360.m3u8?id=169
+#EXTINF:-1 group-title="TruyenHinh_2",SCTV1
+http://minhghi.vietanhtv.top/VTVGo/tv.php?id=sctv1
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV2 - TODAY TV
 https://sgclient.duckdns.org/source/tv360.m3u8?id=201
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV3
