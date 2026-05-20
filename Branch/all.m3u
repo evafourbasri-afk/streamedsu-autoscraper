@@ -1,30 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV FIREMAN] Melbourne City Women vs NTV Tokyo Verdy Beleza
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",12h00: [SAO LA] Melbourne City Women vs NTV Tokyo Verdy Beleza
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",12h00: [DECO] Melbourne City Women vs NTV Tokyo Verdy Beleza
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",12h00: [MONEY MAN] Melbourne City Women vs NTV Tokyo Verdy Beleza
-http://sharing.gotdns.ch:8091/socolive.php?id=605412
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV COCA] Melbourne City Women vs NTV Tokyo Verdy Beleza
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",12h00: [TẠ BIÊN GIỚI] Melbourne City Women vs NTV Tokyo Verdy Beleza
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2",13h30: [BLV TAP] Auckland FC B vs South Island United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV LION] Auckland FC B vs South Island United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
 #EXTINF:-1 group-title="Socolive_2",13h30: [BLV VIP] Auckland FC B vs South Island United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",13h30: [VỊT BẠC] Auckland FC B vs South Island United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV KEM] Don Bosco Garelli United vs Philippine Army FC
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV NẤM] Don Bosco Garelli United vs Philippine Army FC
-http://sharing.gotdns.ch:8091/socolive.php?id=608899
 #EXTINF:-1 group-title="Socolive_2",15h00: [CHAN SENA] Manila Batang Quiapo vs Pasay Voyagers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTINF:-1 group-title="Socolive_2",15h00: [KING] Manila Batang Quiapo vs Pasay Voyagers
@@ -330,11 +312,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912116
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-21/05: [SAO LA] SC Freiburg vs Aston Villa
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h00-21/05: [VỊT BẠC] Llaneros FC vs Patriotas FC
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h00-21/05: [BLV KAN] Llaneros FC vs Patriotas FC
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h00-21/05: [BLV FIREMAN] Llaneros FC vs Patriotas FC
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-21/05: [BLV YONE] Nacional Montevideo vs Universitario De Deportes
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
@@ -390,9 +372,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-21/05: [BLV ENZO] Flamengo - RJ vs Estudiantes La Plata
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-21/05: [BLV FIREMAN] Flamengo - RJ vs Estudiantes La Plata
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-21/05: [BLV PEWPEW] Flamengo - RJ vs Estudiantes La Plata
 http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -417,11 +396,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=608899
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-21/05: [CÔNG CHẤT] Palmeiras - SP vs Cerro Porteno
 http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-21/05: [VỊT BẠC] River Plate vs Red Bull Bragantino
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-21/05: [BLV KAN] River Plate vs Red Bull Bragantino
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-21/05: [BLV RAMBO] River Plate vs Red Bull Bragantino
+http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-21/05: [KING] Oklahoma City Thunder vs San Antonio Spurs
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
@@ -495,9 +474,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=351530
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h30-21/05: [BLV CHIVAS] Washington Spirit Women vs Pachuca Women
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-21/05: [RICKHANTER] Khangarid FC vs Central Stallions
-http://sharing.gotdns.ch:8091/socolive.php?id=9912122
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-21/05: [BLV COCA] Khangarid FC vs Central Stallions
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -512,6 +488,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-21/05: [DECO] Khangarid FC vs Central Stallions
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-21/05: [MONEY MAN] Khangarid FC vs Central Stallions
+http://sharing.gotdns.ch:8091/socolive.php?id=605412
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-21/05: [KING] Southland Sharks vs Wellington Saints
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
@@ -759,8 +738,6 @@ http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692661.ts
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692650.ts
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 16
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692660.ts
-#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 17
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 18
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122054&extension=ts&play_token=XPmBZyeTRp
 #EXTINF:-1 group-title="TruyenHinh_2",MUTV
@@ -939,8 +916,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1003,8 +978,6 @@ http://minhghi.vietanhtv.top/VTVGo/tv.php?id=sctv1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=201
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV3
 http://minhghi.vietanhtv.top/VTVGo/tv.php?id=sctv3
-#EXTINF:-1 group-title="TruyenHinh_2",SCTV4
-https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV7
@@ -1291,6 +1264,8 @@ https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ Radio 1
 https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ Radio 2
+https://live.canthotv.vn/live/radiocs2/chunklist_w790093430.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Đà Nẵng
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Đắk Lắk
