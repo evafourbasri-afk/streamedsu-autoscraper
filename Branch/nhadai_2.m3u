@@ -51,8 +51,6 @@ http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692661.ts
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692650.ts
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 16
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692660.ts
-#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 18
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122054&extension=ts&play_token=XPmBZyeTRp
 #EXTINF:-1 group-title="TruyenHinh_2",MUTV
 http://nocable.cc:8080////////////N2sdm7////////499994//////////53717
 #EXTINF:-1 group-title="TruyenHinh_2",Polsat Sport 1
@@ -229,6 +227,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -633,12 +633,6 @@ https://stream.zeno.fm/ehbutdfccm0uv
 https://stream.zeno.fm/8456uy0bcm0uv
 #EXTINF:-1 group-title="TruyenHinh_2",Radio Nhạc Dân Ca
 https://stream.zeno.fm/a2dbs2tq1p8uv
-#EXTINF:-1 group-title="TruyenHinh_2",VOH FM 99.9
-https://strm.voh.com.vn/radio/channel3/chunklist_w1936699032.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",VOH FM 95.6
-https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",VOH AM 610
-https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",CNN (SV2)
 https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac
 #EXTINF:-1 group-title="TruyenHinh_2",g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png", KISS FM UK

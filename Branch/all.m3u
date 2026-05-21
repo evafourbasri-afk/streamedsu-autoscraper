@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV FIREMAN] Washington Spirit Women vs Pachuca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",09h30: [HÀ DUY KIÊN] Washington Spirit Women vs Pachuca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=607400
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV PIRLO] Washington Spirit Women vs Pachuca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV CHIVAS] Washington Spirit Women vs Pachuca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",14h00: [BLV COCA] Khangarid FC vs Central Stallions
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",14h00: [TẠ BIÊN GIỚI] Khangarid FC vs Central Stallions
@@ -55,26 +47,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTINF:-1 group-title="Socolive_2",18h00: [CHANH MUỐI] FK Aktobe II vs FK Yelimay Semey B
 http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV MESSI] Jamshedpur FC vs Odisha FC
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",18h30: [PINKMAN] Jamshedpur FC vs Odisha FC
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV MIXI] Jamshedpur FC vs Odisha FC
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV PEWPEW] Jamshedpur FC vs Odisha FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV Củ Cải] Punjab vs Mumbai City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",18h30: [TẠ BIÊN GIỚI] Punjab vs Mumbai City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV TOMMY] Punjab vs Mumbai City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",18h30: [SAO LA] Punjab vs Mumbai City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV ROBBEN] Punjab vs Mumbai City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV ĐỐM] Punjab vs Mumbai City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",18h35: [A CHÈ] Shenzhen vs Zhejiang Guangsha
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",19h00: [TRÀ ĐÁ] Kairat Almaty II vs Turan
@@ -107,6 +79,22 @@ http://sharing.gotdns.ch:8091/socolive.php?id=582342
 http://sharing.gotdns.ch:8091/socolive.php?id=602153
 #EXTINF:-1 group-title="Socolive_2",20h00: [HẢI THANH] FK MOIK Baku vs Difai Agsu FK
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV MESSI] Jamshedpur FC vs Odisha FC
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTINF:-1 group-title="Socolive_2",21h00: [PINKMAN] Jamshedpur FC vs Odisha FC
+http://sharing.gotdns.ch:8091/socolive.php?id=595715
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV PEWPEW] Jamshedpur FC vs Odisha FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
+#EXTINF:-1 group-title="Socolive_2",21h00: [TẠ BIÊN GIỚI] Punjab vs Mumbai City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV TOMMY] Punjab vs Mumbai City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTINF:-1 group-title="Socolive_2",21h00: [SAO LA] Punjab vs Mumbai City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV ROBBEN] Punjab vs Mumbai City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=527383
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV ĐỐM] Punjab vs Mumbai City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV CUỘI] Inter Kashi vs East Bengal FC
 http://sharing.gotdns.ch:8091/socolive.php?id=256080
 #EXTINF:-1 group-title="Socolive_2",21h00: [LOGAN] Inter Kashi vs East Bengal FC
@@ -115,8 +103,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=552832
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV A TINH] Inter Kashi vs East Bengal FC
 http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",21h00: [BLV TOMMY] Mohun Bagan Super Giant vs SC Delhi
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",21h00: [CR Bưởi] Mohun Bagan Super Giant vs SC Delhi
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTINF:-1 group-title="Socolive_2",21h00: [DECO] Mohun Bagan Super Giant vs SC Delhi
@@ -127,6 +113,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ENZO] Mohun Bagan Super Giant vs SC Delhi
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV RÔSI] Mohun Bagan Super Giant vs SC Delhi
+http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ANH TÀI] Astana B vs FC Shakhtyor Karagandy
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",21h00: [XUÂN SON] Astana B vs FC Shakhtyor Karagandy
@@ -301,6 +289,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-22/05: [BLV BÉO] FC Utrecht vs SC Heerenveen
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-22/05: [VƯƠNG ANH] FC Utrecht vs SC Heerenveen
+http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h30-22/05: [BLV CHIVAS] Aguilas Doradas vs Deportivo Pereira
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
@@ -656,6 +647,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-22/05: [BLV KEM] Ittihad Alexandria SC vs Ismaily SC
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-22/05: [BLV SATIVA] Ittihad Alexandria SC vs Ismaily SC
+http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-22/05: [THẠCH TÚ] Kahraba Ismailia vs El Mokawloon El Arab
 http://sharing.gotdns.ch:8091/socolive.php?id=9912116
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -764,8 +758,6 @@ http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692661.ts
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692650.ts
 #EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 16
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692660.ts
-#EXTINF:-1 group-title="TruyenHinh_2",CANAL+ LIVE 18
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122054&extension=ts&play_token=XPmBZyeTRp
 #EXTINF:-1 group-title="TruyenHinh_2",MUTV
 http://nocable.cc:8080////////////N2sdm7////////499994//////////53717
 #EXTINF:-1 group-title="TruyenHinh_2",Polsat Sport 1
@@ -942,6 +934,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1346,12 +1340,6 @@ https://stream.zeno.fm/ehbutdfccm0uv
 https://stream.zeno.fm/8456uy0bcm0uv
 #EXTINF:-1 group-title="TruyenHinh_2",Radio Nhạc Dân Ca
 https://stream.zeno.fm/a2dbs2tq1p8uv
-#EXTINF:-1 group-title="TruyenHinh_2",VOH FM 99.9
-https://strm.voh.com.vn/radio/channel3/chunklist_w1936699032.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",VOH FM 95.6
-https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",VOH AM 610
-https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",CNN (SV2)
 https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac
 #EXTINF:-1 group-title="TruyenHinh_2",g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png", KISS FM UK
