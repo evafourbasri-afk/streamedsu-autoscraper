@@ -1,94 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",01h00-22/05 Al-Nassr Vs Damac FC BLV NHỊ KA
-https://hls.cdnfaster-a.live/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="LuongSon_2",01h00-22/05 Neom SC Vs Al-Ettifaq BLV PHI HỔ
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 group-title="LuongSon_2",01h00-22/05 Al-Hazm Vs Al-Taawoun BLV FERNANDO
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 group-title="LuongSon_2",01h00-22/05 Al-Feiha Vs Al Hilal BLV HÀN TÍN
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 group-title="LuongSon_2",23h00-21/05 Najma Manama Vs Al-Ittihad(BHR)
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",23h45-21/05 AFC Ajax Vs Groningen BLV KAKA
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="LuongSon_2",01h00-22/05 Al Kholood Vs Al-Fateh BLV MỘT CHÂN
-https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon_2",01h00-22/05 Al-Riyadh Vs Al-Okhdood BLV QUAN VŨ
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 group-title="LuongSon_2",23h30-21/05 Brondby IF Vs FC Copenhagen
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="LuongSon_2",01h00-22/05 Al-Ittihad Vs Al Qadsiah BLV TIỂU LANG
-https://hls.cdnfaster-a.live/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
-#EXTINF:-1 group-title="LuongSon_2",00h00-22/05 Elfsborg Vs Mjallby AIF BLV A TỦA
-https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LuongSon_2",01h30-22/05 KAA Gent Vs Saint Gilloise BLV LÝ ỨNG
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",01h30-22/05 Mechelen Vs Club Brugge BLV LÃO HẠC
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 group-title="LuongSon_2",01h30-22/05 Anderlecht Vs Sint-Truidense BLV TRIỆU TỬ LONG
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV PEWPEW] Brondby IF vs FC Copenhagen
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",23h30: [CÔNG CHẤT] Brondby IF vs FC Copenhagen
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV COZY] Brondby IF vs FC Copenhagen
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV XO] Brondby IF vs FC Copenhagen
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV VITAMIN] Brondby IF vs FC Copenhagen
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV RÔSI] Brondby IF vs FC Copenhagen
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",23h45: [LÃO LÂM] AFC Ajax vs Groningen
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",23h45: [A BỆU] AFC Ajax vs Groningen
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",23h45: [BLV BÉO] AFC Ajax vs Groningen
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",23h45: [BLV FIREMAN] AFC Ajax vs Groningen
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",23h45: [CR Bưởi] AFC Ajax vs Groningen
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",23h45: [VƯƠNG ANH] AFC Ajax vs Groningen
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",00h00: [BLV KEM] Elfsborg vs Mjallby AIF
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",00h00: [CHANH MUỐI] Elfsborg vs Mjallby AIF
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",01h00: [NGƯỜI CÁ] Al Fayha vs Al Hilal
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",01h00: [LOKA] Al Fayha vs Al Hilal
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV MESSI] Al Fayha vs Al Hilal
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV VIP] Al Fayha vs Al Hilal
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",01h00: [QUỐC KHÁNH] Al Hazem vs Al Taawoun
-http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV A TINH] Al Hazem vs Al Taawoun
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV A WIN] Al Ittihad Club vs Al Qadsiah
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV ALEX] Al Ittihad Club vs Al Qadsiah
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",01h00: [THẠCH TÚ] Al Nassr FC vs Damac
-http://sharing.gotdns.ch:8091/socolive.php?id=9912116
-#EXTINF:-1 group-title="Socolive_2",01h00: [SAO LA] Al Nassr FC vs Damac
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",01h00: [DECO] Al Nassr FC vs Damac
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV ĐỐM] Al Nassr FC vs Damac
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV COCA] Al Nassr FC vs Damac
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV 7UP] Al Nassr FC vs Damac
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",01h15: [BLV GÔN] Grasshopper vs Aarau
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",01h30: [BLV CÁO] Anderlecht vs Sint-Truidense
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTINF:-1 group-title="Socolive_2",01h30: [BLV CÒ] Anderlecht vs Sint-Truidense
@@ -107,12 +19,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=290928
 http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTINF:-1 group-title="Socolive_2",01h30: [BLV PIRLO] VfL Wolfsburg vs SC Paderborn 07
 http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",01h30: [RICKHANTER] VfL Wolfsburg vs SC Paderborn 07
-http://sharing.gotdns.ch:8091/socolive.php?id=9912122
 #EXTINF:-1 group-title="Socolive_2",01h30: [BLV XO] VfL Wolfsburg vs SC Paderborn 07
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2",01h30: [BLV VITAMIN] VfL Wolfsburg vs SC Paderborn 07
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTINF:-1 group-title="Socolive_2",01h55: [BLV GÔN] Grasshopper vs Aarau
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",02h00: [BLV FIREMAN] Partick Thistle FC vs Saint Mirren
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",02h00: [TRÀ ĐÁ] FC Utrecht vs SC Heerenveen
