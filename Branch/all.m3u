@@ -1,30 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV PEWPEW] Dalian Yingbo B vs Tai'an Tiankuang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",14h00: [LÃO LÂM] Dalian Yingbo B vs Tai'an Tiankuang
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",14h00: [A BỆU] Dalian Yingbo B vs Tai'an Tiankuang
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV XO] Dalian Yingbo B vs Tai'an Tiankuang
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV VITAMIN] Dalian Yingbo B vs Tai'an Tiankuang
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV MIXI] Dalian Yingbo B vs Tai'an Tiankuang
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",14h30: [KING] Manawatu Jets vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",14h30: [HUNTER] Manawatu Jets vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",14h30: [CHAN SENA] Manawatu Jets vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",14h30: [BRIAN] Manawatu Jets vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV HENRY] Manawatu Jets vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",14h30: [A CHÈ] Manawatu Jets vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV TOMMY] Arema FC vs PSIM Yogyakarta
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",15h30: [SAO LA] Arema FC vs PSIM Yogyakarta
@@ -334,29 +310,29 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/05: [BLV KAN] Club Atlético Unión vs CA Independiente
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-23/05: [BLV A TÚ] Everton CD vs Coquimbo Unido
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-23/05: [BLV TOMIA] Everton CD vs Coquimbo Unido
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-23/05: [BLV ENZO] Everton CD vs Coquimbo Unido
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-23/05: [BLV YONE] Everton CD vs Coquimbo Unido
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-23/05: [BLV THÓC] Sporting Kansas City Reserves vs Austin FC II
 http://sharing.gotdns.ch:8091/socolive.php?id=606448
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-23/05: [HÀ DUY KIÊN] Sporting Kansas City Reserves vs Austin FC II
 http://sharing.gotdns.ch:8091/socolive.php?id=607400
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-23/05: [BLV TOMIA] Sporting Kansas City Reserves vs Austin FC II
+http://sharing.gotdns.ch:8091/socolive.php?id=9912008
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-23/05: [BLV ENZO] Sporting Kansas City Reserves vs Austin FC II
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-23/05: [XUÂN SON] FC Tulsa vs Hartford Athletic
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-23/05: [HẢI THANH] FC Tulsa vs Hartford Athletic
 http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-23/05: [BLV YONE] FC Tulsa vs Hartford Athletic
+http://sharing.gotdns.ch:8091/socolive.php?id=372746
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-23/05: [BLV A TÚ] FC Tulsa vs Hartford Athletic
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-23/05: [CHAN SENA] San Antonio Spurs vs Oklahoma City Thunder
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
@@ -618,9 +594,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=598119
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-23/05: [NGƯỜI CÁ] Madura United vs Persatuan Sepakbola Makassar
 http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-23/05: [BLV KAN] Madura United vs Persatuan Sepakbola Makassar
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-23/05: [BLV MESSI] Borneo FC vs Malut United
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
@@ -1129,6 +1102,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 15
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 3
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
