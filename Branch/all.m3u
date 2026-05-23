@@ -1,64 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",18h00-23/05 Da Nang Vs Hai Phong BLV MỘT CHÂN
-https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="LuongSon_2",18h00-23/05 Inter Turku Vs TPS Turku BLV LƯU BỊ
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",18h00-23/05 Thanh Hoa Vs Hoang Anh Gia Lai BLV LÃO HẠC
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 group-title="LuongSon_2",16h00-23/05 Kashiwa Reysol Vs JEF United Ichihara Chiba
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",17h00-23/05 PFC Oleksandria Vs Kryvbas BLV HÀN TÍN
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 group-title="LuongSon_2",18h00-23/05 Shanghai Port Vs Tianjin Tigers BLV MAYBACH
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",17h00-23/05 Kyoto Sanga Vs V-Varen Nagasaki BLV KAKA
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",18h00-23/05 Da Nang Vs Hai Phong BLV MỘT CHÂN
+https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2",19h00-23/05 Dalian Zhixing Vs Chengdu Rongcheng FC BLV SHIN
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 group-title="LuongSon_2",18h00-23/05 Ninh Binh FC Vs Cong An TP Ho Chi Minh BLV MÃ SIÊU
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 group-title="LuongSon_2",16h00-23/05 Persib Bandung Vs Persijap Jepara
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",18h00-23/05 Thanh Hoa Vs Hoang Anh Gia Lai BLV LÃO HẠC
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="LuongSon_2",19h00-23/05 Middelfart G og Vs B93 Copenhagen BLV PHI HỔ
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="LuongSon_2",18h00-23/05 Shanghai Port Vs Tianjin Tigers BLV MAYBACH
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",19h30-23/05 Hanoi Buffaloes Vs Nhatrang Dolphins BLV YẾN THANH
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",16h00: [THẠCH TÚ] Kashiwa Reysol vs JEF United Ichihara Chiba
-http://sharing.gotdns.ch:8091/socolive.php?id=9912116
-#EXTINF:-1 group-title="Socolive_2",16h00: [SAO LA] Kashiwa Reysol vs JEF United Ichihara Chiba
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",16h00: [A PÁO] Kashiwa Reysol vs JEF United Ichihara Chiba
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV KEM] Kashiwa Reysol vs JEF United Ichihara Chiba
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV A TINH] Kashiwa Reysol vs JEF United Ichihara Chiba
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTINF:-1 group-title="Socolive_2",16h00: [A BỆU] Kashiwa Reysol vs JEF United Ichihara Chiba
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",16h00: [TRÀ ĐÁ] Persib Bandung vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=603914
-#EXTINF:-1 group-title="Socolive_2",16h00: [PINKMAN] Persib Bandung vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",16h00: [CR Bưởi] Persib Bandung vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV THÓC] Persib Bandung vs Persijap Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTINF:-1 group-title="Socolive_2",16h00: [A CHÈ] Fubon Braves vs Tainan TSG GhostHawks
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV COZY] Kyoto Sanga vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV BÉO] Kyoto Sanga vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV LONG] Kyoto Sanga vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV RÔSI] Kyoto Sanga vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",17h00: [LOGAN] Kyoto Sanga vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",17h00: [LÃO LÂM] Kyoto Sanga vs V-Varen Nagasaki
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] Zamboanga Sikat vs Abra Weavers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Zamboanga Sikat vs Abra Weavers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV RAMBO] Inter Turku vs TPS Turku
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV KAN] Inter Turku vs TPS Turku
@@ -844,7 +804,7 @@ http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-24/05: [NGƯỜI CÁ] Bodo Glimt vs Brann
 http://sharing.gotdns.ch:8091/socolive.php?id=595335
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-24/05: [BLV DỨA] Bodo Glimt vs Brann
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-24/05: [DỨAAAAA] Bodo Glimt vs Brann
 http://sharing.gotdns.ch:8091/socolive.php?id=612685
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV ĐỐM] Brighton Hove Albion vs Manchester United
@@ -1204,10 +1164,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 4
 https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 1
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 6
-https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 2
 https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
@@ -1216,6 +1172,8 @@ https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 3
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
