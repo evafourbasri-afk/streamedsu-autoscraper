@@ -1,62 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",22h30-23/05 Akron Togliatti Vs Rotor Volgograd BLV NGƯỜI THÉP
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:-1 group-title="LuongSon_2",21h00-23/05 SJK Seinajoen Vs AC Oulu
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LuongSon_2",22h00-23/05 FC Karpaty Lviv Vs Zorya BLV TÔN LẬP
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="LuongSon_2",21h30-23/05 Chindia Targoviste Vs Farul Constanta
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 group-title="LuongSon_2",21h00-23/05 KuPs Vs Lahti
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 group-title="LuongSon_2",22h30-23/05 Lech Poznan Vs Wisla Plock BLV LÃO HẠC
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 group-title="LuongSon_2",21h30-23/05 Hull City Vs Middlesbrough
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 group-title="LuongSon_2",23h00-23/05 Barcelona (W) Vs Lyon (W) BLV TRIỆU TỬ LONG
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 group-title="LuongSon_2",23h00-23/05 Bologna Vs Inter Milan BLV MÃ SIÊU
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",23h00-23/05 Barcelona (W) Vs Lyon (W) BLV TRIỆU TỬ LONG
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",22h30-23/05 Akron Togliatti Vs Rotor Volgograd
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 group-title="LuongSon_2",22h30-23/05 Lech Poznan Vs Wisla Plock
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="LuongSon_2",23h15-23/05 FCV Dender EH Vs KVSK Lommel BLV LƯU BỊ
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="LuongSon_2",00h00-24/05 Dinamo Brest Vs Arsenal Dzyarzhynsk BLV PELE
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",21h00: [LOKA] Ilves Tampere vs Gnistan Helsinki
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",21h00: [NGƯỜI CÁ] Jaro vs IFK Mariehamn
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTINF:-1 group-title="Socolive_2",21h00: [BLV ROBBEN] Jaro vs IFK Mariehamn
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",21h00: [BLV CÁO] KuPs vs Lahti
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTINF:-1 group-title="Socolive_2",21h00: [CHANH MUỐI] KuPs vs Lahti
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTINF:-1 group-title="Socolive_2",21h00: [BLV GÔN] SJK Seinajoen vs AC Oulu
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",21h00: [TYPN] SJK Seinajoen vs AC Oulu
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",21h00: [BLV ENZO] Celtic FC vs Dunfermline Athletic
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",21h00: [PINKMAN] Celtic FC vs Dunfermline Athletic
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTINF:-1 group-title="Socolive_2",21h00: [BLV KEM] Celtic FC vs Dunfermline Athletic
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",21h00: [A CHÈ] CSKA Moscow vs Lokomotiv Kuban
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",21h30: [BLV TAP] Hull City vs Middlesbrough
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",21h30: [DECO] Hull City vs Middlesbrough
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",21h30: [BLV ĐỐM] Hull City vs Middlesbrough
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",21h30: [BLV COCA] Hull City vs Middlesbrough
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",21h30: [TẠ BIÊN GIỚI] Hull City vs Middlesbrough
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",21h30: [BLV TOMMY] Hull City vs Middlesbrough
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",21h30: [KING] Ulm vs Bamberg
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",22h30: [KÉP] Akron Togliatti vs Rotor Volgograd
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",22h30: [BLV RAMBO] Akron Togliatti vs Rotor Volgograd
@@ -77,768 +35,598 @@ http://sharing.gotdns.ch:8091/socolive.php?id=607552
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",22h30: [BLV VIP] Rakow Czestochowa vs Arka Gdynia
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [BLV PIRLO] Bologna vs Inter Milan
+#EXTINF:-1 group-title="Socolive_2",23h00: [BLV PIRLO] Bologna vs Inter Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [RICKHANTER] Bologna vs Inter Milan
+#EXTINF:-1 group-title="Socolive_2",23h00: [RICKHANTER] Bologna vs Inter Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912122
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [BLV TOMIA] Bologna vs Inter Milan
+#EXTINF:-1 group-title="Socolive_2",23h00: [BLV TOMIA] Bologna vs Inter Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [BLV 7UP] Bologna vs Inter Milan
+#EXTINF:-1 group-title="Socolive_2",23h00: [BLV 7UP] Bologna vs Inter Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [BLV CUỘI] Bologna vs Inter Milan
+#EXTINF:-1 group-title="Socolive_2",23h00: [BLV CUỘI] Bologna vs Inter Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [SAO LA] Bologna vs Inter Milan
+#EXTINF:-1 group-title="Socolive_2",23h00: [SAO LA] Bologna vs Inter Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [A BỆU] Barcelona Women vs OL Lyonnes Women
+#EXTINF:-1 group-title="Socolive_2",23h00: [A BỆU] Barcelona Women vs OL Lyonnes Women
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [BLV BÉO] Barcelona Women vs OL Lyonnes Women
+#EXTINF:-1 group-title="Socolive_2",23h00: [BLV BÉO] Barcelona Women vs OL Lyonnes Women
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [BLV LONG] Barcelona Women vs OL Lyonnes Women
+#EXTINF:-1 group-title="Socolive_2",23h00: [BLV LONG] Barcelona Women vs OL Lyonnes Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [THẠCH TÚ] Barcelona Women vs OL Lyonnes Women
+#EXTINF:-1 group-title="Socolive_2",23h00: [THẠCH TÚ] Barcelona Women vs OL Lyonnes Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912116
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [CR Bưởi] Barcelona Women vs OL Lyonnes Women
+#EXTINF:-1 group-title="Socolive_2",23h00: [CR Bưởi] Barcelona Women vs OL Lyonnes Women
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [BLV MESSI] Barcelona Women vs OL Lyonnes Women
+#EXTINF:-1 group-title="Socolive_2",23h00: [BLV MESSI] Barcelona Women vs OL Lyonnes Women
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [A CHÈ] Unicaja vs Breogan
+#EXTINF:-1 group-title="Socolive_2",23h00: [A CHÈ] Unicaja vs Breogan
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-23/05: [HUNTER] Unicaja vs Breogan
+#EXTINF:-1 group-title="Socolive_2",23h00: [HUNTER] Unicaja vs Breogan
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h45-23/05: [QUỐC KHÁNH] Dinamo Zagreb vs NK Lokomotiva Zagreb
+#EXTINF:-1 group-title="Socolive_2",23h45: [QUỐC KHÁNH] Dinamo Zagreb vs NK Lokomotiva Zagreb
 http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h45-23/05: [BLV A TINH] Dinamo Zagreb vs NK Lokomotiva Zagreb
+#EXTINF:-1 group-title="Socolive_2",23h45: [BLV A TINH] Dinamo Zagreb vs NK Lokomotiva Zagreb
 http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-24/05: [SAO LA] FC Bayern Munich vs VfB Stuttgart
+#EXTINF:-1 group-title="Socolive_2",01h00: [SAO LA] FC Bayern Munich vs VfB Stuttgart
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-24/05: [BLV PIRLO] FC Bayern Munich vs VfB Stuttgart
+#EXTINF:-1 group-title="Socolive_2",01h00: [BLV PIRLO] FC Bayern Munich vs VfB Stuttgart
 http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-24/05: [A BỆU] FC Bayern Munich vs VfB Stuttgart
+#EXTINF:-1 group-title="Socolive_2",01h00: [A BỆU] FC Bayern Munich vs VfB Stuttgart
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-24/05: [BLV COCA] FC Bayern Munich vs VfB Stuttgart
+#EXTINF:-1 group-title="Socolive_2",01h00: [BLV COCA] FC Bayern Munich vs VfB Stuttgart
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-24/05: [VƯƠNG ANH] FC Bayern Munich vs VfB Stuttgart
+#EXTINF:-1 group-title="Socolive_2",01h00: [VƯƠNG ANH] FC Bayern Munich vs VfB Stuttgart
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-24/05: [THẠCH TÚ] FC Bayern Munich vs VfB Stuttgart
+#EXTINF:-1 group-title="Socolive_2",01h00: [THẠCH TÚ] FC Bayern Munich vs VfB Stuttgart
 http://sharing.gotdns.ch:8091/socolive.php?id=9912116
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h45-24/05: [NGƯỜI CÁ] Lazio vs Pisa
+#EXTINF:-1 group-title="Socolive_2",01h45: [NGƯỜI CÁ] Lazio vs Pisa
 http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [ĐỖ TÚ TÀI] Deportivo Alavés vs Rayo Vallecano
+#EXTINF:-1 group-title="Socolive_2",02h00: [ĐỖ TÚ TÀI] Deportivo Alavés vs Rayo Vallecano
 http://sharing.gotdns.ch:8091/socolive.php?id=607552
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [TRÀ ĐÁ] Real Betis vs Levante
+#EXTINF:-1 group-title="Socolive_2",02h00: [TRÀ ĐÁ] Real Betis vs Levante
 http://sharing.gotdns.ch:8091/socolive.php?id=603914
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [QUỐC KHÁNH] RC Celta vs Sevilla FC
+#EXTINF:-1 group-title="Socolive_2",02h00: [QUỐC KHÁNH] RC Celta vs Sevilla FC
 http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV A TINH] RC Celta vs Sevilla FC
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV A TINH] RC Celta vs Sevilla FC
 http://sharing.gotdns.ch:8091/socolive.php?id=598119
+#EXTINF:-1 group-title="Socolive_2",02h00: [PINKMAN] RCD Espanyol vs Real Sociedad
+http://sharing.gotdns.ch:8091/socolive.php?id=595715
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV VOI] Getafe vs CA Osasuna
+http://sharing.gotdns.ch:8091/socolive.php?id=9912114
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV A WIN] Girona FC vs Elche
+http://sharing.gotdns.ch:8091/socolive.php?id=536185
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV VIP] Girona FC vs Elche
+http://sharing.gotdns.ch:8091/socolive.php?id=491873
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV GÔN] Girona FC vs Elche
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV RAMBO] Girona FC vs Elche
+http://sharing.gotdns.ch:8091/socolive.php?id=534055
+#EXTINF:-1 group-title="Socolive_2",02h00: [CHANH MUỐI] RCD Mallorca vs Real Oviedo
+http://sharing.gotdns.ch:8091/socolive.php?id=598549
+#EXTINF:-1 group-title="Socolive_2",02h00: [CÔNG CHẤT] Real Madrid vs Athletic Club
+http://sharing.gotdns.ch:8091/socolive.php?id=291277
+#EXTINF:-1 group-title="Socolive_2",02h00: [KÉP] Real Madrid vs Athletic Club
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV KEM] Real Madrid vs Athletic Club
+http://sharing.gotdns.ch:8091/socolive.php?id=513394
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV LONG] Real Madrid vs Athletic Club
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV WUKONG] Real Madrid vs Athletic Club
+http://sharing.gotdns.ch:8091/socolive.php?id=511367
+#EXTINF:-1 group-title="Socolive_2",02h00: [LOKA] Real Madrid vs Athletic Club
+http://sharing.gotdns.ch:8091/socolive.php?id=589848
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV COZY] Valencia CF vs FC Barcelona
+http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV BÉO] Valencia CF vs FC Barcelona
+http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV VITAMIN] Valencia CF vs FC Barcelona
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTINF:-1 group-title="Socolive_2",02h00: [BLV CUỘI] Valencia CF vs FC Barcelona
+http://sharing.gotdns.ch:8091/socolive.php?id=256080
+#EXTINF:-1 group-title="Socolive_2",02h00: [CR Bưởi] Valencia CF vs FC Barcelona
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTINF:-1 group-title="Socolive_2",02h00: [LÃO LÂM] Valencia CF vs FC Barcelona
+http://sharing.gotdns.ch:8091/socolive.php?id=527384
+#EXTINF:-1 group-title="Socolive_2",05h00: [BLV THÓC] Grêmio - RS vs Santos Fc - SP
+http://sharing.gotdns.ch:8091/socolive.php?id=606448
+#EXTINF:-1 group-title="Socolive_2",05h00: [A PÁO] Grêmio - RS vs Santos Fc - SP
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTINF:-1 group-title="Socolive_2",05h00: [HÀ DUY KIÊN] Grêmio - RS vs Santos Fc - SP
+http://sharing.gotdns.ch:8091/socolive.php?id=607400
+#EXTINF:-1 group-title="Socolive_2",05h00: [BLV LUCAS] Mirassol - SP vs Fluminense - RJ
+http://sharing.gotdns.ch:8091/socolive.php?id=304148
+#EXTINF:-1 group-title="Socolive_2",05h00: [XUÂN SON] Mirassol - SP vs Fluminense - RJ
+http://sharing.gotdns.ch:8091/socolive.php?id=501412
+#EXTINF:-1 group-title="Socolive_2",05h00: [BLV SATIVA] Mirassol - SP vs Fluminense - RJ
+http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTINF:-1 group-title="Socolive_2",06h30: [BLV GÔN] Charlotte FC vs New England Revolution
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTINF:-1 group-title="Socolive_2",06h30: [BLV RYO] DC United vs Montreal Impact
+http://sharing.gotdns.ch:8091/socolive.php?id=602019
+#EXTINF:-1 group-title="Socolive_2",06h30: [BLV HÚP] DC United vs Montreal Impact
+http://sharing.gotdns.ch:8091/socolive.php?id=611382
+#EXTINF:-1 group-title="Socolive_2",06h30: [BLV CHIVAS] FC Cincinnati vs Orlando City
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
+#EXTINF:-1 group-title="Socolive_2",06h30: [BLV NẤM] FC Cincinnati vs Orlando City
+http://sharing.gotdns.ch:8091/socolive.php?id=608899
+#EXTINF:-1 group-title="Socolive_2",07h00: [BLV FIREMAN] Flamengo - RJ vs Palmeiras - SP
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTINF:-1 group-title="Socolive_2",07h00: [HÀ DUY KIÊN] Flamengo - RJ vs Palmeiras - SP
+http://sharing.gotdns.ch:8091/socolive.php?id=607400
+#EXTINF:-1 group-title="Socolive_2",07h00: [BLV ANH TÀI] Flamengo - RJ vs Palmeiras - SP
+http://sharing.gotdns.ch:8091/socolive.php?id=406865
+#EXTINF:-1 group-title="Socolive_2",07h00: [CHAN SENA] Cleveland Cavaliers vs New York Knicks
+http://sharing.gotdns.ch:8091/socolive.php?id=9912115
+#EXTINF:-1 group-title="Socolive_2",07h00: [KING] Cleveland Cavaliers vs New York Knicks
+http://sharing.gotdns.ch:8091/socolive.php?id=9912099
+#EXTINF:-1 group-title="Socolive_2",07h00: [BRIAN] Cleveland Cavaliers vs New York Knicks
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
+#EXTINF:-1 group-title="Socolive_2",07h00: [A CHÈ] Cleveland Cavaliers vs New York Knicks
+http://sharing.gotdns.ch:8091/socolive.php?id=356042
+#EXTINF:-1 group-title="Socolive_2",07h00: [HUNTER] Cleveland Cavaliers vs New York Knicks
+http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTINF:-1 group-title="Socolive_2",07h00: [BLV HENRY] Cleveland Cavaliers vs New York Knicks
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTINF:-1 group-title="Socolive_2",07h30: [BLV LUCAS] Chicago Fire vs Toronto FC
+http://sharing.gotdns.ch:8091/socolive.php?id=304148
+#EXTINF:-1 group-title="Socolive_2",07h30: [BLV XO] Chicago Fire vs Toronto FC
+http://sharing.gotdns.ch:8091/socolive.php?id=472241
+#EXTINF:-1 group-title="Socolive_2",07h30: [BLV CÒ] Chicago Fire vs Toronto FC
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTINF:-1 group-title="Socolive_2",07h30: [BLV RAMBO] Nashville vs New York City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=534055
+#EXTINF:-1 group-title="Socolive_2",07h30: [BLV KAN] Nashville vs New York City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=283501
+#EXTINF:-1 group-title="Socolive_2",07h30: [TYPN] Nashville vs New York City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912009
+#EXTINF:-1 group-title="Socolive_2",07h30: [A PÁO] Sporting Kansas City vs New York Red Bulls
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTINF:-1 group-title="Socolive_2",07h30: [XUÂN SON] Sporting Kansas City vs New York Red Bulls
+http://sharing.gotdns.ch:8091/socolive.php?id=501412
+#EXTINF:-1 group-title="Socolive_2",07h30: [BLV SATIVA] Sporting Kansas City vs New York Red Bulls
+http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTINF:-1 group-title="Socolive_2",08h30: [BLV THÓC] Colorado Rapids vs FC Dallas
+http://sharing.gotdns.ch:8091/socolive.php?id=606448
+#EXTINF:-1 group-title="Socolive_2",08h30: [BLV GÔN] Colorado Rapids vs FC Dallas
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTINF:-1 group-title="Socolive_2",08h30: [BLV MESSI] Portland Timbers vs San Jose Earthquakes
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTINF:-1 group-title="Socolive_2",08h30: [BLV A TÚ] Portland Timbers vs San Jose Earthquakes
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTINF:-1 group-title="Socolive_2",08h30: [BLV Củ Cải] Portland Timbers vs San Jose Earthquakes
+http://sharing.gotdns.ch:8091/socolive.php?id=9912091
+#EXTINF:-1 group-title="Socolive_2",08h30: [BLV NẤM] Portland Timbers vs San Jose Earthquakes
+http://sharing.gotdns.ch:8091/socolive.php?id=608899
+#EXTINF:-1 group-title="Socolive_2",08h30: [BLV CÁO] San Diego FC vs Vancouver Whitecaps
+http://sharing.gotdns.ch:8091/socolive.php?id=597929
+#EXTINF:-1 group-title="Socolive_2",08h30: [BLV ENZO] San Diego FC vs Vancouver Whitecaps
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTINF:-1 group-title="Socolive_2",08h30: [BLV RÔSI] San Diego FC vs Vancouver Whitecaps
+http://sharing.gotdns.ch:8091/socolive.php?id=9912102
+#EXTINF:-1 group-title="Socolive_2",08h30: [LOGAN] San Diego FC vs Vancouver Whitecaps
+http://sharing.gotdns.ch:8091/socolive.php?id=552832
+#EXTINF:-1 group-title="Socolive_2",08h30: [BLV YONE] San Diego FC vs Vancouver Whitecaps
+http://sharing.gotdns.ch:8091/socolive.php?id=372746
+#EXTINF:-1 group-title="Socolive_2",08h30: [RICKHANTER] San Diego FC vs Vancouver Whitecaps
+http://sharing.gotdns.ch:8091/socolive.php?id=9912122
+#EXTINF:-1 group-title="Socolive_2",09h30: [BLV 7UP] Los Angeles Galaxy vs Houston Dynamo
+http://sharing.gotdns.ch:8091/socolive.php?id=534219
+#EXTINF:-1 group-title="Socolive_2",09h30: [BLV TOMMY] Los Angeles Galaxy vs Houston Dynamo
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTINF:-1 group-title="Socolive_2",09h30: [BLV TAP] Los Angeles Galaxy vs Houston Dynamo
+http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTINF:-1 group-title="Socolive_2",09h30: [DECO] Los Angeles Galaxy vs Houston Dynamo
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTINF:-1 group-title="Socolive_2",09h30: [BLV ĐỐM] Los Angeles Galaxy vs Houston Dynamo
+http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTINF:-1 group-title="Socolive_2",09h30: [BLV COCA] Los Angeles Galaxy vs Houston Dynamo
+http://sharing.gotdns.ch:8091/socolive.php?id=327159
+#EXTINF:-1 group-title="Socolive_2",10h00: [BLV RAMBO] Cooks Hill United vs Belmont Swansea United SC
+http://sharing.gotdns.ch:8091/socolive.php?id=534055
+#EXTINF:-1 group-title="Socolive_2",10h00: [HÀ DUY KIÊN] Cooks Hill United vs Belmont Swansea United SC
+http://sharing.gotdns.ch:8091/socolive.php?id=607400
+#EXTINF:-1 group-title="Socolive_2",10h00: [CHAN SENA] Nelson Giants vs Otago Nuggets
+http://sharing.gotdns.ch:8091/socolive.php?id=9912115
+#EXTINF:-1 group-title="Socolive_2",10h00: [BRIAN] Nelson Giants vs Otago Nuggets
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
+#EXTINF:-1 group-title="Socolive_2",10h00: [A CHÈ] Nelson Giants vs Otago Nuggets
+http://sharing.gotdns.ch:8091/socolive.php?id=356042
+#EXTINF:-1 group-title="Socolive_2",10h00: [HUNTER] Nelson Giants vs Otago Nuggets
+http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTINF:-1 group-title="Socolive_2",10h00: [BLV HENRY] Nelson Giants vs Otago Nuggets
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTINF:-1 group-title="Socolive_2",10h00: [KING] Nelson Giants vs Otago Nuggets
+http://sharing.gotdns.ch:8091/socolive.php?id=9912099
+#EXTINF:-1 group-title="Socolive_2",10h55: [BLV FIREMAN] Fagiano Okayama vs Cerezo Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTINF:-1 group-title="Socolive_2",10h55: [LOGAN] Fagiano Okayama vs Cerezo Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=552832
+#EXTINF:-1 group-title="Socolive_2",10h55: [BLV MESSI] Fagiano Okayama vs Cerezo Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTINF:-1 group-title="Socolive_2",10h55: [RICKHANTER] Fagiano Okayama vs Cerezo Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=9912122
+#EXTINF:-1 group-title="Socolive_2",10h55: [BLV TOMIA] Fagiano Okayama vs Cerezo Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=9912008
+#EXTINF:-1 group-title="Socolive_2",10h55: [CHANH MUỐI] Fagiano Okayama vs Cerezo Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=598549
+#EXTINF:-1 group-title="Socolive_2",11h00: [BLV RYO] Vanraure Hachinohe FC vs Tochigi SC
+http://sharing.gotdns.ch:8091/socolive.php?id=602019
+#EXTINF:-1 group-title="Socolive_2",11h00: [BLV ALEX] Vanraure Hachinohe FC vs Tochigi SC
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTINF:-1 group-title="Socolive_2",12h00: [SAO LA] Mito Hollyhock vs Kawasaki Frontale
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV ROBBEN] Mito Hollyhock vs Kawasaki Frontale
+http://sharing.gotdns.ch:8091/socolive.php?id=527383
+#EXTINF:-1 group-title="Socolive_2",12h00: [MONEY MAN] Mito Hollyhock vs Kawasaki Frontale
+http://sharing.gotdns.ch:8091/socolive.php?id=605412
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV XO] Mito Hollyhock vs Kawasaki Frontale
+http://sharing.gotdns.ch:8091/socolive.php?id=472241
+#EXTINF:-1 group-title="Socolive_2",12h00: [TẠ BIÊN GIỚI] Mito Hollyhock vs Kawasaki Frontale
+http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV MIXI] Mito Hollyhock vs Kawasaki Frontale
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTINF:-1 group-title="Socolive_2",12h00: [LÃO LÂM] Tokyo Verdy vs Yokohama F. Marinos
+http://sharing.gotdns.ch:8091/socolive.php?id=527384
+#EXTINF:-1 group-title="Socolive_2",12h00: [TYPN] Tokyo Verdy vs Yokohama F. Marinos
+http://sharing.gotdns.ch:8091/socolive.php?id=9912009
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV BÉO] Tokyo Verdy vs Yokohama F. Marinos
+http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV 7UP] Tokyo Verdy vs Yokohama F. Marinos
+http://sharing.gotdns.ch:8091/socolive.php?id=534219
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV TOMMY] Tokyo Verdy vs Yokohama F. Marinos
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTINF:-1 group-title="Socolive_2",12h00: [CR Bưởi] Tokyo Verdy vs Yokohama F. Marinos
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTINF:-1 group-title="Socolive_2",12h00: [TƯ MÃ Ý] Blaublitz Akita vs Tochigi City
+http://sharing.gotdns.ch:8091/socolive.php?id=611377
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV NẤM] Blaublitz Akita vs Tochigi City
+http://sharing.gotdns.ch:8091/socolive.php?id=608899
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV GÔN] Montedio Yamagata vs Shonan Bellmare
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV THÓC] Montedio Yamagata vs Shonan Bellmare
+http://sharing.gotdns.ch:8091/socolive.php?id=606448
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV LION] Tokushima Vortis vs FC Imabari
+http://sharing.gotdns.ch:8091/socolive.php?id=603255
+#EXTINF:-1 group-title="Socolive_2",12h00: [PINKMAN] Zweigen Kanazawa FC vs Kochi United
+http://sharing.gotdns.ch:8091/socolive.php?id=595715
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV CÁO] Giravanz Kitakyushu vs Kagoshima United
+http://sharing.gotdns.ch:8091/socolive.php?id=597929
+#EXTINF:-1 group-title="Socolive_2",12h00: [BLV CÒ] Tegevajaro Miyazaki vs Reilac Shiga FC
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTINF:-1 group-title="Socolive_2",13h00: [CHAN SENA] Taranaki Airs vs Canterbury Rams
+http://sharing.gotdns.ch:8091/socolive.php?id=9912115
+#EXTINF:-1 group-title="Socolive_2",13h00: [KING] Taranaki Airs vs Canterbury Rams
+http://sharing.gotdns.ch:8091/socolive.php?id=9912099
+#EXTINF:-1 group-title="Socolive_2",13h00: [BRIAN] Taranaki Airs vs Canterbury Rams
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
+#EXTINF:-1 group-title="Socolive_2",13h00: [A CHÈ] Taranaki Airs vs Canterbury Rams
+http://sharing.gotdns.ch:8091/socolive.php?id=356042
+#EXTINF:-1 group-title="Socolive_2",13h00: [HUNTER] Taranaki Airs vs Canterbury Rams
+http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTINF:-1 group-title="Socolive_2",13h00: [BLV HENRY] Taranaki Airs vs Canterbury Rams
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTINF:-1 group-title="Socolive_2",14h30: [LOKA] Changchun Yatai vs Shenzhen Juniors
+http://sharing.gotdns.ch:8091/socolive.php?id=589848
+#EXTINF:-1 group-title="Socolive_2",14h30: [BLV LION] Changchun Yatai vs Shenzhen Juniors
+http://sharing.gotdns.ch:8091/socolive.php?id=603255
+#EXTINF:-1 group-title="Socolive_2",14h30: [MONEY MAN] Changchun Yatai vs Shenzhen Juniors
+http://sharing.gotdns.ch:8091/socolive.php?id=605412
+#EXTINF:-1 group-title="Socolive_2",14h30: [BLV FIREMAN] Changchun Yatai vs Shenzhen Juniors
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTINF:-1 group-title="Socolive_2",14h30: [BLV CHIVAS] Yongin FC vs Chungnam Asan
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
+#EXTINF:-1 group-title="Socolive_2",14h30: [HẢI THANH] Yongin FC vs Chungnam Asan
+http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTINF:-1 group-title="Socolive_2",15h00: [BLV COZY] Shimizu S-Pulse vs Gamba Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTINF:-1 group-title="Socolive_2",15h00: [TƯ MÃ Ý] Shimizu S-Pulse vs Gamba Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=611377
+#EXTINF:-1 group-title="Socolive_2",15h00: [VƯƠNG ANH] Shimizu S-Pulse vs Gamba Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=548860
+#EXTINF:-1 group-title="Socolive_2",15h00: [BLV CUỘI] Shimizu S-Pulse vs Gamba Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=256080
+#EXTINF:-1 group-title="Socolive_2",15h00: [CR Bưởi] Shimizu S-Pulse vs Gamba Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTINF:-1 group-title="Socolive_2",15h00: [DECO] Shimizu S-Pulse vs Gamba Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTINF:-1 group-title="Socolive_2",16h00: [BLV Củ Cải] Qingdao Hainiu vs Chongqing Tonglianglong
+http://sharing.gotdns.ch:8091/socolive.php?id=9912091
+#EXTINF:-1 group-title="Socolive_2",16h00: [TẠ BIÊN GIỚI] Qingdao Hainiu vs Chongqing Tonglianglong
+http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTINF:-1 group-title="Socolive_2",16h00: [THẠCH TÚ] Qingdao Hainiu vs Chongqing Tonglianglong
+http://sharing.gotdns.ch:8091/socolive.php?id=9912116
+#EXTINF:-1 group-title="Socolive_2",16h00: [BLV TAP] Qingdao Hainiu vs Chongqing Tonglianglong
+http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTINF:-1 group-title="Socolive_2",16h00: [CÔNG CHẤT] Qingdao Hainiu vs Chongqing Tonglianglong
+http://sharing.gotdns.ch:8091/socolive.php?id=291277
+#EXTINF:-1 group-title="Socolive_2",16h00: [BLV ĐỐM] Qingdao Hainiu vs Chongqing Tonglianglong
+http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTINF:-1 group-title="Socolive_2",16h00: [NGƯỜI CÁ] Bac Ninh vs Thanh Niên TP. Hồ Chí Minh
+http://sharing.gotdns.ch:8091/socolive.php?id=595335
+#EXTINF:-1 group-title="Socolive_2",16h00: [BLV KAN] Bac Ninh vs Thanh Niên TP. Hồ Chí Minh
+http://sharing.gotdns.ch:8091/socolive.php?id=283501
+#EXTINF:-1 group-title="Socolive_2",16h00: [TRÀ ĐÁ] Van Hien University vs Quy Nhon United
+http://sharing.gotdns.ch:8091/socolive.php?id=603914
+#EXTINF:-1 group-title="Socolive_2",16h00: [BLV ALEX] Van Hien University vs Quy Nhon United
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTINF:-1 group-title="Socolive_2",16h00: [CHAN SENA] Formosa Dreamers vs New Taipei Kings
+http://sharing.gotdns.ch:8091/socolive.php?id=9912115
+#EXTINF:-1 group-title="Socolive_2",16h00: [BLV HENRY] Formosa Dreamers vs New Taipei Kings
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTINF:-1 group-title="Socolive_2",16h15: [KING] Meralco Bolts vs TNT Tropang 5G
+http://sharing.gotdns.ch:8091/socolive.php?id=9912099
+#EXTINF:-1 group-title="Socolive_2",17h00: [QUỐC KHÁNH] Daegu FC vs Ansan Greeners FC
+http://sharing.gotdns.ch:8091/socolive.php?id=602153
+#EXTINF:-1 group-title="Socolive_2",17h00: [HẢI THANH] Daegu FC vs Ansan Greeners FC
+http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTINF:-1 group-title="Socolive_2",17h00: [BLV RAMBO] Seoul E-Land FC vs Seongnam FC
+http://sharing.gotdns.ch:8091/socolive.php?id=534055
+#EXTINF:-1 group-title="Socolive_2",17h00: [BLV PEWPEW] Seoul E-Land FC vs Seongnam FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
+#EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Bilbao vs Basquet Girona
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV LONG] Yunnan Yukun vs Qingdao West Coast
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV PIRLO] Yunnan Yukun vs Qingdao West Coast
+http://sharing.gotdns.ch:8091/socolive.php?id=351530
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV HÚP] Yunnan Yukun vs Qingdao West Coast
+http://sharing.gotdns.ch:8091/socolive.php?id=611382
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV CHIVAS] Yunnan Yukun vs Qingdao West Coast
+http://sharing.gotdns.ch:8091/socolive.php?id=485739
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV LUCAS] Becamex Ho Chi Minh City vs Song Lam Nghe An
+http://sharing.gotdns.ch:8091/socolive.php?id=304148
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV RÔSI] Becamex Ho Chi Minh City vs Song Lam Nghe An
+http://sharing.gotdns.ch:8091/socolive.php?id=9912102
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV KAN] Becamex Ho Chi Minh City vs Song Lam Nghe An
+http://sharing.gotdns.ch:8091/socolive.php?id=283501
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV YONE] Becamex Ho Chi Minh City vs Song Lam Nghe An
+http://sharing.gotdns.ch:8091/socolive.php?id=372746
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV WUKONG] Hong Linh Ha Tinh vs Cong An Ha Noi FC
+http://sharing.gotdns.ch:8091/socolive.php?id=511367
+#EXTINF:-1 group-title="Socolive_2",18h00: [XUÂN SON] Hong Linh Ha Tinh vs Cong An Ha Noi FC
+http://sharing.gotdns.ch:8091/socolive.php?id=501412
+#EXTINF:-1 group-title="Socolive_2",18h00: [BLV SATIVA] Hong Linh Ha Tinh vs Cong An Ha Noi FC
+http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTINF:-1 group-title="Socolive_2",18h00: [LOGAN] Hong Linh Ha Tinh vs Cong An Ha Noi FC
+http://sharing.gotdns.ch:8091/socolive.php?id=552832
+#EXTINF:-1 group-title="Socolive_2",18h30: [HUNTER] Barangay Ginebra San Miguel vs Rain or Shine Elasto Painters
+http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTINF:-1 group-title="Socolive_2",18h35: [BLV 7UP] Shandong Taishan vs Wuhan Three Towns
+http://sharing.gotdns.ch:8091/socolive.php?id=534219
+#EXTINF:-1 group-title="Socolive_2",18h35: [THẠCH TÚ] Shandong Taishan vs Wuhan Three Towns
+http://sharing.gotdns.ch:8091/socolive.php?id=9912116
+#EXTINF:-1 group-title="Socolive_2",18h35: [BLV TAP] Shandong Taishan vs Wuhan Three Towns
+http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTINF:-1 group-title="Socolive_2",18h35: [BLV MESSI] Shandong Taishan vs Wuhan Three Towns
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTINF:-1 group-title="Socolive_2",18h35: [RICKHANTER] Shandong Taishan vs Wuhan Three Towns
+http://sharing.gotdns.ch:8091/socolive.php?id=9912122
+#EXTINF:-1 group-title="Socolive_2",18h35: [BLV TOMIA] Shandong Taishan vs Wuhan Three Towns
+http://sharing.gotdns.ch:8091/socolive.php?id=9912008
+#EXTINF:-1 group-title="Socolive_2",18h35: [BLV LION] Zhejiang Professional FC vs Liaoning Tieren
+http://sharing.gotdns.ch:8091/socolive.php?id=603255
+#EXTINF:-1 group-title="Socolive_2",18h35: [KÉP] Zhejiang Professional FC vs Liaoning Tieren
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
+#EXTINF:-1 group-title="Socolive_2",18h35: [BLV VOI] Zhejiang Professional FC vs Liaoning Tieren
+http://sharing.gotdns.ch:8091/socolive.php?id=9912114
+#EXTINF:-1 group-title="Socolive_2",18h35: [BLV CÒ] Zhejiang Professional FC vs Liaoning Tieren
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTINF:-1 group-title="Socolive_2",19h00: [ĐỖ TÚ TÀI] Hammarby vs AIK
+http://sharing.gotdns.ch:8091/socolive.php?id=607552
+#EXTINF:-1 group-title="Socolive_2",19h00: [BLV RYO] IK Sirius FK vs GAIS
+http://sharing.gotdns.ch:8091/socolive.php?id=602019
+#EXTINF:-1 group-title="Socolive_2",19h00: [BLV VIP] IK Sirius FK vs GAIS
+http://sharing.gotdns.ch:8091/socolive.php?id=491873
+#EXTINF:-1 group-title="Socolive_2",19h00: [BLV CUỘI] Shanghai Shenhua vs Shenzhen Peng City
+http://sharing.gotdns.ch:8091/socolive.php?id=256080
+#EXTINF:-1 group-title="Socolive_2",19h00: [SAO LA] Shanghai Shenhua vs Shenzhen Peng City
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ANH TÀI] Shanghai Shenhua vs Shenzhen Peng City
+http://sharing.gotdns.ch:8091/socolive.php?id=406865
+#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ĐỐM] Shanghai Shenhua vs Shenzhen Peng City
+http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTINF:-1 group-title="Socolive_2",19h00: [BLV Củ Cải] Shanghai Shenhua vs Shenzhen Peng City
+http://sharing.gotdns.ch:8091/socolive.php?id=9912091
+#EXTINF:-1 group-title="Socolive_2",19h00: [BLV ENZO] Shanghai Shenhua vs Shenzhen Peng City
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTINF:-1 group-title="Socolive_2",19h00: [TƯ MÃ Ý] Bolton Wanderers vs Stockport County
+http://sharing.gotdns.ch:8091/socolive.php?id=611377
+#EXTINF:-1 group-title="Socolive_2",19h00: [BLV A TINH] Bolton Wanderers vs Stockport County
+http://sharing.gotdns.ch:8091/socolive.php?id=598119
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV PEWPEW] Hanoi FC vs Thep Xanh Nam Dinh FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
+#EXTINF:-1 group-title="Socolive_2",19h15: [DECO] Hanoi FC vs Thep Xanh Nam Dinh FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV A TÚ] Hanoi FC vs Thep Xanh Nam Dinh FC
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV KEM] Hanoi FC vs Thep Xanh Nam Dinh FC
+http://sharing.gotdns.ch:8091/socolive.php?id=513394
+#EXTINF:-1 group-title="Socolive_2",19h15: [TẠ BIÊN GIỚI] Hanoi FC vs Thep Xanh Nam Dinh FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TOMMY] Hanoi FC vs Thep Xanh Nam Dinh FC
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ROBBEN] Parma vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=527383
+#EXTINF:-1 group-title="Socolive_2",20h00: [A BỆU] Parma vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=484845
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV COCA] Parma vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=327159
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV VITAMIN] Parma vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV MIXI] Parma vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTINF:-1 group-title="Socolive_2",20h00: [LOKA] Parma vs Sassuolo
+http://sharing.gotdns.ch:8091/socolive.php?id=589848
+#EXTINF:-1 group-title="Socolive_2",21h00: [NGƯỜI CÁ] Bodo Glimt vs Brann
+http://sharing.gotdns.ch:8091/socolive.php?id=595335
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV ĐỐM] Brighton Hove Albion vs Manchester United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV COCA] Brighton Hove Albion vs Manchester United
+http://sharing.gotdns.ch:8091/socolive.php?id=327159
+#EXTINF:-1 group-title="Socolive_2",22h00: [VƯƠNG ANH] Brighton Hove Albion vs Manchester United
+http://sharing.gotdns.ch:8091/socolive.php?id=548860
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV TOMMY] Brighton Hove Albion vs Manchester United
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV TAP] Brighton Hove Albion vs Manchester United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTINF:-1 group-title="Socolive_2",22h00: [DECO] Brighton Hove Albion vs Manchester United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTINF:-1 group-title="Socolive_2",22h00: [A PÁO] Burnley vs Wolverhampton Wanderers
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV ALEX] Burnley vs Wolverhampton Wanderers
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV XO] Crystal Palace vs Arsenal
+http://sharing.gotdns.ch:8091/socolive.php?id=472241
+#EXTINF:-1 group-title="Socolive_2",22h00: [TẠ BIÊN GIỚI] Crystal Palace vs Arsenal
+http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV FIREMAN] Crystal Palace vs Arsenal
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV PEWPEW] Crystal Palace vs Arsenal
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
+#EXTINF:-1 group-title="Socolive_2",22h00: [CÔNG CHẤT] Crystal Palace vs Arsenal
+http://sharing.gotdns.ch:8091/socolive.php?id=291277
+#EXTINF:-1 group-title="Socolive_2",22h00: [MONEY MAN] Crystal Palace vs Arsenal
+http://sharing.gotdns.ch:8091/socolive.php?id=605412
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV CÁO] Fulham vs Newcastle United
+http://sharing.gotdns.ch:8091/socolive.php?id=597929
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV A TINH] Fulham vs Newcastle United
+http://sharing.gotdns.ch:8091/socolive.php?id=598119
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV 7UP] Liverpool vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=534219
+#EXTINF:-1 group-title="Socolive_2",22h00: [THẠCH TÚ] Liverpool vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=9912116
+#EXTINF:-1 group-title="Socolive_2",22h00: [SAO LA] Liverpool vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV MESSI] Liverpool vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTINF:-1 group-title="Socolive_2",22h00: [A BỆU] Liverpool vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=484845
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV Củ Cải] Liverpool vs Brentford
+http://sharing.gotdns.ch:8091/socolive.php?id=9912091
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV RÔSI] Manchester City vs Aston Villa
+http://sharing.gotdns.ch:8091/socolive.php?id=9912102
+#EXTINF:-1 group-title="Socolive_2",22h00: [LOGAN] Manchester City vs Aston Villa
+http://sharing.gotdns.ch:8091/socolive.php?id=552832
+#EXTINF:-1 group-title="Socolive_2",22h00: [LÃO LÂM] Manchester City vs Aston Villa
+http://sharing.gotdns.ch:8091/socolive.php?id=527384
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV COZY] Manchester City vs Aston Villa
+http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV BÉO] Manchester City vs Aston Villa
+http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV ENZO] Manchester City vs Aston Villa
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV KAN] Nottingham Forest vs Bournemouth AFC
+http://sharing.gotdns.ch:8091/socolive.php?id=283501
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV THÓC] Nottingham Forest vs Bournemouth AFC
+http://sharing.gotdns.ch:8091/socolive.php?id=606448
+#EXTINF:-1 group-title="Socolive_2",22h00: [CR Bưởi] Sunderland vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV PIRLO] Sunderland vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=351530
+#EXTINF:-1 group-title="Socolive_2",22h00: [RICKHANTER] Sunderland vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=9912122
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV TOMIA] Sunderland vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=9912008
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV LONG] Sunderland vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV CUỘI] Sunderland vs Chelsea
+http://sharing.gotdns.ch:8091/socolive.php?id=256080
+#EXTINF:-1 group-title="Socolive_2",22h00: [LOKA] Tottenham Hotspur vs Everton
+http://sharing.gotdns.ch:8091/socolive.php?id=589848
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV ROBBEN] Tottenham Hotspur vs Everton
+http://sharing.gotdns.ch:8091/socolive.php?id=527383
+#EXTINF:-1 group-title="Socolive_2",22h00: [TYPN] Tottenham Hotspur vs Everton
+http://sharing.gotdns.ch:8091/socolive.php?id=9912009
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV MIXI] Tottenham Hotspur vs Everton
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV KEM] West Ham United vs Leeds United
+http://sharing.gotdns.ch:8091/socolive.php?id=513394
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV VITAMIN] West Ham United vs Leeds United
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [PINKMAN] RCD Espanyol vs Real Sociedad
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-24/05: [PINKMAN] Napoli vs Udinese
 http://sharing.gotdns.ch:8091/socolive.php?id=595715
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV VOI] Getafe vs CA Osasuna
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-24/05: [QUỐC KHÁNH] Napoli vs Udinese
+http://sharing.gotdns.ch:8091/socolive.php?id=602153
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV A WIN] Girona FC vs Elche
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-24/05: [HẢI THANH] Napoli vs Udinese
+http://sharing.gotdns.ch:8091/socolive.php?id=599634
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-24/05: [BLV A WIN] Napoli vs Udinese
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV VIP] Girona FC vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV GÔN] Girona FC vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV RAMBO] Girona FC vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [CHANH MUỐI] RCD Mallorca vs Real Oviedo
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [CÔNG CHẤT] Real Madrid vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [KÉP] Real Madrid vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV KEM] Real Madrid vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV LONG] Real Madrid vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV WUKONG] Real Madrid vs Athletic Club
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-24/05: [BLV WUKONG] Kristiansund BK vs Viking
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [LOKA] Real Madrid vs Athletic Club
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV COZY] Valencia CF vs FC Barcelona
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV BÉO] Valencia CF vs FC Barcelona
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV VITAMIN] Valencia CF vs FC Barcelona
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [BLV CUỘI] Valencia CF vs FC Barcelona
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [CR Bưởi] Valencia CF vs FC Barcelona
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-24/05: [LÃO LÂM] Valencia CF vs FC Barcelona
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-24/05: [BLV THÓC] Grêmio - RS vs Santos Fc - SP
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-24/05: [A PÁO] Grêmio - RS vs Santos Fc - SP
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-24/05: [HÀ DUY KIÊN] Grêmio - RS vs Santos Fc - SP
-http://sharing.gotdns.ch:8091/socolive.php?id=607400
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-24/05: [BLV LUCAS] Mirassol - SP vs Fluminense - RJ
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-24/05: [XUÂN SON] Mirassol - SP vs Fluminense - RJ
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-24/05: [BLV SATIVA] Mirassol - SP vs Fluminense - RJ
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-24/05: [BLV GÔN] Charlotte FC vs New England Revolution
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-24/05: [BLV RYO] DC United vs Montreal Impact
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-24/05: [BLV HÚP] DC United vs Montreal Impact
-http://sharing.gotdns.ch:8091/socolive.php?id=611382
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-24/05: [BLV CHIVAS] FC Cincinnati vs Orlando City
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-24/05: [BLV NẤM] FC Cincinnati vs Orlando City
-http://sharing.gotdns.ch:8091/socolive.php?id=608899
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-24/05: [BLV FIREMAN] Flamengo - RJ vs Palmeiras - SP
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-24/05: [HÀ DUY KIÊN] Flamengo - RJ vs Palmeiras - SP
-http://sharing.gotdns.ch:8091/socolive.php?id=607400
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-24/05: [BLV ANH TÀI] Flamengo - RJ vs Palmeiras - SP
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-24/05: [CHAN SENA] Cleveland Cavaliers vs New York Knicks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-24/05: [KING] Cleveland Cavaliers vs New York Knicks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-24/05: [BRIAN] Cleveland Cavaliers vs New York Knicks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-24/05: [A CHÈ] Cleveland Cavaliers vs New York Knicks
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-24/05: [A CHÈ] Joventut Badalona vs San Pablo Burgos
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-24/05: [HUNTER] Cleveland Cavaliers vs New York Knicks
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-24/05: [BLV HENRY] Cleveland Cavaliers vs New York Knicks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-24/05: [BLV LUCAS] Chicago Fire vs Toronto FC
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-24/05: [BLV XO] Chicago Fire vs Toronto FC
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-24/05: [BLV CÒ] Chicago Fire vs Toronto FC
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-24/05: [BLV RAMBO] Nashville vs New York City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-24/05: [BLV KAN] Nashville vs New York City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-24/05: [TYPN] Nashville vs New York City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-24/05: [A PÁO] Sporting Kansas City vs New York Red Bulls
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-24/05: [XUÂN SON] Sporting Kansas City vs New York Red Bulls
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-24/05: [BLV SATIVA] Sporting Kansas City vs New York Red Bulls
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [BLV THÓC] Colorado Rapids vs FC Dallas
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [BLV GÔN] Colorado Rapids vs FC Dallas
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [BLV MESSI] Portland Timbers vs San Jose Earthquakes
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [BLV A TÚ] Portland Timbers vs San Jose Earthquakes
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [BLV Củ Cải] Portland Timbers vs San Jose Earthquakes
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [BLV NẤM] Portland Timbers vs San Jose Earthquakes
-http://sharing.gotdns.ch:8091/socolive.php?id=608899
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [BLV CÁO] San Diego FC vs Vancouver Whitecaps
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [BLV ENZO] San Diego FC vs Vancouver Whitecaps
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [BLV RÔSI] San Diego FC vs Vancouver Whitecaps
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [LOGAN] San Diego FC vs Vancouver Whitecaps
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [BLV YONE] San Diego FC vs Vancouver Whitecaps
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-24/05: [RICKHANTER] San Diego FC vs Vancouver Whitecaps
-http://sharing.gotdns.ch:8091/socolive.php?id=9912122
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h30-24/05: [BLV 7UP] Los Angeles Galaxy vs Houston Dynamo
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h30-24/05: [BLV TOMMY] Los Angeles Galaxy vs Houston Dynamo
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h30-24/05: [BLV TAP] Los Angeles Galaxy vs Houston Dynamo
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h30-24/05: [DECO] Los Angeles Galaxy vs Houston Dynamo
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h30-24/05: [BLV ĐỐM] Los Angeles Galaxy vs Houston Dynamo
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h30-24/05: [BLV COCA] Los Angeles Galaxy vs Houston Dynamo
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-24/05: [BLV RAMBO] Cooks Hill United vs Belmont Swansea United SC
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-24/05: [HÀ DUY KIÊN] Cooks Hill United vs Belmont Swansea United SC
-http://sharing.gotdns.ch:8091/socolive.php?id=607400
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-24/05: [CHAN SENA] Nelson Giants vs Otago Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-24/05: [BRIAN] Nelson Giants vs Otago Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-24/05: [A CHÈ] Nelson Giants vs Otago Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-24/05: [HUNTER] Nelson Giants vs Otago Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-24/05: [BLV HENRY] Nelson Giants vs Otago Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-24/05: [KING] Nelson Giants vs Otago Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h55-24/05: [BLV FIREMAN] Fagiano Okayama vs Cerezo Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h55-24/05: [LOGAN] Fagiano Okayama vs Cerezo Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h55-24/05: [BLV MESSI] Fagiano Okayama vs Cerezo Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h55-24/05: [RICKHANTER] Fagiano Okayama vs Cerezo Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=9912122
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h55-24/05: [BLV TOMIA] Fagiano Okayama vs Cerezo Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h55-24/05: [CHANH MUỐI] Fagiano Okayama vs Cerezo Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=598549
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",11h00-24/05: [BLV RYO] Vanraure Hachinohe FC vs Tochigi SC
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",11h00-24/05: [BLV ALEX] Vanraure Hachinohe FC vs Tochigi SC
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [SAO LA] Mito Hollyhock vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV ROBBEN] Mito Hollyhock vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [MONEY MAN] Mito Hollyhock vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=605412
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV XO] Mito Hollyhock vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [TẠ BIÊN GIỚI] Mito Hollyhock vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV MIXI] Mito Hollyhock vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [LÃO LÂM] Tokyo Verdy vs Yokohama F. Marinos
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [TYPN] Tokyo Verdy vs Yokohama F. Marinos
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV BÉO] Tokyo Verdy vs Yokohama F. Marinos
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV 7UP] Tokyo Verdy vs Yokohama F. Marinos
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV TOMMY] Tokyo Verdy vs Yokohama F. Marinos
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [CR Bưởi] Tokyo Verdy vs Yokohama F. Marinos
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [TƯ MÃ Ý] Blaublitz Akita vs Tochigi City
-http://sharing.gotdns.ch:8091/socolive.php?id=611377
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV NẤM] Blaublitz Akita vs Tochigi City
-http://sharing.gotdns.ch:8091/socolive.php?id=608899
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV GÔN] Montedio Yamagata vs Shonan Bellmare
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV THÓC] Montedio Yamagata vs Shonan Bellmare
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV LION] Tokushima Vortis vs FC Imabari
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [PINKMAN] Zweigen Kanazawa FC vs Kochi United
-http://sharing.gotdns.ch:8091/socolive.php?id=595715
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV CÁO] Giravanz Kitakyushu vs Kagoshima United
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-24/05: [BLV CÒ] Tegevajaro Miyazaki vs Reilac Shiga FC
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",13h00-24/05: [CHAN SENA] Taranaki Airs vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",13h00-24/05: [KING] Taranaki Airs vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",13h00-24/05: [BRIAN] Taranaki Airs vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",13h00-24/05: [A CHÈ] Taranaki Airs vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",13h00-24/05: [HUNTER] Taranaki Airs vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",13h00-24/05: [BLV HENRY] Taranaki Airs vs Canterbury Rams
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-24/05: [LOKA] Changchun Yatai vs Shenzhen Juniors
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-24/05: [BLV LION] Changchun Yatai vs Shenzhen Juniors
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-24/05: [MONEY MAN] Changchun Yatai vs Shenzhen Juniors
-http://sharing.gotdns.ch:8091/socolive.php?id=605412
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-24/05: [BLV FIREMAN] Changchun Yatai vs Shenzhen Juniors
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-24/05: [BLV CHIVAS] Yongin FC vs Chungnam Asan
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h30-24/05: [HẢI THANH] Yongin FC vs Chungnam Asan
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h00-24/05: [BLV COZY] Shimizu S-Pulse vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h00-24/05: [TƯ MÃ Ý] Shimizu S-Pulse vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=611377
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h00-24/05: [VƯƠNG ANH] Shimizu S-Pulse vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h00-24/05: [BLV CUỘI] Shimizu S-Pulse vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h00-24/05: [CR Bưởi] Shimizu S-Pulse vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h00-24/05: [DECO] Shimizu S-Pulse vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [BLV Củ Cải] Qingdao Hainiu vs Chongqing Tonglianglong
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [TẠ BIÊN GIỚI] Qingdao Hainiu vs Chongqing Tonglianglong
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [THẠCH TÚ] Qingdao Hainiu vs Chongqing Tonglianglong
-http://sharing.gotdns.ch:8091/socolive.php?id=9912116
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [BLV TAP] Qingdao Hainiu vs Chongqing Tonglianglong
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [CÔNG CHẤT] Qingdao Hainiu vs Chongqing Tonglianglong
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [BLV ĐỐM] Qingdao Hainiu vs Chongqing Tonglianglong
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [NGƯỜI CÁ] Bac Ninh vs Thanh Niên TP. Hồ Chí Minh
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [BLV KAN] Bac Ninh vs Thanh Niên TP. Hồ Chí Minh
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [TRÀ ĐÁ] Van Hien University vs Quy Nhon United
-http://sharing.gotdns.ch:8091/socolive.php?id=603914
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [BLV ALEX] Van Hien University vs Quy Nhon United
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [CHAN SENA] Formosa Dreamers vs New Taipei Kings
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-24/05: [BLV HENRY] Formosa Dreamers vs New Taipei Kings
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h15-24/05: [KING] Meralco Bolts vs TNT Tropang 5G
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-24/05: [QUỐC KHÁNH] Daegu FC vs Ansan Greeners FC
-http://sharing.gotdns.ch:8091/socolive.php?id=602153
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-24/05: [HẢI THANH] Daegu FC vs Ansan Greeners FC
-http://sharing.gotdns.ch:8091/socolive.php?id=599634
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-24/05: [BLV RAMBO] Seoul E-Land FC vs Seongnam FC
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-24/05: [BLV PEWPEW] Seoul E-Land FC vs Seongnam FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-24/05: [BRIAN] Bilbao vs Basquet Girona
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [BLV LONG] Yunnan Yukun vs Qingdao West Coast
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [BLV PIRLO] Yunnan Yukun vs Qingdao West Coast
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [BLV HÚP] Yunnan Yukun vs Qingdao West Coast
-http://sharing.gotdns.ch:8091/socolive.php?id=611382
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [BLV CHIVAS] Yunnan Yukun vs Qingdao West Coast
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [BLV LUCAS] Becamex Ho Chi Minh City vs Song Lam Nghe An
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [BLV RÔSI] Becamex Ho Chi Minh City vs Song Lam Nghe An
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [BLV KAN] Becamex Ho Chi Minh City vs Song Lam Nghe An
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [BLV YONE] Becamex Ho Chi Minh City vs Song Lam Nghe An
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [BLV WUKONG] Hong Linh Ha Tinh vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [XUÂN SON] Hong Linh Ha Tinh vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [BLV SATIVA] Hong Linh Ha Tinh vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-24/05: [LOGAN] Hong Linh Ha Tinh vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-24/05: [HUNTER] Barangay Ginebra San Miguel vs Rain or Shine Elasto Painters
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-24/05: [BLV 7UP] Shandong Taishan vs Wuhan Three Towns
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-24/05: [THẠCH TÚ] Shandong Taishan vs Wuhan Three Towns
-http://sharing.gotdns.ch:8091/socolive.php?id=9912116
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-24/05: [BLV TAP] Shandong Taishan vs Wuhan Three Towns
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-24/05: [BLV MESSI] Shandong Taishan vs Wuhan Three Towns
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-24/05: [RICKHANTER] Shandong Taishan vs Wuhan Three Towns
-http://sharing.gotdns.ch:8091/socolive.php?id=9912122
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-24/05: [BLV TOMIA] Shandong Taishan vs Wuhan Three Towns
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-24/05: [BLV LION] Zhejiang Professional FC vs Liaoning Tieren
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-24/05: [KÉP] Zhejiang Professional FC vs Liaoning Tieren
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-24/05: [BLV VOI] Zhejiang Professional FC vs Liaoning Tieren
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-24/05: [BLV CÒ] Zhejiang Professional FC vs Liaoning Tieren
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [ĐỖ TÚ TÀI] Hammarby vs AIK
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h15-24/05: [ĐỖ TÚ TÀI] Sporting CP vs SCU Torreense
 http://sharing.gotdns.ch:8091/socolive.php?id=607552
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [BLV RYO] IK Sirius FK vs GAIS
-http://sharing.gotdns.ch:8091/socolive.php?id=602019
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-24/05: [TRÀ ĐÁ] Sporting Gijon vs Almeria
+http://sharing.gotdns.ch:8091/socolive.php?id=603914
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [BLV VIP] IK Sirius FK vs GAIS
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-24/05: [BLV VIP] UD Las Palmas vs Real Zaragoza
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [BLV CUỘI] Shanghai Shenhua vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-24/05: [BLV VOI] Malaga vs Racing Santander
+http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [SAO LA] Shanghai Shenhua vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-24/05: [CHANH MUỐI] Real Valladolid CF vs Deportivo La Coruna
+http://sharing.gotdns.ch:8091/socolive.php?id=598549
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [BLV ANH TÀI] Shanghai Shenhua vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-25/05: [KING] San Antonio Spurs vs Oklahoma City Thunder
+http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [BLV ĐỐM] Shanghai Shenhua vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-25/05: [CHAN SENA] San Antonio Spurs vs Oklahoma City Thunder
+http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [BLV Củ Cải] Shanghai Shenhua vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-25/05: [HUNTER] San Antonio Spurs vs Oklahoma City Thunder
+http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [BLV ENZO] Shanghai Shenhua vs Shenzhen Peng City
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-25/05: [BRIAN] San Antonio Spurs vs Oklahoma City Thunder
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [TƯ MÃ Ý] Bolton Wanderers vs Stockport County
-http://sharing.gotdns.ch:8091/socolive.php?id=611377
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-25/05: [BLV HENRY] San Antonio Spurs vs Oklahoma City Thunder
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-24/05: [BLV A TINH] Bolton Wanderers vs Stockport County
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-25/05: [A CHÈ] San Antonio Spurs vs Oklahoma City Thunder
+http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-24/05: [BLV PEWPEW] Hanoi FC vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-25/05: [KING] Wellington Saints vs Bay Hawks
+http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-24/05: [DECO] Hanoi FC vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-25/05: [CHAN SENA] Wellington Saints vs Bay Hawks
+http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-24/05: [BLV A TÚ] Hanoi FC vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-25/05: [HUNTER] Wellington Saints vs Bay Hawks
+http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-24/05: [BLV KEM] Hanoi FC vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-25/05: [BRIAN] Wellington Saints vs Bay Hawks
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-24/05: [TẠ BIÊN GIỚI] Hanoi FC vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-25/05: [BLV HENRY] Wellington Saints vs Bay Hawks
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-24/05: [BLV TOMMY] Hanoi FC vs Thep Xanh Nam Dinh FC
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",14h00-25/05: [A CHÈ] Wellington Saints vs Bay Hawks
+http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-24/05: [BLV ROBBEN] Parma vs Sassuolo
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",15h00-25/05: [A CHÈ] Manila Batang Quiapo vs Cebu Greats
+http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-24/05: [A BỆU] Parma vs Sassuolo
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-25/05: [KING] GenSan Warriors vs Pasay Voyagers
+http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-24/05: [BLV COCA] Parma vs Sassuolo
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-25/05: [CHAN SENA] GenSan Warriors vs Pasay Voyagers
+http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-24/05: [BLV VITAMIN] Parma vs Sassuolo
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-25/05: [HUNTER] Quezon City vs Bulacan Kuyas
+http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-24/05: [BLV MIXI] Parma vs Sassuolo
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-24/05: [LOKA] Parma vs Sassuolo
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-24/05: [NGƯỜI CÁ] Bodo Glimt vs Brann
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV ĐỐM] Brighton Hove Albion vs Manchester United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV COCA] Brighton Hove Albion vs Manchester United
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [VƯƠNG ANH] Brighton Hove Albion vs Manchester United
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV TOMMY] Brighton Hove Albion vs Manchester United
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV TAP] Brighton Hove Albion vs Manchester United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [DECO] Brighton Hove Albion vs Manchester United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [A PÁO] Burnley vs Wolverhampton Wanderers
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV ALEX] Burnley vs Wolverhampton Wanderers
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV XO] Crystal Palace vs Arsenal
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [TẠ BIÊN GIỚI] Crystal Palace vs Arsenal
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV FIREMAN] Crystal Palace vs Arsenal
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV PEWPEW] Crystal Palace vs Arsenal
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [CÔNG CHẤT] Crystal Palace vs Arsenal
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [MONEY MAN] Crystal Palace vs Arsenal
-http://sharing.gotdns.ch:8091/socolive.php?id=605412
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV CÁO] Fulham vs Newcastle United
-http://sharing.gotdns.ch:8091/socolive.php?id=597929
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV A TINH] Fulham vs Newcastle United
-http://sharing.gotdns.ch:8091/socolive.php?id=598119
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV 7UP] Liverpool vs Brentford
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [THẠCH TÚ] Liverpool vs Brentford
-http://sharing.gotdns.ch:8091/socolive.php?id=9912116
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [SAO LA] Liverpool vs Brentford
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV MESSI] Liverpool vs Brentford
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [A BỆU] Liverpool vs Brentford
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV Củ Cải] Liverpool vs Brentford
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV RÔSI] Manchester City vs Aston Villa
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [LOGAN] Manchester City vs Aston Villa
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [LÃO LÂM] Manchester City vs Aston Villa
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV COZY] Manchester City vs Aston Villa
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV BÉO] Manchester City vs Aston Villa
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV ENZO] Manchester City vs Aston Villa
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV KAN] Nottingham Forest vs Bournemouth AFC
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV THÓC] Nottingham Forest vs Bournemouth AFC
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [CR Bưởi] Sunderland vs Chelsea
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV PIRLO] Sunderland vs Chelsea
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [RICKHANTER] Sunderland vs Chelsea
-http://sharing.gotdns.ch:8091/socolive.php?id=9912122
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV TOMIA] Sunderland vs Chelsea
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV LONG] Sunderland vs Chelsea
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV CUỘI] Sunderland vs Chelsea
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [LOKA] Tottenham Hotspur vs Everton
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV ROBBEN] Tottenham Hotspur vs Everton
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [TYPN] Tottenham Hotspur vs Everton
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV MIXI] Tottenham Hotspur vs Everton
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV KEM] West Ham United vs Leeds United
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/05: [BLV VITAMIN] West Ham United vs Leeds United
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-25/05: [BLV HENRY] Quezon City vs Bulacan Kuyas
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel
 https://sgclient.duckdns.org/source/twitch.m3u8?channel=ninochannel12
 #EXTINF:-1 group-title="TruyenHinh_2",SGLive
