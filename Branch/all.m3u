@@ -1,68 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
-http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",23h00-23/05 Bologna Vs Inter Milan BLV MÃ SIÊU
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 group-title="LuongSon_2",23h00-23/05 Barcelona (W) Vs Lyon (W) BLV TRIỆU TỬ LONG
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",22h30-23/05 Akron Togliatti Vs Rotor Volgograd
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:-1 group-title="LuongSon_2",22h30-23/05 Lech Poznan Vs Wisla Plock
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 group-title="LuongSon_2",23h15-23/05 FCV Dender EH Vs KVSK Lommel BLV LƯU BỊ
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="LuongSon_2",00h00-24/05 Dinamo Brest Vs Arsenal Dzyarzhynsk BLV PELE
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",22h30: [KÉP] Akron Togliatti vs Rotor Volgograd
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",22h30: [BLV RAMBO] Akron Togliatti vs Rotor Volgograd
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",22h30: [LOGAN] Akron Togliatti vs Rotor Volgograd
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",22h30: [CÔNG CHẤT] Akron Togliatti vs Rotor Volgograd
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",22h30: [BLV VOI] Gornik Zabrze vs Radomiak Radom
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",22h30: [BLV SATIVA] Gornik Zabrze vs Radomiak Radom
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",22h30: [BLV THÓC] Jagiellonia Bialystok vs Zaglebie Lubin
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTINF:-1 group-title="Socolive_2",22h30: [ĐỖ TÚ TÀI] Jagiellonia Bialystok vs Zaglebie Lubin
-http://sharing.gotdns.ch:8091/socolive.php?id=607552
-#EXTINF:-1 group-title="Socolive_2",22h30: [BLV A WIN] Rakow Czestochowa vs Arka Gdynia
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",22h30: [BLV VIP] Rakow Czestochowa vs Arka Gdynia
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV PIRLO] Bologna vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",23h00: [RICKHANTER] Bologna vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=9912122
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV TOMIA] Bologna vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV 7UP] Bologna vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV CUỘI] Bologna vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=256080
-#EXTINF:-1 group-title="Socolive_2",23h00: [SAO LA] Bologna vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",23h00: [A BỆU] Barcelona Women vs OL Lyonnes Women
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV BÉO] Barcelona Women vs OL Lyonnes Women
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV LONG] Barcelona Women vs OL Lyonnes Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",23h00: [THẠCH TÚ] Barcelona Women vs OL Lyonnes Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912116
-#EXTINF:-1 group-title="Socolive_2",23h00: [CR Bưởi] Barcelona Women vs OL Lyonnes Women
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV MESSI] Barcelona Women vs OL Lyonnes Women
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",23h00: [A CHÈ] Unicaja vs Breogan
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",23h00: [HUNTER] Unicaja vs Breogan
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",23h45: [QUỐC KHÁNH] Dinamo Zagreb vs NK Lokomotiva Zagreb
 http://sharing.gotdns.ch:8091/socolive.php?id=602153
 #EXTINF:-1 group-title="Socolive_2",23h45: [BLV A TINH] Dinamo Zagreb vs NK Lokomotiva Zagreb
