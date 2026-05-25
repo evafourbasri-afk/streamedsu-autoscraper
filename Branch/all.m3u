@@ -1,66 +1,30 @@
 #EXTM3U
 #EXTINF:-1 group-title="LuongSon_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="LuongSon_2",20h00-25/05 Hvidovre IF Vs Esbjerg BLV LÃO HẠC
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 group-title="LuongSon_2",19h00-25/05 Drukpa FC Vs Tsirang FC BLV TRIỆU TỬ LONG
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/05 Bhutan  (W) Vs Nepal  (W)
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LuongSon_2",19h30-25/05 Start Kristiansand Vs Valerenga BLV KEVILL
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 group-title="LuongSon_2",18h30-25/05 Croatia U17 Vs Belgium U17
+#EXTINF:-1 group-title="LuongSon_2",21h00-25/05 Notts County Vs Salford City
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LuongSon_2",21h00-25/05 Enppi Vs Wadi Degla SC
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="LuongSon_2",22h00-25/05 Tromso IL Vs Aalesund FK BLV LÝ ỨNG
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/05 Kolding IF Vs Hillerod Fodbold
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="LuongSon_2",22h00-25/05 KFUM Oslo Vs Rosenborg BK BLV TRIỆU TỬ LONG
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2",22h00-25/05 Ogre United Vs Grobina BLV MAYBACH
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LuongSon_2",22h00-25/05 Ham-Kam Vs Lillestrom BLV LỮ BỐ
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="LuongSon_2",22h00-25/05 Rapid Wien Vs SV Ried BLV KAKA
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2",21h00-25/05 India (W) Vs Maldives (W)
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon_2",22h00-25/05 Sarpsborg 08 Vs Molde BLV TÂY MÔN KHÁNH
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="LuongSon_2",21h45-25/05 Cherno More Varna Vs FC Arda Kardzhali
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="LuongSon_2",23h00-25/05 FK Rigas Futbola skola Vs Tukums-2000 BLV LÃO HẠC
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV PEWPEW] Kolding FC vs Hillerod Fodbold
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV KEM] Kolding FC vs Hillerod Fodbold
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV CÒ] Kolding FC vs Hillerod Fodbold
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV RAMBO] Kolding FC vs Hillerod Fodbold
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV LION] Kolding FC vs Hillerod Fodbold
-http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV VIP] Kolding FC vs Hillerod Fodbold
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV FIREMAN] Croatia U17 vs Belgium U17
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV ROBBEN] Croatia U17 vs Belgium U17
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",18h30: [MONEY MAN] Croatia U17 vs Belgium U17
-http://sharing.gotdns.ch:8091/socolive.php?id=605412
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV VITAMIN] Croatia U17 vs Belgium U17
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV KAN] Croatia U17 vs Belgium U17
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",19h00: [HUNTER] Quezon City vs Bulacan Kuyas
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV HENRY] Quezon City vs Bulacan Kuyas
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",19h30: [CR Bưởi] Start Kristiansand vs Vålerenga Fotball Elite
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",19h30: [CÔNG CHẤT] Start Kristiansand vs Vålerenga Fotball Elite
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",19h30: [TYPN] Start Kristiansand vs Vålerenga Fotball Elite
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",19h30: [BLV TOMIA] Start Kristiansand vs Vålerenga Fotball Elite
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",19h30: [BLV ENZO] Start Kristiansand vs Vålerenga Fotball Elite
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",19h30: [THẠCH TÚ] Start Kristiansand vs Vålerenga Fotball Elite
-http://sharing.gotdns.ch:8091/socolive.php?id=9912116
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV COZY] Hvidovre IF vs Esbjerg
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV THÓC] Hvidovre IF vs Esbjerg
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTINF:-1 group-title="Socolive_2",20h00: [HÀ DUY KIÊN] Hvidovre IF vs Esbjerg
-http://sharing.gotdns.ch:8091/socolive.php?id=607400
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV YONE] Hvidovre IF vs Esbjerg
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV CÁO] Notts County vs Salford City
 http://sharing.gotdns.ch:8091/socolive.php?id=597929
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV CÒ] Notts County vs Salford City
@@ -79,16 +43,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=611377
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",21h45: [BLV LION] Lokomotiv Plovdiv vs Botev Plovdiv
 http://sharing.gotdns.ch:8091/socolive.php?id=603255
-#EXTINF:-1 group-title="Socolive_2",22h00: [BLV LONG] Ham-Kam vs Lillestrom
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV MIXI] Ham-Kam vs Lillestrom
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV BÉO] Ham-Kam vs Lillestrom
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV GÔN] Ham-Kam vs Lillestrom
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",22h00: [THẠCH TÚ] KFUM Oslo vs Rosenborg
-http://sharing.gotdns.ch:8091/socolive.php?id=9912116
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV PEWPEW] KFUM Oslo vs Rosenborg
 http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTINF:-1 group-title="Socolive_2",22h00: [TYPN] KFUM Oslo vs Rosenborg
@@ -107,8 +67,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534219
 http://sharing.gotdns.ch:8091/socolive.php?id=256080
 #EXTINF:-1 group-title="Socolive_2",22h00: [CR Bưởi] Sarpsborg 08 vs Molde
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",22h00: [BLV A WIN] Tromso IL vs Aalesund FK
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV HÚP] Tromso IL vs Aalesund FK
 http://sharing.gotdns.ch:8091/socolive.php?id=611382
 #EXTINF:-1 group-title="Socolive_2",22h00: [QUỐC KHÁNH] Tromso IL vs Aalesund FK
@@ -496,9 +454,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-26/05: [CHAN SENA] Shanghai vs Zhejiang Guangsha
 http://sharing.gotdns.ch:8091/socolive.php?id=9912115
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-26/05: [BLV THÓC] FK Arys vs Kairat Almaty II
-http://sharing.gotdns.ch:8091/socolive.php?id=606448
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-26/05: [BLV TAP] FK Arys vs Kairat Almaty II
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -507,6 +462,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-26/05: [BLV ALEX] FK Arys vs Kairat Almaty II
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-26/05: [NGƯỜI CÁ] FK Arys vs Kairat Almaty II
+http://sharing.gotdns.ch:8091/socolive.php?id=595335
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-26/05: [BLV CHIVAS] Thimphu City vs RTC FC
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
@@ -544,11 +502,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-26/05: [BLV A WIN] Alashkert vs Shirak
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-26/05: [NGƯỜI CÁ] Ararat Yerevan vs BKMA
-http://sharing.gotdns.ch:8091/socolive.php?id=595335
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-26/05: [ĐỖ TÚ TÀI] Ararat Yerevan vs BKMA
 http://sharing.gotdns.ch:8091/socolive.php?id=607552
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-26/05: [BLV THÓC] Ararat Yerevan vs BKMA
+http://sharing.gotdns.ch:8091/socolive.php?id=606448
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-26/05: [DECO] IFK Mariehamn vs Lahti
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
