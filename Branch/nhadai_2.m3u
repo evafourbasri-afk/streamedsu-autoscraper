@@ -57,6 +57,8 @@ http://tvgold-max.info:8089/live/8593957586249/9537521949372/85691702.ts
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729162&extension=ts&play_token=9JXfYd9pyq
 #EXTINF:-1 group-title="TruyenHinh_2",Polsat Sport 2
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729164&extension=ts&play_token=vFbihF9Rmr
+#EXTINF:-1 group-title="TruyenHinh_2",Polsat Sport 3
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729168&extension=ts&play_token=ThvjYQPppG
 #EXTINF:-1 group-title="TruyenHinh_2",Max Sport 1 HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
 #EXTINF:-1 group-title="TruyenHinh_2",Max Sport 2 HD
@@ -291,6 +293,8 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=201
 https://hoiquan.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV4
 https://hoiquan.dpdns.org/VTVGo/?sctv4
+#EXTINF:-1 group-title="TruyenHinh_2",SCTV5
+https://hoiquan.dpdns.org/VTVGo/?sctv5
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV7
@@ -329,6 +333,8 @@ https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Music Box
 https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_2",Woman
+https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",HTV1 - Đài PTTH Thành Phố Hồ Chí Minh
 https://sgclient.duckdns.org/source/tv360.m3u8?id=190
 #EXTINF:-1 group-title="TruyenHinh_2",HTV2 - Vie Channel
@@ -592,7 +598,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=9906
 #EXTINF:-1 group-title="TruyenHinh_2",Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Hưng Yên
-http://103.90.220.236/hytvlive/radio.m3u8
+https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Khánh Hòa
 http://210.245.20.94/hls/radio.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",An Giang FM 99,4 Mhz
