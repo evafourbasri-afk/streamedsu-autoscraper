@@ -1,18 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="LuongSon_2",LƯU Ý
+http://sharing.gotdns.ch:8091/NOTE.mp4?ts
+#EXTINF:-1 group-title="LuongSon_2",14h30-25/05 Paju Frontier FC Vs Gimpo FC
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2",14h30-25/05 Suwon Samsung Bluewings Vs Cheonan City
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="LuongSon_2",16h30-25/05 South Melbourne Vs Avondale FC BLV YẾN THANH
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="Socolive_2",LƯU Ý
 http://sharing.gotdns.ch:8091/NOTE.mp4?ts
-#EXTINF:-1 group-title="Socolive_2",14h00: [KING] Wellington Saints vs Bay Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",14h00: [CHAN SENA] Wellington Saints vs Bay Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912115
-#EXTINF:-1 group-title="Socolive_2",14h00: [HUNTER] Wellington Saints vs Bay Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",14h00: [BRIAN] Wellington Saints vs Bay Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",14h00: [BLV HENRY] Wellington Saints vs Bay Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",14h00: [A CHÈ] Wellington Saints vs Bay Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",14h30: [BLV LUCAS] Paju Frontier FC vs Gimpo FC
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",14h30: [XUÂN SON] Paju Frontier FC vs Gimpo FC
@@ -35,8 +31,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=414317
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTINF:-1 group-title="Socolive_2",14h30: [DECO] Suwon Samsung Bluewings vs Cheonan City
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV ĐỐM] Suwon Samsung Bluewings vs Cheonan City
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTINF:-1 group-title="Socolive_2",14h30: [BLV COZY] Suwon Samsung Bluewings vs Cheonan City
+http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",16h30: [VƯƠNG ANH] South Melbourne vs Avondale FC
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV CUỘI] South Melbourne vs Avondale FC
@@ -685,8 +681,8 @@ http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692660.ts
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85691702.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Polsat Sport 1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729162&extension=ts&play_token=9JXfYd9pyq
-#EXTINF:-1 group-title="TruyenHinh_2",Polsat Sport 3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
+#EXTINF:-1 group-title="TruyenHinh_2",Polsat Sport 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729164&extension=ts&play_token=vFbihF9Rmr
 #EXTINF:-1 group-title="TruyenHinh_2",Max Sport 1 HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
 #EXTINF:-1 group-title="TruyenHinh_2",Max Sport 2 HD
@@ -857,8 +853,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
