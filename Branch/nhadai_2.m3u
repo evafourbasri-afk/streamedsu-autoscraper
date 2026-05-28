@@ -164,31 +164,31 @@ https://rumble.com/hls-vod/757w6u/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 11
 https://rumble.com/hls-vod/75uhgc/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+1
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2554
+https://sgclient.duckdns.org/source/tv360.mpd?id=2554
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+2
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=1
+https://sgclient.duckdns.org/source/tv360.mpd?id=1
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+3
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=148
+https://sgclient.duckdns.org/source/tv360.mpd?id=148
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+4
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2458
+https://sgclient.duckdns.org/source/tv360.mpd?id=2458
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+5
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9867
+https://sgclient.duckdns.org/source/tv360.mpd?id=9867
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+6
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9868
+https://sgclient.duckdns.org/source/tv360.mpd?id=9868
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+7
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9869
+https://sgclient.duckdns.org/source/tv360.mpd?id=9869
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+9
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9887
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9957
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9957
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+11
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9958
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+12
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
+https://sgclient.duckdns.org/source/tv360.mpd?id=10001
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9904
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9904
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Livestream
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9888
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9888
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Phim Âu Mỹ
@@ -227,8 +227,16 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 1
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 2
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1 4K
+https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -254,41 +262,41 @@ https://live.fptplay53.net/live/media/vtv9/live-hls-avc/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV10
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ON Vie Giải Trí
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+https://sgclient.duckdns.org/source/tv360.m3u8?id=180
 #EXTINF:-1 group-title="TruyenHinh_2",ON Phim Việt
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
+https://sgclient.duckdns.org/source/tv360.m3u8?id=175
 #EXTINF:-1 group-title="TruyenHinh_2",On Movies - You TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
+https://sgclient.duckdns.org/source/tv360.m3u8?id=181
 #EXTINF:-1 group-title="TruyenHinh_2",ON E- Channel
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
+https://sgclient.duckdns.org/source/tv360.m3u8?id=182
 #EXTINF:-1 group-title="TruyenHinh_2",On O2TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
+https://sgclient.duckdns.org/source/tv360.m3u8?id=136
 #EXTINF:-1 group-title="TruyenHinh_2",On BiBi
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
+https://sgclient.duckdns.org/source/tv360.m3u8?id=178
 #EXTINF:-1 group-title="TruyenHinh_2",ON Info TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
+https://sgclient.duckdns.org/source/tv360.m3u8?id=189
 #EXTINF:-1 group-title="TruyenHinh_2",ON Cine
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
+https://sgclient.duckdns.org/source/tv360.m3u8?id=176
 #EXTINF:-1 group-title="TruyenHinh_2",ON Style TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
+https://sgclient.duckdns.org/source/tv360.m3u8?id=184
 #EXTINF:-1 group-title="TruyenHinh_2",On Music
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
+https://sgclient.duckdns.org/source/tv360.m3u8?id=185
 #EXTINF:-1 group-title="TruyenHinh_2",ON TRENDING TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
+https://sgclient.duckdns.org/source/tv360.m3u8?id=186
 #EXTINF:-1 group-title="TruyenHinh_2",ON Vie Dramas
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
+https://sgclient.duckdns.org/source/tv360.m3u8?id=177
 #EXTINF:-1 group-title="TruyenHinh_2",ON V Family
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+https://sgclient.duckdns.org/source/tv360.m3u8?id=187
 #EXTINF:-1 group-title="TruyenHinh_2",On Kids
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
+https://sgclient.duckdns.org/source/tv360.m3u8?id=179
 #EXTINF:-1 group-title="TruyenHinh_2",On Life
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
+https://sgclient.duckdns.org/source/tv360.m3u8?id=188
 #EXTINF:-1 group-title="TruyenHinh_2",On Golf
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
+https://sgclient.duckdns.org/source/tv360.m3u8?id=169
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV1
 https://hoiquan.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV2 - TODAY TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
+https://sgclient.duckdns.org/source/tv360.m3u8?id=201
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV3
 https://hoiquan.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV4
@@ -336,15 +344,15 @@ https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Woman
 https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",HTV1 - Đài PTTH Thành Phố Hồ Chí Minh
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=190
+https://sgclient.duckdns.org/source/tv360.m3u8?id=190
 #EXTINF:-1 group-title="TruyenHinh_2",HTV2 - Vie Channel
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=191
+https://sgclient.duckdns.org/source/tv360.m3u8?id=191
 #EXTINF:-1 group-title="TruyenHinh_2",HTV3 - Đài PTTH Thành Phố Hồ Chí Minh
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=192
+https://sgclient.duckdns.org/source/tv360.m3u8?id=192
 #EXTINF:-1 group-title="TruyenHinh_2",HTV4 - Đài PTTH Thành Phố Hồ Chí Minh
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9
 #EXTINF:-1 group-title="TruyenHinh_2",HTV5 - B Channel
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=151
+https://sgclient.duckdns.org/source/tv360.m3u8?id=151
 #EXTINF:-1 group-title="TruyenHinh_2",HTV7 - Đài PTTH Thành Phố Hồ Chí Minh
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",HTV9 - Đài PTTH Thành Phố Hồ Chí Minh
@@ -366,17 +374,17 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QPVN HD
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",DRT HD - Báo và PTTH Đắk Lắk
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=51
+https://sgclient.duckdns.org/source/tv360.m3u8?id=51
 #EXTINF:-1 group-title="TruyenHinh_2",THP HD - Báo và PTTH Hải Phòng
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=60
+https://sgclient.duckdns.org/source/tv360.m3u8?id=60
 #EXTINF:-1 group-title="TruyenHinh_2",THP3 - Báo và PTTH Hải Phòng
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=59
+https://sgclient.duckdns.org/source/tv360.m3u8?id=59
 #EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ 1 HD - Báo và PTTH Thành Phố Cần Thơ
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=47
+https://sgclient.duckdns.org/source/tv360.m3u8?id=47
 #EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ 2 HD - Báo và PTTH Thành Phố Cần Thơ
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=61
+https://sgclient.duckdns.org/source/tv360.m3u8?id=61
 #EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ 3 HD - Báo và PTTH Thành Phố Cần Thơ
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=84
+https://sgclient.duckdns.org/source/tv360.m3u8?id=84
 #EXTINF:-1 group-title="TruyenHinh_2",STV HD - Báo và PTTH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",PTV HD - Báo và PTTH Phú Thọ
