@@ -227,6 +227,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -378,11 +380,11 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=84
 #EXTINF:-1 group-title="TruyenHinh_2",STV HD - Báo và PTTH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",PTV HD - Báo và PTTH Phú Thọ
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=77
+https://sgclient.duckdns.org/source/tv360.m3u8?id=77
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV1 - Báo và PTTH Đồng Nai
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=53
+https://sgclient.duckdns.org/source/tv360.m3u8?id=53
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV2 - Báo và PTTH Đồng Nai
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=255
+https://sgclient.duckdns.org/source/tv360.m3u8?id=255
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV3 - Báo và PTTH Đồng Nai
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 group-title="TruyenHinh_2",H1 - Báo và PTTH Hà Nội
