@@ -237,6 +237,8 @@ https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -420,13 +422,13 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=35
 #EXTINF:-1 group-title="TruyenHinh_2",NBTV - Báo và PTTH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",NTV - Báo và PTTH Nghệ An
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=74
+https://sgclient.duckdns.org/source/tv360.m3u8?id=74
 #EXTINF:-1 group-title="TruyenHinh_2",CTV HD - Báo và PTTH Cà Mau
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=46
+https://sgclient.duckdns.org/source/tv360.m3u8?id=46
 #EXTINF:-1 group-title="TruyenHinh_2",GTV - Báo và PTTH Gia Lai
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=55
+https://sgclient.duckdns.org/source/tv360.m3u8?id=55
 #EXTINF:-1 group-title="TruyenHinh_2",KTV HD - Báo và PTTH Khánh Hòa
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=65
+https://sgclient.duckdns.org/source/tv360.m3u8?id=65
 #EXTINF:-1 group-title="TruyenHinh_2",Huế TV - Báo và PTTH Huế
 https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Tây Ninh TV - Báo và PTTH Tây Ninh
