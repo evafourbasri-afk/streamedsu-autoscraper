@@ -227,16 +227,12 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 5
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 7
-https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 5
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 8
+https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 9
+https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -436,11 +432,11 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",THĐT2 - Báo và PTTH Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",LTV2 HD - Báo và PTTH Lâm Đồng
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=45
+https://sgclient.duckdns.org/source/tv360.m3u8?id=45
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNRT1 - Báo và PTTH Đà Nẵng
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=49
+https://sgclient.duckdns.org/source/tv360.m3u8?id=49
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNRT2 - Báo và PTTH Đà Nẵng
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=80
+https://sgclient.duckdns.org/source/tv360.m3u8?id=80
 #EXTINF:-1 group-title="TruyenHinh_2",ATV1 - Báo và PTTH An Giang
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ATV3 - Báo và PTTH An Giang
