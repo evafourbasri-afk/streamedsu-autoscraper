@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="TruyenHinh_2",ONNA MX1
+https://live.onnamx.io.vn/hls/oni1/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",ONNA MX2
+https://live.onnamx.io.vn/hls/oni2/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",ONNA MX3
+https://live.onnamx.io.vn/hls/oni3/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel
 https://sgclient.duckdns.org/source/twitch.m3u8?channel=ninochannel12
 #EXTINF:-1 group-title="TruyenHinh_2",SGLive
@@ -65,8 +71,6 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=22872
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228726&extension=ts&play_token=1WFblY6SIm
 #EXTINF:-1 group-title="TruyenHinh_2",Max Sport 4 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
-#EXTINF:-1 group-title="TruyenHinh_2",Eurosport 1
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Eurosport 2
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Tyc Sport Argentina
@@ -227,8 +231,10 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 5
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -440,23 +446,23 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",LSTV HD - Báo và PTTH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QTTV - Báo và PTTH Quảng Trị
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=83
+https://sgclient.duckdns.org/source/tv360.m3u8?id=83
 #EXTINF:-1 group-title="TruyenHinh_2",BHTTV - Báo và PTTH Hà Tĩnh
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=58
+https://sgclient.duckdns.org/source/tv360.m3u8?id=58
 #EXTINF:-1 group-title="TruyenHinh_2",BTV - Báo và PTTH Bắc Ninh
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=39
+https://sgclient.duckdns.org/source/tv360.m3u8?id=39
 #EXTINF:-1 group-title="TruyenHinh_2",CRTV HD - Báo Cao Bằng
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=48
+https://sgclient.duckdns.org/source/tv360.m3u8?id=48
 #EXTINF:-1 group-title="TruyenHinh_2",HYTV HD - Báo và PTTH Hưng Yên
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=64
+https://sgclient.duckdns.org/source/tv360.m3u8?id=64
 #EXTINF:-1 group-title="TruyenHinh_2",LTV - Báo Lai Châu
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=68
+https://sgclient.duckdns.org/source/tv360.m3u8?id=68
 #EXTINF:-1 group-title="TruyenHinh_2",KTV1 HD - Báo và PTTH Khánh Hòa
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=76
+https://sgclient.duckdns.org/source/tv360.m3u8?id=76
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV1 - Báo và PTTH Quảng Ngãi
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=81
+https://sgclient.duckdns.org/source/tv360.m3u8?id=81
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV2 - Báo và PTTH Quảng Ngãi
-https://vpsttt.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
+https://sgclient.duckdns.org/source/vieon.m3u8?id=quangngai2
 #EXTINF:-1 group-title="TruyenHinh_2",TTV HD - Báo và PTTH Tuyên Quang
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=92
 #EXTINF:-1 group-title="TruyenHinh_2",TN - Báo và PTTH Thái Nguyên
