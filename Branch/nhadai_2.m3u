@@ -201,7 +201,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=9904
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9888
 #EXTINF:-1 group-title="TruyenHinh_2",360 Phim Việt
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9902
-#EXTINF:-1 group-title="TruyenHinh_2",Phim Âu Mỹ
+#EXTINF:-1 group-title="TruyenHinh_2",360 Phim Âu Mỹ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Hoạt hình
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
@@ -237,8 +237,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 1
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
@@ -579,6 +577,8 @@ https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VOH FM 99.9Mhz
 https://sgclient.duckdns.org/source/tv360.m3u8?id=10037
+#EXTINF:-1 group-title="TruyenHinh_2",VOH FM 95.6Mhz
+https://sgclient.duckdns.org/source/tv360.m3u8?id=10039
 #EXTINF:-1 group-title="TruyenHinh_2",Bắc Ninh
 https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cà Mau
