@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="TruyenHinh_2",VTV2
-https://ace.hoiquan.click/module/IPTV/?id=vtv2&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",VTV3
 http://42.1.99.192:8080/live/vtv3.flv
 #EXTINF:-1 group-title="TruyenHinh_2",VTV6
 http://42.1.99.192:8080/live/vtv6.flv
-#EXTINF:-1 group-title="TruyenHinh_2",VTV7
-https://ace.hoiquan.click/module/IPTV/?id=vtv7&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",VTV9
 http://42.1.99.192:8080/live/vtv9.flv
 #EXTINF:-1 group-title="TruyenHinh_2",VTV10
