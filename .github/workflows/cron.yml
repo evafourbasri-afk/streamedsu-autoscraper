@@ -1,9 +1,6 @@
 name: cron q=
 
-# Trigger setiap 15 menit
-on:
-  schedule:
-    - cron: "*/15 * * * *"
+# Tr
 
 # Bisa juga kamu jalankan manual lewat tombol "Run workflow"
   workflow_dispatch:
