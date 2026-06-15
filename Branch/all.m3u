@@ -7,8 +7,12 @@ http://42.1.99.192:8080/live/vtv6.flv
 http://42.1.99.192:8080/live/vtv9.flv
 #EXTINF:-1 group-title="TruyenHinh_2",VTV10
 http://42.1.99.192:8080/live/vtv10.flv
+#EXTINF:-1 group-title="TruyenHinh_2",Bình Luận Cảm xúc
+https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
+#EXTINF:-1 group-title="TruyenHinh_2",Tín Hiệu Nguyên Bản
+https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel
-https://byvn.net/ninochannel
+https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=ninochannel12&token=NinoExility
 #EXTINF:-1 group-title="TruyenHinh_2",SGLive
 https://sgclient.duckdns.org/source/twitch.m3u8?channel=devonlynino
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
@@ -151,6 +155,8 @@ https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8
 https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thỏ Ơi
 https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Hoàng Tử Quỷ
+https://rumble.com/hls-vod/7954dk/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
@@ -239,8 +245,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 8
-https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -321,8 +325,8 @@ https://hoiquan.dpdns.org/VTVGo/?sctv9
 https://hoiquan.dpdns.org/VTVGo/?sctv10
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV11
 https://hoiquan.dpdns.org/VTVGo/?sctv11
-#EXTINF:-1 group-title="TruyenHinh_2",SCTV13
-https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",SCTV12
+https://hoiquan.dpdns.org/VTVGo/?sctv12
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV14
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV16
@@ -386,9 +390,9 @@ https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_400000
 #EXTINF:-1 group-title="TruyenHinh_2",THP3 - Báo và PTTH Hải Phòng
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=59
 #EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ 1 HD - Báo và PTTH Thành Phố Cần Thơ
-https://sgclient.duckdns.org/source/tv360.m3u8?id=47
+https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ 2 HD - Báo và PTTH Thành Phố Cần Thơ
-https://sgclient.duckdns.org/source/tv360.m3u8?id=61
+https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ 3 HD - Báo và PTTH Thành Phố Cần Thơ
 https://sgclient.duckdns.org/source/tv360.m3u8?id=84
 #EXTINF:-1 group-title="TruyenHinh_2",STV HD - Báo và PTTH Sơn La
@@ -620,9 +624,7 @@ https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Lâm Đồng
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist_w1535814517.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Lạng Sơn
-http://103.90.220.236/lstvlive/radio-transmux.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Nghệ An
-https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
+https://stream.langsontv.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Ninh Bình
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QNR1 - Quảng Ninh
