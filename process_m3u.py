@@ -25,7 +25,6 @@ def build_gradient():
     img = Image.new("RGB", (THUMB_W, THUMB_H), "#000000")
     draw = ImageDraw.Draw(img)
 
-    # Warna: Biru Gelap -> Ungu -> Merah Gelap
     colors = [
         (20, 30, 80),    
         (60, 20, 90),    
@@ -53,8 +52,13 @@ def build_gradient():
 # ================================
 def process_logo(url, filename):
     try:
-        # 1. Unduh gambar
-        r = requests.get(url, timeout=10)
+        # Menyamar sebagai Browser agar tidak kena Error 403
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+        }
+        
+        # 1. Unduh gambar dengan headers
+        r = requests.get(url, headers=headers, timeout=10)
         r.raise_for_status()
         input_img = Image.open(BytesIO(r.content)).convert("RGBA")
 
@@ -93,6 +97,9 @@ def main():
 
     pattern = r'tvg-logo="(https?://[^"]+)"'
     
+    # Dictionary untuk menyimpan URL yang sudah diproses (Cache)
+    processed_urls = {}
+    
     def replace_logo(match):
         original_url = match.group(1)
         
@@ -100,11 +107,19 @@ def main():
         if REPO_URL in original_url:
             return match.group(0)
             
-        # Buat nama file berdasarkan hash URL agar unik dan aman
+        # Jika URL ini sudah pernah diproses sebelumnya, gunakan hasil yang tersimpan di cache
+        if original_url in processed_urls:
+            return f'tvg-logo="{processed_urls[original_url]}"'
+            
+        # Buat nama file berdasarkan hash URL
         filename = f"logo_{abs(hash(original_url))}.png"
             
         print(f"Memproses: {original_url} ...")
         new_url = process_logo(original_url, filename)
+        
+        # Simpan ke cache agar tidak diproses ulang jika muncul lagi di baris bawahnya
+        processed_urls[original_url] = new_url
+        
         return f'tvg-logo="{new_url}"'
 
     # Ganti semua URL tvg-logo di dalam teks
@@ -114,7 +129,7 @@ def main():
     with open(M3U_FILE, 'w', encoding='utf-8') as f:
         f.write(new_m3u_content)
     
-    print("[✓] Selesai. playlist.m3u telah diperbarui dengan logo baru.")
+    print(f"[✓] Selesai. {len(processed_urls)} logo unik telah diproses.")
 
 if __name__ == "__main__":
     main()
