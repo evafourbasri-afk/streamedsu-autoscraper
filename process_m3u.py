@@ -8,10 +8,10 @@ from io import BytesIO
 # ================================
 # KONFIGURASI
 # ================================
-M3U_FILE = "playlist.m3u"
+M3U_FILE = "playLIST.m3u"
 LOGO_DIR = "logos"
 # Sesuaikan dengan URL raw repositori Anda
-REPO_URL = "https://raw.githubusercontent.com/srhady/bingstream/main/logos"
+REPO_URL = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/main/logos"
 
 THUMB_W, THUMB_H = 512, 288
 LOGO_SIZE = 180
