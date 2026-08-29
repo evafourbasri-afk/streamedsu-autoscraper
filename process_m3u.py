@@ -8,9 +8,15 @@ from io import BytesIO
 # ================================
 # KONFIGURASI
 # ================================
-M3U_FILE = "playLIST.m3u"
+# URL sumber playlist asli yang ingin diambil
+SOURCE_URL = "https://raw.githubusercontent.com/srhady/bingstream/main/playlist.m3u"
+
+# Nama file playlist hasil konversi (BISA ANDA GANTI SESUKA HATI)
+OUTPUT_M3U = "PlaylistRizal.m3u"
+
 LOGO_DIR = "logos"
-# Sesuaikan dengan URL raw repositori Anda
+
+# URL Raw ke repositori Anda sendiri (evafourbasri-afk)
 REPO_URL = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/main/logos"
 
 THUMB_W, THUMB_H = 512, 288
@@ -25,11 +31,7 @@ def build_gradient():
     img = Image.new("RGB", (THUMB_W, THUMB_H), "#000000")
     draw = ImageDraw.Draw(img)
 
-    colors = [
-        (20, 30, 80),    
-        (60, 20, 90),    
-        (120, 30, 60),   
-    ]
+    colors = [(20, 30, 80), (60, 20, 90), (120, 30, 60)]
 
     for x in range(THUMB_W):
         t = x / THUMB_W
@@ -48,88 +50,76 @@ def build_gradient():
     return img
 
 # ================================
-# PROSES GAMBAR UTAMA
+# PROSES GAMBAR
 # ================================
 def process_logo(url, filename):
     try:
-        # Menyamar sebagai Browser agar tidak kena Error 403
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
         }
         
-        # 1. Unduh gambar dengan headers
         r = requests.get(url, headers=headers, timeout=10)
         r.raise_for_status()
         input_img = Image.open(BytesIO(r.content)).convert("RGBA")
 
-        # 2. Hapus background bawaan
         logo_transparan = remove(input_img)
-
-        # 3. Resize logo agar proporsional
         logo_transparan.thumbnail((LOGO_SIZE, LOGO_SIZE), Image.Resampling.LANCZOS)
 
-        # 4. Buat background gradasi dan tempel logo di tengah
         bg = build_gradient()
         x = (THUMB_W - logo_transparan.width) // 2
         y = (THUMB_H - logo_transparan.height) // 2
         
         bg.paste(logo_transparan, (x, y), logo_transparan)
 
-        # 5. Simpan hasil
         output_path = os.path.join(LOGO_DIR, filename)
         bg.save(output_path, "PNG")
         
         return f"{REPO_URL}/{filename}"
     except Exception as e:
         print(f"[!] Gagal memproses {url}: {e}")
-        return url # Kembalikan URL asli jika gagal
+        return url 
 
 # ================================
-# EKSEKUSI FILE M3U
+# EKSEKUSI PENGAMBILAN & KONVERSI
 # ================================
 def main():
-    if not os.path.exists(M3U_FILE):
-        print(f"File {M3U_FILE} tidak ditemukan.")
+    print(f"[*] Mengunduh playlist dari sumber: {SOURCE_URL}...")
+    headers = {"User-Agent": "Mozilla/5.0"}
+    try:
+        req = requests.get(SOURCE_URL, headers=headers)
+        req.raise_for_status()
+        m3u_content = req.text
+    except Exception as e:
+        print(f"[X] Gagal mengunduh playlist sumber: {e}")
         return
 
-    with open(M3U_FILE, 'r', encoding='utf-8') as f:
-        m3u_content = f.read()
-
     pattern = r'tvg-logo="(https?://[^"]+)"'
-    
-    # Dictionary untuk menyimpan URL yang sudah diproses (Cache)
     processed_urls = {}
     
     def replace_logo(match):
         original_url = match.group(1)
         
-        # Lewati jika logo sudah berasal dari folder repositori kita
         if REPO_URL in original_url:
             return match.group(0)
             
-        # Jika URL ini sudah pernah diproses sebelumnya, gunakan hasil yang tersimpan di cache
         if original_url in processed_urls:
             return f'tvg-logo="{processed_urls[original_url]}"'
             
-        # Buat nama file berdasarkan hash URL
         filename = f"logo_{abs(hash(original_url))}.png"
             
         print(f"Memproses: {original_url} ...")
         new_url = process_logo(original_url, filename)
         
-        # Simpan ke cache agar tidak diproses ulang jika muncul lagi di baris bawahnya
         processed_urls[original_url] = new_url
-        
         return f'tvg-logo="{new_url}"'
 
-    # Ganti semua URL tvg-logo di dalam teks
+    print("[*] Memulai konversi logo...")
     new_m3u_content = re.sub(pattern, replace_logo, m3u_content)
 
-    # Simpan kembali ke file M3U
-    with open(M3U_FILE, 'w', encoding='utf-8') as f:
+    with open(OUTPUT_M3U, 'w', encoding='utf-8') as f:
         f.write(new_m3u_content)
     
-    print(f"[✓] Selesai. {len(processed_urls)} logo unik telah diproses.")
+    print(f"[✓] Selesai! Playlist baru disimpan dengan nama: {OUTPUT_M3U}")
 
 if __name__ == "__main__":
     main()
