@@ -21,7 +21,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests Pillow rembg[cli]
+          pip install requests Pillow "rembg[cpu]"
 
       - name: Run Logo Processor
         run: python process_m3u.py
