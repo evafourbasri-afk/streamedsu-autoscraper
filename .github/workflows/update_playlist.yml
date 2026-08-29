@@ -1,10 +1,9 @@
-name: Format M3U Logos
+name: Generate Mod Playlist & Logos
 
 on:
-  push:
-    paths:
-      - 'playLIST.m3u'
-  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *' # Berjalan otomatis setiap 6 jam
+  workflow_dispatch:      # Bisa diklik manual dari tab Actions
 
 jobs:
   process-logos:
@@ -30,6 +29,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add logos/ playLIST.m3u
-          git commit -m "Auto-format logos and update M3U [skip ci]" || echo "No changes to commit"
+          # Tambahkan semua perubahan, termasuk file M3U yang namanya baru
+          git add logos/ *.m3u
+          git commit -m "Auto-generate modified playlist and logos [skip ci]" || echo "No changes to commit"
           git push
