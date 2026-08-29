@@ -3,7 +3,7 @@ name: Format M3U Logos
 on:
   push:
     paths:
-      - 'playlist.m3u'
+      - 'playLIST.m3u'
   workflow_dispatch:
 
 jobs:
@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add logos/ playlist.m3u
+          git add logos/ playLIST.m3u
           git commit -m "Auto-format logos and update M3U [skip ci]" || echo "No changes to commit"
           git push
