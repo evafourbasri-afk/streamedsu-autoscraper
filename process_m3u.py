@@ -15,7 +15,7 @@ LOGO_DIR = "logos"
 REPO_URL = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/main/logos"
 
 THUMB_W, THUMB_H = 512, 288
-LOGO_MAX_WIDTH = 400
+LOGO_MAX_WIDTH = 200
 LOGO_MAX_HEIGHT = 200
 MAX_WORKERS = 2 # Memproses 4 gambar sekaligus
 
