@@ -17,7 +17,7 @@ REPO_URL = "https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autosc
 THUMB_W, THUMB_H = 512, 288
 LOGO_MAX_WIDTH = 400
 LOGO_MAX_HEIGHT = 200
-MAX_WORKERS = 4 # Memproses 4 gambar sekaligus
+MAX_WORKERS = 2 # Memproses 4 gambar sekaligus
 
 os.makedirs(LOGO_DIR, exist_ok=True)
 
