@@ -1,0 +1,10 @@
+aiohttp>=3.8.0
+brotli>=1.0.9
+requests>=2.31.0
+cloudscraper>=1.2.71
+adblock>=0.6.0
+httpx[http2]>=0.28.1
+tzdata>=2026.3
+selectolax>=0.4.11
+playwright>=1.62.0
+pycryptodome
