@@ -2,7 +2,7 @@ name: Generate Mod Playlist & Logos
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Berjalan otomatis setiap 6 jam
+    - cron: '0 * * * *' # Berjalan otomatis setiap 6 jam
   workflow_dispatch:      # Bisa diklik manual dari tab Actions
 
 jobs:
